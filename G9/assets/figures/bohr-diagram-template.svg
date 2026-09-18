@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 886" width="900" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif">
+  <title>玻尔图练习模板｜Bohr Diagram Practice Templates（含 Na 范例）</title>
+  <rect width="900" height="886" fill="#FFFFFF"/>
+
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">玻尔图练习模板｜Bohr Diagram Practice Templates</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A" text-anchor="end">BC Science 9 · Ch.5｜层容量 2, 8, 8（前 20 号）</text>
+  <line x1="30" y1="50" x2="870" y2="50" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <text x="30" y="74" font-size="13" font-weight="600" fill="#2C2C2A">① 已填好的范例 Worked example：Na 钠（Z = 11，排布 2, 8, 1）</text>
+
+  <!-- 范例：Na 玻尔图 -->
+  <circle cx="170" cy="200" r="13" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="170" y="198" font-size="7.5" fill="#854F0B" text-anchor="middle">11 p⁺</text>
+  <text x="170" y="207" font-size="7.5" fill="#854F0B" text-anchor="middle">12 n⁰</text>
+  <g fill="none" stroke="#B4B2A9" stroke-width="0.9">
+    <circle cx="170" cy="200" r="30"/>
+    <circle cx="170" cy="200" r="48"/>
+    <circle cx="170" cy="200" r="66"/>
+    <circle cx="170" cy="200" r="84" stroke-dasharray="4 3"/>
+  </g>
+  <g fill="#185FA5">
+    <circle cx="181.5" cy="172.3" r="3.6"/>
+    <circle cx="158.5" cy="227.7" r="3.6"/>
+    <circle cx="188.4" cy="155.7" r="3.6"/>
+    <circle cx="214.4" cy="181.6" r="3.6"/>
+    <circle cx="214.4" cy="218.4" r="3.6"/>
+    <circle cx="188.4" cy="244.3" r="3.6"/>
+    <circle cx="151.6" cy="244.3" r="3.6"/>
+    <circle cx="125.6" cy="218.4" r="3.6"/>
+    <circle cx="125.6" cy="181.6" r="3.6"/>
+    <circle cx="151.6" cy="155.7" r="3.6"/>
+    <circle cx="195.3" cy="139.0" r="3.6"/>
+  </g>
+  <g font-size="8.5" fill="#888780" text-anchor="middle">
+    <text x="170" y="181.5">K 2</text>
+    <text x="170" y="164.0">L 8</text>
+    <text x="170" y="146.0">M 8</text>
+    <text x="170" y="128.0">N 2</text>
+  </g>
+  <text x="170" y="312" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle">Na 钠 · 2, 8, 1 · 价电子 1</text>
+
+  <!-- 范例说明框 -->
+  <rect x="310" y="110" width="560" height="180" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="330" y="136" font-size="13" font-weight="600" fill="#2C2C2A">范例拆解 How the Na diagram is built</text>
+  <text x="330" y="158" font-size="11" fill="#2C2C2A">① 质子数 = 原子序数 = 11 → 核内写 11 p⁺；中子数 = 质量数 23 − 11 = 12 → 12 n⁰</text>
+  <text x="330" y="176" font-size="11" fill="#2C2C2A">② 中性原子电子数 = 质子数 = 11 → 要画 11 个电子</text>
+  <text x="330" y="194" font-size="11" fill="#2C2C2A">③ 逐层装填：K 层装满 2 → L 层装满 8 → 剩下 1 个进 M 层</text>
+  <text x="330" y="212" font-size="11" fill="#2C2C2A">④ 电子排布 electron arrangement = <tspan font-weight="600" fill="#A32D2D">2, 8, 1</tspan>（三个数相加 = 11 ✓）</text>
+  <text x="330" y="230" font-size="11" fill="#2C2C2A">⑤ 价电子 valence electrons = 最外层电子数 = <tspan font-weight="600" fill="#A32D2D">1</tspan> → 第 1 族，易形成 Na⁺</text>
+  <text x="330" y="252" font-size="10" fill="#5F5E5A">层名与容量：K = 2　L = 8　M = 8　N = 2（前 20 号只有 K、Ca 用到第 4 层，各 2 个）</text>
+  <text x="330" y="270" font-size="10" fill="#5F5E5A">核对 Check：画完后把各层电子数相加，必须等于原子序数；最外层有几个电子，价电子就是几。</text>
+
+  <line x1="30" y1="336" x2="870" y2="336" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="30" y="358" font-size="13" font-weight="600" fill="#2C2C2A">② 练习模板 Practice templates — 6 个空白玻尔图</text>
+  <text x="330" y="358" font-size="9.5" fill="#888780">用法：先写核内 p⁺ / n⁰ → 按 2, 8, 8 从第 1 层开始画电子，画满一层再进下一层 → 填下方三栏</text>
+
+  <!-- ===== 空白模板 第 1 行 ===== -->
+  <circle cx="170" cy="460" r="13" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="170" y="458" font-size="7.5" fill="#888780" text-anchor="middle">p⁺</text>
+  <text x="170" y="467" font-size="7.5" fill="#888780" text-anchor="middle">n⁰</text>
+  <g fill="none" stroke="#B4B2A9" stroke-width="0.9">
+    <circle cx="170" cy="460" r="30"/>
+    <circle cx="170" cy="460" r="48"/>
+    <circle cx="170" cy="460" r="66"/>
+    <circle cx="170" cy="460" r="84" stroke-dasharray="4 3"/>
+  </g>
+  <g font-size="8.5" fill="#888780" text-anchor="middle">
+    <text x="170" y="441.5">K 2</text>
+    <text x="170" y="424.0">L 8</text>
+    <text x="170" y="406.0">M 8</text>
+    <text x="170" y="388.0">N 2</text>
+  </g>
+  <text x="65" y="574" font-size="9.5" fill="#2C2C2A">元素</text>
+  <line x1="91" y1="577" x2="129" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="139" y="574" font-size="9.5" fill="#2C2C2A">电子排布</text>
+  <line x1="181" y1="577" x2="223" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="229" y="574" font-size="9.5" fill="#2C2C2A">价电子</text>
+  <line x1="261" y1="577" x2="287" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <circle cx="450" cy="460" r="13" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="450" y="458" font-size="7.5" fill="#888780" text-anchor="middle">p⁺</text>
+  <text x="450" y="467" font-size="7.5" fill="#888780" text-anchor="middle">n⁰</text>
+  <g fill="none" stroke="#B4B2A9" stroke-width="0.9">
+    <circle cx="450" cy="460" r="30"/>
+    <circle cx="450" cy="460" r="48"/>
+    <circle cx="450" cy="460" r="66"/>
+    <circle cx="450" cy="460" r="84" stroke-dasharray="4 3"/>
+  </g>
+  <g font-size="8.5" fill="#888780" text-anchor="middle">
+    <text x="450" y="441.5">K 2</text>
+    <text x="450" y="424.0">L 8</text>
+    <text x="450" y="406.0">M 8</text>
+    <text x="450" y="388.0">N 2</text>
+  </g>
+  <text x="345" y="574" font-size="9.5" fill="#2C2C2A">元素</text>
+  <line x1="371" y1="577" x2="409" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="419" y="574" font-size="9.5" fill="#2C2C2A">电子排布</text>
+  <line x1="461" y1="577" x2="503" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="509" y="574" font-size="9.5" fill="#2C2C2A">价电子</text>
+  <line x1="541" y1="577" x2="567" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <circle cx="730" cy="460" r="13" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="730" y="458" font-size="7.5" fill="#888780" text-anchor="middle">p⁺</text>
+  <text x="730" y="467" font-size="7.5" fill="#888780" text-anchor="middle">n⁰</text>
+  <g fill="none" stroke="#B4B2A9" stroke-width="0.9">
+    <circle cx="730" cy="460" r="30"/>
+    <circle cx="730" cy="460" r="48"/>
+    <circle cx="730" cy="460" r="66"/>
+    <circle cx="730" cy="460" r="84" stroke-dasharray="4 3"/>
+  </g>
+  <g font-size="8.5" fill="#888780" text-anchor="middle">
+    <text x="730" y="441.5">K 2</text>
+    <text x="730" y="424.0">L 8</text>
+    <text x="730" y="406.0">M 8</text>
+    <text x="730" y="388.0">N 2</text>
+  </g>
+  <text x="625" y="574" font-size="9.5" fill="#2C2C2A">元素</text>
+  <line x1="651" y1="577" x2="689" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="699" y="574" font-size="9.5" fill="#2C2C2A">电子排布</text>
+  <line x1="741" y1="577" x2="783" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="789" y="574" font-size="9.5" fill="#2C2C2A">价电子</text>
+  <line x1="821" y1="577" x2="847" y2="577" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <!-- ===== 空白模板 第 2 行 ===== -->
+  <circle cx="170" cy="700" r="13" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="170" y="698" font-size="7.5" fill="#888780" text-anchor="middle">p⁺</text>
+  <text x="170" y="707" font-size="7.5" fill="#888780" text-anchor="middle">n⁰</text>
+  <g fill="none" stroke="#B4B2A9" stroke-width="0.9">
+    <circle cx="170" cy="700" r="30"/>
+    <circle cx="170" cy="700" r="48"/>
+    <circle cx="170" cy="700" r="66"/>
+    <circle cx="170" cy="700" r="84" stroke-dasharray="4 3"/>
+  </g>
+  <g font-size="8.5" fill="#888780" text-anchor="middle">
+    <text x="170" y="681.5">K 2</text>
+    <text x="170" y="664.0">L 8</text>
+    <text x="170" y="646.0">M 8</text>
+    <text x="170" y="628.0">N 2</text>
+  </g>
+  <text x="65" y="814" font-size="9.5" fill="#2C2C2A">元素</text>
+  <line x1="91" y1="817" x2="129" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="139" y="814" font-size="9.5" fill="#2C2C2A">电子排布</text>
+  <line x1="181" y1="817" x2="223" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="229" y="814" font-size="9.5" fill="#2C2C2A">价电子</text>
+  <line x1="261" y1="817" x2="287" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <circle cx="450" cy="700" r="13" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="450" y="698" font-size="7.5" fill="#888780" text-anchor="middle">p⁺</text>
+  <text x="450" y="707" font-size="7.5" fill="#888780" text-anchor="middle">n⁰</text>
+  <g fill="none" stroke="#B4B2A9" stroke-width="0.9">
+    <circle cx="450" cy="700" r="30"/>
+    <circle cx="450" cy="700" r="48"/>
+    <circle cx="450" cy="700" r="66"/>
+    <circle cx="450" cy="700" r="84" stroke-dasharray="4 3"/>
+  </g>
+  <g font-size="8.5" fill="#888780" text-anchor="middle">
+    <text x="450" y="681.5">K 2</text>
+    <text x="450" y="664.0">L 8</text>
+    <text x="450" y="646.0">M 8</text>
+    <text x="450" y="628.0">N 2</text>
+  </g>
+  <text x="345" y="814" font-size="9.5" fill="#2C2C2A">元素</text>
+  <line x1="371" y1="817" x2="409" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="419" y="814" font-size="9.5" fill="#2C2C2A">电子排布</text>
+  <line x1="461" y1="817" x2="503" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="509" y="814" font-size="9.5" fill="#2C2C2A">价电子</text>
+  <line x1="541" y1="817" x2="567" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <circle cx="730" cy="700" r="13" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="730" y="698" font-size="7.5" fill="#888780" text-anchor="middle">p⁺</text>
+  <text x="730" y="707" font-size="7.5" fill="#888780" text-anchor="middle">n⁰</text>
+  <g fill="none" stroke="#B4B2A9" stroke-width="0.9">
+    <circle cx="730" cy="700" r="30"/>
+    <circle cx="730" cy="700" r="48"/>
+    <circle cx="730" cy="700" r="66"/>
+    <circle cx="730" cy="700" r="84" stroke-dasharray="4 3"/>
+  </g>
+  <g font-size="8.5" fill="#888780" text-anchor="middle">
+    <text x="730" y="681.5">K 2</text>
+    <text x="730" y="664.0">L 8</text>
+    <text x="730" y="646.0">M 8</text>
+    <text x="730" y="628.0">N 2</text>
+  </g>
+  <text x="625" y="814" font-size="9.5" fill="#2C2C2A">元素</text>
+  <line x1="651" y1="817" x2="689" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="699" y="814" font-size="9.5" fill="#2C2C2A">电子排布</text>
+  <line x1="741" y1="817" x2="783" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="789" y="814" font-size="9.5" fill="#2C2C2A">价电子</text>
+  <line x1="821" y1="817" x2="847" y2="817" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <line x1="30" y1="836" x2="870" y2="836" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="30" y="854" font-size="9.5" fill="#888780">提示 Hint：前 20 号元素按 2, 8, 8 填 —— 第 3 层最多只放 8 个，不要写成 18；第 4 层只有 K (2,8,8,1) 与 Ca (2,8,8,2) 用到，各 2 个。</text>
+  <text x="30" y="870" font-size="9.5" fill="#888780">核内：质子数 = 原子序数 Z，中子数 = 质量数 A − Z；最外层有几个电子，价电子就是几（He 只有 2 个，属 duet rule 二重规则）。</text>
+</svg>

@@ -1,0 +1,408 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 860" width="1010" font-family="'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', Arial, sans-serif">
+  <title>前 20 号元素玻尔模型图</title>
+  <rect width="1010" height="860" fill="#FFFFFF"/>
+
+  <text x="30" y="30" font-size="19" font-weight="600" fill="#2C2C2A">前 20 号元素玻尔模型图｜Bohr Diagrams, Elements 1–20</text>
+  <text x="980" y="30" font-size="10.5" fill="#5F5E5A" text-anchor="end">BC Science 9 · 电子层容量 2, 8, 8</text>
+  <circle cx="135.0" cy="165.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="135.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="165.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="135.0" y="161.0" font-size="8" fill="#854F0B" text-anchor="middle">1 p⁺</text>
+  <text x="135.0" y="172.0" font-size="8" fill="#854F0B" text-anchor="middle">0 n⁰</text>
+  <text x="43.0" y="83.0" font-size="13" font-weight="600" fill="#2C2C2A">1 H 氢</text>
+  <text x="43.0" y="97.0" font-size="9.5" fill="#5F5E5A">hydrogen</text>
+  <text x="227.0" y="83.0" font-size="10" fill="#888780" text-anchor="end">1</text>
+  <text x="227.0" y="97.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 1</text>
+  <circle cx="325.0" cy="165.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="135.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="195.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="165.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="325.0" y="161.0" font-size="8" fill="#854F0B" text-anchor="middle">2 p⁺</text>
+  <text x="325.0" y="172.0" font-size="8" fill="#854F0B" text-anchor="middle">2 n⁰</text>
+  <text x="233.0" y="83.0" font-size="13" font-weight="600" fill="#2C2C2A">2 He 氦</text>
+  <text x="233.0" y="97.0" font-size="9.5" fill="#5F5E5A">helium</text>
+  <text x="417.0" y="83.0" font-size="10" fill="#888780" text-anchor="end">2</text>
+  <text x="417.0" y="97.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 2</text>
+  <circle cx="515.0" cy="165.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="165.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="135.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="195.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="115.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="165.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="515.0" y="161.0" font-size="8" fill="#854F0B" text-anchor="middle">3 p⁺</text>
+  <text x="515.0" y="172.0" font-size="8" fill="#854F0B" text-anchor="middle">4 n⁰</text>
+  <text x="423.0" y="83.0" font-size="13" font-weight="600" fill="#2C2C2A">3 Li 锂</text>
+  <text x="423.0" y="97.0" font-size="9.5" fill="#5F5E5A">lithium</text>
+  <text x="607.0" y="83.0" font-size="10" fill="#888780" text-anchor="end">2, 1</text>
+  <text x="607.0" y="97.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 1</text>
+  <circle cx="705.0" cy="165.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="165.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="135.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="195.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="115.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="215.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="165.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="705.0" y="161.0" font-size="8" fill="#854F0B" text-anchor="middle">4 p⁺</text>
+  <text x="705.0" y="172.0" font-size="8" fill="#854F0B" text-anchor="middle">5 n⁰</text>
+  <text x="613.0" y="83.0" font-size="13" font-weight="600" fill="#2C2C2A">4 Be 铍</text>
+  <text x="613.0" y="97.0" font-size="9.5" fill="#5F5E5A">beryllium</text>
+  <text x="797.0" y="83.0" font-size="10" fill="#888780" text-anchor="end">2, 2</text>
+  <text x="797.0" y="97.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 2</text>
+  <circle cx="895.0" cy="165.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="165.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="135.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="195.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="115.0" r="3.6" fill="#185FA5"/>
+  <circle cx="938.3" cy="190.0" r="3.6" fill="#185FA5"/>
+  <circle cx="851.7" cy="190.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="165.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="895.0" y="161.0" font-size="8" fill="#854F0B" text-anchor="middle">5 p⁺</text>
+  <text x="895.0" y="172.0" font-size="8" fill="#854F0B" text-anchor="middle">6 n⁰</text>
+  <text x="803.0" y="83.0" font-size="13" font-weight="600" fill="#2C2C2A">5 B 硼</text>
+  <text x="803.0" y="97.0" font-size="9.5" fill="#5F5E5A">boron</text>
+  <text x="987.0" y="83.0" font-size="10" fill="#888780" text-anchor="end">2, 3</text>
+  <text x="987.0" y="97.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 3</text>
+  <circle cx="135.0" cy="355.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="355.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="325.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="385.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="305.0" r="3.6" fill="#185FA5"/>
+  <circle cx="185.0" cy="355.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="405.0" r="3.6" fill="#185FA5"/>
+  <circle cx="85.0" cy="355.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="355.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="135.0" y="351.0" font-size="8" fill="#854F0B" text-anchor="middle">6 p⁺</text>
+  <text x="135.0" y="362.0" font-size="8" fill="#854F0B" text-anchor="middle">6 n⁰</text>
+  <text x="43.0" y="273.0" font-size="13" font-weight="600" fill="#2C2C2A">6 C 碳</text>
+  <text x="43.0" y="287.0" font-size="9.5" fill="#5F5E5A">carbon</text>
+  <text x="227.0" y="273.0" font-size="10" fill="#888780" text-anchor="end">2, 4</text>
+  <text x="227.0" y="287.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 4</text>
+  <circle cx="325.0" cy="355.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="355.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="325.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="385.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="305.0" r="3.6" fill="#185FA5"/>
+  <circle cx="372.6" cy="339.5" r="3.6" fill="#185FA5"/>
+  <circle cx="354.4" cy="395.5" r="3.6" fill="#185FA5"/>
+  <circle cx="295.6" cy="395.5" r="3.6" fill="#185FA5"/>
+  <circle cx="277.4" cy="339.5" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="355.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="325.0" y="351.0" font-size="8" fill="#854F0B" text-anchor="middle">7 p⁺</text>
+  <text x="325.0" y="362.0" font-size="8" fill="#854F0B" text-anchor="middle">7 n⁰</text>
+  <text x="233.0" y="273.0" font-size="13" font-weight="600" fill="#2C2C2A">7 N 氮</text>
+  <text x="233.0" y="287.0" font-size="9.5" fill="#5F5E5A">nitrogen</text>
+  <text x="417.0" y="273.0" font-size="10" fill="#888780" text-anchor="end">2, 5</text>
+  <text x="417.0" y="287.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 5</text>
+  <circle cx="515.0" cy="355.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="355.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="325.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="385.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="305.0" r="3.6" fill="#185FA5"/>
+  <circle cx="558.3" cy="330.0" r="3.6" fill="#185FA5"/>
+  <circle cx="558.3" cy="380.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="405.0" r="3.6" fill="#185FA5"/>
+  <circle cx="471.7" cy="380.0" r="3.6" fill="#185FA5"/>
+  <circle cx="471.7" cy="330.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="355.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="515.0" y="351.0" font-size="8" fill="#854F0B" text-anchor="middle">8 p⁺</text>
+  <text x="515.0" y="362.0" font-size="8" fill="#854F0B" text-anchor="middle">8 n⁰</text>
+  <text x="423.0" y="273.0" font-size="13" font-weight="600" fill="#2C2C2A">8 O 氧</text>
+  <text x="423.0" y="287.0" font-size="9.5" fill="#5F5E5A">oxygen</text>
+  <text x="607.0" y="273.0" font-size="10" fill="#888780" text-anchor="end">2, 6</text>
+  <text x="607.0" y="287.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 6</text>
+  <circle cx="705.0" cy="355.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="355.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="325.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="385.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="305.0" r="3.6" fill="#185FA5"/>
+  <circle cx="744.1" cy="323.8" r="3.6" fill="#185FA5"/>
+  <circle cx="753.7" cy="366.1" r="3.6" fill="#185FA5"/>
+  <circle cx="726.7" cy="400.0" r="3.6" fill="#185FA5"/>
+  <circle cx="683.3" cy="400.0" r="3.6" fill="#185FA5"/>
+  <circle cx="656.3" cy="366.1" r="3.6" fill="#185FA5"/>
+  <circle cx="665.9" cy="323.8" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="355.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="705.0" y="351.0" font-size="8" fill="#854F0B" text-anchor="middle">9 p⁺</text>
+  <text x="705.0" y="362.0" font-size="8" fill="#854F0B" text-anchor="middle">10 n⁰</text>
+  <text x="613.0" y="273.0" font-size="13" font-weight="600" fill="#2C2C2A">9 F 氟</text>
+  <text x="613.0" y="287.0" font-size="9.5" fill="#5F5E5A">fluorine</text>
+  <text x="797.0" y="273.0" font-size="10" fill="#888780" text-anchor="end">2, 7</text>
+  <text x="797.0" y="287.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 7</text>
+  <circle cx="895.0" cy="355.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="355.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="325.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="385.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="305.0" r="3.6" fill="#185FA5"/>
+  <circle cx="930.4" cy="319.6" r="3.6" fill="#185FA5"/>
+  <circle cx="945.0" cy="355.0" r="3.6" fill="#185FA5"/>
+  <circle cx="930.4" cy="390.4" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="405.0" r="3.6" fill="#185FA5"/>
+  <circle cx="859.6" cy="390.4" r="3.6" fill="#185FA5"/>
+  <circle cx="845.0" cy="355.0" r="3.6" fill="#185FA5"/>
+  <circle cx="859.6" cy="319.6" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="355.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="895.0" y="351.0" font-size="8" fill="#854F0B" text-anchor="middle">10 p⁺</text>
+  <text x="895.0" y="362.0" font-size="8" fill="#854F0B" text-anchor="middle">10 n⁰</text>
+  <text x="803.0" y="273.0" font-size="13" font-weight="600" fill="#2C2C2A">10 Ne 氖</text>
+  <text x="803.0" y="287.0" font-size="9.5" fill="#5F5E5A">neon</text>
+  <text x="987.0" y="273.0" font-size="10" fill="#888780" text-anchor="end">2, 8</text>
+  <text x="987.0" y="287.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 8</text>
+  <circle cx="135.0" cy="545.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="545.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="545.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="515.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="575.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="495.0" r="3.6" fill="#185FA5"/>
+  <circle cx="170.4" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="185.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="170.4" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="595.0" r="3.6" fill="#185FA5"/>
+  <circle cx="99.6" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="85.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="99.6" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="475.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="545.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="135.0" y="541.0" font-size="8" fill="#854F0B" text-anchor="middle">11 p⁺</text>
+  <text x="135.0" y="552.0" font-size="8" fill="#854F0B" text-anchor="middle">12 n⁰</text>
+  <text x="43.0" y="463.0" font-size="13" font-weight="600" fill="#2C2C2A">11 Na 钠</text>
+  <text x="43.0" y="477.0" font-size="9.5" fill="#5F5E5A">sodium</text>
+  <text x="227.0" y="463.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 1</text>
+  <text x="227.0" y="477.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 1</text>
+  <circle cx="325.0" cy="545.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="545.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="545.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="515.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="575.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="495.0" r="3.6" fill="#185FA5"/>
+  <circle cx="360.4" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="375.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="360.4" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="595.0" r="3.6" fill="#185FA5"/>
+  <circle cx="289.6" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="275.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="289.6" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="475.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="615.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="545.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="325.0" y="541.0" font-size="8" fill="#854F0B" text-anchor="middle">12 p⁺</text>
+  <text x="325.0" y="552.0" font-size="8" fill="#854F0B" text-anchor="middle">12 n⁰</text>
+  <text x="233.0" y="463.0" font-size="13" font-weight="600" fill="#2C2C2A">12 Mg 镁</text>
+  <text x="233.0" y="477.0" font-size="9.5" fill="#5F5E5A">magnesium</text>
+  <text x="417.0" y="463.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 2</text>
+  <text x="417.0" y="477.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 2</text>
+  <circle cx="515.0" cy="545.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="545.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="545.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="515.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="575.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="495.0" r="3.6" fill="#185FA5"/>
+  <circle cx="550.4" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="565.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="550.4" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="595.0" r="3.6" fill="#185FA5"/>
+  <circle cx="479.6" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="465.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="479.6" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="475.0" r="3.6" fill="#185FA5"/>
+  <circle cx="575.6" cy="580.0" r="3.6" fill="#185FA5"/>
+  <circle cx="454.4" cy="580.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="545.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="515.0" y="541.0" font-size="8" fill="#854F0B" text-anchor="middle">13 p⁺</text>
+  <text x="515.0" y="552.0" font-size="8" fill="#854F0B" text-anchor="middle">14 n⁰</text>
+  <text x="423.0" y="463.0" font-size="13" font-weight="600" fill="#2C2C2A">13 Al 铝</text>
+  <text x="423.0" y="477.0" font-size="9.5" fill="#5F5E5A">aluminium</text>
+  <text x="607.0" y="463.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 3</text>
+  <text x="607.0" y="477.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 3</text>
+  <circle cx="705.0" cy="545.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="545.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="545.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="515.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="575.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="495.0" r="3.6" fill="#185FA5"/>
+  <circle cx="740.4" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="755.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="740.4" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="595.0" r="3.6" fill="#185FA5"/>
+  <circle cx="669.6" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="655.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="669.6" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="475.0" r="3.6" fill="#185FA5"/>
+  <circle cx="775.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="615.0" r="3.6" fill="#185FA5"/>
+  <circle cx="635.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="545.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="705.0" y="541.0" font-size="8" fill="#854F0B" text-anchor="middle">14 p⁺</text>
+  <text x="705.0" y="552.0" font-size="8" fill="#854F0B" text-anchor="middle">14 n⁰</text>
+  <text x="613.0" y="463.0" font-size="13" font-weight="600" fill="#2C2C2A">14 Si 硅</text>
+  <text x="613.0" y="477.0" font-size="9.5" fill="#5F5E5A">silicon</text>
+  <text x="797.0" y="463.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 4</text>
+  <text x="797.0" y="477.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 4</text>
+  <circle cx="895.0" cy="545.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="545.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="545.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="515.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="575.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="495.0" r="3.6" fill="#185FA5"/>
+  <circle cx="930.4" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="945.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="930.4" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="595.0" r="3.6" fill="#185FA5"/>
+  <circle cx="859.6" cy="580.4" r="3.6" fill="#185FA5"/>
+  <circle cx="845.0" cy="545.0" r="3.6" fill="#185FA5"/>
+  <circle cx="859.6" cy="509.6" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="475.0" r="3.6" fill="#185FA5"/>
+  <circle cx="961.6" cy="523.4" r="3.6" fill="#185FA5"/>
+  <circle cx="936.1" cy="601.6" r="3.6" fill="#185FA5"/>
+  <circle cx="853.9" cy="601.6" r="3.6" fill="#185FA5"/>
+  <circle cx="828.4" cy="523.4" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="545.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="895.0" y="541.0" font-size="8" fill="#854F0B" text-anchor="middle">15 p⁺</text>
+  <text x="895.0" y="552.0" font-size="8" fill="#854F0B" text-anchor="middle">16 n⁰</text>
+  <text x="803.0" y="463.0" font-size="13" font-weight="600" fill="#2C2C2A">15 P 磷</text>
+  <text x="803.0" y="477.0" font-size="9.5" fill="#5F5E5A">phosphorus</text>
+  <text x="987.0" y="463.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 5</text>
+  <text x="987.0" y="477.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 5</text>
+  <circle cx="135.0" cy="735.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="735.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="735.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="135.0" cy="705.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="765.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="685.0" r="3.6" fill="#185FA5"/>
+  <circle cx="170.4" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="185.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="170.4" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="785.0" r="3.6" fill="#185FA5"/>
+  <circle cx="99.6" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="85.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="99.6" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="665.0" r="3.6" fill="#185FA5"/>
+  <circle cx="195.6" cy="700.0" r="3.6" fill="#185FA5"/>
+  <circle cx="195.6" cy="770.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="805.0" r="3.6" fill="#185FA5"/>
+  <circle cx="74.4" cy="770.0" r="3.6" fill="#185FA5"/>
+  <circle cx="74.4" cy="700.0" r="3.6" fill="#185FA5"/>
+  <circle cx="135.0" cy="735.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="135.0" y="731.0" font-size="8" fill="#854F0B" text-anchor="middle">16 p⁺</text>
+  <text x="135.0" y="742.0" font-size="8" fill="#854F0B" text-anchor="middle">16 n⁰</text>
+  <text x="43.0" y="653.0" font-size="13" font-weight="600" fill="#2C2C2A">16 S 硫</text>
+  <text x="43.0" y="667.0" font-size="9.5" fill="#5F5E5A">sulfur</text>
+  <text x="227.0" y="653.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 6</text>
+  <text x="227.0" y="667.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 6</text>
+  <circle cx="325.0" cy="735.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="735.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="735.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="325.0" cy="705.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="765.0" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="685.0" r="3.6" fill="#185FA5"/>
+  <circle cx="360.4" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="375.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="360.4" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="785.0" r="3.6" fill="#185FA5"/>
+  <circle cx="289.6" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="275.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="289.6" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="665.0" r="3.6" fill="#185FA5"/>
+  <circle cx="379.7" cy="691.4" r="3.6" fill="#185FA5"/>
+  <circle cx="393.2" cy="750.6" r="3.6" fill="#185FA5"/>
+  <circle cx="355.4" cy="798.1" r="3.6" fill="#185FA5"/>
+  <circle cx="294.6" cy="798.1" r="3.6" fill="#185FA5"/>
+  <circle cx="256.8" cy="750.6" r="3.6" fill="#185FA5"/>
+  <circle cx="270.3" cy="691.4" r="3.6" fill="#185FA5"/>
+  <circle cx="325.0" cy="735.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="325.0" y="731.0" font-size="8" fill="#854F0B" text-anchor="middle">17 p⁺</text>
+  <text x="325.0" y="742.0" font-size="8" fill="#854F0B" text-anchor="middle">18 n⁰</text>
+  <text x="233.0" y="653.0" font-size="13" font-weight="600" fill="#2C2C2A">17 Cl 氯</text>
+  <text x="233.0" y="667.0" font-size="9.5" fill="#5F5E5A">chlorine</text>
+  <text x="417.0" y="653.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 7</text>
+  <text x="417.0" y="667.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 7</text>
+  <circle cx="515.0" cy="735.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="735.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="735.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="515.0" cy="705.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="765.0" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="685.0" r="3.6" fill="#185FA5"/>
+  <circle cx="550.4" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="565.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="550.4" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="785.0" r="3.6" fill="#185FA5"/>
+  <circle cx="479.6" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="465.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="479.6" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="665.0" r="3.6" fill="#185FA5"/>
+  <circle cx="564.5" cy="685.5" r="3.6" fill="#185FA5"/>
+  <circle cx="585.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="564.5" cy="784.5" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="805.0" r="3.6" fill="#185FA5"/>
+  <circle cx="465.5" cy="784.5" r="3.6" fill="#185FA5"/>
+  <circle cx="445.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="465.5" cy="685.5" r="3.6" fill="#185FA5"/>
+  <circle cx="515.0" cy="735.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="515.0" y="731.0" font-size="8" fill="#854F0B" text-anchor="middle">18 p⁺</text>
+  <text x="515.0" y="742.0" font-size="8" fill="#854F0B" text-anchor="middle">22 n⁰</text>
+  <text x="423.0" y="653.0" font-size="13" font-weight="600" fill="#2C2C2A">18 Ar 氩</text>
+  <text x="423.0" y="667.0" font-size="9.5" fill="#5F5E5A">argon</text>
+  <text x="607.0" y="653.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 8</text>
+  <text x="607.0" y="667.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 8</text>
+  <circle cx="705.0" cy="735.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="735.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="735.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="735.0" r="88" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="705.0" cy="705.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="765.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="685.0" r="3.6" fill="#185FA5"/>
+  <circle cx="740.4" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="755.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="740.4" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="785.0" r="3.6" fill="#185FA5"/>
+  <circle cx="669.6" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="655.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="669.6" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="665.0" r="3.6" fill="#185FA5"/>
+  <circle cx="754.5" cy="685.5" r="3.6" fill="#185FA5"/>
+  <circle cx="775.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="754.5" cy="784.5" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="805.0" r="3.6" fill="#185FA5"/>
+  <circle cx="655.5" cy="784.5" r="3.6" fill="#185FA5"/>
+  <circle cx="635.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="655.5" cy="685.5" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="647.0" r="3.6" fill="#185FA5"/>
+  <circle cx="705.0" cy="735.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="705.0" y="731.0" font-size="8" fill="#854F0B" text-anchor="middle">19 p⁺</text>
+  <text x="705.0" y="742.0" font-size="8" fill="#854F0B" text-anchor="middle">20 n⁰</text>
+  <text x="613.0" y="653.0" font-size="13" font-weight="600" fill="#2C2C2A">19 K 钾</text>
+  <text x="613.0" y="667.0" font-size="9.5" fill="#5F5E5A">potassium</text>
+  <text x="797.0" y="653.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 8, 1</text>
+  <text x="797.0" y="667.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 1</text>
+  <circle cx="895.0" cy="735.0" r="30" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="735.0" r="50" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="735.0" r="70" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="735.0" r="88" fill="none" stroke="#B4B2A9" stroke-width="0.8"/>
+  <circle cx="895.0" cy="705.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="765.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="685.0" r="3.6" fill="#185FA5"/>
+  <circle cx="930.4" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="945.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="930.4" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="785.0" r="3.6" fill="#185FA5"/>
+  <circle cx="859.6" cy="770.4" r="3.6" fill="#185FA5"/>
+  <circle cx="845.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="859.6" cy="699.6" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="665.0" r="3.6" fill="#185FA5"/>
+  <circle cx="944.5" cy="685.5" r="3.6" fill="#185FA5"/>
+  <circle cx="965.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="944.5" cy="784.5" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="805.0" r="3.6" fill="#185FA5"/>
+  <circle cx="845.5" cy="784.5" r="3.6" fill="#185FA5"/>
+  <circle cx="825.0" cy="735.0" r="3.6" fill="#185FA5"/>
+  <circle cx="845.5" cy="685.5" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="647.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="823.0" r="3.6" fill="#185FA5"/>
+  <circle cx="895.0" cy="735.0" r="17" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="895.0" y="731.0" font-size="8" fill="#854F0B" text-anchor="middle">20 p⁺</text>
+  <text x="895.0" y="742.0" font-size="8" fill="#854F0B" text-anchor="middle">20 n⁰</text>
+  <text x="803.0" y="653.0" font-size="13" font-weight="600" fill="#2C2C2A">20 Ca 钙</text>
+  <text x="803.0" y="667.0" font-size="9.5" fill="#5F5E5A">calcium</text>
+  <text x="987.0" y="653.0" font-size="10" fill="#888780" text-anchor="end">2, 8, 8, 2</text>
+  <text x="987.0" y="667.0" font-size="9.5" fill="#A32D2D" text-anchor="end">价电子 2</text>
+  <text x="30" y="840" font-size="10" fill="#888780">每个原子右侧小字为电子层排布（由内向外）与价电子数；原子核内标注质子数 p⁺ 与中子数 n⁰（以最常见同位素计）。</text>
+</svg>

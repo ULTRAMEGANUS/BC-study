@@ -1,0 +1,21 @@
+﻿atomic_number,symbol,English,中文,拼音,period,group,category,electron_arrangement,valence_electrons,mass_number,neutrons
+1,H,hydrogen,氢,qīng,1,1,nonmetal,1,1,1,0
+2,He,helium,氦,hài,1,18,noble,2,2,4,2
+3,Li,lithium,锂,lǐ,2,1,metal,"2, 1",1,7,4
+4,Be,beryllium,铍,pí,2,2,metal,"2, 2",2,9,5
+5,B,boron,硼,péng,2,13,metalloid,"2, 3",3,11,6
+6,C,carbon,碳,tàn,2,14,nonmetal,"2, 4",4,12,6
+7,N,nitrogen,氮,dàn,2,15,nonmetal,"2, 5",5,14,7
+8,O,oxygen,氧,yǎng,2,16,nonmetal,"2, 6",6,16,8
+9,F,fluorine,氟,fú,2,17,nonmetal,"2, 7",7,19,10
+10,Ne,neon,氖,nǎi,2,18,noble,"2, 8",8,20,10
+11,Na,sodium,钠,nà,3,1,metal,"2, 8, 1",1,23,12
+12,Mg,magnesium,镁,měi,3,2,metal,"2, 8, 2",2,24,12
+13,Al,aluminium,铝,lǚ,3,13,metal,"2, 8, 3",3,27,14
+14,Si,silicon,硅,guī,3,14,metalloid,"2, 8, 4",4,28,14
+15,P,phosphorus,磷,lín,3,15,nonmetal,"2, 8, 5",5,31,16
+16,S,sulfur,硫,liú,3,16,nonmetal,"2, 8, 6",6,32,16
+17,Cl,chlorine,氯,lǜ,3,17,nonmetal,"2, 8, 7",7,35,18
+18,Ar,argon,氩,yà,3,18,noble,"2, 8, 8",8,40,22
+19,K,potassium,钾,jiǎ,4,1,metal,"2, 8, 8, 1",1,39,20
+20,Ca,calcium,钙,gài,4,2,metal,"2, 8, 8, 2",2,40,20

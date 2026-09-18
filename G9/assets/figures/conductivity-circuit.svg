@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+<title>导电性检测电路｜Conductivity Test: Ionic vs Molecular Compounds（固体 / 水溶液 / 熔融 / 分子化合物）</title>
+<rect width="900" height="830" fill="#FFFFFF"/>
+<text x="30" y="33" font-size="19" fill="#2C2C2A" text-anchor="start" font-weight="600">导电性检测电路｜Conductivity Test — 离子化合物 vs 分子化合物</text>
+<text x="870" y="33" font-size="10.5" fill="#5F5E5A" text-anchor="end">BC Science 9 · Ch.7 ｜ 英中对照</text>
+<text x="30" y="52" font-size="9.5" fill="#888780" text-anchor="start">图例 Legend：</text>
+<circle cx="100" cy="48.7" r="4.6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+<text x="100" y="51.4" font-size="7.5" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<text x="110" y="52" font-size="9.5" fill="#888780" text-anchor="start">Na⁺ 阳离子 cation</text>
+<circle cx="198" cy="48.7" r="4.6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.1"/>
+<text x="198" y="51.4" font-size="7.5" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<text x="208" y="52" font-size="9.5" fill="#888780" text-anchor="start">Cl⁻ 阴离子 anion</text>
+<circle cx="288" cy="48.7" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<text x="298" y="52" font-size="9.5" fill="#888780" text-anchor="start">电中性分子 molecule（不带电）</text>
+<text x="452" y="52" font-size="9.5" fill="#888780" text-anchor="start">｜　装置：battery 电池 → lamp 灯泡 → electrodes 电极 → 待测样品</text>
+<rect x="30" y="66" width="400" height="300" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1"/>
+<text x="46" y="93" font-size="12" fill="#2C2C2A" text-anchor="start" font-weight="600">1 固态氯化钠 NaCl(s)</text>
+<text x="46" y="108" font-size="9.5" fill="#5F5E5A" text-anchor="start">solid sodium chloride（固体离子化合物）</text>
+<rect x="326" y="78" width="90" height="24" rx="6" fill="#F1F0EC" stroke="#B4B2A9" stroke-width="1"/>
+<text x="371" y="94" font-size="11" fill="#5F5E5A" text-anchor="middle" font-weight="600">灯泡不亮 ×</text>
+<path d="M 96 194 V 128 H 175" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 205 128 H 282 V 166" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 326 166 H 382 V 286 H 96 V 218" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="85" y1="194" x2="107" y2="194" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="85" y1="211" x2="107" y2="211" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="90" y1="201" x2="102" y2="201" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="90" y1="218" x2="102" y2="218" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="96" y1="201" x2="96" y2="211" stroke="#2C2C2A" stroke-width="1.2"/>
+<text x="46" y="238" font-size="8.5" fill="#888780" text-anchor="start">battery 电池</text>
+<circle cx="190" cy="128" r="15" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.2"/>
+<path d="M 183 121 L 197 135 M 197 121 L 183 135" stroke="#B4B2A9" stroke-width="1.2"/>
+<text x="190" y="159" font-size="8.5" fill="#888780" text-anchor="middle">lamp 灯泡</text>
+<clipPath id="bk1"><path d="M 248 190 V 256 Q 248 262 254 262 H 354 Q 360 262 360 256 V 190 Z"/></clipPath>
+<path d="M 248 190 V 256 Q 248 262 254 262 H 354 Q 360 262 360 256 V 190 Z" fill="none" stroke="#B4B2A9" stroke-width="1.2"/>
+<line x1="242" y1="190" x2="366" y2="190" stroke="#B4B2A9" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262" y1="218" x2="350" y2="218" stroke="#B4B2A9" stroke-width="0.7"/>
+<line x1="262" y1="236" x2="350" y2="236" stroke="#B4B2A9" stroke-width="0.7"/>
+<line x1="262" y1="254" x2="350" y2="254" stroke="#B4B2A9" stroke-width="0.7"/>
+<line x1="262" y1="218" x2="262" y2="254" stroke="#B4B2A9" stroke-width="0.7"/>
+<line x1="292" y1="218" x2="292" y2="254" stroke="#B4B2A9" stroke-width="0.7"/>
+<line x1="322" y1="218" x2="322" y2="254" stroke="#B4B2A9" stroke-width="0.7"/>
+<line x1="350" y1="218" x2="350" y2="254" stroke="#B4B2A9" stroke-width="0.7"/>
+<circle cx="262" cy="218" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="262" y="221.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="292" cy="218" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="292" y="221.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="322" cy="218" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="322" y="221.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="350" cy="218" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="350" y="221.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="262" cy="236" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="262" y="239.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="292" cy="236" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="292" y="239.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="322" cy="236" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="322" y="239.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="350" cy="236" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="350" y="239.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="262" cy="254" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="262" y="257.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="292" cy="254" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="292" y="257.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="322" cy="254" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="322" y="257.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="350" cy="254" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="350" y="257.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<line x1="282" y1="166" x2="282" y2="246" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<line x1="326" y1="166" x2="326" y2="246" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<text x="235" y="185" font-size="8.5" fill="#888780" text-anchor="end">electrodes 电极</text>
+<text x="46" y="304" font-size="11.5" fill="#A32D2D" text-anchor="start" font-weight="600">结果：灯泡不亮 ×（不导电）</text>
+<text x="46" y="324" font-size="9.5" fill="#5F5E5A" text-anchor="start">离子被牢牢锁在晶格 crystal lattice 里，不能自由移动 → 电路断开。</text>
+<text x="46" y="339" font-size="9.5" fill="#5F5E5A" text-anchor="start">关键：离子一直都在，只是不能移动。</text>
+<rect x="470" y="66" width="400" height="300" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1"/>
+<text x="486" y="93" font-size="12" fill="#2C2C2A" text-anchor="start" font-weight="600">2 氯化钠水溶液 NaCl(aq)</text>
+<text x="486" y="108" font-size="9.5" fill="#5F5E5A" text-anchor="start">aqueous sodium chloride（水溶液）</text>
+<rect x="766" y="78" width="90" height="24" rx="6" fill="#EAF3DE" stroke="#639922" stroke-width="1"/>
+<text x="811" y="94" font-size="11" fill="#3B6D11" text-anchor="middle" font-weight="600">灯泡亮 ✓</text>
+<path d="M 536 194 V 128 H 615" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 645 128 H 722 V 166" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 766 166 H 822 V 286 H 536 V 218" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="525" y1="194" x2="547" y2="194" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="525" y1="211" x2="547" y2="211" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="530" y1="201" x2="542" y2="201" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="530" y1="218" x2="542" y2="218" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="536" y1="201" x2="536" y2="211" stroke="#2C2C2A" stroke-width="1.2"/>
+<text x="486" y="238" font-size="8.5" fill="#888780" text-anchor="start">battery 电池</text>
+<line x1="649.0" y1="128.0" x2="656.0" y2="128.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="643.4" y1="141.4" x2="648.4" y2="146.4" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="630.0" y1="147.0" x2="630.0" y2="154.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="616.6" y1="141.4" x2="611.6" y2="146.4" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="611.0" y1="128.0" x2="604.0" y2="128.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="616.6" y1="114.6" x2="611.6" y2="109.6" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="630.0" y1="109.0" x2="630.0" y2="102.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="643.4" y1="114.6" x2="648.4" y2="109.6" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="630" cy="128" r="15" fill="#EF9F27" stroke="#BA7517" stroke-width="1.2"/>
+<path d="M 623 121 L 637 135 M 637 121 L 623 135" stroke="#854F0B" stroke-width="1.2"/>
+<text x="630" y="159" font-size="8.5" fill="#888780" text-anchor="middle">lamp 灯泡</text>
+<clipPath id="bk2"><path d="M 688 190 V 256 Q 688 262 694 262 H 794 Q 800 262 800 256 V 190 Z"/></clipPath>
+<g clip-path="url(#bk2)"><rect x="688" y="206" width="112" height="56" fill="#E6F1FB"/></g>
+<path d="M 688 190 V 256 Q 688 262 694 262 H 794 Q 800 262 800 256 V 190 Z" fill="none" stroke="#B4B2A9" stroke-width="1.2"/>
+<line x1="682" y1="190" x2="806" y2="190" stroke="#B4B2A9" stroke-width="1.2" stroke-linecap="round"/>
+<circle cx="710" cy="224" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="710" y="227.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="754" cy="233" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="754" y="236.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="782" cy="217" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="782" y="220.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="720" cy="250" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="720" y="253.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="772" cy="252" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="772" y="255.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="700" cy="247" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="700" y="250.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<line x1="722" y1="166" x2="722" y2="246" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<line x1="766" y1="166" x2="766" y2="246" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<text x="675" y="185" font-size="8.5" fill="#888780" text-anchor="end">electrodes 电极</text>
+<text x="486" y="304" font-size="11.5" fill="#3B6D11" text-anchor="start" font-weight="600">结果：灯泡亮 ✓（导电）</text>
+<text x="486" y="324" font-size="9.5" fill="#5F5E5A" text-anchor="start">水分子把晶格拆散，Na⁺ 与 Cl⁻ 可以自由移动，</text>
+<text x="486" y="339" font-size="9.5" fill="#5F5E5A" text-anchor="start">通电时定向迁移形成电流 → 电解质 electrolyte。</text>
+<rect x="30" y="386" width="400" height="300" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1"/>
+<text x="46" y="413" font-size="12" fill="#2C2C2A" text-anchor="start" font-weight="600">3 熔融氯化钠 NaCl(l)</text>
+<text x="46" y="428" font-size="9.5" fill="#5F5E5A" text-anchor="start">molten sodium chloride（熔融态）</text>
+<rect x="326" y="398" width="90" height="24" rx="6" fill="#EAF3DE" stroke="#639922" stroke-width="1"/>
+<text x="371" y="414" font-size="11" fill="#3B6D11" text-anchor="middle" font-weight="600">灯泡亮 ✓</text>
+<path d="M 96 514 V 448 H 175" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 205 448 H 282 V 486" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 326 486 H 382 V 606 H 96 V 538" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="85" y1="514" x2="107" y2="514" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="85" y1="531" x2="107" y2="531" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="90" y1="521" x2="102" y2="521" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="90" y1="538" x2="102" y2="538" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="96" y1="521" x2="96" y2="531" stroke="#2C2C2A" stroke-width="1.2"/>
+<text x="46" y="558" font-size="8.5" fill="#888780" text-anchor="start">battery 电池</text>
+<line x1="209.0" y1="448.0" x2="216.0" y2="448.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="203.4" y1="461.4" x2="208.4" y2="466.4" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="190.0" y1="467.0" x2="190.0" y2="474.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="176.6" y1="461.4" x2="171.6" y2="466.4" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="171.0" y1="448.0" x2="164.0" y2="448.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="176.6" y1="434.6" x2="171.6" y2="429.6" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="190.0" y1="429.0" x2="190.0" y2="422.0" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="203.4" y1="434.6" x2="208.4" y2="429.6" stroke="#EF9F27" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="190" cy="448" r="15" fill="#EF9F27" stroke="#BA7517" stroke-width="1.2"/>
+<path d="M 183 441 L 197 455 M 197 441 L 183 455" stroke="#854F0B" stroke-width="1.2"/>
+<text x="190" y="479" font-size="8.5" fill="#888780" text-anchor="middle">lamp 灯泡</text>
+<clipPath id="bk3"><path d="M 248 510 V 576 Q 248 582 254 582 H 354 Q 360 582 360 576 V 510 Z"/></clipPath>
+<g clip-path="url(#bk3)"><rect x="248" y="526" width="112" height="56" fill="#FAEEDA"/></g>
+<path d="M 248 510 V 576 Q 248 582 254 582 H 354 Q 360 582 360 576 V 510 Z" fill="none" stroke="#B4B2A9" stroke-width="1.2"/>
+<line x1="242" y1="510" x2="366" y2="510" stroke="#B4B2A9" stroke-width="1.2" stroke-linecap="round"/>
+<circle cx="270" cy="544" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="270" y="547.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="314" cy="553" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="314" y="556.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="342" cy="537" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="342" y="540.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="280" cy="570" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="280" y="573.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<circle cx="332" cy="572" r="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.3"/>
+<text x="332" y="575.2" font-size="8" fill="#185FA5" text-anchor="middle" font-weight="600">+</text>
+<circle cx="260" cy="567" r="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.3"/>
+<text x="260" y="570.2" font-size="8" fill="#A32D2D" text-anchor="middle" font-weight="600">−</text>
+<line x1="282" y1="486" x2="282" y2="566" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<line x1="326" y1="486" x2="326" y2="566" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<text x="235" y="505" font-size="8.5" fill="#888780" text-anchor="end">electrodes 电极</text>
+<text x="366" y="538" font-size="8.5" fill="#854F0B" text-anchor="start">Δ 801 ℃</text>
+<text x="46" y="624" font-size="11.5" fill="#3B6D11" text-anchor="start" font-weight="600">结果：灯泡亮 ✓（导电）</text>
+<text x="46" y="644" font-size="9.5" fill="#5F5E5A" text-anchor="start">加热熔化后晶格瓦解，离子同样可以自由移动。</text>
+<text x="46" y="659" font-size="9.5" fill="#5F5E5A" text-anchor="start">→ 熔融态或水溶液，二者满足其一即导电。</text>
+<rect x="470" y="386" width="400" height="300" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1"/>
+<text x="486" y="413" font-size="12" fill="#2C2C2A" text-anchor="start" font-weight="600">4 蔗糖水 sugar solution</text>
+<text x="486" y="428" font-size="9.5" fill="#5F5E5A" text-anchor="start">sugar solution（分子 / 共价化合物）</text>
+<rect x="766" y="398" width="90" height="24" rx="6" fill="#F1F0EC" stroke="#B4B2A9" stroke-width="1"/>
+<text x="811" y="414" font-size="11" fill="#5F5E5A" text-anchor="middle" font-weight="600">灯泡不亮 ×</text>
+<path d="M 536 514 V 448 H 615" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 645 448 H 722 V 486" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 766 486 H 822 V 606 H 536 V 538" fill="none" stroke="#5F5E5A" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="525" y1="514" x2="547" y2="514" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="525" y1="531" x2="547" y2="531" stroke="#2C2C2A" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="530" y1="521" x2="542" y2="521" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="530" y1="538" x2="542" y2="538" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+<line x1="536" y1="521" x2="536" y2="531" stroke="#2C2C2A" stroke-width="1.2"/>
+<text x="486" y="558" font-size="8.5" fill="#888780" text-anchor="start">battery 电池</text>
+<circle cx="630" cy="448" r="15" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.2"/>
+<path d="M 623 441 L 637 455 M 637 441 L 623 455" stroke="#B4B2A9" stroke-width="1.2"/>
+<text x="630" y="479" font-size="8.5" fill="#888780" text-anchor="middle">lamp 灯泡</text>
+<clipPath id="bk4"><path d="M 688 510 V 576 Q 688 582 694 582 H 794 Q 800 582 800 576 V 510 Z"/></clipPath>
+<g clip-path="url(#bk4)"><rect x="688" y="526" width="112" height="56" fill="#F7F6F2"/></g>
+<path d="M 688 510 V 576 Q 688 582 694 582 H 794 Q 800 582 800 576 V 510 Z" fill="none" stroke="#B4B2A9" stroke-width="1.2"/>
+<line x1="682" y1="510" x2="806" y2="510" stroke="#B4B2A9" stroke-width="1.2" stroke-linecap="round"/>
+<circle cx="706" cy="544" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="714" cy="544" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="750" cy="553" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="758" cy="553" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="778" cy="537" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="786" cy="537" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="716" cy="570" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="724" cy="570" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="768" cy="572" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="776" cy="572" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="696" cy="567" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<circle cx="704" cy="567" r="4.6" fill="#FFFFFF" stroke="#888780" stroke-width="1.1"/>
+<line x1="722" y1="486" x2="722" y2="566" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<line x1="766" y1="486" x2="766" y2="566" stroke="#5F5E5A" stroke-width="3" stroke-linecap="round"/>
+<text x="675" y="505" font-size="8.5" fill="#888780" text-anchor="end">electrodes 电极</text>
+<text x="486" y="624" font-size="11.5" fill="#A32D2D" text-anchor="start" font-weight="600">结果：灯泡不亮 ×（不导电）</text>
+<text x="486" y="644" font-size="9.5" fill="#5F5E5A" text-anchor="start">蔗糖溶解后仍是电中性的分子，没有离子产生；</text>
+<text x="486" y="659" font-size="9.5" fill="#5F5E5A" text-anchor="start">没有可自由移动的带电粒子 → 不导电（蒸馏水同理）。</text>
+<rect x="30" y="706" width="840" height="94" rx="8" fill="#F7F6F2" stroke="#B4B2A9" stroke-width="1"/>
+<text x="46" y="733" font-size="13.5" fill="#2C2C2A" text-anchor="start" font-weight="600">导电条件 = 有可自由移动的带电粒子（离子或电子）</text>
+<text x="46" y="754" font-size="10.5" fill="#2C2C2A" text-anchor="start">离子化合物导电：靠自由移动的离子 free ions —— 只在熔融态 molten 或水溶液 aqueous 下成立，固体不导电（离子被锁在晶格）。</text>
+<text x="46" y="772" font-size="10.5" fill="#5F5E5A" text-anchor="start">对照：金属导电靠自由电子 free electrons（属物理性质，本单元仅作对照）；分子化合物既无自由离子也无自由电子 → 不导电。</text>
+<text x="46" y="789" font-size="9.5" fill="#888780" text-anchor="start">判别实验结论：固体不导电 + 水溶液或熔融态导电 ⇒ 该物质是离子化合物 ionic compound（NaCl 是典型电解质 electrolyte）。</text>
+</svg>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 726" width="900" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif">
+  <title>主族元素路易斯点式总表｜Lewis Dot Diagrams, Main-Group Elements 1–18</title>
+  <rect width="900" height="726" fill="#FFFFFF"/>
+
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">主族元素路易斯点式总表｜Lewis Dot Diagrams（Elements 1–18）</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A" text-anchor="end">BC Science 9 · Ch.6｜点 = 价电子 valence electron</text>
+  <line x1="30" y1="48" x2="870" y2="48" stroke="#B4B2A9" stroke-width="0.8"/>
+
+  <text x="30" y="72" font-size="13" font-weight="600" fill="#2C2C2A">① 中性原子 Neutral atoms — 按族分组（第 1、2、13–18 族）</text>
+  <text x="30" y="87" font-size="9.5" fill="#888780">放点顺序 Dot order：先 右 → 左 → 上 → 下 各放 1 个单点；再按 上 → 下 → 左 → 右 把单点补成对（讲义 3.8 统一约定）</text>
+
+  <!-- ===== 族表头 ===== -->
+  <rect x="34.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="82.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">1</text>
+  <text x="82.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">碱金属</text>
+  <text x="82.5" y="141" font-size="9" fill="#888780" text-anchor="middle">alkali metals</text>
+
+  <rect x="139.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="187.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">2</text>
+  <text x="187.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">碱土金属</text>
+  <text x="187.5" y="141" font-size="9" fill="#888780" text-anchor="middle">alkaline earth</text>
+
+  <rect x="244.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="292.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">13</text>
+  <text x="292.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">硼族</text>
+  <text x="292.5" y="141" font-size="9" fill="#888780" text-anchor="middle">boron group</text>
+
+  <rect x="349.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="397.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">14</text>
+  <text x="397.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">碳族</text>
+  <text x="397.5" y="141" font-size="9" fill="#888780" text-anchor="middle">carbon group</text>
+
+  <rect x="454.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="502.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">15</text>
+  <text x="502.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">氮族</text>
+  <text x="502.5" y="141" font-size="9" fill="#888780" text-anchor="middle">nitrogen group</text>
+
+  <rect x="559.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="607.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">16</text>
+  <text x="607.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">氧族</text>
+  <text x="607.5" y="141" font-size="9" fill="#888780" text-anchor="middle">oxygen group</text>
+
+  <rect x="664.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="712.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">17</text>
+  <text x="712.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">卤素</text>
+  <text x="712.5" y="141" font-size="9" fill="#888780" text-anchor="middle">halogens</text>
+
+  <rect x="769.5" y="100" width="96" height="48" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="817.5" y="116" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle">18</text>
+  <text x="817.5" y="130" font-size="10.5" fill="#2C2C2A" text-anchor="middle">稀有气体</text>
+  <text x="817.5" y="141" font-size="9" fill="#888780" text-anchor="middle">noble gases</text>
+
+  <!-- ===== 第 1 周期：H / He ===== -->
+  <rect x="36.5" y="156" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="82.5" y="173" font-size="10" fill="#854F0B" text-anchor="middle">氢 H</text>
+  <text x="82.5" y="204" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">H</text>
+  <circle cx="106.5" cy="196" r="3.4" fill="#2C2C2A"/>
+  <text x="82.5" y="235" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 1</text>
+
+  <rect x="771.5" y="156" width="92" height="88" rx="6" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.9"/>
+  <text x="817.5" y="173" font-size="10" fill="#3C3489" text-anchor="middle">氦 He</text>
+  <text x="857" y="170" font-size="9" fill="#A32D2D" text-anchor="end">★</text>
+  <text x="817.5" y="204" font-size="19" font-weight="600" fill="#3C3489" text-anchor="middle">He</text>
+  <circle cx="841.5" cy="196" r="3.4" fill="#2C2C2A"/>
+  <circle cx="841.5" cy="207" r="3.4" fill="#2C2C2A"/>
+  <text x="817.5" y="235" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 2</text>
+
+  <!-- ===== 第 2 周期：Li Be B C N O F Ne ===== -->
+  <rect x="36.5" y="258" width="92" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="82.5" y="275" font-size="10" fill="#0C447C" text-anchor="middle">锂 Li</text>
+  <text x="82.5" y="306" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Li</text>
+  <circle cx="106.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <text x="82.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 1</text>
+
+  <rect x="141.5" y="258" width="92" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="187.5" y="275" font-size="10" fill="#0C447C" text-anchor="middle">铍 Be</text>
+  <text x="187.5" y="306" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Be</text>
+  <circle cx="211.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="163.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <text x="187.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 2</text>
+
+  <rect x="246.5" y="258" width="92" height="88" rx="6" fill="#EAF3DE" stroke="#639922" stroke-width="0.9"/>
+  <text x="292.5" y="275" font-size="10" fill="#3B6D11" text-anchor="middle">硼 B</text>
+  <text x="292.5" y="306" font-size="19" font-weight="600" fill="#3B6D11" text-anchor="middle">B</text>
+  <circle cx="316.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="268.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="285.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <text x="292.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 3</text>
+
+  <rect x="351.5" y="258" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="397.5" y="275" font-size="10" fill="#854F0B" text-anchor="middle">碳 C</text>
+  <text x="397.5" y="306" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">C</text>
+  <circle cx="421.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="373.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="390.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="390.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <text x="397.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 4</text>
+
+  <rect x="456.5" y="258" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="502.5" y="275" font-size="10" fill="#854F0B" text-anchor="middle">氮 N</text>
+  <text x="502.5" y="306" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">N</text>
+  <circle cx="526.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="478.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="495.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="509.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="495.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <text x="502.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 5</text>
+
+  <rect x="561.5" y="258" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="607.5" y="275" font-size="10" fill="#854F0B" text-anchor="middle">氧 O</text>
+  <text x="607.5" y="306" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">O</text>
+  <circle cx="631.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="583.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="600.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="614.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="600.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <circle cx="614.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <text x="607.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 6</text>
+
+  <rect x="666.5" y="258" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="712.5" y="275" font-size="10" fill="#854F0B" text-anchor="middle">氟 F</text>
+  <text x="712.5" y="306" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">F</text>
+  <circle cx="736.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="688.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="688.5" cy="309" r="3.4" fill="#2C2C2A"/>
+  <circle cx="705.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="719.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="705.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <circle cx="719.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <text x="712.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 7</text>
+
+  <rect x="771.5" y="258" width="92" height="88" rx="6" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.9"/>
+  <text x="817.5" y="275" font-size="10" fill="#3C3489" text-anchor="middle">氖 Ne</text>
+  <text x="817.5" y="306" font-size="19" font-weight="600" fill="#3C3489" text-anchor="middle">Ne</text>
+  <circle cx="841.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="841.5" cy="309" r="3.4" fill="#2C2C2A"/>
+  <circle cx="793.5" cy="298" r="3.4" fill="#2C2C2A"/>
+  <circle cx="793.5" cy="309" r="3.4" fill="#2C2C2A"/>
+  <circle cx="810.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="824.5" cy="285" r="3.4" fill="#2C2C2A"/>
+  <circle cx="810.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <circle cx="824.5" cy="321" r="3.4" fill="#2C2C2A"/>
+  <text x="817.5" y="337" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 8</text>
+
+  <!-- ===== 第 3 周期：Na Mg Al Si P S Cl Ar ===== -->
+  <rect x="36.5" y="360" width="92" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="82.5" y="377" font-size="10" fill="#0C447C" text-anchor="middle">钠 Na</text>
+  <text x="82.5" y="408" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Na</text>
+  <circle cx="106.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <text x="82.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 1</text>
+
+  <rect x="141.5" y="360" width="92" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="187.5" y="377" font-size="10" fill="#0C447C" text-anchor="middle">镁 Mg</text>
+  <text x="187.5" y="408" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Mg</text>
+  <circle cx="211.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="163.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <text x="187.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 2</text>
+
+  <rect x="246.5" y="360" width="92" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="292.5" y="377" font-size="10" fill="#0C447C" text-anchor="middle">铝 Al</text>
+  <text x="292.5" y="408" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Al</text>
+  <circle cx="316.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="268.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="285.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <text x="292.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 3</text>
+
+  <rect x="351.5" y="360" width="92" height="88" rx="6" fill="#EAF3DE" stroke="#639922" stroke-width="0.9"/>
+  <text x="397.5" y="377" font-size="10" fill="#3B6D11" text-anchor="middle">硅 Si</text>
+  <text x="397.5" y="408" font-size="19" font-weight="600" fill="#3B6D11" text-anchor="middle">Si</text>
+  <circle cx="421.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="373.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="390.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="390.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <text x="397.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 4</text>
+
+  <rect x="456.5" y="360" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="502.5" y="377" font-size="10" fill="#854F0B" text-anchor="middle">磷 P</text>
+  <text x="502.5" y="408" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">P</text>
+  <circle cx="526.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="478.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="495.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="509.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="495.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <text x="502.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 5</text>
+
+  <rect x="561.5" y="360" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="607.5" y="377" font-size="10" fill="#854F0B" text-anchor="middle">硫 S</text>
+  <text x="607.5" y="408" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">S</text>
+  <circle cx="631.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="583.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="600.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="614.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="600.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <circle cx="614.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <text x="607.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 6</text>
+
+  <rect x="666.5" y="360" width="92" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="712.5" y="377" font-size="10" fill="#854F0B" text-anchor="middle">氯 Cl</text>
+  <text x="712.5" y="408" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">Cl</text>
+  <circle cx="736.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="688.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="688.5" cy="411" r="3.4" fill="#2C2C2A"/>
+  <circle cx="705.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="719.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="705.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <circle cx="719.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <text x="712.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 7</text>
+
+  <rect x="771.5" y="360" width="92" height="88" rx="6" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.9"/>
+  <text x="817.5" y="377" font-size="10" fill="#3C3489" text-anchor="middle">氩 Ar</text>
+  <text x="817.5" y="408" font-size="19" font-weight="600" fill="#3C3489" text-anchor="middle">Ar</text>
+  <circle cx="841.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="841.5" cy="411" r="3.4" fill="#2C2C2A"/>
+  <circle cx="793.5" cy="400" r="3.4" fill="#2C2C2A"/>
+  <circle cx="793.5" cy="411" r="3.4" fill="#2C2C2A"/>
+  <circle cx="810.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="824.5" cy="387" r="3.4" fill="#2C2C2A"/>
+  <circle cx="810.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <circle cx="824.5" cy="423" r="3.4" fill="#2C2C2A"/>
+  <text x="817.5" y="439" font-size="9.5" fill="#5F5E5A" text-anchor="middle">价电子 8</text>
+
+  <text x="30" y="472" font-size="10" fill="#A32D2D">★ 二重规则 duet rule：He 氦只有 2 个价电子即为满层（第 1 层最多 2 个电子），不要按 8 个点画；H 同理只追 2 个。</text>
+
+  <!-- ===== 第 2 部分：常见离子 ===== -->
+  <line x1="30" y1="488" x2="870" y2="488" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="30" y="512" font-size="13" font-weight="600" fill="#2C2C2A">② 常见离子的路易斯点式｜Lewis Dot Diagrams for Common Ions</text>
+  <text x="30" y="527" font-size="9.5" fill="#888780">阳离子 cation：[ ] 内 0 个点，右上角标 n⁺　｜　阴离子 anion：[ ] 内 8 个点，右上角标 n⁻　（H⁻ 例外，只 2 个点）</text>
+
+  <text x="245" y="550" font-size="11" font-weight="600" fill="#185FA5" text-anchor="middle">阳离子 cation · 0 个点</text>
+  <text x="655" y="550" font-size="11" font-weight="600" fill="#A32D2D" text-anchor="middle">阴离子 anion · 8 个点</text>
+  <line x1="450" y1="556" x2="450" y2="644" stroke="#B4B2A9" stroke-width="0.8" stroke-dasharray="3 3"/>
+
+  <rect x="45" y="556" width="120" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="105" y="573" font-size="10" fill="#0C447C" text-anchor="middle">Na⁺ 钠离子</text>
+  <text x="105" y="604" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Na</text>
+  <g fill="none" stroke="#185FA5" stroke-width="2" stroke-linecap="round">
+    <path d="M 89,578 L 81,578 L 81,622 L 89,622"/>
+    <path d="M 121,578 L 129,578 L 129,622 L 121,622"/>
+  </g>
+  <text x="143" y="584" font-size="13" font-weight="600" fill="#185FA5">+</text>
+  <text x="105" y="637" font-size="9.5" fill="#5F5E5A" text-anchor="middle">0 个点 · 失去 1 e⁻</text>
+
+  <rect x="185" y="556" width="120" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="245" y="573" font-size="10" fill="#0C447C" text-anchor="middle">Mg²⁺ 镁离子</text>
+  <text x="245" y="604" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Mg</text>
+  <g fill="none" stroke="#185FA5" stroke-width="2" stroke-linecap="round">
+    <path d="M 229,578 L 221,578 L 221,622 L 229,622"/>
+    <path d="M 261,578 L 269,578 L 269,622 L 261,622"/>
+  </g>
+  <text x="283" y="584" font-size="11" font-weight="600" fill="#185FA5">2<tspan dy="-6" font-size="9">+</tspan></text>
+  <text x="245" y="637" font-size="9.5" fill="#5F5E5A" text-anchor="middle">0 个点 · 失去 2 e⁻</text>
+
+  <rect x="325" y="556" width="120" height="88" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="385" y="573" font-size="10" fill="#0C447C" text-anchor="middle">Al³⁺ 铝离子</text>
+  <text x="385" y="604" font-size="19" font-weight="600" fill="#0C447C" text-anchor="middle">Al</text>
+  <g fill="none" stroke="#185FA5" stroke-width="2" stroke-linecap="round">
+    <path d="M 369,578 L 361,578 L 361,622 L 369,622"/>
+    <path d="M 401,578 L 409,578 L 409,622 L 401,622"/>
+  </g>
+  <text x="423" y="584" font-size="11" font-weight="600" fill="#185FA5">3<tspan dy="-6" font-size="9">+</tspan></text>
+  <text x="385" y="637" font-size="9.5" fill="#5F5E5A" text-anchor="middle">0 个点 · 失去 3 e⁻</text>
+
+  <rect x="455" y="556" width="120" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="515" y="573" font-size="10" fill="#854F0B" text-anchor="middle">Cl⁻ 氯离子</text>
+  <text x="515" y="604" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">Cl</text>
+  <g fill="none" stroke="#BA7517" stroke-width="2" stroke-linecap="round">
+    <path d="M 491,578 L 483,578 L 483,622 L 491,622"/>
+    <path d="M 539,578 L 547,578 L 547,622 L 539,622"/>
+  </g>
+  <g fill="#2C2C2A">
+    <circle cx="497" cy="596" r="3.4"/><circle cx="497" cy="607" r="3.4"/>
+    <circle cx="533" cy="596" r="3.4"/><circle cx="533" cy="607" r="3.4"/>
+    <circle cx="509" cy="583" r="3.4"/><circle cx="521" cy="583" r="3.4"/>
+    <circle cx="509" cy="619" r="3.4"/><circle cx="521" cy="619" r="3.4"/>
+  </g>
+  <text x="559" y="584" font-size="13" font-weight="600" fill="#A32D2D">−</text>
+  <text x="515" y="637" font-size="9.5" fill="#5F5E5A" text-anchor="middle">8 个点 · 得到 1 e⁻</text>
+
+  <rect x="595" y="556" width="120" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="655" y="573" font-size="10" fill="#854F0B" text-anchor="middle">O²⁻ 氧离子</text>
+  <text x="655" y="604" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">O</text>
+  <g fill="none" stroke="#BA7517" stroke-width="2" stroke-linecap="round">
+    <path d="M 631,578 L 623,578 L 623,622 L 631,622"/>
+    <path d="M 679,578 L 687,578 L 687,622 L 679,622"/>
+  </g>
+  <g fill="#2C2C2A">
+    <circle cx="637" cy="596" r="3.4"/><circle cx="637" cy="607" r="3.4"/>
+    <circle cx="673" cy="596" r="3.4"/><circle cx="673" cy="607" r="3.4"/>
+    <circle cx="649" cy="583" r="3.4"/><circle cx="661" cy="583" r="3.4"/>
+    <circle cx="649" cy="619" r="3.4"/><circle cx="661" cy="619" r="3.4"/>
+  </g>
+  <text x="699" y="584" font-size="11" font-weight="600" fill="#A32D2D">2<tspan dy="-6" font-size="9">−</tspan></text>
+  <text x="655" y="637" font-size="9.5" fill="#5F5E5A" text-anchor="middle">8 个点 · 得到 2 e⁻</text>
+
+  <rect x="735" y="556" width="120" height="88" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="795" y="573" font-size="10" fill="#854F0B" text-anchor="middle">N³⁻ 氮离子</text>
+  <text x="795" y="604" font-size="19" font-weight="600" fill="#854F0B" text-anchor="middle">N</text>
+  <g fill="none" stroke="#BA7517" stroke-width="2" stroke-linecap="round">
+    <path d="M 771,578 L 763,578 L 763,622 L 771,622"/>
+    <path d="M 819,578 L 827,578 L 827,622 L 819,622"/>
+  </g>
+  <g fill="#2C2C2A">
+    <circle cx="777" cy="596" r="3.4"/><circle cx="777" cy="607" r="3.4"/>
+    <circle cx="813" cy="596" r="3.4"/><circle cx="813" cy="607" r="3.4"/>
+    <circle cx="789" cy="583" r="3.4"/><circle cx="801" cy="583" r="3.4"/>
+    <circle cx="789" cy="619" r="3.4"/><circle cx="801" cy="619" r="3.4"/>
+  </g>
+  <text x="839" y="584" font-size="11" font-weight="600" fill="#A32D2D">3<tspan dy="-6" font-size="9">−</tspan></text>
+  <text x="795" y="637" font-size="9.5" fill="#5F5E5A" text-anchor="middle">8 个点 · 得到 3 e⁻</text>
+
+  <line x1="30" y1="662" x2="870" y2="662" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="30" y="678" font-size="9.5" fill="#888780">易错警示：① 阳离子外面一个点都不能有（价电子已全部失去，新的最外层本来就是满的）；② 阴离子必须补满 8 个点。</text>
+  <text x="30" y="693" font-size="9.5" fill="#888780">③ 电荷一律标在方括号右上角；④ 同族元素价电子数相同 —— 第 1 族都是 1 个、第 17 族都是 7 个，与电子层数无关。</text>
+  <text x="30" y="708" font-size="9.5" fill="#888780">对照记忆：Na (2,8,1) 丢掉那 1 个 → Na⁺；Cl (2,8,7) 补 1 个 → Cl⁻，两者都变成 Ar (2,8,8) 的稳定结构，这就是 octet rule 八隅体规则。</text>
+</svg>

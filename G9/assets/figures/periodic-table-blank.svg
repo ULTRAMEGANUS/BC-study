@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 420" width="570" font-family="'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', Arial, sans-serif">
+  <title>空白周期表（前 20 号元素）</title>
+  <rect width="570" height="420" fill="#FFFFFF"/>
+
+  <text x="30" y="28" font-size="19" font-weight="600" fill="#2C2C2A">空白周期表｜Blank Periodic Table (1–20)</text>
+  <text x="540" y="28" font-size="10.5" fill="#5F5E5A" text-anchor="end">默测用 · 填符号与中英文名称</text>
+  <text x="88" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">1</text>
+  <text x="88" y="64" font-size="8.5" fill="#888780" text-anchor="middle">碱金属</text>
+  <text x="142" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">2</text>
+  <text x="142" y="64" font-size="8.5" fill="#888780" text-anchor="middle">碱土金属</text>
+  <text x="252" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">13</text>
+  <text x="252" y="64" font-size="8.5" fill="#888780" text-anchor="middle">硼族</text>
+  <text x="306" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">14</text>
+  <text x="306" y="64" font-size="8.5" fill="#888780" text-anchor="middle">碳族</text>
+  <text x="360" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">15</text>
+  <text x="360" y="64" font-size="8.5" fill="#888780" text-anchor="middle">氮族</text>
+  <text x="414" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">16</text>
+  <text x="414" y="64" font-size="8.5" fill="#888780" text-anchor="middle">氧族</text>
+  <text x="468" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">17</text>
+  <text x="468" y="64" font-size="8.5" fill="#888780" text-anchor="middle">卤素</text>
+  <text x="522" y="52" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle">18</text>
+  <text x="522" y="64" font-size="8.5" fill="#888780" text-anchor="middle">稀有气体</text>
+  <text x="44" y="99" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="44" y="157" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <text x="44" y="215" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <text x="44" y="273" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">4</text>
+  <text x="44" y="52" font-size="9" fill="#888780" text-anchor="middle">周期</text>
+  <text x="44" y="64" font-size="8.5" fill="#888780" text-anchor="middle">period</text>
+  <rect x="172" y="70" width="50" height="232" rx="6" fill="#F7F6F2" stroke="#B4B2A9" stroke-width="0.7" stroke-dasharray="3 3"/>
+  <text transform="rotate(-90 197 186)" x="197" y="186" font-size="9" fill="#888780" text-anchor="middle" dominant-baseline="central">过渡元素 transition elements 3–12</text>
+  <rect x="62" y="70" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="67" y="82" font-size="9" fill="#888780">1</text>
+  <rect x="496" y="70" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="501" y="82" font-size="9" fill="#888780">2</text>
+  <rect x="62" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="67" y="140" font-size="9" fill="#888780">3</text>
+  <rect x="116" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="121" y="140" font-size="9" fill="#888780">4</text>
+  <rect x="226" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="231" y="140" font-size="9" fill="#888780">5</text>
+  <rect x="280" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="285" y="140" font-size="9" fill="#888780">6</text>
+  <rect x="334" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="339" y="140" font-size="9" fill="#888780">7</text>
+  <rect x="388" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="393" y="140" font-size="9" fill="#888780">8</text>
+  <rect x="442" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="447" y="140" font-size="9" fill="#888780">9</text>
+  <rect x="496" y="128" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="501" y="140" font-size="9" fill="#888780">10</text>
+  <rect x="62" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="67" y="198" font-size="9" fill="#888780">11</text>
+  <rect x="116" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="121" y="198" font-size="9" fill="#888780">12</text>
+  <rect x="226" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="231" y="198" font-size="9" fill="#888780">13</text>
+  <rect x="280" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="285" y="198" font-size="9" fill="#888780">14</text>
+  <rect x="334" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="339" y="198" font-size="9" fill="#888780">15</text>
+  <rect x="388" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="393" y="198" font-size="9" fill="#888780">16</text>
+  <rect x="442" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="447" y="198" font-size="9" fill="#888780">17</text>
+  <rect x="496" y="186" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="501" y="198" font-size="9" fill="#888780">18</text>
+  <rect x="62" y="244" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="67" y="256" font-size="9" fill="#888780">19</text>
+  <rect x="116" y="244" width="52" height="58" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="121" y="256" font-size="9" fill="#888780">20</text>
+  <text x="30" y="330" font-size="10.5" fill="#5F5E5A">填写：元素符号 symbol ／ 中文名 ／ 英文名　（格子左下角数字为原子序数）</text>
+  <text x="30" y="352" font-size="10" fill="#888780">自测方式：先默符号，再默中文名，最后默英文名；三遍全对才算过关。</text>
+  <text x="30" y="370" font-size="10" fill="#888780">提示：Na 钠 nà ／ Cl 氯 lǜ ／ Al 铝 lǚ —— 拼音读错，符号就容易写错。</text>
+</svg>

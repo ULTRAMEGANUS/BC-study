@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>全册主线流程图｜From Electron Arrangement to Properties</title>
+  <rect width="900" height="800" fill="#FFFFFF"/>
+
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="30" font-size="19" font-weight="600" fill="#2C2C2A">全册主线｜电子排布如何一步步决定性质</text>
+  <text x="870" y="30" font-size="10.5" fill="#5F5E5A" text-anchor="end">BC Science 9 · 化学单元主干</text>
+
+  <g>
+    <circle cx="58" cy="96" r="16" fill="#185FA5"/>
+    <text x="58" y="96" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+    <rect x="86" y="70" width="270" height="52" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+    <text x="100" y="89" font-size="13" font-weight="600" fill="#0C447C" dominant-baseline="central">电子排布 electron arrangement</text>
+    <text x="100" y="108" font-size="10" fill="#185FA5" dominant-baseline="central">电子按 2, 8, 8 填入各电子层</text>
+    <path d="M366 96 L392 96" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="70" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="89" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">玻尔图 Bohr diagram</text>
+    <text x="414" y="108" font-size="10.5" fill="#5F5E5A" dominant-baseline="central">例：Na 钠 = 2, 8, 1（11 p⁺，12 n⁰）</text>
+  </g>
+
+  <g>
+    <circle cx="58" cy="164" r="16" fill="#185FA5"/>
+    <text x="58" y="164" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+    <rect x="86" y="138" width="270" height="52" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+    <text x="100" y="157" font-size="13" font-weight="600" fill="#0C447C" dominant-baseline="central">周期表位置 position</text>
+    <text x="100" y="176" font-size="10" fill="#185FA5" dominant-baseline="central">group 族 ／ period 周期</text>
+    <path d="M366 164 L392 164" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="138" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="157" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">周期数 = 电子层数；族号决定价电子数</text>
+    <text x="414" y="176" font-size="10.5" fill="#5F5E5A" dominant-baseline="central">例：Na 在第 3 周期（3 层）、第 1 族</text>
+  </g>
+
+  <g>
+    <circle cx="58" cy="232" r="16" fill="#185FA5"/>
+    <text x="58" y="232" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+    <rect x="86" y="206" width="270" height="52" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+    <text x="100" y="225" font-size="13" font-weight="600" fill="#0C447C" dominant-baseline="central">价电子数 valence electrons</text>
+    <text x="100" y="244" font-size="10" fill="#185FA5" dominant-baseline="central">主族：族号的个位数（He 例外为 2）</text>
+    <path d="M366 232 L392 232" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="206" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="225" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">路易斯点式 Lewis dot diagram</text>
+    <text x="414" y="244" font-size="10.5" fill="#5F5E5A" dominant-baseline="central">例：Na 有 1 个价电子，Cl 有 7 个</text>
+  </g>
+
+  <g>
+    <circle cx="58" cy="300" r="16" fill="#185FA5"/>
+    <text x="58" y="300" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+    <rect x="86" y="274" width="270" height="52" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+    <text x="100" y="293" font-size="13" font-weight="600" fill="#0C447C" dominant-baseline="central">得失电子倾向 tendency</text>
+    <text x="100" y="312" font-size="10" fill="#185FA5" dominant-baseline="central">八隅体规则 octet rule</text>
+    <path d="M366 300 L392 300" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="274" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="293" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">金属失去电子，非金属得到电子，都趋向满层</text>
+    <text x="414" y="312" font-size="10.5" fill="#5F5E5A" dominant-baseline="central">例：Na 失 1 个 → Na⁺；Cl 得 1 个 → Cl⁻</text>
+  </g>
+
+  <g>
+    <circle cx="58" cy="368" r="16" fill="#0F6E56"/>
+    <text x="58" y="368" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">5</text>
+    <rect x="86" y="342" width="270" height="52" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.9"/>
+    <text x="100" y="361" font-size="13" font-weight="600" fill="#085041" dominant-baseline="central">离子电荷 ion charge</text>
+    <text x="100" y="380" font-size="10" fill="#0F6E56" dominant-baseline="central">由族号直接推出</text>
+    <path d="M366 368 L392 368" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="342" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="361" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">1→+1　2→+2　13→+3　15→−3　16→−2　17→−1　18→0</text>
+    <text x="414" y="380" font-size="10.5" fill="#5F5E5A" dominant-baseline="central">例：Na⁺（阳离子 cation）、Cl⁻（阴离子 anion）</text>
+  </g>
+
+  <g>
+    <circle cx="58" cy="436" r="16" fill="#0F6E56"/>
+    <text x="58" y="436" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">6</text>
+    <rect x="86" y="410" width="270" height="52" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.9"/>
+    <text x="100" y="429" font-size="13" font-weight="600" fill="#085041" dominant-baseline="central">化学式 formula</text>
+    <text x="100" y="448" font-size="10" fill="#0F6E56" dominant-baseline="central">交叉法，总电荷必须为零</text>
+    <path d="M366 436 L392 436" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="410" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="429" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">交叉成下标 → 约成最简比 → 下标 1 省略</text>
+    <text x="414" y="448" font-size="10.5" fill="#5F5E5A" dominant-baseline="central">例：Na⁺ + Cl⁻ → NaCl；Mg²⁺ + O²⁻ → MgO（不是 Mg₂O₂）</text>
+  </g>
+
+  <g>
+    <circle cx="58" cy="504" r="16" fill="#0F6E56"/>
+    <text x="58" y="504" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">7</text>
+    <rect x="86" y="478" width="270" height="52" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.9"/>
+    <text x="100" y="497" font-size="13" font-weight="600" fill="#085041" dominant-baseline="central">命名 naming</text>
+    <text x="100" y="516" font-size="10" fill="#0F6E56" dominant-baseline="central">先判断离子还是分子</text>
+    <path d="M366 504 L392 504" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="478" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="497" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">离子：-ide ／ 罗马数字 ／ 多原子离子名；分子：希腊前缀</text>
+    <text x="414" y="516" font-size="10.5" fill="#A32D2D" dominant-baseline="central">英中顺序相反：sodium chloride ＝ 氯化钠</text>
+  </g>
+
+  <g>
+    <circle cx="58" cy="572" r="16" fill="#0F6E56"/>
+    <text x="58" y="572" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">8</text>
+    <rect x="86" y="546" width="270" height="52" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.9"/>
+    <text x="100" y="565" font-size="13" font-weight="600" fill="#085041" dominant-baseline="central">性质 properties</text>
+    <text x="100" y="584" font-size="10" fill="#0F6E56" dominant-baseline="central">结构决定性质</text>
+    <path d="M366 572 L392 572" fill="none" stroke="#B4B2A9" stroke-width="1.5" marker-end="url(#ar)"/>
+    <rect x="400" y="546" width="470" height="52" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+    <text x="414" y="565" font-size="11.5" font-weight="600" fill="#2C2C2A" dominant-baseline="central">离子化合物：晶体、高熔沸点、水溶液或熔融时导电</text>
+    <text x="414" y="584" font-size="10.5" fill="#5F5E5A" dominant-baseline="central">分子化合物：低熔沸点、不导电（无自由移动的带电粒子）</text>
+  </g>
+
+  <path d="M58 128 L58 134" fill="none" stroke="#B4B2A9" stroke-width="1.5"/>
+  <path d="M58 196 L58 202" fill="none" stroke="#B4B2A9" stroke-width="1.5"/>
+  <path d="M58 264 L58 270" fill="none" stroke="#B4B2A9" stroke-width="1.5"/>
+  <path d="M58 332 L58 338" fill="none" stroke="#B4B2A9" stroke-width="1.5"/>
+  <path d="M58 400 L58 406" fill="none" stroke="#B4B2A9" stroke-width="1.5"/>
+  <path d="M58 468 L58 474" fill="none" stroke="#B4B2A9" stroke-width="1.5"/>
+  <path d="M58 536 L58 542" fill="none" stroke="#B4B2A9" stroke-width="1.5"/>
+
+  <rect x="30" y="620" width="840" height="150" rx="10" fill="#EEEDFE" stroke="#7F77DD" stroke-width="1.2"/>
+  <text x="50" y="646" font-size="14" font-weight="600" fill="#3C3489">回扣核心概念｜The Big Idea</text>
+  <text x="50" y="670" font-size="13.5" font-style="italic" fill="#26215C">The electron arrangement of atoms impacts their chemical nature.</text>
+  <text x="50" y="690" font-size="12.5" fill="#3C3489">原子的电子排布决定其化学性质。</text>
+  <path d="M50 702 L850 702" fill="none" stroke="#AFA9EC" stroke-width="0.8"/>
+  <text x="50" y="722" font-size="11" fill="#2C2C2A">顺读（1 → 8）：从电子排布出发，可以推出它形成什么化合物、叫什么、有什么性质。</text>
+  <text x="50" y="740" font-size="11" fill="#2C2C2A">倒读（8 → 1）：从性质或名称出发，可以反推它属于哪类化合物、由什么离子构成、元素在周期表哪个位置。</text>
+  <text x="50" y="758" font-size="10" fill="#5F5E5A">整册只有这一条主线。任何一道综合题，都是在这条线上来回走。</text>
+</svg>
