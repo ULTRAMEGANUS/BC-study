@@ -33,7 +33,7 @@ G9/
 ├─ appendices/                        ← 附录 A–E（时间戳 20260918_124038）
 └─ assets/
    ├─ figures/                        ← SVG 矢量图（打印级，共 13 张）
-   ├─ printables/                     ← 可打印 A4 空白单（待做）
+   ├─ printables/                     ← A4 空白练习单：pdf/ 10 份（共 27 页）+ html/ 源
    ├─ cards/                          ← Anki 导入包（待做）
    └─ source/                         ← 生成脚本与数据（改完重跑即同步）
 ```
@@ -64,7 +64,7 @@ G9/
 
 ## 生成脚本｜assets/source
 
-图库与附录 A 都是**生成物，不要直接编辑**。改完正文或元素数据后重跑脚本即同步。
+图库、附录 A、练习单 PDF 都是**生成物，不要直接编辑**。改完正文或元素数据后重跑脚本即同步。
 详见 [`assets/source/README.md`](assets/source/README.md)。
 
 | 脚本 | 输出 |
@@ -72,6 +72,8 @@ G9/
 | `build_glossary.py` | `appendices/AppendixA_*.md`（234 条术语）+ `glossary.csv` |
 | `build_figures.py` | `figures/*.svg` × 5（周期表 / 玻尔图 / 点式 / 模板）+ `elements_1_20.csv` |
 | `check_figures.py` | 校验 13 张 SVG：XML 合法性、禁用标签、文字越界 |
+| `build_printables.py` | A4 空白练习单 HTML（数据取自两个 CSV，与附录同源） |
+| `html2pdf.py` | HTML → A4 PDF（Chrome headless，通用；含中文文件名保护） |
 
 > ⚠️ Git Bash 下运行必须加 `env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL`，
 > 否则绝对路径会被拼成 `C:\c\Users\...` 而静默失败。
@@ -145,12 +147,14 @@ G9/
 - [x] 完成 11 章正文讲义（`chapters/`，共 6445 行）
 - [x] 完成附录 A–E（`appendices/`，共 4137 行）
 - [x] 完成图库 `assets/figures/`（13 张 SVG）
-- [ ] 可打印 A4 空白单 `assets/printables/`
+- [x] 完成 A4 空白练习单 `assets/printables/`（10 份 PDF，27 页，每份末页附答案）
 - [ ] Anki 词汇卡 `assets/cards/`
+- [ ] 可打印版讲义（把 11 章 + 附录排成一份连续 PDF）
 
 ### 建议学习路径
 
 1. 通读 `00_讲义章节框架_Course_Framework.md` 建立全局观。
 2. 按 Ch.1 → Ch.11 顺序学正文，每章做完第 9 节「答题评估」。
 3. **随时查**：附录 A 词汇 / 附录 B 离子 / 附录 C 命名 / 附录 D 元素。
-4. **考前**：附录 E 的 11 份练习单 + 单元测评卷 + 附录 A-4 易混辨析。
+4. **动手写**：`assets/printables/pdf/` 的 10 份 A4 空白练习单，学完一章做一份。
+5. **考前**：附录 E 的 11 份练习单 + 单元测评卷 + 附录 A-4 易混辨析。

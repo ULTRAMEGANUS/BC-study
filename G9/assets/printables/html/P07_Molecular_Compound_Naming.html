@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<title>P07 Molecular Compound Naming 分子化合物命名</title>
+<style>
+@page { size: A4; margin: 14mm 12mm 13mm; }
+* { box-sizing: border-box; }
+body { font-family: "Segoe UI","Microsoft YaHei","PingFang SC",Arial,sans-serif;
+       font-size: 10.4pt; line-height: 1.45; color: #1a202c; margin: 0; }
+.zh-h { display:block; font-size:.72em; font-weight:500; color:#5a6675; }
+.zh   { display:block; color:#4a5568; font-size:.9em; }
+
+.hd { border-bottom:2.2pt solid #185FA5; padding-bottom:5px; margin-bottom:9px;
+      display:flex; justify-content:space-between; align-items:flex-end; gap:10px; }
+.hd .l { flex:1; }
+.hd .code { display:inline-block; background:#185FA5; color:#fff; font-size:8.2pt;
+            font-weight:700; padding:1px 6px; border-radius:3px; margin-bottom:2px; }
+.hd h1 { font-size:14.5pt; margin:0 0 1px; line-height:1.2; }
+.hd .sub { font-size:8.4pt; color:#5a6675; }
+.hd .field { font-size:8.4pt; color:#3d4753; white-space:nowrap; }
+
+h2.sec { font-size:11pt; margin:11px 0 5px; padding-left:6px;
+         border-left:3.5pt solid #185FA5; }
+h2.sec .zh-h { display:inline; font-size:.78em; margin-left:6px; }
+.tip { font-size:8.3pt; color:#6b7280; margin:3px 0 7px; }
+
+table { border-collapse:collapse; width:100%; font-size:9.3pt; }
+th,td { border:0.8pt solid #9aa7b5; padding:3.5pt 5pt; vertical-align:middle; }
+th { background:#eef2f7; font-weight:600; font-size:8.7pt; }
+td.c, th.c { text-align:center; }
+tr { page-break-inside:avoid; }
+td.fill { height:7.2mm; }
+td.fill.tall { height:11mm; }
+.given { color:#185FA5; font-weight:600; }
+
+table.pt td { height:13mm; text-align:center; position:relative; }
+table.pt .z { position:absolute; top:1.5pt; left:3pt; font-size:7.2pt; color:#9aa7b5; }
+table.pt .big { font-size:13pt; font-weight:700; }
+table.pt .cn { font-size:9pt; }
+table.pt .en { font-size:7.4pt; color:#5a6675; }
+table.pt th { font-size:8pt; }
+
+.grid3 { width:100%; border-collapse:collapse; }
+.grid3 td { border:0.8pt solid #c3cfdd; padding:4pt; text-align:center; width:33.3%; }
+.grid4 td { width:25%; }
+.mini { font-size:7.8pt; color:#4a5568; }
+
+.ans { page-break-before:always; }
+.ans h2 { font-size:12.5pt; color:#A32D2D; margin:0 0 3px;
+          border-bottom:1.6pt solid #A32D2D; padding-bottom:4px; }
+.ans table { font-size:8.8pt; }
+.ans td { background:#fbfcfd; }
+.foot { margin-top:8px; font-size:7.6pt; color:#9aa7b5; border-top:0.6pt solid #dde3ea; padding-top:4px; }
+
+.cat-metal { background:#E6F1FB; }
+.cat-nonmetal { background:#FAEEDA; }
+.cat-noble { background:#EEEDFE; }
+.cat-metalloid { background:#EAF3DE; }
+</style></head><body>
+<div class="hd">
+  <div class="l">
+    <span class="code">P07</span>
+    <h1>Molecular Compound Naming<span class="zh-h">分子化合物命名</span></h1>
+    <div class="sub">Chapter 8 · 希腊前缀</div>
+  </div>
+  <div class="field">Name 姓名 __________　Date 日期 __________　Score 得分 ______</div>
+</div>
+<h2 class="sec">A　希腊数字前缀<span class="zh-h">Greek prefixes</span></h2>
+<table class="">
+<thead><tr><th class="c">数字</th><th class="c">英文前缀 prefix</th><th class="c">中文</th></tr></thead>
+<tbody>
+<tr><td class="c"><span class="given">1</span></td><td class="fill c"></td><td class="c"><span class="given">一</span></td></tr>
+<tr><td class="c"><span class="given">2</span></td><td class="fill c"></td><td class="c"><span class="given">二</span></td></tr>
+<tr><td class="c"><span class="given">3</span></td><td class="fill c"></td><td class="c"><span class="given">三</span></td></tr>
+<tr><td class="c"><span class="given">4</span></td><td class="fill c"></td><td class="c"><span class="given">四</span></td></tr>
+<tr><td class="c"><span class="given">5</span></td><td class="fill c"></td><td class="c"><span class="given">五</span></td></tr>
+<tr><td class="c"><span class="given">6</span></td><td class="fill c"></td><td class="c"><span class="given">六</span></td></tr>
+<tr><td class="c"><span class="given">7</span></td><td class="fill c"></td><td class="c"><span class="given">七</span></td></tr>
+<tr><td class="c"><span class="given">8</span></td><td class="fill c"></td><td class="c"><span class="given">八</span></td></tr>
+<tr><td class="c"><span class="given">9</span></td><td class="fill c"></td><td class="c"><span class="given">九</span></td></tr>
+<tr><td class="c"><span class="given">10</span></td><td class="fill c"></td><td class="c"><span class="given">十</span></td></tr>
+</tbody></table>
+<p class="tip">三条硬规则：① 第一个元素仅当数目 &gt; 1 时才加前缀；② 第一个元素<b>永不用 mono-</b>；③ 第二个元素必加前缀，词尾改为 -ide。</p>
+<h2 class="sec">B　给化学式，写中英名称<span class="zh-h">Formula → name</span></h2>
+<table class="">
+<thead><tr><th class="c">化学式</th><th>英文 English name</th><th>中文 Chinese name</th></tr></thead>
+<tbody>
+<tr><td class="c"><span class="given">CO₂</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">CO</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">N₂O₄</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">PCl₃</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">SF₆</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">CCl₄</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">N₂O₅</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">SO₂</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">P₂O₃</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">Cl₂O₇</span></td><td class="fill"></td><td class="fill"></td></tr>
+</tbody></table>
+<h2 class="sec">C　俗名记忆<span class="zh-h">Common names</span></h2>
+<table class="">
+<thead><tr><th class="c">化学式</th><th>英文俗名 common name</th><th>中文</th></tr></thead>
+<tbody>
+<tr><td class="c"><span class="given">H₂O</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">NH₃</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">CH₄</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">O₃</span></td><td class="fill"></td><td class="fill"></td></tr>
+<tr><td class="c"><span class="given">H₂O₂</span></td><td class="fill"></td><td class="fill"></td></tr>
+</tbody></table>
+<div class="ans">
+<h2>答案｜Answer Key</h2>
+<p class="tip">建议整份做完后对照；教师/家长可打印后裁下本页单独保存。</p>
+<h2 class="sec" style="font-size:10pt">A　前缀</h2><table class="">
+<thead><tr><th class="c">数字</th><th class="c">prefix</th><th class="c">中文</th></tr></thead>
+<tbody>
+<tr><td class="c">1</td><td class="c"><b>mono-</b></td><td class="c">一</td></tr>
+<tr><td class="c">2</td><td class="c"><b>di-</b></td><td class="c">二</td></tr>
+<tr><td class="c">3</td><td class="c"><b>tri-</b></td><td class="c">三</td></tr>
+<tr><td class="c">4</td><td class="c"><b>tetra-</b></td><td class="c">四</td></tr>
+<tr><td class="c">5</td><td class="c"><b>penta-</b></td><td class="c">五</td></tr>
+<tr><td class="c">6</td><td class="c"><b>hexa-</b></td><td class="c">六</td></tr>
+<tr><td class="c">7</td><td class="c"><b>hepta-</b></td><td class="c">七</td></tr>
+<tr><td class="c">8</td><td class="c"><b>octa-</b></td><td class="c">八</td></tr>
+<tr><td class="c">9</td><td class="c"><b>nona-</b></td><td class="c">九</td></tr>
+<tr><td class="c">10</td><td class="c"><b>deca-</b></td><td class="c">十</td></tr>
+</tbody></table><h2 class="sec" style="font-size:10pt">B　命名</h2><table class="">
+<thead><tr><th class="c">化学式</th><th>English</th><th>中文</th></tr></thead>
+<tbody>
+<tr><td class="c">CO₂</td><td>carbon dioxide</td><td>二氧化碳</td></tr>
+<tr><td class="c">CO</td><td>carbon monoxide</td><td>一氧化碳</td></tr>
+<tr><td class="c">N₂O₄</td><td>dinitrogen tetroxide</td><td>四氧化二氮</td></tr>
+<tr><td class="c">PCl₃</td><td>phosphorus trichloride</td><td>三氯化磷</td></tr>
+<tr><td class="c">SF₆</td><td>sulfur hexafluoride</td><td>六氟化硫</td></tr>
+<tr><td class="c">CCl₄</td><td>carbon tetrachloride</td><td>四氯化碳</td></tr>
+<tr><td class="c">N₂O₅</td><td>dinitrogen pentoxide</td><td>五氧化二氮</td></tr>
+<tr><td class="c">SO₂</td><td>sulfur dioxide</td><td>二氧化硫</td></tr>
+<tr><td class="c">P₂O₃</td><td>diphosphorus trioxide</td><td>三氧化二磷</td></tr>
+<tr><td class="c">Cl₂O₇</td><td>dichlorine heptoxide</td><td>七氧化二氯</td></tr>
+</tbody></table><h2 class="sec" style="font-size:10pt">C　俗名</h2><table class="">
+<thead><tr><th class="c">化学式</th><th>English</th><th>中文</th></tr></thead>
+<tbody>
+<tr><td class="c">H₂O</td><td>water</td><td>水</td></tr>
+<tr><td class="c">NH₃</td><td>ammonia</td><td>氨</td></tr>
+<tr><td class="c">CH₄</td><td>methane</td><td>甲烷</td></tr>
+<tr><td class="c">O₃</td><td>ozone</td><td>臭氧</td></tr>
+<tr><td class="c">H₂O₂</td><td>hydrogen peroxide</td><td>过氧化氢</td></tr>
+</tbody></table>
+</div>
+<div class="foot">BC Science 9 · Chemistry Unit ｜ P07 分子化合物命名　第一个元素永不用 mono-</div>
+</body></html>

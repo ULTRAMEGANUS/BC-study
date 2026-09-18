@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<title>P04 Ion Formation Drill 离子形成练习</title>
+<style>
+@page { size: A4; margin: 14mm 12mm 13mm; }
+* { box-sizing: border-box; }
+body { font-family: "Segoe UI","Microsoft YaHei","PingFang SC",Arial,sans-serif;
+       font-size: 10.4pt; line-height: 1.45; color: #1a202c; margin: 0; }
+.zh-h { display:block; font-size:.72em; font-weight:500; color:#5a6675; }
+.zh   { display:block; color:#4a5568; font-size:.9em; }
+
+.hd { border-bottom:2.2pt solid #185FA5; padding-bottom:5px; margin-bottom:9px;
+      display:flex; justify-content:space-between; align-items:flex-end; gap:10px; }
+.hd .l { flex:1; }
+.hd .code { display:inline-block; background:#185FA5; color:#fff; font-size:8.2pt;
+            font-weight:700; padding:1px 6px; border-radius:3px; margin-bottom:2px; }
+.hd h1 { font-size:14.5pt; margin:0 0 1px; line-height:1.2; }
+.hd .sub { font-size:8.4pt; color:#5a6675; }
+.hd .field { font-size:8.4pt; color:#3d4753; white-space:nowrap; }
+
+h2.sec { font-size:11pt; margin:11px 0 5px; padding-left:6px;
+         border-left:3.5pt solid #185FA5; }
+h2.sec .zh-h { display:inline; font-size:.78em; margin-left:6px; }
+.tip { font-size:8.3pt; color:#6b7280; margin:3px 0 7px; }
+
+table { border-collapse:collapse; width:100%; font-size:9.3pt; }
+th,td { border:0.8pt solid #9aa7b5; padding:3.5pt 5pt; vertical-align:middle; }
+th { background:#eef2f7; font-weight:600; font-size:8.7pt; }
+td.c, th.c { text-align:center; }
+tr { page-break-inside:avoid; }
+td.fill { height:7.2mm; }
+td.fill.tall { height:11mm; }
+.given { color:#185FA5; font-weight:600; }
+
+table.pt td { height:13mm; text-align:center; position:relative; }
+table.pt .z { position:absolute; top:1.5pt; left:3pt; font-size:7.2pt; color:#9aa7b5; }
+table.pt .big { font-size:13pt; font-weight:700; }
+table.pt .cn { font-size:9pt; }
+table.pt .en { font-size:7.4pt; color:#5a6675; }
+table.pt th { font-size:8pt; }
+
+.grid3 { width:100%; border-collapse:collapse; }
+.grid3 td { border:0.8pt solid #c3cfdd; padding:4pt; text-align:center; width:33.3%; }
+.grid4 td { width:25%; }
+.mini { font-size:7.8pt; color:#4a5568; }
+
+.ans { page-break-before:always; }
+.ans h2 { font-size:12.5pt; color:#A32D2D; margin:0 0 3px;
+          border-bottom:1.6pt solid #A32D2D; padding-bottom:4px; }
+.ans table { font-size:8.8pt; }
+.ans td { background:#fbfcfd; }
+.foot { margin-top:8px; font-size:7.6pt; color:#9aa7b5; border-top:0.6pt solid #dde3ea; padding-top:4px; }
+
+.cat-metal { background:#E6F1FB; }
+.cat-nonmetal { background:#FAEEDA; }
+.cat-noble { background:#EEEDFE; }
+.cat-metalloid { background:#EAF3DE; }
+</style></head><body>
+<div class="hd">
+  <div class="l">
+    <span class="code">P04</span>
+    <h1>Ion Formation Drill<span class="zh-h">离子形成练习</span></h1>
+    <div class="sub">Chapter 6 · 族号推电荷</div>
+  </div>
+  <div class="field">Name 姓名 __________　Date 日期 __________　Score 得分 ______</div>
+</div>
+<h2 class="sec">由族号推离子<span class="zh-h">Predicting ions from the group number</span></h2>
+<p class="tip">金属失电子 → 阳离子 cation（正）；非金属得电子 → 阴离子 anion（负）。目标都是达到 <b>8 个价电子</b>（八隅体规则 octet rule）。</p>
+<table class="">
+<thead><tr><th>元素 Element</th><th class="c">族 Group</th><th class="c">价电子</th><th class="c">失/得电子数</th><th class="c">离子符号</th><th class="c">离子名称（中）</th><th class="c">电子总数</th></tr></thead>
+<tbody>
+<tr><td><b>Na</b> 钠</td><td class="c">1</td><td class="c">1</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>Mg</b> 镁</td><td class="c">2</td><td class="c">2</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>Al</b> 铝</td><td class="c">13</td><td class="c">3</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>K</b> 钾</td><td class="c">1</td><td class="c">1</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>Ca</b> 钙</td><td class="c">2</td><td class="c">2</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>Li</b> 锂</td><td class="c">1</td><td class="c">1</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>O</b> 氧</td><td class="c">16</td><td class="c">6</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>F</b> 氟</td><td class="c">17</td><td class="c">7</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>Cl</b> 氯</td><td class="c">17</td><td class="c">7</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>S</b> 硫</td><td class="c">16</td><td class="c">6</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>N</b> 氮</td><td class="c">15</td><td class="c">5</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+<tr><td><b>Br</b> 溴</td><td class="c">17</td><td class="c">7</td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td><td class="fill c"></td></tr>
+</tbody></table>
+<h2 class="sec">多变价与多原子离子<span class="zh-h">Multivalent &amp; polyatomic</span></h2>
+<table class="">
+<thead><tr><th class="c">离子符号</th><th>名称（English）</th><th>名称（中文）</th></tr></thead>
+<tbody>
+<tr><td class="c">Fe²⁺</td><td class="fill"></td><td>亚铁离子</td></tr>
+<tr><td class="c">Fe³⁺</td><td class="fill"></td><td>铁离子</td></tr>
+<tr><td class="c">Cu⁺</td><td class="fill"></td><td>亚铜离子</td></tr>
+<tr><td class="c">Cu²⁺</td><td class="fill"></td><td>铜离子</td></tr>
+<tr><td class="c">NH₄⁺</td><td class="fill"></td><td>铵根离子</td></tr>
+<tr><td class="c">OH⁻</td><td class="fill"></td><td>氢氧根离子</td></tr>
+<tr><td class="c">NO₃⁻</td><td class="fill"></td><td>硝酸根离子</td></tr>
+<tr><td class="c">CO₃²⁻</td><td class="fill"></td><td>碳酸根离子</td></tr>
+<tr><td class="c">SO₄²⁻</td><td class="fill"></td><td>硫酸根离子</td></tr>
+<tr><td class="c">PO₄³⁻</td><td class="fill"></td><td>磷酸根离子</td></tr>
+</tbody></table>
+<div class="ans">
+<h2>答案｜Answer Key</h2>
+<p class="tip">建议整份做完后对照；教师/家长可打印后裁下本页单独保存。</p>
+<table class="">
+<thead><tr><th class="c">元素</th><th class="c">得失电子</th><th class="c">离子符号</th><th>English</th><th>中文</th><th class="c">电子总数</th></tr></thead>
+<tbody>
+<tr><td class="c"><b>Na</b></td><td class="c">失去 1 1 e⁻</td><td class="c"><b>Na⁺</b></td><td>sodium ion</td><td>钠离子</td><td class="c">10</td></tr>
+<tr><td class="c"><b>Mg</b></td><td class="c">失去 2 2 e⁻</td><td class="c"><b>Mg²⁺</b></td><td>magnesium ion</td><td>镁离子</td><td class="c">10</td></tr>
+<tr><td class="c"><b>Al</b></td><td class="c">失去 3 3 e⁻</td><td class="c"><b>Al³⁺</b></td><td>aluminium ion</td><td>铝离子</td><td class="c">10</td></tr>
+<tr><td class="c"><b>K</b></td><td class="c">失去 1 1 e⁻</td><td class="c"><b>K⁺</b></td><td>potassium ion</td><td>钾离子</td><td class="c">18</td></tr>
+<tr><td class="c"><b>Ca</b></td><td class="c">失去 2 2 e⁻</td><td class="c"><b>Ca²⁺</b></td><td>calcium ion</td><td>钙离子</td><td class="c">18</td></tr>
+<tr><td class="c"><b>Li</b></td><td class="c">失去 1 1 e⁻</td><td class="c"><b>Li⁺</b></td><td>lithium ion</td><td>锂离子</td><td class="c">2</td></tr>
+<tr><td class="c"><b>O</b></td><td class="c">得到 2 2 e⁻</td><td class="c"><b>O²⁻</b></td><td>oxide ion</td><td>氧离子</td><td class="c">10</td></tr>
+<tr><td class="c"><b>F</b></td><td class="c">得到 1 1 e⁻</td><td class="c"><b>F⁻</b></td><td>fluoride ion</td><td>氟离子</td><td class="c">10</td></tr>
+<tr><td class="c"><b>Cl</b></td><td class="c">得到 1 1 e⁻</td><td class="c"><b>Cl⁻</b></td><td>chloride ion</td><td>氯离子</td><td class="c">18</td></tr>
+<tr><td class="c"><b>S</b></td><td class="c">得到 2 2 e⁻</td><td class="c"><b>S²⁻</b></td><td>sulfide ion</td><td>硫离子</td><td class="c">18</td></tr>
+<tr><td class="c"><b>N</b></td><td class="c">得到 3 3 e⁻</td><td class="c"><b>N³⁻</b></td><td>nitride ion</td><td>氮离子</td><td class="c">10</td></tr>
+<tr><td class="c"><b>Br</b></td><td class="c">得到 1 1 e⁻</td><td class="c"><b>Br⁻</b></td><td>bromide ion</td><td>溴离子</td><td class="c">36</td></tr>
+</tbody></table>
+</div>
+<div class="foot">BC Science 9 · Chemistry Unit ｜ P04 离子形成练习　金属失电子、非金属得电子</div>
+</body></html>

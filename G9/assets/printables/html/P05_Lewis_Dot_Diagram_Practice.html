@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<title>P05 Lewis Dot Diagram Practice 路易斯点式练习</title>
+<style>
+@page { size: A4; margin: 14mm 12mm 13mm; }
+* { box-sizing: border-box; }
+body { font-family: "Segoe UI","Microsoft YaHei","PingFang SC",Arial,sans-serif;
+       font-size: 10.4pt; line-height: 1.45; color: #1a202c; margin: 0; }
+.zh-h { display:block; font-size:.72em; font-weight:500; color:#5a6675; }
+.zh   { display:block; color:#4a5568; font-size:.9em; }
+
+.hd { border-bottom:2.2pt solid #185FA5; padding-bottom:5px; margin-bottom:9px;
+      display:flex; justify-content:space-between; align-items:flex-end; gap:10px; }
+.hd .l { flex:1; }
+.hd .code { display:inline-block; background:#185FA5; color:#fff; font-size:8.2pt;
+            font-weight:700; padding:1px 6px; border-radius:3px; margin-bottom:2px; }
+.hd h1 { font-size:14.5pt; margin:0 0 1px; line-height:1.2; }
+.hd .sub { font-size:8.4pt; color:#5a6675; }
+.hd .field { font-size:8.4pt; color:#3d4753; white-space:nowrap; }
+
+h2.sec { font-size:11pt; margin:11px 0 5px; padding-left:6px;
+         border-left:3.5pt solid #185FA5; }
+h2.sec .zh-h { display:inline; font-size:.78em; margin-left:6px; }
+.tip { font-size:8.3pt; color:#6b7280; margin:3px 0 7px; }
+
+table { border-collapse:collapse; width:100%; font-size:9.3pt; }
+th,td { border:0.8pt solid #9aa7b5; padding:3.5pt 5pt; vertical-align:middle; }
+th { background:#eef2f7; font-weight:600; font-size:8.7pt; }
+td.c, th.c { text-align:center; }
+tr { page-break-inside:avoid; }
+td.fill { height:7.2mm; }
+td.fill.tall { height:11mm; }
+.given { color:#185FA5; font-weight:600; }
+
+table.pt td { height:13mm; text-align:center; position:relative; }
+table.pt .z { position:absolute; top:1.5pt; left:3pt; font-size:7.2pt; color:#9aa7b5; }
+table.pt .big { font-size:13pt; font-weight:700; }
+table.pt .cn { font-size:9pt; }
+table.pt .en { font-size:7.4pt; color:#5a6675; }
+table.pt th { font-size:8pt; }
+
+.grid3 { width:100%; border-collapse:collapse; }
+.grid3 td { border:0.8pt solid #c3cfdd; padding:4pt; text-align:center; width:33.3%; }
+.grid4 td { width:25%; }
+.mini { font-size:7.8pt; color:#4a5568; }
+
+.ans { page-break-before:always; }
+.ans h2 { font-size:12.5pt; color:#A32D2D; margin:0 0 3px;
+          border-bottom:1.6pt solid #A32D2D; padding-bottom:4px; }
+.ans table { font-size:8.8pt; }
+.ans td { background:#fbfcfd; }
+.foot { margin-top:8px; font-size:7.6pt; color:#9aa7b5; border-top:0.6pt solid #dde3ea; padding-top:4px; }
+
+.cat-metal { background:#E6F1FB; }
+.cat-nonmetal { background:#FAEEDA; }
+.cat-noble { background:#EEEDFE; }
+.cat-metalloid { background:#EAF3DE; }
+</style></head><body>
+<div class="hd">
+  <div class="l">
+    <span class="code">P05</span>
+    <h1>Lewis Dot Diagram Practice<span class="zh-h">路易斯点式练习</span></h1>
+    <div class="sub">Chapter 6 · 原子与离子</div>
+  </div>
+  <div class="field">Name 姓名 __________　Date 日期 __________　Score 得分 ______</div>
+</div>
+<h2 class="sec">A　原子路易斯点式<span class="zh-h">Lewis dot diagrams for atoms</span></h2>
+<p class="tip">把价电子画成小圆点：上、右、下、左顺时针放置，每个方向最多 2 个。价电子数 = 主族族号个位数（He 例外，为 2）。</p>
+<table class="grid3">
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">H</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Be</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">B</text>
+</svg><div class="mini">价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">C</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">N</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">O</text>
+</svg><div class="mini">价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">F</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Ne</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Na</text>
+</svg><div class="mini">价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Mg</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Al</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">S</text>
+</svg><div class="mini">价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Cl</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Ar</text>
+</svg><div class="mini">价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 108" width="104" height="95">
+  <circle cx="59" cy="16" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="26" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="88" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="80" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="92" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="59" cy="82" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="50" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="38" cy="59" r="3.1" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="59" y="64" font-size="20" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Ca</text>
+</svg><div class="mini">价电子 ______</div></div></td></tr>
+</table>
+<h2 class="sec">B　离子路易斯点式<span class="zh-h">Lewis dot diagrams for ions</span></h2>
+<p class="tip">阴离子：方括号内画 <b>8 个点</b>，右上角标电荷；阳离子：<b>不画点</b>，只标右上角电荷。</p>
+<table class="grid3">
+<tr><td><div style="text-align:center"><svg viewBox="0 0 96 104" width="88" height="95">
+  <circle cx="30" cy="20" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="32" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="44" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="56" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="80" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="68" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="16" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="4" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="30" y="57" font-size="17" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Na</text>
+  <path d="M46 8 L40 8 L40 96 L46 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <path d="M50 8 L56 8 L56 96 L50 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <text x="62" y="26" font-size="13" fill="#A32D2D" font-family="Segoe UI">____</text>
+</svg><div class="mini">离子符号 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 96 104" width="88" height="95">
+  <circle cx="30" cy="20" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="32" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="44" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="56" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="80" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="68" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="16" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="4" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="30" y="57" font-size="17" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Mg</text>
+  <path d="M46 8 L40 8 L40 96 L46 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <path d="M50 8 L56 8 L56 96 L50 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <text x="62" y="26" font-size="13" fill="#A32D2D" font-family="Segoe UI">____</text>
+</svg><div class="mini">离子符号 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 96 104" width="88" height="95">
+  <circle cx="30" cy="20" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="32" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="44" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="56" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="80" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="68" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="16" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="4" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="30" y="57" font-size="17" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Al</text>
+  <path d="M46 8 L40 8 L40 96 L46 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <path d="M50 8 L56 8 L56 96 L50 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <text x="62" y="26" font-size="13" fill="#A32D2D" font-family="Segoe UI">____</text>
+</svg><div class="mini">离子符号 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 96 104" width="88" height="95">
+  <circle cx="30" cy="20" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="32" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="44" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="56" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="80" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="68" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="16" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="4" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="30" y="57" font-size="17" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">Cl</text>
+  <path d="M46 8 L40 8 L40 96 L46 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <path d="M50 8 L56 8 L56 96 L50 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <text x="62" y="26" font-size="13" fill="#A32D2D" font-family="Segoe UI">____</text>
+</svg><div class="mini">离子符号 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 96 104" width="88" height="95">
+  <circle cx="30" cy="20" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="32" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="44" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="56" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="80" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="68" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="16" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="4" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="30" y="57" font-size="17" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">O</text>
+  <path d="M46 8 L40 8 L40 96 L46 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <path d="M50 8 L56 8 L56 96 L50 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <text x="62" y="26" font-size="13" fill="#A32D2D" font-family="Segoe UI">____</text>
+</svg><div class="mini">离子符号 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 96 104" width="88" height="95">
+  <circle cx="30" cy="20" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="32" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="44" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="56" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="80" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="30" cy="68" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="16" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/><circle cx="4" cy="44" r="3" fill="none" stroke="#b8c2ce" stroke-width="0.8"/>
+  <text x="30" y="57" font-size="17" font-weight="700" text-anchor="middle"
+        fill="#185FA5" font-family="Segoe UI">N</text>
+  <path d="M46 8 L40 8 L40 96 L46 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <path d="M50 8 L56 8 L56 96 L50 96" fill="none" stroke="#5a6675" stroke-width="1.1"/>
+  <text x="62" y="26" font-size="13" fill="#A32D2D" font-family="Segoe UI">____</text>
+</svg><div class="mini">离子符号 ______</div></div></td></tr>
+</table>
+<div class="ans">
+<h2>答案｜Answer Key</h2>
+<p class="tip">建议整份做完后对照；教师/家长可打印后裁下本页单独保存。</p>
+<h2 class="sec" style="font-size:10pt">A　价电子数</h2><table class="">
+<thead><tr><th class="c">符号</th><th class="c">价电子</th><th class="c">符号</th><th class="c">价电子</th><th class="c">符号</th><th class="c">价电子</th><th class="c">符号</th><th class="c">价电子</th><th class="c">符号</th><th class="c">价电子</th></tr></thead>
+<tbody>
+<tr><td class="c"><b>H</b></td><td class="c">1</td><td class="c"><b>Be</b></td><td class="c">2</td><td class="c"><b>B</b></td><td class="c">3</td><td class="c"><b>C</b></td><td class="c">4</td><td class="c"><b>N</b></td><td class="c">5</td></tr>
+<tr><td class="c"><b>O</b></td><td class="c">6</td><td class="c"><b>F</b></td><td class="c">7</td><td class="c"><b>Ne</b></td><td class="c">8</td><td class="c"><b>Na</b></td><td class="c">1</td><td class="c"><b>Mg</b></td><td class="c">2</td></tr>
+<tr><td class="c"><b>Al</b></td><td class="c">3</td><td class="c"><b>S</b></td><td class="c">6</td><td class="c"><b>Cl</b></td><td class="c">7</td><td class="c"><b>Ar</b></td><td class="c">8</td><td class="c"><b>Ca</b></td><td class="c">2</td></tr>
+</tbody></table><h2 class="sec" style="font-size:10pt">B　离子点式</h2><table class="">
+<thead><tr><th class="c">元素</th><th class="c">离子点式写法</th></tr></thead>
+<tbody>
+<tr><td class="c"><b>Na</b></td><td class="c">Na⁺ 0 点</td></tr>
+<tr><td class="c"><b>Mg</b></td><td class="c">Mg²⁺ 0 点</td></tr>
+<tr><td class="c"><b>Al</b></td><td class="c">Al³⁺ 0 点</td></tr>
+<tr><td class="c"><b>Cl</b></td><td class="c">[Cl]⁻ 8 点</td></tr>
+<tr><td class="c"><b>O</b></td><td class="c">[O]²⁻ 8 点</td></tr>
+<tr><td class="c"><b>N</b></td><td class="c">[N]³⁻ 8 点</td></tr>
+</tbody></table>
+</div>
+<div class="foot">BC Science 9 · Chemistry Unit ｜ P05 路易斯点式练习　阳离子 0 点、阴离子 8 点</div>
+</body></html>

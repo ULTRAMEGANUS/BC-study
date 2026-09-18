@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<title>P03 Bohr Diagram Practice 玻尔图练习</title>
+<style>
+@page { size: A4; margin: 14mm 12mm 13mm; }
+* { box-sizing: border-box; }
+body { font-family: "Segoe UI","Microsoft YaHei","PingFang SC",Arial,sans-serif;
+       font-size: 10.4pt; line-height: 1.45; color: #1a202c; margin: 0; }
+.zh-h { display:block; font-size:.72em; font-weight:500; color:#5a6675; }
+.zh   { display:block; color:#4a5568; font-size:.9em; }
+
+.hd { border-bottom:2.2pt solid #185FA5; padding-bottom:5px; margin-bottom:9px;
+      display:flex; justify-content:space-between; align-items:flex-end; gap:10px; }
+.hd .l { flex:1; }
+.hd .code { display:inline-block; background:#185FA5; color:#fff; font-size:8.2pt;
+            font-weight:700; padding:1px 6px; border-radius:3px; margin-bottom:2px; }
+.hd h1 { font-size:14.5pt; margin:0 0 1px; line-height:1.2; }
+.hd .sub { font-size:8.4pt; color:#5a6675; }
+.hd .field { font-size:8.4pt; color:#3d4753; white-space:nowrap; }
+
+h2.sec { font-size:11pt; margin:11px 0 5px; padding-left:6px;
+         border-left:3.5pt solid #185FA5; }
+h2.sec .zh-h { display:inline; font-size:.78em; margin-left:6px; }
+.tip { font-size:8.3pt; color:#6b7280; margin:3px 0 7px; }
+
+table { border-collapse:collapse; width:100%; font-size:9.3pt; }
+th,td { border:0.8pt solid #9aa7b5; padding:3.5pt 5pt; vertical-align:middle; }
+th { background:#eef2f7; font-weight:600; font-size:8.7pt; }
+td.c, th.c { text-align:center; }
+tr { page-break-inside:avoid; }
+td.fill { height:7.2mm; }
+td.fill.tall { height:11mm; }
+.given { color:#185FA5; font-weight:600; }
+
+table.pt td { height:13mm; text-align:center; position:relative; }
+table.pt .z { position:absolute; top:1.5pt; left:3pt; font-size:7.2pt; color:#9aa7b5; }
+table.pt .big { font-size:13pt; font-weight:700; }
+table.pt .cn { font-size:9pt; }
+table.pt .en { font-size:7.4pt; color:#5a6675; }
+table.pt th { font-size:8pt; }
+
+.grid3 { width:100%; border-collapse:collapse; }
+.grid3 td { border:0.8pt solid #c3cfdd; padding:4pt; text-align:center; width:33.3%; }
+.grid4 td { width:25%; }
+.mini { font-size:7.8pt; color:#4a5568; }
+
+.ans { page-break-before:always; }
+.ans h2 { font-size:12.5pt; color:#A32D2D; margin:0 0 3px;
+          border-bottom:1.6pt solid #A32D2D; padding-bottom:4px; }
+.ans table { font-size:8.8pt; }
+.ans td { background:#fbfcfd; }
+.foot { margin-top:8px; font-size:7.6pt; color:#9aa7b5; border-top:0.6pt solid #dde3ea; padding-top:4px; }
+
+.cat-metal { background:#E6F1FB; }
+.cat-nonmetal { background:#FAEEDA; }
+.cat-noble { background:#EEEDFE; }
+.cat-metalloid { background:#EAF3DE; }
+</style></head><body>
+<div class="hd">
+  <div class="l">
+    <span class="code">P03</span>
+    <h1>Bohr Diagram Practice<span class="zh-h">玻尔图练习</span></h1>
+    <div class="sub">Chapter 5 · 15 个元素</div>
+  </div>
+  <div class="field">Name 姓名 __________　Date 日期 __________　Score 得分 ______</div>
+</div>
+<h2 class="sec">画出玻尔模型图<span class="zh-h">Bohr diagram</span></h2>
+<p class="tip">在同心圆上点电子，并在中心圆内填质子数与中子数。前 20 号元素按 <b>2, 8, 8</b> 依次填充（第 3 层按 8 处理）。</p>
+<table class="grid3">
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Li</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>B</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>C</b></div><div class="mini">排布 ______　价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>N</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>O</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>F</b></div><div class="mini">排布 ______　价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Ne</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Na</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Mg</b></div><div class="mini">排布 ______　价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Al</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Si</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>S</b></div><div class="mini">排布 ______　价电子 ______</div></div></td></tr>
+<tr><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Cl</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Ar</b></div><div class="mini">排布 ______　价电子 ______</div></div></td><td><div style="text-align:center"><svg viewBox="0 0 118 118" width="112" height="112">
+  <circle cx="59" cy="59" r="53" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="41" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="29" fill="none" stroke="#c3cfdd" stroke-width="0.9" stroke-dasharray="3 3"/>
+  <circle cx="59" cy="59" r="13" fill="#ffffff" stroke="#9aa7b5" stroke-width="0.9"/>
+  <text x="59" y="56" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__p⁺</text>
+  <text x="59" y="66" font-size="6.4" text-anchor="middle" fill="#9aa7b5" font-family="Segoe UI">__n⁰</text>
+  <text x="59" y="7"  font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">M 8</text>
+  <text x="59" y="19" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">L 8</text>
+  <text x="59" y="31" font-size="6" text-anchor="middle" fill="#b8c2ce" font-family="Segoe UI">K 2</text>
+</svg><div class="mini">元素 <b>Ca</b></div><div class="mini">排布 ______　价电子 ______</div></div></td></tr>
+</table>
+<div class="ans">
+<h2>答案｜Answer Key</h2>
+<p class="tip">建议整份做完后对照；教师/家长可打印后裁下本页单独保存。</p>
+<p class="tip">答案格式：元素 / 质子数 / 中子数 / 电子排布 / 价电子数</p><table class="">
+<thead><tr><th class="c">符号</th><th>中文</th><th class="c">质子 p⁺</th><th class="c">中子 n⁰</th><th class="c">电子排布</th><th class="c">价电子</th></tr></thead>
+<tbody>
+<tr><td class="c"><b>Li</b></td><td>锂</td><td class="c">3</td><td class="c">4</td><td class="c">2, 1</td><td class="c">1</td></tr>
+<tr><td class="c"><b>B</b></td><td>硼</td><td class="c">5</td><td class="c">6</td><td class="c">2, 3</td><td class="c">3</td></tr>
+<tr><td class="c"><b>C</b></td><td>碳</td><td class="c">6</td><td class="c">6</td><td class="c">2, 4</td><td class="c">4</td></tr>
+<tr><td class="c"><b>N</b></td><td>氮</td><td class="c">7</td><td class="c">7</td><td class="c">2, 5</td><td class="c">5</td></tr>
+<tr><td class="c"><b>O</b></td><td>氧</td><td class="c">8</td><td class="c">8</td><td class="c">2, 6</td><td class="c">6</td></tr>
+<tr><td class="c"><b>F</b></td><td>氟</td><td class="c">9</td><td class="c">10</td><td class="c">2, 7</td><td class="c">7</td></tr>
+<tr><td class="c"><b>Ne</b></td><td>氖</td><td class="c">10</td><td class="c">10</td><td class="c">2, 8</td><td class="c">8</td></tr>
+<tr><td class="c"><b>Na</b></td><td>钠</td><td class="c">11</td><td class="c">12</td><td class="c">2, 8, 1</td><td class="c">1</td></tr>
+<tr><td class="c"><b>Mg</b></td><td>镁</td><td class="c">12</td><td class="c">12</td><td class="c">2, 8, 2</td><td class="c">2</td></tr>
+<tr><td class="c"><b>Al</b></td><td>铝</td><td class="c">13</td><td class="c">14</td><td class="c">2, 8, 3</td><td class="c">3</td></tr>
+<tr><td class="c"><b>Si</b></td><td>硅</td><td class="c">14</td><td class="c">14</td><td class="c">2, 8, 4</td><td class="c">4</td></tr>
+<tr><td class="c"><b>S</b></td><td>硫</td><td class="c">16</td><td class="c">16</td><td class="c">2, 8, 6</td><td class="c">6</td></tr>
+<tr><td class="c"><b>Cl</b></td><td>氯</td><td class="c">17</td><td class="c">18</td><td class="c">2, 8, 7</td><td class="c">7</td></tr>
+<tr><td class="c"><b>Ar</b></td><td>氩</td><td class="c">18</td><td class="c">22</td><td class="c">2, 8, 8</td><td class="c">8</td></tr>
+<tr><td class="c"><b>Ca</b></td><td>钙</td><td class="c">20</td><td class="c">20</td><td class="c">2, 8, 8, 2</td><td class="c">2</td></tr>
+</tbody></table>
+</div>
+<div class="foot">BC Science 9 · Chemistry Unit ｜ P03 玻尔图练习　前 20 号元素按 2, 8, 8 填充</div>
+</body></html>
