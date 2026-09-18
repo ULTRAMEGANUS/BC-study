@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>附录 C-1　命名决策树｜The Naming Decision Tree</title>
+  <rect width="900" height="470" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">附录 C-1　命名决策树｜The Naming Decision Tree</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">拿到化学式先判类型，两套命名法完全不同</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="330" y="62" width="240" height="38" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.2"/>
+  <text x="450" y="81" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">拿到化学式 Chemical formula</text>
+  <path d="M450 100 L450 116" fill="none" stroke="#888780" stroke-width="1.5"/>
+  <text x="450" y="132" font-size="11.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">① 看组成元素：有金属？含 NH₄⁺？全是 非金属？</text>
+  <rect x="15" y="150" width="250" height="44" rx="8" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.1"/>
+  <text x="140" y="166" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">有金属元素？</text>
+  <text x="140" y="183" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">metal present</text>
+  <rect x="325" y="150" width="250" height="44" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.1"/>
+  <text x="450" y="166" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">含 NH₄⁺ 铵根？</text>
+  <text x="450" y="183" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">ammonium</text>
+  <rect x="635" y="150" width="250" height="44" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="760" y="166" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">全是 非金属？</text>
+  <text x="760" y="183" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">all non-metals</text>
+  <path d="M140 194 L140 214 L450 214 L450 232" fill="none" stroke="#185FA5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M450 194 L450 232" fill="none" stroke="#BA7517" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M760 194 L760 232" fill="none" stroke="#3B6D11" stroke-width="1.6" marker-end="url(#ar)"/>
+  <rect x="70" y="240" width="380" height="96" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.4"/>
+  <text x="260" y="262" font-size="14" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">IONIC 离子化合物</text>
+  <text x="260" y="284" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">电子转移 transfer → 交叉法 criss-cross</text>
+  <text x="260" y="302" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">词尾改 -ide，不加前缀</text>
+  <text x="260" y="322" font-size="11" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">例 NaCl sodium chloride 氯化钠</text>
+  <rect x="450" y="240" width="380" height="96" rx="10" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.4"/>
+  <text x="640" y="262" font-size="14" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">MOLECULAR 分子化合物</text>
+  <text x="640" y="284" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">电子共用 sharing → 希腊前缀法</text>
+  <text x="640" y="302" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">第 1 元素 >1 才加前缀，永不用 mono-</text>
+  <text x="640" y="322" font-size="11" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">例 CO₂ carbon dioxide 二氧化碳</text>
+  <rect x="70" y="356" width="760" height="62" rx="8" fill="#FFF8E1" stroke="#BA7517" stroke-width="1.2"/>
+  <text x="90" y="378" font-size="12" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">⚠ 两个例外：</text>
+  <text x="90" y="400" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① NH₄⁺ 铵根全是非金属，但它是阳离子 → 按离子化合物处理（NH₄Cl 氯化铵）</text>
+  <text x="90" y="416" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② CO₂、H₂O 不能用交叉法（会得出 CO 或 C₂O₄）——交叉法只对离子化合物成立</text>
+  <rect x="70" y="434" width="760" height="34" rx="7" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450" y="451" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">看图要点：先看元素种类定类型，再看性质只是验证</text>
+</svg>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 424" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 5-10　Period 3 全景｜为什么这一行叫「第三周期」</title>
+  <rect width="900" height="424" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 5-10　Period 3 全景｜为什么这一行叫「第三周期」</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 层数相同 = 同一周期</text>
+  <rect x="44" y="74" width="78" height="40" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <rect x="122.0" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="167.875" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Na</text>
+  <rect x="213.75" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="259.625" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <rect x="305.5" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="351.375" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Al</text>
+  <rect x="397.25" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="443.125" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Si</text>
+  <rect x="489.0" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="534.875" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">P</text>
+  <rect x="580.75" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="626.625" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">S</text>
+  <rect x="672.5" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="718.375" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Cl</text>
+  <rect x="764.25" y="74" width="91.75" height="40" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="810.125" y="94.0" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ar</text>
+  <rect x="44" y="114" width="78" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <rect x="122.0" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="167.875" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第1族</text>
+  <rect x="213.75" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="259.625" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第2族</text>
+  <rect x="305.5" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="351.375" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第13族</text>
+  <rect x="397.25" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="443.125" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第14族</text>
+  <rect x="489.0" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="534.875" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第15族</text>
+  <rect x="580.75" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="626.625" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第16族</text>
+  <rect x="672.5" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="718.375" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第17族</text>
+  <rect x="764.25" y="114" width="91.75" height="34" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="810.125" y="131.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第18族</text>
+  <rect x="44" y="148" width="78" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="83.0" y="165.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第3层</text>
+  <rect x="122.0" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="167.875" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">1</text>
+  <rect x="213.75" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="259.625" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="305.5" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="351.375" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="397.25" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="443.125" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">4</text>
+  <rect x="489.0" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="534.875" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">5</text>
+  <rect x="580.75" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="626.625" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">6</text>
+  <rect x="672.5" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="718.375" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">7</text>
+  <rect x="764.25" y="148" width="91.75" height="34" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="810.125" y="165.0" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="44" y="182" width="78" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="83.0" y="199.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第2层</text>
+  <rect x="122.0" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="167.875" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="213.75" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="259.625" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="305.5" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="351.375" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="397.25" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="443.125" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="489.0" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="534.875" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="580.75" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="626.625" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="672.5" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="718.375" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="764.25" y="182" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="810.125" y="199.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="44" y="216" width="78" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="83.0" y="233.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第1层</text>
+  <rect x="122.0" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="167.875" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="213.75" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="259.625" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="305.5" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="351.375" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="397.25" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="443.125" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="489.0" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="534.875" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="580.75" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="626.625" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="672.5" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="718.375" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="764.25" y="216" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="810.125" y="233.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="44" y="250" width="78" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="83.0" y="267.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">层数</text>
+  <rect x="122.0" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="167.875" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="213.75" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="259.625" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="305.5" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="351.375" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="397.25" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="443.125" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="489.0" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="534.875" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="580.75" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="626.625" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="672.5" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="718.375" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="764.25" y="250" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="810.125" y="267.0" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="44" y="284" width="78" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="83.0" y="301.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">倾向</text>
+  <rect x="122.0" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="167.875" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">失1</text>
+  <rect x="213.75" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="259.625" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">失2</text>
+  <rect x="305.5" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="351.375" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">失3</text>
+  <rect x="397.25" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="443.125" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">（±4）</text>
+  <rect x="489.0" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="534.875" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">得3</text>
+  <rect x="580.75" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="626.625" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">得2</text>
+  <rect x="672.5" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="718.375" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">得1</text>
+  <rect x="764.25" y="284" width="91.75" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="810.125" y="301.0" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">0</text>
+  <rect x="60" y="334" width="780" height="44" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="450" y="351" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">终点　→→→→　大家都想变成 Ar 的「2, 8, 8」那个满层结构</text>
+  <text x="450" y="368" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">横着看：层数都是 3，但最外层从 1 递增到 8 —— 由活泼金属一路变为活泼非金属，停在惰性的 Ar</text>
+</svg>

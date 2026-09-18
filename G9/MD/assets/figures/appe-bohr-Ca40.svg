@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 358" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>钙-40 Ca-40 Bohr 图（参考答案）</title>
+  <rect width="900" height="358" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">钙-40 Ca-40 Bohr 图（参考答案）</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">附录 E · C2　四层 2, 8, 8, 2　价电子 = 2</text>
+  <text x="450.0" y="70" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ca  钙  Z = 20</text>
+  <text x="450.0" y="89" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">电子排布 = 2, 8, 8, 2　　(A = 40)</text>
+  <rect x="262.0" y="110" width="376" height="34" rx="4" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="254.0" y="127.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第4层 (N)</text>
+  <circle cx="280.0" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="302.0" cy="127.0" r="6.5" fill="#0C447C"/>
+  <text x="628.0" y="127.0" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="end" dominant-baseline="central">2</text>
+  <text x="646.0" y="127.0" font-size="9.5" font-weight="600" fill="#185FA5" text-anchor="start" dominant-baseline="central">← 价电子</text>
+  <rect x="262.0" y="144" width="376" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="254.0" y="161.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第3层 (M)</text>
+  <circle cx="280.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="302.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="324.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="346.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="368.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="390.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="412.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="434.0" cy="161.0" r="6.5" fill="#0C447C"/>
+  <text x="628.0" y="161.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">8</text>
+  <rect x="262.0" y="178" width="376" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="254.0" y="195.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第2层 (L)</text>
+  <circle cx="280.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="302.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="324.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="346.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="368.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="390.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="412.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="434.0" cy="195.0" r="6.5" fill="#0C447C"/>
+  <text x="628.0" y="195.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">8</text>
+  <rect x="262.0" y="212" width="376" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="254.0" y="229.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第1层 (K)</text>
+  <circle cx="280.0" cy="229.0" r="6.5" fill="#0C447C"/>
+  <circle cx="302.0" cy="229.0" r="6.5" fill="#0C447C"/>
+  <text x="628.0" y="229.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">2</text>
+  <rect x="388.0" y="264" width="124" height="46" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="450.0" y="279" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">20 p⁺</text>
+  <text x="450.0" y="296" font-size="12.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">20 n⁰</text>
+  <text x="524.0" y="287" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">原子核 nucleus</text>
+  <rect x="60" y="316" width="780" height="32" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="450.0" y="332" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Group 族 2　Period 周期 4　价电子 2</text>
+</svg>

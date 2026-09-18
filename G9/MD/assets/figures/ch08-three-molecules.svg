@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 436" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 8-2　三种常见分子的点式与结构式｜Lewis &amp; Structural Formulas</title>
+  <rect width="900" height="436" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 8-2　三种常见分子的点式与结构式｜Lewis &amp; Structural Formulas</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 每一对共用电子 = 一条短线</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <text x="112" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="180" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <text x="248" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <circle cx="146" cy="145.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="146" cy="151.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="214" cy="145.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="214" cy="151.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="177.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <circle cx="183.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <circle cx="177.0" cy="178" r="3.2" fill="#2C2C2A"/>
+  <circle cx="183.0" cy="178" r="3.2" fill="#2C2C2A"/>
+  <text x="372" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <text x="450" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">C</text>
+  <text x="528" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <circle cx="406" cy="140.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="406" cy="146.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="406" cy="149.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="406" cy="155.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="494" cy="140.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="494" cy="146.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="494" cy="149.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="494" cy="155.5" r="3.2" fill="#2C2C2A"/>
+  <circle cx="369.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <circle cx="375.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <circle cx="369.0" cy="178" r="3.2" fill="#2C2C2A"/>
+  <circle cx="375.0" cy="178" r="3.2" fill="#2C2C2A"/>
+  <circle cx="525.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <circle cx="531.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <circle cx="525.0" cy="178" r="3.2" fill="#2C2C2A"/>
+  <circle cx="531.0" cy="178" r="3.2" fill="#2C2C2A"/>
+  <text x="650" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="720" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">N</text>
+  <text x="790" y="148" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="720" y="202" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <circle cx="685" cy="145.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="685" cy="151.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="755" cy="145.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="755" cy="151.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="717.0" cy="176" r="3.2" fill="#2C2C2A"/>
+  <circle cx="723.0" cy="176" r="3.2" fill="#2C2C2A"/>
+  <circle cx="717.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <circle cx="723.0" cy="118" r="3.2" fill="#2C2C2A"/>
+  <text x="450" y="214" font-size="11.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">↓　把每一对共用电子改成短线　↓</text>
+  <text x="112" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="180" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <text x="248" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <path d="M130 262 L156 262" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M204 262 L230 262" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <text x="372" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <text x="450" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">C</text>
+  <text x="528" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <path d="M390 254 L432 254" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M390 268 L432 268" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M468 254 L510 254" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M468 268 L510 268" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <text x="650" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="720" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">N</text>
+  <text x="790" y="262" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="720" y="316" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <path d="M668 262 L702 262" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M738 262 L772 262" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M720 280 L720 306" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <text x="180" y="344" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">水 water</text>
+  <text x="180" y="362" font-size="12" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">H₂O</text>
+  <text x="180" y="380" font-size="11" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">bent 折线形</text>
+  <text x="450" y="344" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">二氧化碳</text>
+  <text x="450" y="362" font-size="12" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">CO₂</text>
+  <text x="450" y="380" font-size="11" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">linear 直线形</text>
+  <text x="720" y="344" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氨 ammonia</text>
+  <text x="720" y="362" font-size="12" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">NH₃</text>
+  <text x="720" y="380" font-size="11" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">pyramidal 三角锥</text>
+  <rect x="50" y="396" width="800" height="30" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="450" y="411" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">数一数：H₂O 的 O 有 2 对共用 + 2 对孤对；CO₂ 每个 O 与 C 之间共用 2 对（= 双键）；NH₃ 的 N 上方还有 1 对孤对</text>
+</svg>

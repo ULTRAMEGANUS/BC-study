@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 214" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 4-5　预测五步流程｜Prediction Flowchart</title>
+  <rect width="900" height="214" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 4-5　预测五步流程｜Prediction Flowchart</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 不做实验也能推出性质</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="22" y="96" width="152" height="74" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="98.0" y="118" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">① position</text>
+  <text x="98.0" y="142" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">定位：周期 + 族</text>
+  <path d="M177 133 L195 133" fill="none" stroke="#185FA5" stroke-width="1.8" marker-end="url(#ar)"/>
+  <rect x="198" y="96" width="152" height="74" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="274.0" y="118" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">② family</text>
+  <text x="274.0" y="142" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">归类：属于哪一族</text>
+  <path d="M353 133 L371 133" fill="none" stroke="#185FA5" stroke-width="1.8" marker-end="url(#ar)"/>
+  <rect x="374" y="96" width="152" height="74" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="450.0" y="118" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">③ analogue</text>
+  <text x="450.0" y="142" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">同族类比：共性</text>
+  <path d="M529 133 L547 133" fill="none" stroke="#185FA5" stroke-width="1.8" marker-end="url(#ar)"/>
+  <rect x="550" y="96" width="152" height="74" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="626.0" y="118" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">④ trend</text>
+  <text x="626.0" y="142" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">用趋势修正</text>
+  <path d="M705 133 L723 133" fill="none" stroke="#185FA5" stroke-width="1.8" marker-end="url(#ar)"/>
+  <rect x="726" y="96" width="152" height="74" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="802.0" y="118" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">⑤ prediction</text>
+  <text x="802.0" y="142" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">表述为可检验的预测</text>
+</svg>

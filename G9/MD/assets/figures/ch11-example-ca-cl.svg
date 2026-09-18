@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 468" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 11-4　一条龙示范 1：Ca 与 Cl｜Worked Example — Calcium + Chlorine</title>
+  <rect width="900" height="468" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 11-4　一条龙示范 1：Ca 与 Cl｜Worked Example — Calcium + Chlorine</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 下标 2 不是猜的，是电荷逼出来的</text>
+  <text x="229.0" y="70" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ca  钙  Z = 20</text>
+  <text x="229.0" y="89" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">电子排布 = 2, 8, 8, 2　　(A = 40)</text>
+  <rect x="106" y="110" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="98" y="127.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第4层 (N)</text>
+  <circle cx="124" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="146" cy="127.0" r="6.5" fill="#0C447C"/>
+  <text x="350" y="127.0" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="end" dominant-baseline="central">2</text>
+  <text x="368" y="127.0" font-size="9.5" font-weight="600" fill="#185FA5" text-anchor="start" dominant-baseline="central">← 价电子</text>
+  <rect x="106" y="144" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="98" y="161.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第3层 (M)</text>
+  <circle cx="124" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="146" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="168" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="190" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="212" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="234" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="256" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="278" cy="161.0" r="6.5" fill="#0C447C"/>
+  <text x="350" y="161.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">8</text>
+  <rect x="106" y="178" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="98" y="195.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第2层 (L)</text>
+  <circle cx="124" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="146" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="168" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="190" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="212" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="234" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="256" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="278" cy="195.0" r="6.5" fill="#0C447C"/>
+  <text x="350" y="195.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">8</text>
+  <rect x="106" y="212" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="98" y="229.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第1层 (K)</text>
+  <circle cx="124" cy="229.0" r="6.5" fill="#0C447C"/>
+  <circle cx="146" cy="229.0" r="6.5" fill="#0C447C"/>
+  <text x="350" y="229.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">2</text>
+  <rect x="171.0" y="264" width="124" height="46" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="233.0" y="279" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">20 p⁺</text>
+  <text x="233.0" y="296" font-size="12.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">20 n⁰</text>
+  <text x="307.0" y="287" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">原子核 nucleus</text>
+  <text x="671.0" y="70" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Cl  氯  Z = 17</text>
+  <text x="671.0" y="89" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">电子排布 = 2, 8, 7　　(A = 35)</text>
+  <rect x="548" y="110" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="540" y="127.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第3层 (M)</text>
+  <circle cx="566" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="588" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="610" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="632" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="654" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="676" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="698" cy="127.0" r="6.5" fill="#0C447C"/>
+  <text x="792" y="127.0" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="end" dominant-baseline="central">7</text>
+  <text x="810" y="127.0" font-size="9.5" font-weight="600" fill="#185FA5" text-anchor="start" dominant-baseline="central">← 价电子</text>
+  <rect x="548" y="144" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="540" y="161.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第2层 (L)</text>
+  <circle cx="566" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="588" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="610" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="632" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="654" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="676" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="698" cy="161.0" r="6.5" fill="#0C447C"/>
+  <circle cx="720" cy="161.0" r="6.5" fill="#0C447C"/>
+  <text x="792" y="161.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">8</text>
+  <rect x="548" y="178" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="540" y="195.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第1层 (K)</text>
+  <circle cx="566" cy="195.0" r="6.5" fill="#0C447C"/>
+  <circle cx="588" cy="195.0" r="6.5" fill="#0C447C"/>
+  <text x="792" y="195.0" font-size="13.5" font-weight="700" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">2</text>
+  <rect x="613.0" y="230" width="124" height="46" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="675.0" y="245" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">17 p⁺</text>
+  <text x="675.0" y="262" font-size="12.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">18 n⁰</text>
+  <text x="749.0" y="253" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">原子核 nucleus</text>
+  <text x="70" y="332" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 1–2　Ca 原子序数 20 → 20 p⁺，20 e⁻；Cl 原子序数 17 → 17 p⁺，17 e⁻</text>
+  <text x="70" y="352" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 4　Ca 价电子少 → 失去 2 个 → Ca²⁺（cation）　Cl 价电子 7 → 得到 1 个 → Cl⁻（anion）</text>
+  <text x="70" y="372" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 5　交叉法：1 个 Ca²⁺(+2) 需 2 个 Cl⁻(−1×2 = −2)　→　化学式 = CaCl₂（下标 1 不写）</text>
+  <text x="70" y="392" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 6　金属 Ca + 非金属 Cl → IONIC　英文 calcium chloride（不加前缀）　中文 氯化钙</text>
+  <text x="70" y="412" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 7　白色晶体；熔点高（约 772 ℃）；硬而脆；易溶于水；固体不导电，溶于水或熔融时导电</text>
+</svg>

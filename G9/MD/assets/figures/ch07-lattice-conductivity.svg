@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 344" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 7-5　离子晶格与导电性｜Crystal Lattice &amp; Conductivity</title>
+  <rect width="900" height="344" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 7-5　离子晶格与导电性｜Crystal Lattice &amp; Conductivity</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 变的只是能不能移动</text>
+  <rect x="50" y="62" width="380" height="30" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="240" y="77" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">固体 NaCl（不导电）</text>
+  <rect x="110" y="104" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="142.5" y="130" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <rect x="175" y="104" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="207.5" y="130" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <rect x="240" y="104" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="272.5" y="130" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <rect x="305" y="104" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="337.5" y="130" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <rect x="110" y="156" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="142.5" y="182" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <rect x="175" y="156" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="207.5" y="182" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <rect x="240" y="156" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="272.5" y="182" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <rect x="305" y="156" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="337.5" y="182" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <rect x="110" y="208" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="142.5" y="234" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <rect x="175" y="208" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="207.5" y="234" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <rect x="240" y="208" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="272.5" y="234" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <rect x="305" y="208" width="65" height="52" rx="3" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="337.5" y="234" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <text x="410" y="180" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">离子被锁死</text>
+  <text x="410" y="200" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">在晶格上</text>
+  <rect x="50" y="268" width="380" height="32" rx="6" fill="#FFFFFF" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="240" y="284" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">灯泡不亮　✗</text>
+  <rect x="470" y="62" width="380" height="30" rx="6" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.0"/>
+  <text x="660" y="77" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">NaCl(aq) 或熔融 NaCl（导电）</text>
+  <rect x="470" y="100" width="380" height="156" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="540" y="140" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <text x="660" y="126" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <text x="780" y="150" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <text x="560" y="196" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <text x="690" y="208" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na⁺</text>
+  <text x="800" y="196" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl⁻</text>
+  <text x="660" y="176" font-size="11.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">· 自由移动 ·</text>
+  <text x="660" y="240" font-size="11" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">离子一直都在，只是现在能自由移动</text>
+  <rect x="470" y="268" width="380" height="32" rx="6" fill="#FFFFFF" stroke="#3B6D11" stroke-width="1.0"/>
+  <text x="660" y="284" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">电流通过　灯泡亮　✓</text>
+  <rect x="50" y="312" width="800" height="22" rx="5" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="450" y="323" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">解释「固体不导电、溶液导电」的唯一正确答案：离子一直都在，变的只是能不能移动</text>
+</svg>

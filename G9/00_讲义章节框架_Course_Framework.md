@@ -58,9 +58,12 @@
 G9/                                  根目录
 ├─ 00_讲义章节框架_Course_Framework.md   ← 本文件（框架与总纲）
 ├─ README.md                          项目说明与使用指南
-├─ chapters/                          各章正文讲义（待按框架逐章填充）
-│   ├─ Ch01_...  Ch02_...  ... Ch11_...
-└─ assets/                            图表、周期表、实验单、词汇卡等
+├─ MD/                                md 源与素材
+│   ├─ chapters-cn/                   11 章正文·中文在前
+│   ├─ chapters-en/                   11 章正文·英文在前
+│   ├─ appendices-cn/                 附录 A–E
+│   └─ assets/                        图表、练习单、脚本与数据
+└─ pdf/                               生成物（CN/ 中文版 · EN/ 英文版）
 ```
 
 ### 单元划分｜Unit Map
@@ -574,9 +577,9 @@ fair test 公平实验 · independent variable 自变量 · dependent variable �
 
 ## 5. 下一步｜Next Steps
 
-- [ ] 按本框架在 `chapters/` 下逐章生成正文讲义（建议顺序：Ch.2 → Ch.5 → Ch.6 → Ch.7 → Ch.8 先做主线，再补 Ch.1、Ch.3、Ch.4、Ch.9–11）
+- [ ] 按本框架在 `MD/chapters-cn/` 下逐章生成正文讲义（建议顺序：Ch.2 → Ch.5 → Ch.6 → Ch.7 → Ch.8 先做主线，再补 Ch.1、Ch.3、Ch.4、Ch.9–11）
 - [ ] 生成附录 A–D（词汇表、离子表、命名速查表、元素中英对照表）
-- [ ] 为每章配套练习单与实验单，放入 `assets/`
+- [ ] 为每章配套练习单与实验单，放入 `MD/assets/`
 - [ ] 制作可打印版（HTML/PDF）与 Anki 词汇卡
 
 ---

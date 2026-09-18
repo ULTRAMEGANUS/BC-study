@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 486" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>附录 C　命名速查卡｜Naming Cheat Sheet</title>
+  <rect width="900" height="486" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">附录 C　命名速查卡｜Naming Cheat Sheet</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">一页纸：判类型 → 走流程 → 查例外</text>
+  <rect x="50" y="62" width="800" height="46" rx="8" fill="#F1EFE8" stroke="#2C2C2A" stroke-width="1.2"/>
+  <circle cx="84" cy="85" r="12" fill="#2C2C2A"/>
+  <text x="84" y="85.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="104" y="85" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 1　有金属 或 NH₄⁺ ？</text>
+  <text x="560" y="85" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">YES → IONIC（交叉法 + -ide）　NO → MOLECULAR（前缀法）</text>
+  <rect x="50" y="118" width="800" height="150" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.3"/>
+  <text x="70" y="140" font-size="14" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">IONIC 离子化合物</text>
+  <text x="90" y="166" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① 写离子（正离子在前）</text>
+  <text x="90" y="188" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② 电荷交叉 → 下标</text>
+  <text x="90" y="210" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">③ 约成最简整数比</text>
+  <text x="340" y="166" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">④ 下标 1 不写</text>
+  <text x="340" y="188" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑤ 验算总电荷 = 0</text>
+  <text x="70" y="216" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">命名：金属名 + 非金属词根 -ide</text>
+  <text x="70" y="238" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">多变价 → 金属名(罗马数字)　多原子离子 → 照抄离子名，不改词尾</text>
+  <text x="70" y="258" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">例　MgF₂ magnesium fluoride 氟化镁</text>
+  <rect x="50" y="280" width="800" height="150" rx="10" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.3"/>
+  <text x="70" y="302" font-size="14" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">MOLECULAR 分子化合物</text>
+  <text x="70" y="328" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">第 1 元素：> 1 才加前缀，永不用 mono-</text>
+  <text x="70" y="350" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">第 2 元素：必加前缀 + 词尾改 -ide</text>
+  <text x="70" y="376" font-size="11" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">mono  di  tri  tetra  penta  hexa  hepta  octa  nona  deca</text>
+  <text x="70" y="396" font-size="11" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">一    二   三   四     五     六     七     八     九     十</text>
+  <text x="70" y="420" font-size="11.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">例　N₂O₄ dinitrogen tetroxide 四氧化二氮</text>
+  <rect x="50" y="442" width="800" height="40" rx="8" fill="#FFF8E1" stroke="#BA7517" stroke-width="1.3"/>
+  <text x="70" y="457" font-size="12" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">🚨 中英顺序相反</text>
+  <text x="230" y="457" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">英文：正在前 → sodium chloride</text>
+  <text x="560" y="457" font-size="11.5" font-weight="600" fill="#A32D2D" text-anchor="start" dominant-baseline="central">中文：负在前 → 氯化钠　✗钠化氯</text>
+</svg>

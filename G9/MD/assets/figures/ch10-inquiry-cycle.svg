@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 486" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 10-1　科学探究循环流程图｜The Inquiry Cycle</title>
+  <rect width="900" height="486" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 10-1　科学探究循环流程图｜The Inquiry Cycle</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 是循环，不是直线</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="70" y="64" width="760" height="40" rx="7" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <circle cx="104" cy="84" r="13" fill="#2C2C2A"/>
+  <text x="104" y="84.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="126" y="78" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">QUESTION 提问</text>
+  <text x="126" y="95" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">「水温会影响糖的溶解速度吗？」</text>
+  <path d="M450 104 L450 112" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="112" width="760" height="40" rx="7" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.0"/>
+  <circle cx="104" cy="132" r="13" fill="#0C447C"/>
+  <text x="104" y="132.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+  <text x="126" y="126" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">HYPOTHESIS 假设</text>
+  <text x="126" y="143" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">If 水温↑, then 溶解更快, because 粒子运动更快</text>
+  <path d="M450 152 L450 160" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="160" width="760" height="40" rx="7" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.0"/>
+  <circle cx="104" cy="180" r="13" fill="#0C447C"/>
+  <text x="104" y="180.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+  <text x="126" y="174" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">PREDICTION 预测</text>
+  <text x="126" y="191" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">「60 ℃ 时应能在 30 s 内溶完」</text>
+  <path d="M450 200 L450 208" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="208" width="760" height="40" rx="7" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.0"/>
+  <circle cx="104" cy="228" r="13" fill="#854F0B"/>
+  <text x="104" y="228.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+  <text x="126" y="222" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">EXPERIMENT 实验</text>
+  <text x="126" y="239" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">公平实验 fair test：一次只改 1 个变量</text>
+  <path d="M450 248 L450 256" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="256" width="760" height="40" rx="7" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.0"/>
+  <circle cx="104" cy="276" r="13" fill="#854F0B"/>
+  <text x="104" y="276.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">5</text>
+  <text x="126" y="270" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">DATA 数据</text>
+  <text x="126" y="287" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">定性 + 定量 + 单位，重复 3 次</text>
+  <path d="M450 296 L450 304" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="304" width="760" height="40" rx="7" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.0"/>
+  <circle cx="104" cy="324" r="13" fill="#3B6D11"/>
+  <text x="104" y="324.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">6</text>
+  <text x="126" y="318" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">ANALYSIS 分析</text>
+  <text x="126" y="335" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">作图、算平均、找趋势 trend</text>
+  <path d="M450 344 L450 352" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="352" width="760" height="40" rx="7" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.0"/>
+  <circle cx="104" cy="372" r="13" fill="#3B6D11"/>
+  <text x="104" y="372.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">7</text>
+  <text x="126" y="366" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">CONCLUSION 结论</text>
+  <text x="126" y="383" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">数据支持假设吗？必须引用证据</text>
+  <path d="M450 392 L450 400" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="400" width="760" height="40" rx="7" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <circle cx="104" cy="420" r="13" fill="#2C2C2A"/>
+  <text x="104" y="420.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">8</text>
+  <text x="126" y="414" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">COMMUNICATION 交流</text>
+  <text x="126" y="431" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">报告 / 海报 / 汇报 + 误差与改进</text>
+  <path d="M450 448 L450 462 L800 462 L800 64" fill="none" stroke="#185FA5" stroke-width="1.8" marker-end="url(#ar)"/>
+  <text x="700" y="456" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">结论常常引出新的问题 → 循环回到 1. QUESTION</text>
+</svg>

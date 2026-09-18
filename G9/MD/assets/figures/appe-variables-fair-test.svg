@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>变量与公平实验｜Variables &amp; Fair Test</title>
+  <rect width="900" height="330" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">变量与公平实验｜Variables &amp; Fair Test</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">附录 E · 一次只改一个变量</text>
+  <rect x="70" y="66" width="290" height="62" rx="8" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.2"/>
+  <text x="215" y="88" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">INDEPENDENT 自变量</text>
+  <text x="215" y="110" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">（I change it 我改的）</text>
+  <rect x="540" y="66" width="290" height="62" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.2"/>
+  <text x="685" y="88" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">DEPENDENT 因变量</text>
+  <text x="685" y="110" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">（I measure it 我测的）</text>
+  <rect x="330" y="150" width="240" height="62" rx="10" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.4"/>
+  <text x="450" y="172" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">FAIR TEST 公平实验</text>
+  <text x="450" y="194" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">一次只改自变量，其余全部保持不变</text>
+  <path d="M215 128 L330 172" fill="none" stroke="#185FA5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M450 212 L450 240" fill="none" stroke="#3B6D11" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M450 240 L215 250 L215 128" fill="none" stroke="#BA7517" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <path d="M685 128 L570 172" fill="none" stroke="#BA7517" stroke-width="1.6" marker-end="url(#ar)"/>
+  <rect x="70" y="250" width="760" height="52" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450" y="272" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CONTROLLED 控制变量（keep the same 保持不变）</text>
+  <text x="450" y="290" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">须**逐条列出**清单，只写「保持不变」不给满分</text>
+</svg>

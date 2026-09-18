@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>全册主线：从原子序数到化合物性质｜The Main Chain</title>
+  <rect width="900" height="470" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">全册主线：从原子序数到化合物性质｜The Main Chain</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 顺着读能推性质，倒着读能认物质</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="70" y="74" width="760" height="40" rx="7" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.0"/>
+  <circle cx="104" cy="94" r="13" fill="#0C447C"/>
+  <text x="104" y="94.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="126" y="87" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">原子序数 atomic number</text>
+  <text x="126" y="104" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">= 质子数 = 电子数</text>
+  <path d="M450 114 L450 122" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="122" width="760" height="40" rx="7" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.0"/>
+  <circle cx="104" cy="142" r="13" fill="#0C447C"/>
+  <text x="104" y="142.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+  <text x="126" y="135" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">电子排布 electron arrangement</text>
+  <text x="126" y="152" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">例：Mg 2-8-2，F 2-7　（Ch.5 玻尔图分层）</text>
+  <path d="M450 162 L450 170" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="170" width="760" height="40" rx="7" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.0"/>
+  <circle cx="104" cy="190" r="13" fill="#0C447C"/>
+  <text x="104" y="190.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+  <text x="126" y="183" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">价电子数 valence electrons</text>
+  <text x="126" y="200" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">Mg → 2 个价电子；F → 7 个价电子</text>
+  <path d="M450 210 L450 218" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="218" width="760" height="40" rx="7" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.0"/>
+  <circle cx="104" cy="238" r="13" fill="#854F0B"/>
+  <text x="104" y="238.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+  <text x="126" y="231" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">得失电子数 gained / lost e⁻</text>
+  <text x="126" y="248" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">八隅体规则 Ch.6：趋向 8 电子稳定结构 → Mg²⁺、F⁻</text>
+  <path d="M450 258 L450 266" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="266" width="760" height="40" rx="7" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.0"/>
+  <circle cx="104" cy="286" r="13" fill="#854F0B"/>
+  <text x="104" y="286.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">5</text>
+  <text x="126" y="279" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">化合物中的原子个数比 ratio</text>
+  <text x="126" y="296" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">总电荷必须为零 → 用交叉法求最简整数比：Mg²⁺ : F⁻ = 1 : 2</text>
+  <path d="M450 306 L450 314" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="314" width="760" height="40" rx="7" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.0"/>
+  <circle cx="104" cy="334" r="13" fill="#854F0B"/>
+  <text x="104" y="334.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">6</text>
+  <text x="126" y="327" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">化学式 chemical formula</text>
+  <text x="126" y="344" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">MgF₂　（反过来也成立：由化学式可读出电子排布）</text>
+  <path d="M450 354 L450 362" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="362" width="760" height="40" rx="7" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.0"/>
+  <circle cx="104" cy="382" r="13" fill="#3B6D11"/>
+  <text x="104" y="382.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">7</text>
+  <text x="126" y="375" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">命名 naming</text>
+  <text x="126" y="392" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">magnesium fluoride ／ 氟化镁（中文顺序相反）</text>
+  <path d="M450 402 L450 410" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="410" width="760" height="40" rx="7" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.0"/>
+  <circle cx="104" cy="430" r="13" fill="#3B6D11"/>
+  <text x="104" y="430.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">8</text>
+  <text x="126" y="423" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">化合物的性质 properties</text>
+  <text x="126" y="440" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">结构决定性质：晶体、高熔点、硬脆、熔融或水溶液导电</text>
+</svg>

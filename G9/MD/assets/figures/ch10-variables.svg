@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 424" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 10-2　变量三栏对照｜Variables at a Glance</title>
+  <rect width="900" height="424" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 10-2　变量三栏对照｜Variables at a Glance</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 控制变量要写成带数值的清单</text>
+  <rect x="50" y="62" width="266" height="34" rx="6" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.2"/>
+  <text x="183.0" y="79" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">INDEPENDENT 自变量</text>
+  <rect x="50" y="96" width="266" height="30" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="183.0" y="111" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">我主动改变 I CHANGE</text>
+  <rect x="50" y="126" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="183.0" y="149" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">画在 x 轴</text>
+  <rect x="50" y="172" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="183.0" y="195" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">每实验只能有 1 个</text>
+  <rect x="50" y="218" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="183.0" y="241" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">例：水温 20/40/60 ℃</text>
+  <rect x="332" y="62" width="266" height="34" rx="6" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.2"/>
+  <text x="465.0" y="79" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">DEPENDENT 因变量</text>
+  <rect x="332" y="96" width="266" height="30" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="465.0" y="111" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">我被动测量 I MEASURE</text>
+  <rect x="332" y="126" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="465.0" y="149" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">画在 y 轴</text>
+  <rect x="332" y="172" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="465.0" y="195" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">可以有多个</text>
+  <rect x="332" y="218" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="465.0" y="241" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">例：溶解时间 (s)</text>
+  <rect x="614" y="62" width="266" height="34" rx="6" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.2"/>
+  <text x="747.0" y="79" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">CONTROLLED 控制变量</text>
+  <rect x="614" y="96" width="266" height="30" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="747.0" y="111" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">我刻意固定 KEEP SAME</text>
+  <rect x="614" y="126" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="747.0" y="149" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">不画，写成清单</text>
+  <rect x="614" y="172" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="747.0" y="195" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">越多越好（越公平）</text>
+  <rect x="614" y="218" width="266" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="747.0" y="241" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">例：糖 5 g、水 100 mL、不搅拌、同型号烧杯</text>
+  <rect x="70" y="276" width="760" height="100" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.2"/>
+  <text x="450" y="300" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">FAIR TEST 公平实验 = 一次只改 1 个自变量 + 其余全部列入控制变量清单</text>
+  <text x="450" y="326" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">漏掉的那一个 → CONFOUNDING VARIABLE 干扰变量 → 结论不可信</text>
+  <text x="450" y="354" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">只写「水量相同」不够，要写「每次都用 100 mL 蒸馏水」</text>
+</svg>

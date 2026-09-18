@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 492" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 3-3　三大区与锯齿线｜Three Regions &amp; the Zigzag Line</title>
+  <rect width="900" height="492" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 3-3　三大区与锯齿线｜Three Regions &amp; the Zigzag Line</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 线的左＝金属，右＝非金属，线上＝类金属</text>
+  <rect x="60" y="70" width="74" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <rect x="134.0" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="178.125" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+  <rect x="222.25" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="266.375" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="310.5" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="354.625" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">13</text>
+  <rect x="398.75" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="442.875" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">14</text>
+  <rect x="487.0" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="531.125" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">15</text>
+  <rect x="575.25" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="619.375" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">16</text>
+  <rect x="663.5" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="707.625" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">17</text>
+  <rect x="751.75" y="70" width="88.25" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="795.875" y="85.0" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">18</text>
+  <rect x="60" y="100" width="74" height="44" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="97.0" y="122.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">P1</text>
+  <rect x="136.0" y="102" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="178.125" y="122.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="753.75" y="102" width="84.25" height="40" rx="4" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="795.875" y="122.0" font-size="15" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">N</text>
+  <rect x="60" y="144" width="74" height="44" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="97.0" y="166.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">P2</text>
+  <rect x="136.0" y="146" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="178.125" y="166.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="224.25" y="146" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="266.375" y="166.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="312.5" y="146" width="84.25" height="40" rx="4" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.625" y="166.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">#</text>
+  <rect x="400.75" y="146" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="442.875" y="166.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="489.0" y="146" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="531.125" y="166.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="577.25" y="146" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="619.375" y="166.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="665.5" y="146" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="707.625" y="166.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="753.75" y="146" width="84.25" height="40" rx="4" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="795.875" y="166.0" font-size="15" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">N</text>
+  <rect x="60" y="188" width="74" height="44" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="97.0" y="210.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">P3</text>
+  <rect x="136.0" y="190" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="178.125" y="210.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="224.25" y="190" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="266.375" y="210.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="312.5" y="190" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.625" y="210.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="400.75" y="190" width="84.25" height="40" rx="4" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="442.875" y="210.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">#</text>
+  <rect x="489.0" y="190" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="531.125" y="210.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="577.25" y="190" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="619.375" y="210.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="665.5" y="190" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="707.625" y="210.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="753.75" y="190" width="84.25" height="40" rx="4" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="795.875" y="210.0" font-size="15" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">N</text>
+  <rect x="60" y="232" width="74" height="44" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="97.0" y="254.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">P4</text>
+  <rect x="136.0" y="234" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="178.125" y="254.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="224.25" y="234" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="266.375" y="254.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="312.5" y="234" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.625" y="254.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="400.75" y="234" width="84.25" height="40" rx="4" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="442.875" y="254.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">#</text>
+  <rect x="489.0" y="234" width="84.25" height="40" rx="4" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="531.125" y="254.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">#</text>
+  <rect x="577.25" y="234" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="619.375" y="254.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="665.5" y="234" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="707.625" y="254.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="753.75" y="234" width="84.25" height="40" rx="4" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="795.875" y="254.0" font-size="15" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">N</text>
+  <rect x="60" y="276" width="74" height="44" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="97.0" y="298.0" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">P5</text>
+  <rect x="136.0" y="278" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="178.125" y="298.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="224.25" y="278" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="266.375" y="298.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="312.5" y="278" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.625" y="298.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="400.75" y="278" width="84.25" height="40" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="442.875" y="298.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">M</text>
+  <rect x="489.0" y="278" width="84.25" height="40" rx="4" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="531.125" y="298.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">#</text>
+  <rect x="577.25" y="278" width="84.25" height="40" rx="4" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="619.375" y="298.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">#</text>
+  <rect x="665.5" y="278" width="84.25" height="40" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="707.625" y="298.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">n</text>
+  <rect x="753.75" y="278" width="84.25" height="40" rx="4" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="795.875" y="298.0" font-size="15" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">N</text>
+  <path d="M354.6 122.0 L442.9 166.0 L442.9 210.0 L531.1 210.0 L531.1 254.0 L619.4 254.0" fill="none" stroke="#A32D2D" stroke-width="2.4" stroke-linejoin="round" stroke-dasharray="6 3"/>
+  <circle cx="354.625" cy="122.0" r="3.6" fill="#A32D2D"/>
+  <circle cx="442.875" cy="166.0" r="3.6" fill="#A32D2D"/>
+  <circle cx="442.875" cy="210.0" r="3.6" fill="#A32D2D"/>
+  <circle cx="531.125" cy="210.0" r="3.6" fill="#A32D2D"/>
+  <circle cx="531.125" cy="254.0" r="3.6" fill="#A32D2D"/>
+  <circle cx="619.375" cy="254.0" r="3.6" fill="#A32D2D"/>
+  <rect x="60" y="346" width="780" height="26" rx="5" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="70" y="359" font-size="10.5" font-weight="600" fill="#854F0B" text-anchor="start" dominant-baseline="central"># = metalloid / semi-metal 类金属：B、Si、Ge、As、Sb、Te</text>
+  <rect x="60.0" y="378" width="252.0" height="26" rx="5" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="70.0" y="391" font-size="10.5" font-weight="600" fill="#0C447C" text-anchor="start" dominant-baseline="central">M = metal 金属</text>
+  <rect x="324.0" y="378" width="252.0" height="26" rx="5" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="334.0" y="391" font-size="10.5" font-weight="600" fill="#854F0B" text-anchor="start" dominant-baseline="central">n = non-metal 非金属</text>
+  <rect x="588.0" y="378" width="252.0" height="26" rx="5" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.7"/>
+  <text x="598.0" y="391" font-size="10.5" font-weight="600" fill="#3B6D11" text-anchor="start" dominant-baseline="central">N = noble gas 稀有气体</text>
+  <text x="60" y="426" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">把各个 # 连起来，就是那条楼梯状的锯齿线 staircase / zigzag line</text>
+  <text x="60" y="446" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">线的左侧＝金属，线的右侧＝非金属，线上的元素＝类金属</text>
+  <text x="60" y="466" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">两个「不老实」的元素：H 在左上角却是非金属；Al 贴着线却是金属</text>
+</svg>

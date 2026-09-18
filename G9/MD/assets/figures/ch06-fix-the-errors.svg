@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 262" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 6-8　诊断并改正错误写法｜Worked Example — Fix the Errors</title>
+  <rect width="900" height="262" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 6-8　诊断并改正错误写法｜Worked Example — Fix the Errors</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 阳离子 0 点、阴离子 8 点</text>
+  <rect x="40" y="58" width="430" height="26" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="255" y="71" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">① 与 ② 的改正 corrections</text>
+  <path d="M120.12 117.12 L115.12 117.12 L115.12 162.88 L120.12 162.88" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <path d="M179.88 117.12 L184.88 117.12 L184.88 162.88 L179.88 162.88" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <text x="150" y="140" font-size="18" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <text x="193.88" y="121.12" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">²⁺</text>
+  <text x="150" y="190" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">① 正确 [Mg]²⁺</text>
+  <text x="150" y="210" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">0 个点（不是 2 个）</text>
+  <circle cx="364.8" cy="120.12" r="3.4" fill="#854F0B"/>
+  <circle cx="375.2" cy="120.12" r="3.4" fill="#854F0B"/>
+  <circle cx="364.8" cy="159.88" r="3.4" fill="#854F0B"/>
+  <circle cx="375.2" cy="159.88" r="3.4" fill="#854F0B"/>
+  <circle cx="350.06" cy="134.8" r="3.4" fill="#854F0B"/>
+  <circle cx="350.06" cy="145.2" r="3.4" fill="#854F0B"/>
+  <circle cx="389.94" cy="134.8" r="3.4" fill="#854F0B"/>
+  <circle cx="389.94" cy="145.2" r="3.4" fill="#854F0B"/>
+  <path d="M346.06 117.12 L341.06 117.12 L341.06 162.88 L346.06 162.88" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <path d="M393.94 117.12 L398.94 117.12 L398.94 162.88 L393.94 162.88" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="370" y="140" font-size="18" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">O</text>
+  <text x="407.94" y="121.12" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">²⁻</text>
+  <text x="370" y="190" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">② 正确 [:O:]²⁻</text>
+  <text x="370" y="210" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">8 个点（不是 6 个）</text>
+  <rect x="490" y="58" width="370" height="26" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="675" y="71" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">⑤ 中文命名对照 naming</text>
+  <rect x="490" y="92" width="370" height="150" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="510" y="118" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">Fe²⁺ = 亚铁离子 = iron(II) ion</text>
+  <text x="510" y="144" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">Fe³⁺ = 铁离子　 = iron(III) ion</text>
+  <text x="510" y="176" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">中文规则：低价加「亚」，高价不加</text>
+  <text x="510" y="200" font-size="11.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">罗马数字：iron(II) / iron(III)</text>
+  <text x="510" y="224" font-size="11" font-weight="600" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⚠ 不要把 Fe²⁺ 写成「铁离子」</text>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 486" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 1-2　原子模型演化时间轴｜Atomic Model Timeline</title>
+  <rect width="900" height="486" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 1-2　原子模型演化时间轴｜Atomic Model Timeline</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 模型随新证据不断修正</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M60 62 L840 62" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <text x="127.5" y="52" font-size="12" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">1808</text>
+  <circle cx="127.5" cy="62" r="3.5" fill="#185FA5"/>
+  <path d="M127.5 66 L127.5 88" fill="none" stroke="#185FA5" stroke-width="1.2" marker-end="url(#ar)"/>
+  <text x="342.5" y="52" font-size="12" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">1897</text>
+  <circle cx="342.5" cy="62" r="3.5" fill="#185FA5"/>
+  <path d="M342.5 66 L342.5 88" fill="none" stroke="#185FA5" stroke-width="1.2" marker-end="url(#ar)"/>
+  <text x="557.5" y="52" font-size="12" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">1911</text>
+  <circle cx="557.5" cy="62" r="3.5" fill="#185FA5"/>
+  <path d="M557.5 66 L557.5 88" fill="none" stroke="#185FA5" stroke-width="1.2" marker-end="url(#ar)"/>
+  <text x="772.5" y="52" font-size="12" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">1913</text>
+  <circle cx="772.5" cy="62" r="3.5" fill="#185FA5"/>
+  <path d="M772.5 66 L772.5 88" fill="none" stroke="#185FA5" stroke-width="1.2" marker-end="url(#ar)"/>
+  <rect x="25" y="92" width="205" height="152" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <rect x="240" y="92" width="205" height="152" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <rect x="455" y="92" width="205" height="152" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <rect x="670" y="92" width="205" height="152" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.0"/>
+  <circle cx="127.5" cy="168" r="46" fill="#5F5E5A"/>
+  <circle cx="113.5" cy="154" r="13" fill="#7F7E78"/>
+  <text x="127.5" y="228" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">solid sphere 实心球</text>
+  <circle cx="342.5" cy="168" r="50" fill="#FBEBD2" stroke="#BA7517" stroke-width="1.4"/>
+  <circle cx="316.5" cy="150" r="5.5" fill="#2C2C2A"/>
+  <circle cx="342.5" cy="142" r="5.5" fill="#2C2C2A"/>
+  <circle cx="368.5" cy="156" r="5.5" fill="#2C2C2A"/>
+  <circle cx="312.5" cy="184" r="5.5" fill="#2C2C2A"/>
+  <circle cx="338.5" cy="188" r="5.5" fill="#2C2C2A"/>
+  <circle cx="370.5" cy="190" r="5.5" fill="#2C2C2A"/>
+  <circle cx="354.5" cy="170" r="5.5" fill="#2C2C2A"/>
+  <circle cx="328.5" cy="202" r="5.5" fill="#2C2C2A"/>
+  <text x="342.5" y="228" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">plum pudding 电子嵌在正电荷糊里</text>
+  <circle cx="557.5" cy="168" r="54" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="557.5" cy="168" r="12" fill="#A32D2D"/>
+  <circle cx="527.5" cy="142" r="4.5" fill="#185FA5"/>
+  <circle cx="591.5" cy="154" r="4.5" fill="#185FA5"/>
+  <circle cx="533.5" cy="198" r="4.5" fill="#185FA5"/>
+  <circle cx="587.5" cy="196" r="4.5" fill="#185FA5"/>
+  <path d="M479.5 130 L617.5 196" fill="none" stroke="#A32D2D" stroke-width="1.4" stroke-dasharray="5 3" marker-end="url(#ar)"/>
+  <text x="495.5" y="120" font-size="10" font-weight="600" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">α</text>
+  <text x="557.5" y="230" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">大部分直穿 → 原子内几乎全空</text>
+  <circle cx="772.5" cy="168" r="28" fill="none" stroke="#3B6D11" stroke-width="1.2"/>
+  <circle cx="772.5" cy="168" r="48" fill="none" stroke="#3B6D11" stroke-width="1.2"/>
+  <circle cx="772.5" cy="168" r="12" fill="#3B6D11"/>
+  <circle cx="800.5" cy="168" r="5" fill="#2C2C2A"/>
+  <circle cx="724.5" cy="168" r="5" fill="#2C2C2A"/>
+  <circle cx="806.5" cy="140" r="5" fill="#2C2C2A"/>
+  <text x="772.5" y="228" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">shells 电子在固定壳层上</text>
+  <text x="127.5" y="262" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Dalton 道尔顿</text>
+  <text x="127.5" y="282" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">不可分的实心球</text>
+  <text x="342.5" y="262" font-size="13" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Thomson 汤姆孙</text>
+  <text x="342.5" y="282" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">发现电子（葡萄干布丁）</text>
+  <text x="557.5" y="262" font-size="13" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Rutherford 卢瑟福</text>
+  <text x="557.5" y="282" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">发现原子核（金箔实验）</text>
+  <text x="772.5" y="262" font-size="13" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Bohr 玻尔</text>
+  <text x="772.5" y="282" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">电子分层排布 → 本册 Ch.5</text>
+  <rect x="60" y="306" width="780" height="58" rx="8" fill="#FAFAF8" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="450" y="326" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">模型的演进不是「推翻」，而是「扩展」：</text>
+  <text x="450" y="345" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Thomson 加进了电子，Rutherford 找到了原子核，Bohr 给电子安排了壳层 —— 旧模型能解释的部分一直保留着</text>
+  <rect x="60" y="378" width="780" height="62" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="450" y="398" font-size="12.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">本册主线：玻尔模型的「电子分层排布」</text>
+  <text x="450" y="418" font-size="10" fill="#185FA5" text-anchor="middle" dominant-baseline="central">决定了元素在周期表中的位置，也决定了它会形成什么化合物 —— 这就是 Ch.5 之后全部内容的核心</text>
+  <text x="450" y="448" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Science 8 先修：atomic theory / protons, neutrons, electrons　→　Science 10 后续：chemical reactions, conservation of mass</text>
+</svg>

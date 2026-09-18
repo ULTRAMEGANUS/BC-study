@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 356" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 6-3　H、He 与「二重规则」｜The Duet Rule Exception</title>
+  <rect width="900" height="356" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 6-3　H、He 与「二重规则」｜The Duet Rule Exception</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 第 1 层的目标是 2 个点</text>
+  <text x="450" y="62" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">不只是 8 —— 第 1 层的目标是 2 个点！</text>
+  <circle cx="147.94" cy="120" r="3.4" fill="#2C2C2A"/>
+  <text x="128" y="120" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="128" y="164" font-size="12" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">H ·</text>
+  <text x="128" y="186" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氢原子</text>
+  <text x="128" y="208" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">1 个价电子</text>
+  <text x="128" y="226" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">想再要 1 个</text>
+  <circle cx="324.12" cy="120" r="3.4" fill="#2C2C2A"/>
+  <circle cx="375.88" cy="120" r="3.4" fill="#2C2C2A"/>
+  <text x="350" y="120" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">He</text>
+  <text x="350" y="164" font-size="12" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">He :</text>
+  <text x="350" y="186" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氦原子</text>
+  <text x="350" y="208" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">第 1 层已满</text>
+  <text x="350" y="226" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">不需要第 2 层</text>
+  <path d="M542.12 97.12 L537.12 97.12 L537.12 142.88 L542.12 142.88" fill="none" stroke="#2C2C2A" stroke-width="1.4"/>
+  <path d="M601.88 97.12 L606.88 97.12 L606.88 142.88 L601.88 142.88" fill="none" stroke="#2C2C2A" stroke-width="1.4"/>
+  <text x="572" y="120" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Li</text>
+  <text x="615.88" y="101.12" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁺</text>
+  <text x="572" y="164" font-size="12" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">[Li]⁺</text>
+  <text x="572" y="186" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">锂离子</text>
+  <text x="572" y="208" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">失去那 1 个</text>
+  <text x="572" y="226" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">追 He 结构</text>
+  <circle cx="774.06" cy="120" r="3.4" fill="#2C2C2A"/>
+  <circle cx="813.94" cy="120" r="3.4" fill="#2C2C2A"/>
+  <path d="M770.06 97.12 L765.06 97.12 L765.06 142.88 L770.06 142.88" fill="none" stroke="#2C2C2A" stroke-width="1.4"/>
+  <path d="M817.94 97.12 L822.94 97.12 L822.94 142.88 L817.94 142.88" fill="none" stroke="#2C2C2A" stroke-width="1.4"/>
+  <text x="794" y="120" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H</text>
+  <text x="831.94" y="101.12" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁻</text>
+  <text x="794" y="164" font-size="12" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">[H :]⁻</text>
+  <text x="794" y="186" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氢负离子</text>
+  <text x="794" y="208" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">又得来 1 个</text>
+  <text x="794" y="226" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">追 He 结构</text>
+  <rect x="40" y="248" width="820" height="96" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="56" y="268" font-size="12" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">⚠ duet rule 二重规则：H、He（以及变成离子后只有第 1 层的 Li⁺、Be²⁺、H⁻）以 2 个电子为满，不是 8 个</text>
+  <text x="56" y="292" font-size="11.5" fill="#854F0B" text-anchor="start" dominant-baseline="central">　　因为第 1 层只有 2 个位置。</text>
+  <text x="56" y="318" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">【Extension → Science 10】H⁻ 氢负离子（hydride）在金属氢化物中出现，超出 Science 9 要求，</text>
+  <text x="56" y="336" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">此处只作「二重规则」的例子。</text>
+</svg>

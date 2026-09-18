@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 815" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 11-1　全册主线流程图｜The Master Flowchart</title>
+  <rect width="900" height="815" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 11-1　全册主线流程图｜The Master Flowchart</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 顺读推性质，倒读认物质</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="50" y="58" width="800" height="62" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.4"/>
+  <text x="450" y="78" font-size="14" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">BC SCIENCE 9 · CHEMISTRY UNIT · 全册主线</text>
+  <text x="450" y="100" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">BIG IDEA: The electron arrangement of atoms impacts their chemical nature.</text>
+  <text x="450" y="116" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">—— 原子的电子排布决定其化学性质</text>
+  <rect x="70" y="132" width="760" height="49" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="148" r="12" fill="#0C447C"/>
+  <text x="104" y="148.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="124" y="148" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">① 电子排布 electron arrangement</text>
+  <text x="830" y="148" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.5</text>
+  <text x="124" y="168" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">Bohr 图：核内 p⁺/n⁰，核外电子按 2-8-8 分层</text>
+  <path d="M450 181 L450 189" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="193" width="760" height="49" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="209" r="12" fill="#0C447C"/>
+  <text x="104" y="209.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+  <text x="124" y="209" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">② 周期表位置 position on the periodic table</text>
+  <text x="830" y="209" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.2 / Ch.3</text>
+  <text x="124" y="229" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">周期数 = 电子层数　　主族族号 → 价电子数</text>
+  <path d="M450 242 L450 250" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="254" width="760" height="49" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="270" r="12" fill="#0C447C"/>
+  <text x="104" y="270.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+  <text x="124" y="270" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">③ 价电子数 number of valence electrons</text>
+  <text x="830" y="270" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.5</text>
+  <text x="124" y="290" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">1族→1　2族→2　13→3　14→4　15→5　16→6　17→7　18→8 (He=2)</text>
+  <path d="M450 303 L450 311" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="315" width="760" height="87" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="331" r="12" fill="#0C447C"/>
+  <text x="104" y="331.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+  <text x="124" y="331" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">④ 得失电子倾向 tendency to lose or gain</text>
+  <text x="830" y="331" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.4 / Ch.6</text>
+  <text x="124" y="351" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">金属（左侧）：价电子少 → 倾向失去 lose</text>
+  <text x="124" y="370" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">非金属（右侧）：价电子多 → 倾向得到 gain</text>
+  <text x="124" y="389" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">满层 8 个（He 2 个）→ 稳定 stable，不反应（稀有气体）</text>
+  <path d="M450 402 L450 410" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="414" width="760" height="87" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="430" r="12" fill="#0C447C"/>
+  <text x="104" y="430.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">5</text>
+  <text x="124" y="430" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">⑤ 离子电荷 ion charge</text>
+  <text x="830" y="430" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.6</text>
+  <text x="124" y="450" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">cation 阳离子：金属失电子 → 正电（+1 +2 +3）</text>
+  <text x="124" y="469" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">anion 阴离子：非金属得电子 → 负电（−3 −2 −1）</text>
+  <text x="124" y="488" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">八隅体规则 octet rule：一切为了「满层」</text>
+  <path d="M450 501 L450 509" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="513" width="760" height="68" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="529" r="12" fill="#0C447C"/>
+  <text x="104" y="529.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">6</text>
+  <text x="124" y="529" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">⑥ 化合物的化学式与命名 formula &amp; naming</text>
+  <text x="830" y="529" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.7 / Ch.8</text>
+  <text x="124" y="549" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">IONIC 金属+非金属：交叉法 criss-cross　MgCl₂ magnesium chloride 氯化镁</text>
+  <text x="124" y="568" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">MOLECULAR 非金属+非金属：前缀法 prefixes　CO₂ carbon dioxide 二氧化碳</text>
+  <path d="M450 581 L450 589" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="593" width="760" height="68" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="609" r="12" fill="#0C447C"/>
+  <text x="104" y="609.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">7</text>
+  <text x="124" y="609" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">⑦ 化合物的性质 properties of compounds</text>
+  <text x="830" y="609" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.7 / Ch.8</text>
+  <text x="124" y="629" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">离子：晶体 · 高熔沸点 · 硬而脆 · 溶于水或熔融时导电</text>
+  <text x="124" y="648" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">分子：低熔沸点 · 不导电 · 多为气/液/软固</text>
+  <path d="M450 661 L450 669" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="70" y="673" width="760" height="68" rx="7" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <circle cx="104" cy="689" r="12" fill="#0C447C"/>
+  <text x="104" y="689.5" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">8</text>
+  <text x="124" y="689" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">⑧ 证据与方法 evidence &amp; inquiry</text>
+  <text x="830" y="689" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">Ch.9 / Ch.10</text>
+  <text x="124" y="709" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">化学变化证据：变色 / 气体 / 沉淀 / 温度 / 发光 / 新气味</text>
+  <text x="124" y="728" font-size="10.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">公平实验 fair test · 变量控制 · WHMIS 安全 · 误差与改进</text>
+  <rect x="70" y="757" width="760" height="34" rx="7" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.2"/>
+  <text x="450" y="774" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">全部回扣 BIG IDEA：一切性质的根源 = 电子排布</text>
+</svg>

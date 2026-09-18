@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 436" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 7-2　必须约成最简比｜Reduce to the Lowest Ratio</title>
+  <rect width="900" height="436" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 7-2　必须约成最简比｜Reduce to the Lowest Ratio</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · Mg₂O₂ 是本章第一大陷阱</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="50" y="62" width="380" height="30" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="240" y="77" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">情形：Mg²⁺ + O²⁻</text>
+  <rect x="107.0" y="108.0" width="86" height="36" rx="8" fill="#FFFFFF" stroke="#0C447C" stroke-width="1.3"/>
+  <text x="150" y="126" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Mg²⁺</text>
+  <rect x="287.0" y="108.0" width="86" height="36" rx="8" fill="#FFFFFF" stroke="#854F0B" stroke-width="1.3"/>
+  <text x="330" y="126" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">O²⁻</text>
+  <path d="M180 146 L274 186" fill="none" stroke="#185FA5" stroke-width="1.6"/>
+  <path d="M300 146 L206 186" fill="none" stroke="#BA7517" stroke-width="1.6"/>
+  <text x="240" y="196" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mg₂O₂</text>
+  <text x="302" y="196" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">← 交叉结果</text>
+  <text x="240" y="226" font-size="16" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">✗ 错</text>
+  <text x="240" y="252" font-size="11.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">公因数 2 → 必须约简</text>
+  <path d="M240 268 L240 292" fill="none" stroke="#185FA5" stroke-width="1.8" marker-end="url(#ar)"/>
+  <text x="310" y="280" font-size="11" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">约简 + 去下标 1</text>
+  <text x="240" y="314" font-size="22" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">MgO　氧化镁</text>
+  <text x="240" y="342" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">magnesium oxide</text>
+  <rect x="470" y="62" width="380" height="30" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="660" y="77" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">情形：Al³⁺ + O²⁻</text>
+  <rect x="527.0" y="108.0" width="86" height="36" rx="8" fill="#FFFFFF" stroke="#0C447C" stroke-width="1.3"/>
+  <text x="570" y="126" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Al³⁺</text>
+  <rect x="707.0" y="108.0" width="86" height="36" rx="8" fill="#FFFFFF" stroke="#854F0B" stroke-width="1.3"/>
+  <text x="750" y="126" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">O²⁻</text>
+  <path d="M600 146 L694 186" fill="none" stroke="#185FA5" stroke-width="1.6"/>
+  <path d="M720 146 L626 186" fill="none" stroke="#BA7517" stroke-width="1.6"/>
+  <text x="660" y="196" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Al₂O₃</text>
+  <text x="722" y="196" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">← 交叉结果</text>
+  <text x="660" y="226" font-size="16" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">✓ 对</text>
+  <text x="660" y="252" font-size="11.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">2 与 3 互质 → 不能约</text>
+  <text x="660" y="314" font-size="22" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Al₂O₃　氧化铝</text>
+  <text x="660" y="342" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">aluminium oxide</text>
+  <path d="M450 90 L450 350" fill="none" stroke="#B4B2A9" stroke-width="1.0" stroke-dasharray="4 4"/>
+  <rect x="60" y="376" width="780" height="48" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="450" y="394" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">再一个：Na⁺ + S²⁻ → Na₂S₁ → Na₂S　硫化钠 sodium sulfide</text>
+  <text x="450" y="414" font-size="11.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">见电荷相同（2 与 2）立刻想到 1:1；互质的下标必须原样保留</text>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 372" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 3-4　导电性检测电路｜Conductivity Test Circuit</title>
+  <rect width="900" height="372" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 3-4　导电性检测电路｜Conductivity Test Circuit</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 灯泡亮度 = 导电能力</text>
+  <path d="M420.0 84 L250 84 L250 236 L424.0 236" fill="none" stroke="#888780" stroke-width="1.8"/>
+  <path d="M480.0 84 L650 84 L650 236 L476.0 236" fill="none" stroke="#888780" stroke-width="1.8"/>
+  <rect x="418" y="72" width="64" height="24" rx="3" fill="#FFFFFF" stroke="#888780" stroke-width="1.6"/>
+  <path d="M432 66 L432 90" fill="none" stroke="#2C2C2A" stroke-width="3.0"/>
+  <path d="M444 72 L444 84" fill="none" stroke="#2C2C2A" stroke-width="1.4"/>
+  <path d="M456 66 L456 90" fill="none" stroke="#2C2C2A" stroke-width="3.0"/>
+  <path d="M468 72 L468 84" fill="none" stroke="#2C2C2A" stroke-width="1.4"/>
+  <text x="450" y="52" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">battery 电池</text>
+  <path d="M450 236 L450 176" fill="none" stroke="#888780" stroke-width="1.8"/>
+  <circle cx="450" cy="150" r="20" fill="#FFF8E1" stroke="#854F0B" stroke-width="1.6"/>
+  <path d="M438 140 L462 160" fill="none" stroke="#854F0B" stroke-width="1.6"/>
+  <path d="M462 140 L438 160" fill="none" stroke="#854F0B" stroke-width="1.6"/>
+  <text x="492" y="150" font-size="11.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">lamp 灯泡</text>
+  <path d="M450 228 L450 272" fill="none" stroke="#888780" stroke-width="1.8"/>
+  <rect x="320" y="272" width="260" height="44" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1.2"/>
+  <text x="450" y="294" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">待测样品 sample</text>
+  <text x="600" y="294" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">← 把样品串接进电路</text>
+  <rect x="42" y="92" width="262" height="150" rx="8" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.9"/>
+  <circle cx="173.0" cy="132" r="16" fill="#FFFFFF" stroke="#3B6D11" stroke-width="1.4"/>
+  <text x="173.0" y="132" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central"></text>
+  <path d="M164.0 132 L182.0 132" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <path d="M173.0 123 L173.0 141" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="173.0" y="168" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">灯泡明亮</text>
+  <text x="173.0" y="190" font-size="11" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">good conductor 良导体</text>
+  <text x="173.0" y="210" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">多为金属 metal</text>
+  <rect x="331" y="92" width="262" height="150" rx="8" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.9"/>
+  <circle cx="462.0" cy="132" r="16" fill="#FFFFFF" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="462.0" y="132" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central"></text>
+  <path d="M454.0 132 L470.0 132" fill="none" stroke="#888780" stroke-width="1.4"/>
+  <text x="462.0" y="168" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">灯泡不亮</text>
+  <text x="462.0" y="190" font-size="11" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">poor conductor 不良导体</text>
+  <text x="462.0" y="210" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">多为非金属 non-metal</text>
+  <rect x="620" y="92" width="262" height="150" rx="8" fill="#FFF8E1" stroke="#B4B2A9" stroke-width="0.9"/>
+  <circle cx="751.0" cy="132" r="16" fill="#FFFFFF" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="751.0" y="132" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central"></text>
+  <path d="M743.0 132 L759.0 132" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <circle cx="751.0" cy="132" r="16" fill="#FFFFFF" stroke="#854F0B" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <text x="751.0" y="168" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">灯泡暗 / 时亮时暗</text>
+  <text x="751.0" y="190" font-size="11" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">semiconductor 半导体</text>
+  <text x="751.0" y="210" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">多为类金属 metalloid（如 Si）</text>
+  <rect x="42" y="330" width="816" height="30" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="450" y="345" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">对照实验 control：用一段已知铜线接入，确认电路本身完好</text>
+</svg>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 456" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 7-3　电子转移与路易斯图｜Electron Transfer &amp; Lewis Diagram (MgF₂)</title>
+  <rect width="900" height="456" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 7-3　电子转移与路易斯图｜Electron Transfer &amp; Lewis Diagram (MgF₂)</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 阳离子 0 点、阴离子 8 点</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="40" y="62" width="820" height="106" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="56" y="82" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">STEP 1　起始：镁有 2 个价电子，氟各有 7 个价电子</text>
+  <circle cx="194.78" cy="132" r="3.4" fill="#0C447C"/>
+  <circle cx="245.22" cy="132" r="3.4" fill="#0C447C"/>
+  <text x="220" y="132" font-size="17" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <text x="300" y="132" font-size="18" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">+</text>
+  <circle cx="424.8" cy="112.78" r="3.4" fill="#854F0B"/>
+  <circle cx="435.2" cy="112.78" r="3.4" fill="#854F0B"/>
+  <circle cx="424.8" cy="151.22" r="3.4" fill="#854F0B"/>
+  <circle cx="435.2" cy="151.22" r="3.4" fill="#854F0B"/>
+  <circle cx="410.39" cy="126.8" r="3.4" fill="#854F0B"/>
+  <circle cx="410.39" cy="137.2" r="3.4" fill="#854F0B"/>
+  <circle cx="449.61" cy="132" r="3.4" fill="#854F0B"/>
+  <text x="430" y="132" font-size="17" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="510" y="132" font-size="18" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">+</text>
+  <circle cx="634.8" cy="112.78" r="3.4" fill="#854F0B"/>
+  <circle cx="645.2" cy="112.78" r="3.4" fill="#854F0B"/>
+  <circle cx="634.8" cy="151.22" r="3.4" fill="#854F0B"/>
+  <circle cx="645.2" cy="151.22" r="3.4" fill="#854F0B"/>
+  <circle cx="620.39" cy="126.8" r="3.4" fill="#854F0B"/>
+  <circle cx="620.39" cy="137.2" r="3.4" fill="#854F0B"/>
+  <circle cx="659.61" cy="132" r="3.4" fill="#854F0B"/>
+  <text x="640" y="132" font-size="17" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="220" y="158" font-size="10" fill="#0C447C" text-anchor="middle" dominant-baseline="central">自己不稳（想丢 2 个）</text>
+  <text x="535" y="158" font-size="10" fill="#854F0B" text-anchor="middle" dominant-baseline="central">各缺 1 个（想拿 1 个）</text>
+  <rect x="40" y="182" width="820" height="130" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="56" y="202" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">STEP 2　电子转移：Mg 把 2 个电子分开送给 2 个 F</text>
+  <path d="M270 176 C290 214 300 214 340 216" fill="none" stroke="#BA7517" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M270 176 C420 150 560 190 610 216" fill="none" stroke="#BA7517" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="300" y="168" font-size="11" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">e⁻</text>
+  <text x="520" y="168" font-size="11" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">e⁻</text>
+  <path d="M190.78 245.78 L185.78 245.78 L185.78 290.22 L190.78 290.22" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <path d="M249.22 245.78 L254.22 245.78 L254.22 290.22 L249.22 290.22" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <text x="220" y="268" font-size="17" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <text x="263.22" y="249.78" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">²⁺</text>
+  <circle cx="424.8" cy="248.78" r="3.4" fill="#854F0B"/>
+  <circle cx="435.2" cy="248.78" r="3.4" fill="#854F0B"/>
+  <circle cx="424.8" cy="287.22" r="3.4" fill="#854F0B"/>
+  <circle cx="435.2" cy="287.22" r="3.4" fill="#854F0B"/>
+  <circle cx="410.39" cy="262.8" r="3.4" fill="#854F0B"/>
+  <circle cx="410.39" cy="273.2" r="3.4" fill="#854F0B"/>
+  <circle cx="449.61" cy="262.8" r="3.4" fill="#854F0B"/>
+  <circle cx="449.61" cy="273.2" r="3.4" fill="#854F0B"/>
+  <path d="M406.39 245.78 L401.39 245.78 L401.39 290.22 L406.39 290.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <path d="M453.61 245.78 L458.61 245.78 L458.61 290.22 L453.61 290.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="430" y="268" font-size="17" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="467.61" y="249.78" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁻</text>
+  <circle cx="634.8" cy="248.78" r="3.4" fill="#854F0B"/>
+  <circle cx="645.2" cy="248.78" r="3.4" fill="#854F0B"/>
+  <circle cx="634.8" cy="287.22" r="3.4" fill="#854F0B"/>
+  <circle cx="645.2" cy="287.22" r="3.4" fill="#854F0B"/>
+  <circle cx="620.39" cy="262.8" r="3.4" fill="#854F0B"/>
+  <circle cx="620.39" cy="273.2" r="3.4" fill="#854F0B"/>
+  <circle cx="659.61" cy="262.8" r="3.4" fill="#854F0B"/>
+  <circle cx="659.61" cy="273.2" r="3.4" fill="#854F0B"/>
+  <path d="M616.39 245.78 L611.39 245.78 L611.39 290.22 L616.39 290.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <path d="M663.61 245.78 L668.61 245.78 L668.61 290.22 L663.61 290.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="640" y="268" font-size="17" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="677.61" y="249.78" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁻</text>
+  <text x="220" y="300" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">(0 个点)</text>
+  <text x="535" y="300" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">(8 个点)</text>
+  <rect x="40" y="326" width="820" height="118" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="56" y="346" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">STEP 3　静电吸引 → 组成 MgF₂（氟化镁 magnesium fluoride）</text>
+  <path d="M190.78 375.78 L185.78 375.78 L185.78 420.22 L190.78 420.22" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <path d="M249.22 375.78 L254.22 375.78 L254.22 420.22 L249.22 420.22" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <text x="220" y="398" font-size="17" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <text x="263.22" y="379.78" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">²⁺</text>
+  <circle cx="424.8" cy="378.78" r="3.4" fill="#854F0B"/>
+  <circle cx="435.2" cy="378.78" r="3.4" fill="#854F0B"/>
+  <circle cx="424.8" cy="417.22" r="3.4" fill="#854F0B"/>
+  <circle cx="435.2" cy="417.22" r="3.4" fill="#854F0B"/>
+  <circle cx="410.39" cy="392.8" r="3.4" fill="#854F0B"/>
+  <circle cx="410.39" cy="403.2" r="3.4" fill="#854F0B"/>
+  <circle cx="449.61" cy="392.8" r="3.4" fill="#854F0B"/>
+  <circle cx="449.61" cy="403.2" r="3.4" fill="#854F0B"/>
+  <path d="M406.39 375.78 L401.39 375.78 L401.39 420.22 L406.39 420.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <path d="M453.61 375.78 L458.61 375.78 L458.61 420.22 L453.61 420.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="430" y="398" font-size="17" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="467.61" y="379.78" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁻</text>
+  <circle cx="634.8" cy="378.78" r="3.4" fill="#854F0B"/>
+  <circle cx="645.2" cy="378.78" r="3.4" fill="#854F0B"/>
+  <circle cx="634.8" cy="417.22" r="3.4" fill="#854F0B"/>
+  <circle cx="645.2" cy="417.22" r="3.4" fill="#854F0B"/>
+  <circle cx="620.39" cy="392.8" r="3.4" fill="#854F0B"/>
+  <circle cx="620.39" cy="403.2" r="3.4" fill="#854F0B"/>
+  <circle cx="659.61" cy="392.8" r="3.4" fill="#854F0B"/>
+  <circle cx="659.61" cy="403.2" r="3.4" fill="#854F0B"/>
+  <path d="M616.39 375.78 L611.39 375.78 L611.39 420.22 L616.39 420.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <path d="M663.61 375.78 L668.61 375.78 L668.61 420.22 L663.61 420.22" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="640" y="398" font-size="17" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="677.61" y="379.78" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁻</text>
+  <path d="M300 398 L360 398" fill="none" stroke="#3B6D11" stroke-width="1.4"/>
+  <path d="M500 398 L560 398" fill="none" stroke="#3B6D11" stroke-width="1.4"/>
+  <text x="450" y="430" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">MgF₂　氟化镁</text>
+</svg>

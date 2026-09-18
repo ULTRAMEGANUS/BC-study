@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 452" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 4-2　两条活性趋势｜Reactivity Trends</title>
+  <rect width="900" height="452" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 4-2　两条活性趋势｜Reactivity Trends</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 金属往下更猛，非金属往下更懒</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <text x="190" y="74" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Group 1 碱金属 alkali metals</text>
+  <text x="710" y="74" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Group 17 卤素 halogens</text>
+  <rect x="120" y="96" width="140" height="40" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="190" y="116.0" font-size="16" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Li</text>
+  <rect x="120" y="142" width="140" height="40" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="190" y="162.0" font-size="16" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na</text>
+  <rect x="120" y="188" width="140" height="40" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="190" y="208.0" font-size="16" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">K</text>
+  <rect x="120" y="234" width="140" height="40" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="190" y="254.0" font-size="16" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Rb</text>
+  <rect x="120" y="280" width="140" height="40" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="190" y="300.0" font-size="16" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Cs</text>
+  <rect x="640" y="96" width="140" height="40" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="710" y="116.0" font-size="16" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <rect x="640" y="142" width="140" height="40" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="710" y="162.0" font-size="16" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl</text>
+  <rect x="640" y="188" width="140" height="40" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="710" y="208.0" font-size="16" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Br</text>
+  <rect x="640" y="234" width="140" height="40" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="710" y="254.0" font-size="16" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">I</text>
+  <rect x="640" y="280" width="140" height="40" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="710" y="300.0" font-size="16" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">At</text>
+  <path d="M300 306 L300 100" fill="none" stroke="#185FA5" stroke-width="2.4" marker-end="url(#ar)"/>
+  <text x="316" y="120" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">reactivity</text>
+  <text x="316" y="138" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">INCREASES</text>
+  <text x="316" y="156" font-size="11.5" font-weight="600" fill="#0C447C" text-anchor="start" dominant-baseline="central">活泼性增强 ↑</text>
+  <text x="316" y="182" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">越往下越容易</text>
+  <text x="316" y="198" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">丢掉最外层电子</text>
+  <path d="M820 100 L820 306" fill="none" stroke="#BA7517" stroke-width="2.4" marker-end="url(#ar)"/>
+  <text x="836" y="120" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">reactivity</text>
+  <text x="836" y="138" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">DECREASES</text>
+  <text x="836" y="156" font-size="11.5" font-weight="600" fill="#854F0B" text-anchor="start" dominant-baseline="central">活泼性减弱 ↓</text>
+  <text x="836" y="182" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">越往下越难</text>
+  <text x="836" y="198" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">抢到 1 个电子</text>
+  <rect x="60" y="340" width="780" height="92" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="450" y="360" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">共同原因 the same root cause：越往下原子越大、电子层越多</text>
+  <text x="450" y="384" font-size="11.5" fill="#0C447C" text-anchor="middle" dominant-baseline="central">碱金属靠「丢掉」最外层电子　→　丢得越容易　⇒　越活泼　↑</text>
+  <text x="450" y="406" font-size="11.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">卤素靠「抢来」一个电子　　→　抢得越困难　⇒　越不活泼　↓</text>
+</svg>

@@ -39,3 +39,15 @@ Desktop.ini
 # 重建仓库时留下的旧 .git 副本，确认无需回退后可整个删除
 .git_backup_*/
 
+# ---------------------------------------------------------------- 生成中间产物
+# 章节 PDF 的 HTML 源与 ASCII 图 PNG、md 预览页、练习单 HTML 源，
+# 都能由 MD/assets/source/ 下的脚本重新生成，不入库
+G9/pdf/*/_html/
+G9/pdf/*/_img/
+G9/preview/
+G9/MD/assets/printables/html/
+
+# 章节 PDF 与合订本（G9/pdf/）：全部可由 md + 脚本重建，不入库，避免仓库被大二进制撑大。
+# 注意 G9/MD/assets/printables/pdf/ 下的练习单 PDF 是**交付物**，仍然入库。
+G9/pdf/
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 344" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 8-1　共价键的形成｜How a Covalent Bond Forms (H₂)</title>
+  <rect width="900" height="344" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 8-1　共价键的形成｜How a Covalent Bond Forms (H₂)</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 谁也没丢电子，只是共享</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="50" y="76" width="800" height="60" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="66" y="92" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 1　两个 H 原子各有 1 个电子，都不肯把它交出去</text>
+  <text x="330" y="116" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H ·</text>
+  <text x="450" y="116" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">· H</text>
+  <text x="390" y="116" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">·</text>
+  <text x="450" y="116" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">· H</text>
+  <path d="M450 136 L450 148" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="50" y="160" width="800" height="60" rx="8" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="66" y="176" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 2　把电子推到中间，两个核共同吸引这一对电子</text>
+  <text x="330" y="200" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H :</text>
+  <text x="450" y="200" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">: H</text>
+  <circle cx="390" cy="197.0" r="3.2" fill="#2C2C2A"/>
+  <circle cx="390" cy="203.0" r="3.2" fill="#2C2C2A"/>
+  <text x="660" y="200" font-size="11" font-weight="600" fill="#0C447C" text-anchor="start" dominant-baseline="central">中间这一对就是 shared pair 共用电子对</text>
+  <path d="M450 220 L450 232" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#ar)"/>
+  <rect x="50" y="244" width="800" height="60" rx="8" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="66" y="260" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">STEP 3　用短线代替这一对电子（需要时再还原成点式）</text>
+  <text x="330" y="284" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H —</text>
+  <text x="450" y="284" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">— H</text>
+  <path d="M366 124 L434 124" fill="none" stroke="#2C2C2A" stroke-width="2.6"/>
+  <text x="660" y="284" font-size="11" font-weight="600" fill="#3B6D11" text-anchor="start" dominant-baseline="central">single covalent bond 单键</text>
+  <rect x="50" y="268" width="800" height="62" rx="8" fill="#FFFFFF" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="66" y="288" font-size="12" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">★ 两个 H 都因此拥有了 2 个价电子 → 达到 He 的稳定结构（duet rule）</text>
+  <text x="66" y="312" font-size="12" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">★ 没有任何电子被「转移走」，所以没有离子生成 → 这就是分子化合物不导电的根子</text>
+</svg>

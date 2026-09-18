@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 11-3　化合物类型决策树｜Compound Decision Tree</title>
+  <rect width="900" height="440" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 11-3　化合物类型决策树｜Compound Decision Tree</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 先看元素种类，性质只是验证</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="340" y="62" width="220" height="36" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.2"/>
+  <text x="450" y="80" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">给定两种元素 / 一个化学式</text>
+  <path d="M450 98 L450 112" fill="none" stroke="#888780" stroke-width="1.5"/>
+  <rect x="280" y="116" width="340" height="36" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.2"/>
+  <text x="450" y="134" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">两种都是 NON-METAL 非金属吗？</text>
+  <path d="M300 152 L300 178 L180 178 L180 196" fill="none" stroke="#3B6D11" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M600 152 L600 178 L720 178 L720 196" fill="none" stroke="#185FA5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="292" y="172" font-size="11" font-weight="700" fill="#3B6D11" text-anchor="end" dominant-baseline="central">是</text>
+  <text x="608" y="172" font-size="11" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">否（至少一种是金属）</text>
+  <rect x="60" y="200" width="340" height="40" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.3"/>
+  <text x="230" y="220" font-size="13.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">MOLECULAR 分子化合物</text>
+  <rect x="500" y="200" width="340" height="40" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.3"/>
+  <text x="670" y="220" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">IONIC 离子化合物</text>
+  <text x="230" y="254" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">命名：前缀法</text>
+  <text x="230" y="274" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CO₂ carbon dioxide 二氧化碳</text>
+  <text x="230" y="294" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">低熔沸点 · 不导电</text>
+  <text x="230" y="314" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">例：H₂O　CH₄　NH₃　SO₂</text>
+  <text x="670" y="254" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">命名：交叉法 + -ide</text>
+  <text x="670" y="274" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">MgCl₂ magnesium chloride 氯化镁</text>
+  <text x="670" y="294" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">高熔沸点 · 溶/熔导电</text>
+  <text x="670" y="314" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">例：NaCl　CaCl₂　MgO　Al₂O₃</text>
+  <rect x="60" y="346" width="780" height="82" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="80" y="366" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">反推题（给性质判类型）：</text>
+  <text x="100" y="388" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">· 熔点 801 ℃ + 水溶液导电 → IONIC</text>
+  <text x="100" y="406" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">· 熔点 −78 ℃ + 不导电 → MOLECULAR</text>
+  <text x="100" y="424" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">· 加热即分解 + 无导电性 → MOLECULAR（多为）</text>
+</svg>

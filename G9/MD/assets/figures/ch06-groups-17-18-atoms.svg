@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 6-4　第 17、18 族原子｜Groups 17 &amp; 18 Atoms</title>
+  <rect width="900" height="320" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 6-4　第 17、18 族原子｜Groups 17 &amp; 18 Atoms</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 就差 1 个 vs 已经满了</text>
+  <rect x="40" y="58" width="400" height="26" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="240" y="71" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">第 17 族 halogens（就差 1 个）</text>
+  <rect x="460" y="58" width="400" height="26" rx="6" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.9"/>
+  <text x="660" y="71" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">第 18 族 noble gases（已满）</text>
+  <circle cx="234.8" cy="130.12" r="3.4" fill="#854F0B"/>
+  <circle cx="245.2" cy="130.12" r="3.4" fill="#854F0B"/>
+  <circle cx="234.8" cy="169.88" r="3.4" fill="#854F0B"/>
+  <circle cx="245.2" cy="169.88" r="3.4" fill="#854F0B"/>
+  <circle cx="220.06" cy="144.8" r="3.4" fill="#854F0B"/>
+  <circle cx="220.06" cy="155.2" r="3.4" fill="#854F0B"/>
+  <circle cx="259.94" cy="150" r="3.4" fill="#854F0B"/>
+  <text x="240" y="150" font-size="18" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="240" y="196" font-size="11.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">(7)</text>
+  <text x="240" y="216" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氟</text>
+  <circle cx="394.8" cy="130.12" r="3.4" fill="#854F0B"/>
+  <circle cx="405.2" cy="130.12" r="3.4" fill="#854F0B"/>
+  <circle cx="394.8" cy="169.88" r="3.4" fill="#854F0B"/>
+  <circle cx="405.2" cy="169.88" r="3.4" fill="#854F0B"/>
+  <circle cx="374.12" cy="144.8" r="3.4" fill="#854F0B"/>
+  <circle cx="374.12" cy="155.2" r="3.4" fill="#854F0B"/>
+  <circle cx="425.88" cy="150" r="3.4" fill="#854F0B"/>
+  <text x="400" y="150" font-size="18" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl</text>
+  <text x="400" y="196" font-size="11.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">(7)</text>
+  <text x="400" y="216" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氯</text>
+  <circle cx="654.8" cy="130.12" r="3.4" fill="#3B6D11"/>
+  <circle cx="665.2" cy="130.12" r="3.4" fill="#3B6D11"/>
+  <circle cx="654.8" cy="169.88" r="3.4" fill="#3B6D11"/>
+  <circle cx="665.2" cy="169.88" r="3.4" fill="#3B6D11"/>
+  <circle cx="634.12" cy="144.8" r="3.4" fill="#3B6D11"/>
+  <circle cx="634.12" cy="155.2" r="3.4" fill="#3B6D11"/>
+  <circle cx="685.88" cy="144.8" r="3.4" fill="#3B6D11"/>
+  <circle cx="685.88" cy="155.2" r="3.4" fill="#3B6D11"/>
+  <text x="660" y="150" font-size="18" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Ne</text>
+  <text x="660" y="196" font-size="11.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">(8)</text>
+  <text x="660" y="216" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氖</text>
+  <circle cx="814.8" cy="130.12" r="3.4" fill="#3B6D11"/>
+  <circle cx="825.2" cy="130.12" r="3.4" fill="#3B6D11"/>
+  <circle cx="814.8" cy="169.88" r="3.4" fill="#3B6D11"/>
+  <circle cx="825.2" cy="169.88" r="3.4" fill="#3B6D11"/>
+  <circle cx="794.12" cy="144.8" r="3.4" fill="#3B6D11"/>
+  <circle cx="794.12" cy="155.2" r="3.4" fill="#3B6D11"/>
+  <circle cx="845.88" cy="144.8" r="3.4" fill="#3B6D11"/>
+  <circle cx="845.88" cy="155.2" r="3.4" fill="#3B6D11"/>
+  <text x="820" y="150" font-size="18" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Ar</text>
+  <text x="820" y="196" font-size="11.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">(8)</text>
+  <text x="820" y="216" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">氩</text>
+  <rect x="40" y="240" width="820" height="68" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="56" y="262" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⚠ 唯一例外 the one exception：He 氦</text>
+  <circle cx="125.44" cy="292" r="3.4" fill="#3B6D11"/>
+  <circle cx="174.56" cy="292" r="3.4" fill="#3B6D11"/>
+  <text x="150" y="292" font-size="16" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">He</text>
+  <text x="220" y="292" font-size="11.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">(2)　氦　← 只有第 1 层，2 个点即满，绝不写成 8 个点</text>
+</svg>

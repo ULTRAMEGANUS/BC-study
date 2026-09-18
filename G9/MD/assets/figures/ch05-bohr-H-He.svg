@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 256" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 5-2　H 氢 与 He 氦｜The Period 1 Pair</title>
+  <rect width="900" height="256" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 5-2　H 氢 与 He 氦｜The Period 1 Pair</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 第 1 层满 2 就稳定</text>
+  <text x="229.0" y="70" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H  氢  Z = 1</text>
+  <text x="229.0" y="89" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">电子排布 = 1　　(A = 1)</text>
+  <rect x="106" y="110" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="98" y="127.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第1层 (K)</text>
+  <circle cx="124" cy="127.0" r="6.5" fill="#0C447C"/>
+  <text x="350" y="127.0" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="end" dominant-baseline="central">1</text>
+  <text x="368" y="127.0" font-size="9.5" font-weight="600" fill="#185FA5" text-anchor="start" dominant-baseline="central">← 价电子</text>
+  <rect x="171.0" y="162" width="124" height="46" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="233.0" y="177" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1 p⁺</text>
+  <text x="233.0" y="194" font-size="12.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">0 n⁰</text>
+  <text x="307.0" y="185" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">原子核 nucleus</text>
+  <text x="159.0" y="185" font-size="9.5" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">← 普通氢（氕）没有中子</text>
+  <text x="671.0" y="70" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">He  氦  Z = 2</text>
+  <text x="671.0" y="89" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">电子排布 = 2　　(A = 4)</text>
+  <rect x="548.0" y="110" width="254" height="34" rx="4" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="540.0" y="127.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第1层 (K)</text>
+  <circle cx="566.0" cy="127.0" r="6.5" fill="#0C447C"/>
+  <circle cx="588.0" cy="127.0" r="6.5" fill="#0C447C"/>
+  <text x="792.0" y="127.0" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="end" dominant-baseline="central">2</text>
+  <text x="810.0" y="127.0" font-size="9.5" font-weight="600" fill="#185FA5" text-anchor="start" dominant-baseline="central">← 价电子</text>
+  <rect x="613.0" y="162" width="124" height="46" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="675.0" y="177" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2 p⁺</text>
+  <text x="675.0" y="194" font-size="12.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">2 n⁰</text>
+  <text x="749.0" y="185" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">原子核 nucleus</text>
+  <rect x="40" y="214" width="820" height="32" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="450.0" y="230" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H 第 1 层未满 → 活泼　　He 第 1 层已满 → 惰性</text>
+</svg>

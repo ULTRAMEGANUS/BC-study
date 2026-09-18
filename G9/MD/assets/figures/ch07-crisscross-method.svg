@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 7-1　交叉法图解｜Criss-cross Method (Mg + F)</title>
+  <rect width="900" height="400" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 7-1　交叉法图解｜Criss-cross Method (Mg + F)</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 电荷数交叉 → 对方的下标</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="184.0" y="76.0" width="92" height="40" rx="8" fill="#FFFFFF" stroke="#0C447C" stroke-width="1.3"/>
+  <text x="230" y="96" font-size="16" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Mg²⁺</text>
+  <rect x="624.0" y="76.0" width="92" height="40" rx="8" fill="#FFFFFF" stroke="#854F0B" stroke-width="1.3"/>
+  <text x="670" y="96" font-size="16" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">F⁻</text>
+  <text x="230" y="132" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">电荷 +2</text>
+  <text x="670" y="132" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">电荷 −1</text>
+  <path d="M258 116 C420 150 520 220 636 238" fill="none" stroke="#185FA5" stroke-width="1.8" marker-end="url(#ar)"/>
+  <path d="M642 116 C480 150 380 220 264 238" fill="none" stroke="#BA7517" stroke-width="1.8" marker-end="url(#ar)"/>
+  <text x="450" y="168" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">把电荷数交叉写到对方右下角</text>
+  <text x="230" y="262" font-size="26" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <text x="262" y="276" font-size="15" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">1</text>
+  <text x="670" y="262" font-size="26" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">F</text>
+  <text x="700" y="276" font-size="15" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">2</text>
+  <text x="450" y="262" font-size="20" font-weight="700" fill="#888780" text-anchor="middle" dominant-baseline="central">→</text>
+  <text x="450" y="300" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">MgF₂　（下标 1 省略）</text>
+  <rect x="60" y="330" width="780" height="56" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="450" y="350" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">验算 CHECK：(+2)×1 + (−1)×2 = 2 − 2 = 0　✓</text>
+  <text x="450" y="372" font-size="11.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">英文：magnesium fluoride　　中文：氟化镁（非金属在前、金属在后）</text>
+</svg>

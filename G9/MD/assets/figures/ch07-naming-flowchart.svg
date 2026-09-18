@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 7-4　命名流程图｜Naming Decision Flowchart</title>
+  <rect width="900" height="560" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 7-4　命名流程图｜Naming Decision Flowchart</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 分水岭：有没有金属</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="340" y="62" width="220" height="38" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.2"/>
+  <text x="450" y="81" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">给定化学式 / 名称</text>
+  <path d="M450 100 L450 118" fill="none" stroke="#888780" stroke-width="1.6"/>
+  <path d="M180 118 L720 118" fill="none" stroke="#888780" stroke-width="1.6"/>
+  <path d="M180 118 L180 142" fill="none" stroke="#888780" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M720 118 L720 142" fill="none" stroke="#888780" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="126" y="132" font-size="11" font-weight="700" fill="#0C447C" text-anchor="end" dominant-baseline="central">是 metal + non-metal</text>
+  <text x="126" y="146" font-size="11" font-weight="700" fill="#0C447C" text-anchor="end" dominant-baseline="central">（或含 NH₄⁺ 铵根）？</text>
+  <text x="774" y="132" font-size="11" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">全是 non-metal</text>
+  <text x="774" y="146" font-size="11" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">（见 Ch.8）</text>
+  <rect x="50" y="148" width="260" height="34" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.3"/>
+  <text x="180" y="165" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">离子化合物 IONIC</text>
+  <text x="70" y="200" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① 写离子符号（含电荷）</text>
+  <text x="70" y="222" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② 交叉法 → 下标</text>
+  <text x="70" y="244" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">③ 约简 + 去 1</text>
+  <rect x="50" y="274" width="260" height="34" rx="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="180" y="291" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">金属是多变价吗？</text>
+  <path d="M120 308 L120 326" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <path d="M240 308 L240 326" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <text x="116" y="320" font-size="10.5" font-weight="700" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">否</text>
+  <text x="246" y="320" font-size="10.5" font-weight="700" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">是</text>
+  <rect x="46" y="330" width="128" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="110" y="346" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">直接写 metal 名</text>
+  <text x="110" y="362" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">NaCl sodium chloride</text>
+  <rect x="186" y="330" width="128" height="46" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="250" y="346" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">金属名 + (罗马数字)</text>
+  <text x="250" y="360" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">FeCl₃ iron(III) chloride</text>
+  <text x="250" y="372" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">FeCl₂ iron(II) chloride</text>
+  <path d="M180 380 L180 398" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <rect x="50" y="402" width="260" height="34" rx="6" fill="#FFFFFF" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="180" y="419" font-size="11" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">含多原子离子？直接照抄离子名</text>
+  <text x="70" y="452" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">CaCO₃ calcium carbonate</text>
+  <text x="70" y="470" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">NaOH  sodium hydroxide</text>
+  <text x="70" y="488" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">(NH₄)₂SO₄ ammonium sulfate</text>
+  <rect x="590" y="148" width="260" height="34" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.3"/>
+  <text x="720" y="165" font-size="13.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">分子化合物 MOLECULAR</text>
+  <text x="610" y="200" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① 数各元素原子个数</text>
+  <text x="610" y="222" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② 第二元素加希腊前缀 + -ide</text>
+  <text x="610" y="244" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">③ 第一元素仅在 >1 时加前缀（永不用 mono-）</text>
+  <rect x="590" y="274" width="260" height="52" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="720" y="292" font-size="11.5" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">CO₂ → carbon dioxide</text>
+  <text x="720" y="310" font-size="11.5" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">CO  → carbon monoxide</text>
+  <text x="720" y="332" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">中文：二氧化碳 / 一氧化碳</text>
+  <rect x="50" y="496" width="800" height="52" rx="8" fill="#A32D2D" stroke="#A32D2D" stroke-width="1.4"/>
+  <text x="60" y="516" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="start" dominant-baseline="central">★ 翻成中文时把顺序倒过来：</text>
+  <text x="60" y="536" font-size="11.5" fill="#FFFFFF" text-anchor="start" dominant-baseline="central">sodium chloride → 氯化钠（不是「钠化氯」）　calcium carbonate → 碳酸钙　ammonium sulfate → 硫酸铵</text>
+</svg>

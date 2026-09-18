@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 372" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 5-1　电子层条形图的通用格式｜The Standard Layout</title>
+  <rect width="900" height="372" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 5-1　电子层条形图的通用格式｜The Standard Layout</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 只有三件东西：核、层、电子</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M620 70 L620 96" fill="none" stroke="#185FA5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <text x="632" y="74" font-size="11" font-weight="700" fill="#185FA5" text-anchor="start" dominant-baseline="central">离核最远 outermost</text>
+  <text x="632" y="90" font-size="10.5" font-weight="600" fill="#185FA5" text-anchor="start" dominant-baseline="central">这一层就是 valence shell 价电子层</text>
+  <rect x="250" y="112" width="330" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="242" y="129.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第4层 (N)</text>
+  <circle cx="270" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="294" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="318" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="342" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="366" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="390" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="414" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="438" cy="129.0" r="3.2" fill="#B4B2A9"/>
+  <text x="590" y="129.0" font-size="10" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">前 20 号仅 K、Ca 用到（最多 2 个）</text>
+  <rect x="250" y="146" width="330" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="242" y="163.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第3层 (M)</text>
+  <circle cx="270" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="294" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="318" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="342" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="366" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="390" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="414" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="438" cy="163.0" r="3.2" fill="#B4B2A9"/>
+  <text x="590" y="163.0" font-size="10" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">容量 8（范围内不要写 18！）</text>
+  <rect x="250" y="180" width="330" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="242" y="197.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第2层 (L)</text>
+  <circle cx="270" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="294" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="318" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="342" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="366" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="390" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="414" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="438" cy="197.0" r="3.2" fill="#B4B2A9"/>
+  <text x="590" y="197.0" font-size="10" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">容量 8</text>
+  <rect x="250" y="214" width="330" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="242" y="231.0" font-size="10.5" font-weight="600" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">第1层 (K)</text>
+  <circle cx="270" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="294" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="318" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="342" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="366" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="390" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="414" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <circle cx="438" cy="231.0" r="3.2" fill="#B4B2A9"/>
+  <text x="590" y="231.0" font-size="10" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">容量 2，最先填满</text>
+  <rect x="355" y="266" width="124" height="46" rx="6" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="417" y="281" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Z p⁺</text>
+  <text x="417" y="298" font-size="12.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">A−Z n⁰</text>
+  <text x="492" y="289" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">原子核 nucleus（永远在正中央）</text>
+  <rect x="60" y="328" width="780" height="32" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="450" y="344" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">填层铁律 Golden rule：由内向外 inner → outer，内层没满不许填外层</text>
+</svg>

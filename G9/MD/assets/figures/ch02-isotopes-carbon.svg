@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 404" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 2-3　同位素：质子同、中子不同｜Isotopes</title>
+  <rect width="900" height="404" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 2-3　同位素：质子同、中子不同｜Isotopes</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 黑点一样多 ⇒ 都是碳</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="40" y="58" width="820" height="26" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="450" y="71" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">同一种元素 ⇒ 质子数必须相同 SAME　　同位素 ⇒ 中子数可以不同 DIFFERENT</text>
+  <text x="181.0" y="116" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">碳-12  C-12</text>
+  <rect x="62" y="128" width="238" height="108" rx="6" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <text x="74" y="152" font-size="11" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">p⁺</text>
+  <circle cx="104" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="126" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="148" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="170" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="192" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="214" cy="152" r="7.5" fill="#0C447C"/>
+  <text x="74" y="190" font-size="11" font-weight="700" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">n⁰</text>
+  <circle cx="104" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="126" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="148" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="170" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="192" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="214" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <text x="74" y="224" font-size="10" fill="#185FA5" text-anchor="start" dominant-baseline="central">6 个质子</text>
+  <text x="288" y="224" font-size="10" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">6 个中子</text>
+  <text x="181.0" y="254" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">6p + 6n = 12</text>
+  <text x="181.0" y="274" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">约占 98.9%</text>
+  <text x="181.0" y="292" font-size="10" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">稳定 stable</text>
+  <text x="452.0" y="116" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">碳-13  C-13</text>
+  <rect x="333" y="128" width="238" height="108" rx="6" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <text x="345" y="152" font-size="11" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">p⁺</text>
+  <circle cx="375" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="397" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="419" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="441" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="463" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="485" cy="152" r="7.5" fill="#0C447C"/>
+  <text x="345" y="190" font-size="11" font-weight="700" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">n⁰</text>
+  <circle cx="375" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="397" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="419" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="441" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="463" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="485" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="507" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <text x="345" y="224" font-size="10" fill="#185FA5" text-anchor="start" dominant-baseline="central">6 个质子</text>
+  <text x="559" y="224" font-size="10" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">7 个中子</text>
+  <text x="452.0" y="254" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">6p + 7n = 13</text>
+  <text x="452.0" y="274" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">约占 1.1%</text>
+  <text x="452.0" y="292" font-size="10" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">稳定 stable</text>
+  <text x="723.0" y="116" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">碳-14  C-14</text>
+  <rect x="604" y="128" width="238" height="108" rx="6" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <text x="616" y="152" font-size="11" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">p⁺</text>
+  <circle cx="646" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="668" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="690" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="712" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="734" cy="152" r="7.5" fill="#0C447C"/>
+  <circle cx="756" cy="152" r="7.5" fill="#0C447C"/>
+  <text x="616" y="190" font-size="11" font-weight="700" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">n⁰</text>
+  <circle cx="646" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="668" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="690" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="712" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="734" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="756" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="778" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <circle cx="800" cy="190" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <text x="616" y="224" font-size="10" fill="#185FA5" text-anchor="start" dominant-baseline="central">6 个质子</text>
+  <text x="830" y="224" font-size="10" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">8 个中子</text>
+  <text x="723.0" y="254" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">6p + 8n = 14</text>
+  <text x="723.0" y="274" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">痕量 trace</text>
+  <text x="723.0" y="292" font-size="10" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">放射性 radioactive</text>
+  <circle cx="70" cy="320" r="7.5" fill="#0C447C"/>
+  <text x="86" y="320" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">proton 质子</text>
+  <circle cx="210" cy="320" r="7.5" fill="#FFFFFF" stroke="#5F5E5A" stroke-width="1.4"/>
+  <text x="226" y="320" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">neutron 中子</text>
+  <text x="370" y="320" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">三者都是碳（都是 6 个质子），只是中子数不同</text>
+  <rect x="40" y="340" width="820" height="52" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="60" y="358" font-size="12.5" font-weight="600" fill="#854F0B" text-anchor="start" dominant-baseline="central">氯的天然样品 ≈ 75% Cl-35 + 25% Cl-37</text>
+  <text x="60" y="378" font-size="11.5" fill="#854F0B" text-anchor="start" dominant-baseline="central">⇒ 平均值落在 35 与 37 之间、且偏向含量多的 35　⇒ 周期表上 Cl = 35.45（小数！）</text>
+</svg>

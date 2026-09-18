@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 4-1　四大族在周期表上的位置｜Where the Families Live</title>
+  <rect width="900" height="470" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 4-1　四大族在周期表上的位置｜Where the Families Live</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 活泼的都在边缘</text>
+  <rect x="44" y="70" width="96" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="85.0" font-size="11" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group</text>
+  <rect x="140.0" y="70" width="143.2" height="30" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="211.6" y="85.0" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">1</text>
+  <rect x="283.2" y="70" width="143.2" height="30" rx="4" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="354.79999999999995" y="85.0" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="426.4" y="70" width="143.2" height="30" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="498.0" y="85.0" font-size="13" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">3-12</text>
+  <rect x="569.5999999999999" y="70" width="143.2" height="30" rx="4" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="641.1999999999999" y="85.0" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">17</text>
+  <rect x="712.8" y="70" width="143.2" height="30" rx="4" fill="#EAF3DE" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="784.4" y="85.0" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">18</text>
+  <rect x="44" y="100" width="96" height="38" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="119.0" font-size="11" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Period 1</text>
+  <rect x="142.0" y="102" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="211.6" y="119.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H*</text>
+  <rect x="285.2" y="102" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <rect x="428.4" y="102" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <rect x="571.5999999999999" y="102" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <rect x="714.8" y="102" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="784.4" y="119.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">He</text>
+  <rect x="44" y="138" width="96" height="38" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="157.0" font-size="11" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Period 2</text>
+  <rect x="142.0" y="140" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="211.6" y="157.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Li</text>
+  <rect x="285.2" y="140" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.79999999999995" y="157.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Be</text>
+  <rect x="428.4" y="140" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <rect x="571.5999999999999" y="140" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="641.1999999999999" y="157.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">F</text>
+  <rect x="714.8" y="140" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="784.4" y="157.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ne</text>
+  <rect x="44" y="176" width="96" height="38" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="195.0" font-size="11" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Period 3</text>
+  <rect x="142.0" y="178" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="211.6" y="195.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Na</text>
+  <rect x="285.2" y="178" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.79999999999995" y="195.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <rect x="428.4" y="178" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <rect x="571.5999999999999" y="178" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="641.1999999999999" y="195.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Cl</text>
+  <rect x="714.8" y="178" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="784.4" y="195.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ar</text>
+  <rect x="44" y="214" width="96" height="38" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="233.0" font-size="11" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Period 4</text>
+  <rect x="142.0" y="216" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="211.6" y="233.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">K</text>
+  <rect x="285.2" y="216" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.79999999999995" y="233.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ca</text>
+  <rect x="428.4" y="216" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="498.0" y="233.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Sc … Zn</text>
+  <rect x="571.5999999999999" y="216" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="641.1999999999999" y="233.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Br</text>
+  <rect x="714.8" y="216" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="784.4" y="233.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Kr</text>
+  <rect x="44" y="252" width="96" height="38" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="271.0" font-size="11" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Period 5</text>
+  <rect x="142.0" y="254" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="211.6" y="271.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Rb</text>
+  <rect x="285.2" y="254" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.79999999999995" y="271.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Sr</text>
+  <rect x="428.4" y="254" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="498.0" y="271.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Y … Cd</text>
+  <rect x="571.5999999999999" y="254" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="641.1999999999999" y="271.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">I</text>
+  <rect x="714.8" y="254" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="784.4" y="271.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Xe</text>
+  <rect x="44" y="290" width="96" height="38" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="309.0" font-size="11" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Period 6</text>
+  <rect x="142.0" y="292" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="211.6" y="309.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Cs</text>
+  <rect x="285.2" y="292" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.79999999999995" y="309.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ba</text>
+  <rect x="428.4" y="292" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="498.0" y="309.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">La … Hg</text>
+  <rect x="571.5999999999999" y="292" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="641.1999999999999" y="309.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">At</text>
+  <rect x="714.8" y="292" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="784.4" y="309.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Rn</text>
+  <rect x="44" y="328" width="96" height="38" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="92.0" y="347.0" font-size="11" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Period 7</text>
+  <rect x="142.0" y="330" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="211.6" y="347.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Fr</text>
+  <rect x="285.2" y="330" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="354.79999999999995" y="347.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ra</text>
+  <rect x="428.4" y="330" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="498.0" y="347.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ac … Cn</text>
+  <rect x="571.5999999999999" y="330" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="641.1999999999999" y="347.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">(Ts)</text>
+  <rect x="714.8" y="330" width="139.2" height="34" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.6"/>
+  <text x="784.4" y="347.0" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">(Og)</text>
+  <text x="44" y="392" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">第 1 列 = Group 1</text>
+  <text x="194" y="392" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">碱金属 alkali metals（H* 不是碱金属，它只是个非金属邻居）</text>
+  <text x="470" y="392" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">第 2 列 = Group 2</text>
+  <text x="620" y="392" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">碱土金属 alkaline earth metals</text>
+  <text x="44" y="416" font-size="11.5" font-weight="700" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">中间 = Group 3–12</text>
+  <text x="194" y="416" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">过渡元素 transition elements（全是金属）</text>
+  <text x="470" y="416" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">倒数第二 = Group 17</text>
+  <text x="620" y="416" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">卤素 halogens</text>
+  <text x="44" y="440" font-size="11.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">最后一列 = Group 18</text>
+  <text x="194" y="440" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">稀有气体 noble gases</text>
+</svg>

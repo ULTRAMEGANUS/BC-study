@@ -27,21 +27,36 @@
 
 ```
 G9/
-├─ 00_讲义章节框架_Course_Framework.md   ← 章节框架与总纲（先读这个）
-├─ README.md                          ← 本文件
-├─ chapters/                          ← 11 章正文讲义（时间戳 20260918_005305）
-├─ appendices/                        ← 附录 A–E（时间戳 20260918_124038）
-└─ assets/
-   ├─ figures/                        ← SVG 矢量图（打印级，共 13 张）
-   ├─ printables/                     ← A4 空白练习单：pdf/ 10 份（共 27 页）+ html/ 源
-   ├─ cards/                          ← Anki 导入包（待做）
-   └─ source/                         ← 生成脚本与数据（改完重跑即同步）
+├─ 00_讲义章节框架_Course_Framework.md    ← 章节框架与总纲（先读这个）
+├─ README.md                           ← 本文件
+├─ MD/                                 ← 全部可编辑的 md 源与素材
+│  ├─ chapters-cn/                     ← 11 章正文·中文在前（时间戳 20260918_005305）
+│  ├─ chapters-en/                     ← 11 章正文·英文在前 + _STYLE.md 体例规范
+│  ├─ appendices-cn/                   ← 附录 A–E（时间戳 20260918_124038）
+│  └─ assets/
+│     ├─ figures/                      ← SVG 矢量图（86 张）+ index.html 图库索引
+│     ├─ printables/pdf/               ← A4 空白练习单 10 份（共 27 页）
+│     ├─ cards/                        ← Anki 导入包（待做）
+│     └─ source/                       ← 生成脚本与数据（改完重跑即同步）
+└─ pdf/                                ← 生成物，勿手改
+   ├─ CN/                              ← 中文版：11 章 + 附录 5 份 + 2 份合订本
+   └─ EN/                              ← 英文在前版：11 章 + 全册合订本
 ```
 
 ## 图库｜Figures
 
-`assets/figures/` 下为独立 SVG 矢量图，白底、A4 友好，可直接打印或嵌入网页。
-打开 `assets/figures/index.html` 可一次预览全部。
+`MD/assets/figures/` 下为独立 SVG 矢量图，白底、A4 友好，可直接打印或嵌入网页。
+打开 `MD/assets/figures/index.html` 可一次预览全部。
+
+## PDF 成品｜Built PDFs
+
+| 文件 | 内容 |
+|---|---|
+| `pdf/CN/G9-combo.pdf` | 11 章合订本（205 页 / 书签 430 条） |
+| `pdf/CN/appendix-combo-cn.pdf` | 附录 A–E 合订本（133 页 / 书签 119 条） |
+| `pdf/EN/G9-combo-en.pdf` | 英文在前版全册合订本（335 页 / 书签 423 条） |
+
+各章单篇 PDF 与合订本同源，位于 `pdf/CN/`、`pdf/EN/` 下，文件名与对应 md 一致。
 
 | 文件 | 内容 |
 |---|---|
@@ -59,19 +74,19 @@ G9/
 | `whmis-symbols.svg` | WHMIS 安全标识（1988 圆形 + 2015 菱形，中英双语） |
 | `conductivity-circuit.svg` | 导电性检测电路四联图（固体/水溶液/熔融/分子化合物） |
 
-> 图内配色与分类术语与正文、附录完全一致；元素数据由 `assets/source/build_figures.py`
+> 图内配色与分类术语与正文、附录完全一致；元素数据由 `MD/assets/source/build_figures.py`
 > 生成，改脚本重跑即可全局同步，不会与附录 D 漂移。
 
-## 生成脚本｜assets/source
+## 生成脚本｜MD/assets/source
 
 图库、附录 A、练习单 PDF 都是**生成物，不要直接编辑**。改完正文或元素数据后重跑脚本即同步。
-详见 [`assets/source/README.md`](assets/source/README.md)。
+详见 [`MD/assets/source/README.md`](MD/assets/source/README.md)。
 
 | 脚本 | 输出 |
 |---|---|
-| `build_glossary.py` | `appendices/AppendixA_*.md`（234 条术语）+ `glossary.csv` |
+| `build_glossary.py` | `MD/appendices-cn/AppendixA_*.md`（234 条术语）+ `glossary.csv` |
 | `build_figures.py` | `figures/*.svg` × 5（周期表 / 玻尔图 / 点式 / 模板）+ `elements_1_20.csv` |
-| `check_figures.py` | 校验 13 张 SVG：XML 合法性、禁用标签、文字越界 |
+| `check_figures.py` | 校验 SVG：XML 合法性、禁用标签、文字越界 |
 | `build_printables.py` | A4 空白练习单 HTML（数据取自两个 CSV，与附录同源） |
 | `html2pdf.py` | HTML → A4 PDF（Chrome headless，通用；含中文文件名保护） |
 
@@ -80,7 +95,7 @@ G9/
 
 ## 附录｜Appendices
 
-文件名含时间戳 `20260918_124038`，位于 `appendices/`：
+文件名含时间戳 `20260918_124038`，位于 `MD/appendices-cn/`：
 
 | 文件 | 内容 |
 |---|---|
@@ -118,7 +133,7 @@ G9/
 
 ## 正文讲义｜Chapter Files
 
-文件名含时间戳 `20260918_005305`，位于 `chapters/`：
+文件名含时间戳 `20260918_005305`，位于 `MD/chapters-cn/`（英文在前版同名，位于 `MD/chapters-en/`）：
 
 | 文件 | 章节 |
 |---|---|
@@ -137,24 +152,25 @@ G9/
 **统一体例（每章 10 节）**：大纲对应 → 学习目标 → **概念解析** → **表格比对** → **图例说明**
 → 核心词汇 → 实验与活动 → 常见易错点 → **答题评估** → 回扣 Big Idea。
 
-- 图例全部为 Markdown 代码围栏内的 ASCII 字符画（无外部图片依赖）。
+- 图例为 `MD/assets/figures/` 下的独立 SVG（内联进 PDF 以保住中文文本层）；附录 E 的填空表单仍保留可手写的代码块。
 - 答题评估统一为 A 基础题 10×2 分 + B 应用题 4×5 分 + C 挑战题 2×10 分，附完整参考答案与评分量规。
 
 ## 状态｜Status
 
 - [x] 建立根目录与结构
 - [x] 完成英中对照章节框架（`00_讲义章节框架_Course_Framework.md`）
-- [x] 完成 11 章正文讲义（`chapters/`，共 6445 行）
-- [x] 完成附录 A–E（`appendices/`，共 4137 行）
-- [x] 完成图库 `assets/figures/`（13 张 SVG）
-- [x] 完成 A4 空白练习单 `assets/printables/`（10 份 PDF，27 页，每份末页附答案）
-- [ ] Anki 词汇卡 `assets/cards/`
-- [ ] 可打印版讲义（把 11 章 + 附录排成一份连续 PDF）
+- [x] 完成 11 章正文讲义（`MD/chapters-cn/`，共 6445 行）
+- [x] 完成附录 A–E（`MD/appendices-cn/`，共 4137 行）
+- [x] 完成图库 `MD/assets/figures/`（86 张 SVG）
+- [x] 完成 A4 空白练习单 `MD/assets/printables/pdf/`（10 份 PDF，27 页，每份末页附答案）
+- [ ] Anki 词汇卡 `MD/assets/cards/`
+- [x] 可打印版讲义：`pdf/CN/G9-combo.pdf`、`pdf/CN/appendix-combo-cn.pdf`、`pdf/EN/G9-combo-en.pdf`
+- [ ] 附录英文版 `MD/appendices-en/`
 
 ### 建议学习路径
 
 1. 通读 `00_讲义章节框架_Course_Framework.md` 建立全局观。
 2. 按 Ch.1 → Ch.11 顺序学正文，每章做完第 9 节「答题评估」。
 3. **随时查**：附录 A 词汇 / 附录 B 离子 / 附录 C 命名 / 附录 D 元素。
-4. **动手写**：`assets/printables/pdf/` 的 10 份 A4 空白练习单，学完一章做一份。
+4. **动手写**：`MD/assets/printables/pdf/` 的 10 份 A4 空白练习单，学完一章做一份。
 5. **考前**：附录 E 的 11 份练习单 + 单元测评卷 + 附录 A-4 易混辨析。

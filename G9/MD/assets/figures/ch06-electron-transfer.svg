@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 392" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 6-9　八隅体规则的现场演示｜Na + Cl Electron Transfer</title>
+  <rect width="900" height="392" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 6-9　八隅体规则的现场演示｜Na + Cl Electron Transfer</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 电子守恒：1 + 7 = 0 + 8 = 8</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="40" y="58" width="380" height="26" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="230" y="71" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">起点 Start（中性原子 atoms）</text>
+  <rect x="480" y="58" width="380" height="26" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="670" y="71" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">终点 Result（离子 ions）</text>
+  <circle cx="176.54" cy="140" r="3.4" fill="#0C447C"/>
+  <text x="150" y="140" font-size="19" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na</text>
+  <text x="150" y="186" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">价电子 1</text>
+  <circle cx="324.8" cy="119.46000000000001" r="3.4" fill="#854F0B"/>
+  <circle cx="335.2" cy="119.46000000000001" r="3.4" fill="#854F0B"/>
+  <circle cx="324.8" cy="160.54" r="3.4" fill="#854F0B"/>
+  <circle cx="335.2" cy="160.54" r="3.4" fill="#854F0B"/>
+  <circle cx="303.46" cy="134.8" r="3.4" fill="#854F0B"/>
+  <circle cx="303.46" cy="145.2" r="3.4" fill="#854F0B"/>
+  <circle cx="356.54" cy="140" r="3.4" fill="#854F0B"/>
+  <text x="330" y="140" font-size="19" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl</text>
+  <text x="330" y="186" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">价电子 7</text>
+  <path d="M559.46 116.46000000000001 L554.46 116.46000000000001 L554.46 163.54 L559.46 163.54" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <path d="M620.54 116.46000000000001 L625.54 116.46000000000001 L625.54 163.54 L620.54 163.54" fill="none" stroke="#0C447C" stroke-width="1.4"/>
+  <text x="590" y="140" font-size="19" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Na</text>
+  <text x="634.54" y="120.46000000000001" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁺</text>
+  <text x="590" y="186" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">点数 0</text>
+  <circle cx="784.8" cy="119.46000000000001" r="3.4" fill="#854F0B"/>
+  <circle cx="795.2" cy="119.46000000000001" r="3.4" fill="#854F0B"/>
+  <circle cx="784.8" cy="160.54" r="3.4" fill="#854F0B"/>
+  <circle cx="795.2" cy="160.54" r="3.4" fill="#854F0B"/>
+  <circle cx="763.46" cy="134.8" r="3.4" fill="#854F0B"/>
+  <circle cx="763.46" cy="145.2" r="3.4" fill="#854F0B"/>
+  <circle cx="816.54" cy="134.8" r="3.4" fill="#854F0B"/>
+  <circle cx="816.54" cy="145.2" r="3.4" fill="#854F0B"/>
+  <path d="M759.46 116.46000000000001 L754.46 116.46000000000001 L754.46 163.54 L759.46 163.54" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <path d="M820.54 116.46000000000001 L825.54 116.46000000000001 L825.54 163.54 L820.54 163.54" fill="none" stroke="#854F0B" stroke-width="1.4"/>
+  <text x="790" y="140" font-size="19" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Cl</text>
+  <text x="834.54" y="120.46000000000001" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">⁻</text>
+  <text x="790" y="186" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">点数 8</text>
+  <path d="M450 140 L470 140" fill="none" stroke="#185FA5" stroke-width="2.0" marker-end="url(#ar)"/>
+  <path d="M250 112 C300 78 320 78 300 104" fill="none" stroke="#BA7517" stroke-width="1.8" marker-end="url(#ar)"/>
+  <text x="276" y="66" font-size="10.5" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Na 把那 1 个点交给 Cl</text>
+  <rect x="40" y="214" width="820" height="168" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="60" y="240" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">· Na 把那 1 个点「交」给了 Cl　　(Na loses 1 e⁻ → Na⁺)</text>
+  <text x="60" y="268" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">· Cl 用它把自己补成 8 个　　　　(Cl gains 1 e⁻ → Cl⁻)</text>
+  <text x="60" y="296" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">· 质子数全程不变：Na 始终 11 p⁺，Cl 始终 17 p⁺</text>
+  <text x="60" y="324" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">· 电子守恒 electrons are conserved：1 + 7 = 0 + 8 = 8　✔</text>
+  <text x="60" y="352" font-size="12" font-weight="600" fill="#0C447C" text-anchor="start" dominant-baseline="central">· 双方都拿到满层结构 → 都变稳定 → 正负相吸 → NaCl 离子化合物（Ch.7）</text>
+</svg>

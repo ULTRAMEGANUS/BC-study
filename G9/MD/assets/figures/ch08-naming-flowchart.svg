@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 528" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 8-5　命名总流程图｜Complete Naming Flowchart</title>
+  <rect width="900" height="528" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 8-5　命名总流程图｜Complete Naming Flowchart</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 只需一个分支：有没有金属</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="330" y="62" width="240" height="36" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.2"/>
+  <text x="450" y="80" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">拿到一个化学式 / 中文名</text>
+  <path d="M450 98 L450 114" fill="none" stroke="#888780" stroke-width="1.6"/>
+  <rect x="210" y="118" width="480" height="38" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.2"/>
+  <text x="450" y="132" font-size="13.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">含 metal（金属）或含 NH₄⁺ ？</text>
+  <text x="450" y="148" font-size="11" fill="#854F0B" text-anchor="middle" dominant-baseline="central">是 ↓　　　　　　　　　　　否（全是非金属）↓</text>
+  <path d="M240 156 L240 178" fill="none" stroke="#BA7517" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M660 156 L660 178" fill="none" stroke="#BA7517" stroke-width="1.6" marker-end="url(#ar)"/>
+  <rect x="60" y="182" width="360" height="38" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.3"/>
+  <text x="240" y="201" font-size="13.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">IONIC 离子化合物（Ch.7）</text>
+  <rect x="480" y="182" width="360" height="38" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.3"/>
+  <text x="660" y="201" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">MOLECULAR 分子（共价）化合物（Ch.8）</text>
+  <text x="78" y="244" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① 写离子 + 电荷</text>
+  <text x="78" y="268" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② 交叉 → 下标</text>
+  <text x="78" y="292" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">③ 约简到最简比 + 去 1</text>
+  <text x="78" y="316" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">④ 多变价 → 加罗马数字</text>
+  <text x="78" y="340" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑤ 多原子离子 → 抄离子名</text>
+  <text x="498" y="244" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① 数各元素的原子个数</text>
+  <text x="498" y="268" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② 第二元素：加希腊前缀 + 改 -ide</text>
+  <text x="498" y="292" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">③ 第一元素：仅当 >1 加前缀（永不用 mono-）</text>
+  <text x="498" y="316" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">④ 对照俗名单，命中则写俗名</text>
+  <text x="498" y="340" font-size="11.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑤ 检查拼写：monoxide / tetroxide</text>
+  <path d="M240 372 L240 396" fill="none" stroke="#185FA5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M660 372 L660 396" fill="none" stroke="#3B6D11" stroke-width="1.6" marker-end="url(#ar)"/>
+  <rect x="120" y="400" width="660" height="108" rx="10" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.4"/>
+  <text x="450" y="424" font-size="13" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">★ 翻成中文时两侧都要把顺序「翻过来」：</text>
+  <text x="450" y="450" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">sodium chloride → 氯化钠（不是「钠化氯」）</text>
+  <text x="450" y="476" font-size="12.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">carbon dioxide　→ 二氧化碳（不是「碳化二氧」）</text>
+  <text x="450" y="498" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">整章只需记住一个分支：有没有金属。这一句决定后面所有规则。</text>
+</svg>

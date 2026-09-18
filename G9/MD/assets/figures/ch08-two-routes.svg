@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>全册主线：两条路 A vs 路 B｜The Two Routes</title>
+  <rect width="900" height="560" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">全册主线：两条路 A vs 路 B｜The Two Routes</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 一切差异源自「电子给不给」</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="70" y="62" width="760" height="44" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.2"/>
+  <text x="450" y="78" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">电子排布 electron arrangement</text>
+  <text x="450" y="96" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">C 2-4、O 2-6、H 1、N 2-5　→　最外层不够满，都想达到 stable octet</text>
+  <path d="M450 106 L450 122" fill="none" stroke="#888780" stroke-width="1.6"/>
+  <text x="450" y="134" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">两条路 A vs 路 B</text>
+  <path d="M180 146 L720 146" fill="none" stroke="#888780" stroke-width="1.6"/>
+  <path d="M180 146 L180 168" fill="none" stroke="#185FA5" stroke-width="1.6" marker-end="url(#ar)"/>
+  <path d="M720 146 L720 168" fill="none" stroke="#3B6D11" stroke-width="1.6" marker-end="url(#ar)"/>
+  <rect x="70" y="172" width="340" height="30" rx="5" fill="#E6F1FB" stroke="#0C447C" stroke-width="0.9"/>
+  <text x="240" y="187" font-size="11.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">金属 + 非金属</text>
+  <rect x="490" y="172" width="340" height="30" rx="5" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.9"/>
+  <text x="660" y="187" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">非金属 + 非金属</text>
+  <path d="M240 202 L240 204" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 202 L660 204" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="204" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="240" y="219" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">一方愿「给」，一方愿「拿」</text>
+  <rect x="490" y="204" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="660" y="219" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">双方都「不肯给」</text>
+  <path d="M240 234 L240 236" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 234 L660 236" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="236" width="340" height="30" rx="5" fill="#E6F1FB" stroke="#0C447C" stroke-width="0.9"/>
+  <text x="240" y="251" font-size="11.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">TRANSFER 电子转移</text>
+  <rect x="490" y="236" width="340" height="30" rx="5" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.9"/>
+  <text x="660" y="251" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">SHARING 电子共用</text>
+  <path d="M240 266 L240 268" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 266 L660 268" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="268" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="240" y="283" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">cation + anion</text>
+  <rect x="490" y="268" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="660" y="283" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">共用电子对 → 分子</text>
+  <path d="M240 298 L240 300" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 298 L660 300" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="300" width="340" height="30" rx="5" fill="#E6F1FB" stroke="#0C447C" stroke-width="0.9"/>
+  <text x="240" y="315" font-size="11.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">个数比（必须最简）</text>
+  <rect x="490" y="300" width="340" height="30" rx="5" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.9"/>
+  <text x="660" y="315" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">原子个数（不许约简）</text>
+  <path d="M240 330 L240 332" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 330 L660 332" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="332" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="240" y="347" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">MgF₂ / MgO / CaCO₃</text>
+  <rect x="490" y="332" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="660" y="347" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H₂O / CO₂ / CH₄</text>
+  <path d="M240 362 L240 364" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 362 L660 364" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="364" width="340" height="30" rx="5" fill="#E6F1FB" stroke="#0C447C" stroke-width="0.9"/>
+  <text x="240" y="379" font-size="11.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">交叉法 · 罗马数字 · 多原子离子</text>
+  <rect x="490" y="364" width="340" height="30" rx="5" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.9"/>
+  <text x="660" y="379" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">希腊前缀 · 俗名</text>
+  <path d="M240 394 L240 396" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 394 L660 396" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="396" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="240" y="411" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">English: magnesium oxide</text>
+  <rect x="490" y="396" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="660" y="411" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">English: carbon dioxide</text>
+  <path d="M240 426 L240 428" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 426 L660 428" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="428" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="240" y="443" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">中文：氧化镁（倒序）</text>
+  <rect x="490" y="428" width="340" height="30" rx="5" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="660" y="443" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">中文：二氧化碳（倒序）</text>
+  <path d="M240 458 L240 460" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <path d="M660 458 L660 460" fill="none" stroke="#888780" stroke-width="1.2"/>
+  <rect x="70" y="460" width="340" height="30" rx="5" fill="#E6F1FB" stroke="#0C447C" stroke-width="0.9"/>
+  <text x="240" y="475" font-size="11.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">晶体 · 高熔点 · 熔融/溶液导电</text>
+  <rect x="490" y="460" width="340" height="30" rx="5" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.9"/>
+  <text x="660" y="475" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">气体液体 · 低熔点 · 不导电</text>
+  <path d="M240 492 L240 506 L660 506 L660 492" fill="none" stroke="#888780" stroke-width="1.6"/>
+  <rect x="190" y="510" width="520" height="42" rx="8" fill="#FFF8E1" stroke="#854F0B" stroke-width="1.3"/>
+  <text x="450" y="526" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">★★★ 一切差异，都源自「电子给不给」★★★</text>
+  <text x="450" y="544" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">价电子数 → 得失电子数 → 共用电子数 → 化学式中原子个数 → 命名规则 → 性质</text>
+</svg>

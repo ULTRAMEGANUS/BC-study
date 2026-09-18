@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 306" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 2-1　周期表方格怎么读｜Reading a Cell</title>
+  <rect width="900" height="306" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 2-1　周期表方格怎么读｜Reading a Cell</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 四个数字，只有一个是身份证号</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="context-stroke"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="105" y="78" width="176" height="176" rx="6" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.4"/>
+  <text x="124" y="100" font-size="16" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">11</text>
+  <text x="193" y="152" font-size="42" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Na</text>
+  <text x="193" y="186" font-size="13" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">sodium</text>
+  <text x="193" y="232" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">22.99</text>
+  <path d="M292 100 L346 100" fill="none" stroke="#888780" stroke-width="1.0" stroke-dasharray="3 3"/>
+  <circle cx="360" cy="100" r="13" fill="#185FA5"/>
+  <text x="360" y="100.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="382" y="92" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">atomic number 原子序数</text>
+  <text x="382" y="111" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">= 质子数 = 11（整数）</text>
+  <path d="M292 152 L346 152" fill="none" stroke="#888780" stroke-width="1.0" stroke-dasharray="3 3"/>
+  <circle cx="360" cy="152" r="13" fill="#185FA5"/>
+  <text x="360" y="152.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+  <text x="382" y="144" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">chemical symbol 元素符号</text>
+  <text x="382" y="163" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">首字母大写、第二个字母小写</text>
+  <path d="M292 186 L346 186" fill="none" stroke="#888780" stroke-width="1.0" stroke-dasharray="3 3"/>
+  <circle cx="360" cy="186" r="13" fill="#888780"/>
+  <text x="360" y="186.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+  <text x="382" y="178" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">element name 元素名称</text>
+  <text x="382" y="197" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">英文全名，便于查词典</text>
+  <path d="M292 232 L346 232" fill="none" stroke="#888780" stroke-width="1.0" stroke-dasharray="3 3"/>
+  <circle cx="360" cy="232" r="13" fill="#BA7517"/>
+  <text x="360" y="232.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+  <text x="382" y="224" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">atomic mass 相对原子质量</text>
+  <text x="382" y="243" font-size="11" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">= 同位素加权平均 ⇒ 小数</text>
+  <rect x="105" y="266" width="690" height="30" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="450" y="281" font-size="12" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">查表结果：sodium 钠（Na），第 11 号，22.99 amu</text>
+</svg>

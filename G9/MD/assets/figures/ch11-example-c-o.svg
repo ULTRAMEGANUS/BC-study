@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 452" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 11-6　一条龙示范 3：C 与 O｜Worked Example — Carbon + Oxygen</title>
+  <rect width="900" height="452" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 11-6　一条龙示范 3：C 与 O｜Worked Example — Carbon + Oxygen</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 都是非金属 → 只能共用，不能转移</text>
+  <rect x="50" y="62" width="800" height="60" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="70" y="82" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">C (2, 4)　第 2 周期，第 14 族，价电子 = 4</text>
+  <text x="70" y="102" font-size="12" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">O (2, 6)　第 2 周期，第 16 族，价电子 = 6</text>
+  <text x="470" y="92" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">两者都是非金属 → 不转移电子，而是共用电子对（covalent bond 共价键）</text>
+  <rect x="50" y="134" width="800" height="62" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.2"/>
+  <text x="70" y="156" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">CO  = carbon monoxide　中文：一氧化碳</text>
+  <text x="70" y="178" font-size="11" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">（第一个元素永不用 mono-；第二个元素必须加前缀 mono-）</text>
+  <text x="560" y="156" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">CO₂ = carbon dioxide　中文：二氧化碳</text>
+  <text x="450" y="218" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">结构式（短线 = 共用电子对）</text>
+  <text x="300" y="254" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <text x="400" y="254" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">C</text>
+  <text x="500" y="254" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <path d="M320 246 L372 246" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M320 262 L372 262" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M428 246 L480 246" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M428 262 L480 262" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <text x="400" y="286" font-size="13" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">O＝C＝O</text>
+  <text x="700" y="254" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">C</text>
+  <text x="790" y="254" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
+  <path d="M720 248 L762 248" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M720 254 L762 254" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <path d="M720 260 L762 260" fill="none" stroke="#2C2C2A" stroke-width="2.2"/>
+  <text x="745" y="286" font-size="13" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">C≡O</text>
+  <rect x="70" y="306" width="180" height="28" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.8"/>
+  <rect x="250" y="306" width="290" height="28" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.9"/>
+  <rect x="540" y="306" width="290" height="28" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="80" y="320" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central"></text>
+  <text x="160.0" y="320" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central"></text>
+  <text x="395.0" y="320" font-size="11.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">CO₂（分子）</text>
+  <text x="685.0" y="320" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Al₂O₃（离子）</text>
+  <rect x="70" y="334" width="180" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="160.0" y="348" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">常温状态</text>
+  <rect x="250" y="334" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="395.0" y="348" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">气体</text>
+  <rect x="540" y="334" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="685.0" y="348" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">固体晶体</text>
+  <rect x="70" y="362" width="180" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="160.0" y="376" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">熔沸点</text>
+  <rect x="250" y="362" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="395.0" y="376" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">极低（干冰 −78.5 ℃ 直接升华）</text>
+  <rect x="540" y="362" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="685.0" y="376" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">极高（约 2072 ℃）</text>
+  <rect x="70" y="390" width="180" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="160.0" y="404" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">导电性</text>
+  <rect x="250" y="390" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="395.0" y="404" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">不导电</text>
+  <rect x="540" y="390" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="685.0" y="404" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">熔融时导电</text>
+  <rect x="70" y="418" width="180" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="160.0" y="432" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">作用力</text>
+  <rect x="250" y="418" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="395.0" y="432" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">分子间作用力（弱）</text>
+  <rect x="540" y="418" width="290" height="28" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.8"/>
+  <text x="685.0" y="432" font-size="11" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">离子间静电作用（强）</text>
+  <rect x="50" y="382" width="800" height="58" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="70" y="400" font-size="12" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">为什么差这么多？→ 根子仍在电子排布：</text>
+  <text x="70" y="420" font-size="11" fill="#854F0B" text-anchor="start" dominant-baseline="central">C 与 O 都不愿彻底交出电子 → 只能共用 → 独立小分子 → 分子间只有弱作用力 → 低沸点。</text>
+  <text x="70" y="436" font-size="11" fill="#854F0B" text-anchor="start" dominant-baseline="central">Al 与 O 之间电子彻底转移 → 正负离子靠强静电作用堆成巨大晶体 → 极高熔点。</text>
+</svg>

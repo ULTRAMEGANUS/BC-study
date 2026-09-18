@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 10-3　WHMIS 标识图形卡｜WHMIS Pictogram Cards</title>
+  <rect width="900" height="550" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 10-3　WHMIS 标识图形卡｜WHMIS Pictogram Cards</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 9 · 菱形边框 + 黑色符号</text>
+  <rect x="60" y="76" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M112 100 L146 134 L112 168 L78 134 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <path d="M112 118 C122 130 120 146 112 150 C104 146 102 130 112 118 Z" fill="#2C2C2A"/>
+  <text x="168" y="116" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① FLAMMABLE</text>
+  <text x="168" y="136" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">易燃</text>
+  <text x="168" y="160" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">火焰 flame → 远离明火，改用热水浴加热</text>
+  <rect x="330" y="76" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M382 100 L416 134 L382 168 L348 134 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <path d="M370 118 L380 118 L376 136 L370 136 Z" fill="#2C2C2A"/>
+  <circle cx="373" cy="146" r="3.4" fill="#2C2C2A"/>
+  <rect x="384" y="140" width="16" height="10" rx="8" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <text x="438" y="116" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② CORROSIVE</text>
+  <text x="438" y="136" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">腐蚀性</text>
+  <text x="438" y="160" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">试管滴液腐蚀手和桌面 → 戴手套、大量水冲洗 15 min</text>
+  <rect x="600" y="76" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M652 100 L686 134 L652 168 L618 134 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <circle cx="652" cy="130" r="10" fill="#2C2C2A"/>
+  <circle cx="648" cy="128" r="2.2" fill="#FFFFFF"/>
+  <circle cx="656" cy="128" r="2.2" fill="#FFFFFF"/>
+  <path d="M644 140 L660 150" fill="none" stroke="#2C2C2A" stroke-width="2.6"/>
+  <path d="M660 140 L644 150" fill="none" stroke="#2C2C2A" stroke-width="2.6"/>
+  <text x="708" y="116" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">③ TOXIC</text>
+  <text x="708" y="136" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">有毒</text>
+  <text x="708" y="160" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">骷髅 + 交叉骨 → 少量即可致命</text>
+  <rect x="60" y="214" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M112 238 L146 272 L112 306 L78 272 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <circle cx="112" cy="272" r="12" fill="none" stroke="#2C2C2A" stroke-width="2"/>
+  <path d="M112 254 C120 264 118 276 112 280 C106 276 104 264 112 254 Z" fill="#2C2C2A"/>
+  <text x="168" y="254" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">④ OXIDIZING</text>
+  <text x="168" y="274" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">氧化性</text>
+  <text x="168" y="298" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">圆圈上托火焰 → 助燃，远离可燃物</text>
+  <rect x="330" y="214" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M382 238 L416 272 L382 306 L348 272 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <rect x="374" y="254" width="16" height="34" rx="4" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M378 250 L386 250" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <text x="438" y="254" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑤ COMPRESSED GAS</text>
+  <text x="438" y="274" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">压缩气体</text>
+  <text x="438" y="298" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">钢气瓶 → 固定存放、防撞击受热</text>
+  <rect x="600" y="214" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M652 238 L686 272 L652 306 L618 272 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <circle cx="652.0" cy="261.0" r="6.5" fill="none" stroke="#2C2C2A" stroke-width="1.8"/>
+  <circle cx="661.5" cy="277.5" r="6.5" fill="none" stroke="#2C2C2A" stroke-width="1.8"/>
+  <circle cx="642.5" cy="277.5" r="6.5" fill="none" stroke="#2C2C2A" stroke-width="1.8"/>
+  <circle cx="652" cy="272" r="3" fill="#2C2C2A"/>
+  <text x="708" y="254" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑥ BIOHAZARD</text>
+  <text x="708" y="274" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">生物危害</text>
+  <text x="708" y="298" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">三叶环 trefoil → 生物材料，严禁带离</text>
+  <rect x="60" y="352" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M112 376 L146 410 L112 444 L78 410 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <path d="M100 424 L100 408" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M92 408 L108 408 L100 392 Z" fill="#2C2C2A"/>
+  <ellipse cx="120" cy="416" rx="9" ry="5" fill="#2C2C2A"/>
+  <path d="M129 416 L136 410 L136 422 Z" fill="#2C2C2A"/>
+  <text x="168" y="392" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑦ ENVIRONMENT</text>
+  <text x="168" y="412" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">环境危害</text>
+  <text x="168" y="436" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">枯树 + 死鱼 → 对水生生物有毒</text>
+  <rect x="330" y="352" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M382 376 L416 410 L382 444 L348 410 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <circle cx="378" cy="410" r="11" fill="#2C2C2A"/>
+  <path d="M384.5 398.7 L389.0 390.9" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M388.5 402.4 L395.8 397.1" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M390.7 407.3 L399.5 405.4" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M390.7 412.7 L399.5 414.6" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M388.5 417.6 L395.8 422.9" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M384.5 421.3 L389.0 429.1" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <text x="438" y="392" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑧ EXPLOSIVE</text>
+  <text x="438" y="412" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">爆炸性</text>
+  <text x="438" y="436" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">炸弹 + 碎片 → 防震、防热、防摩擦</text>
+  <rect x="600" y="352" width="260" height="132" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
+  <path d="M652 376 L686 410 L652 444 L618 410 Z" fill="#FFFFFF" stroke="#2C2C2A" stroke-width="1.8"/>
+  <rect x="649" y="396" width="6" height="20" rx="8" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <circle cx="652" cy="422" r="3.4" fill="#2C2C2A"/>
+  <text x="708" y="392" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">⑨ IRRITANT</text>
+  <text x="708" y="412" font-size="13" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">刺激性</text>
+  <text x="708" y="436" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">感叹号 → 引起皮肤/呼吸道不适</text>
+  <rect x="50" y="494" width="800" height="32" rx="6" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="450" y="510" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">所有标识统一为：菱形边框（旋转 45° 的正方形）＋ 黑色符号；边框 ◇　底色白　符号黑</text>
+</svg>

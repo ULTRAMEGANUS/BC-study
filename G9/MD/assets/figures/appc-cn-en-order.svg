@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 486" width="900"
+     font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>附录 C-7　中英命名顺序相反｜Opposite Word Order</title>
+  <rect width="900" height="486" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">附录 C-7　中英命名顺序相反｜Opposite Word Order</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">英文：正在前　中文：负在前</text>
+  <rect x="50" y="58" width="800" height="34" rx="8" fill="#A32D2D" stroke="#A32D2D" stroke-width="1.2"/>
+  <text x="450" y="75" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">🚨 对中国学生的头号警示：照着英文顺手写中文，一定写反</text>
+  <text x="450" y="116" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">ENGLISH　英文：正离子在前 → 负离子在后</text>
+  <rect x="70" y="132" width="760" height="76" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="240" y="158" font-size="17" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">sodium</text>
+  <text x="240" y="182" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">正离子 Na⁺</text>
+  <text x="450" y="170" font-size="15" font-weight="700" fill="#888780" text-anchor="middle" dominant-baseline="central">＋</text>
+  <text x="660" y="158" font-size="17" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">chloride</text>
+  <text x="660" y="182" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">负离子 Cl⁻</text>
+  <text x="450" y="222" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">→ sodium chloride（正在前，负在后）</text>
+  <path d="M450 236 L450 262" fill="none" stroke="#2C2C2A" stroke-width="1.8" marker-end="url(#ar)"/>
+  <text x="450" y="250" font-size="12" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">顺序完全相反！</text>
+  <text x="450" y="282" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">中文　中文：负在前 → 正在后（「某化某」）</text>
+  <rect x="70" y="296" width="760" height="76" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.2"/>
+  <text x="240" y="322" font-size="17" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">氯</text>
+  <text x="240" y="346" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">负（非金属）</text>
+  <text x="450" y="334" font-size="15" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">化</text>
+  <text x="660" y="322" font-size="17" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">钠</text>
+  <text x="660" y="346" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">正（金属）</text>
+  <text x="450" y="386" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">→ 氯化钠（负在前，正在后）</text>
+  <rect x="70" y="400" width="760" height="60" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="90" y="420" font-size="11.5" font-weight="600" fill="#A32D2D" text-anchor="start" dominant-baseline="central">✗ 钠化氯　✗ 镁化氧　✗ 铝化硫　✗ 碳化二氧　✗ 磷化三氯</text>
+  <text x="90" y="444" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="start" dominant-baseline="central">✅ 氯化钠　✅ 氧化镁　✅ 硫化铝　✅ 二氧化碳　✅ 三氯化磷</text>
+</svg>
