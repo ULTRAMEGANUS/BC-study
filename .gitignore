@@ -51,3 +51,21 @@ G9/MD/assets/printables/html/
 # 注意 G9/MD/assets/printables/pdf/ 下的练习单 PDF 是**交付物**，仍然入库。
 G9/pdf/
 
+# ---------------------------------------------------------------- G10（同 G9 规则）
+# G10/pdf/ 是生成物（框架 6.4：未经用户点名不生成）；对照版 PDF 的中间产物同样不入库。
+G10/pdf/
+G10/MD/assets/printables/html/
+G10/MD/assets/source/_build_rev/
+G10/CHEM10 rev/_txt/
+G10/CHEM10 rev/_png/
+
+# ---------------------------------------------------------------- G11（同 G9 规则）
+# 每个年级的 PDF 统一输出到 <年级>/pdf/（2026-09-24 约定），一律视为生成物，不入库。
+G11/pdf/
+G11/md/assets/source/_build*/
+# G11 预览页（preview_md.py 生成，过程产物）
+G11/preview/
+
+
+# G10 预览页（preview_md.py 生成，过程产物）
+G10/preview/
