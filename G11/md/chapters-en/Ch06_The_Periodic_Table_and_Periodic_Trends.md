@@ -308,37 +308,69 @@ Use the electronegativity table on page 1 of the Data Booklet to predict the bon
 
 ### Answer Key｜答案
 
-- **A1.** Decreases across, increases down.｜**中文**：横向减小，纵向增大。
+- **A1.** Decreases across, increases down.
 
-- **A2.** Increases across, decreases down.｜**中文**：横向增大，纵向减小。
+  - **中文**：横向减小，纵向增大。
 
-- **A3.** IE: energy to remove an electron from a gaseous atom; EN: ability of a bonded atom to attract the shared electrons.｜**中文**：电离能——从气态原子拿走一个电子所需的能量；电负性——成键原子吸引共用电子对的能力。
+- **A2.** Increases across, decreases down.
 
-- **A4.** F 4.0; O 3.5; Na 0.9.｜**中文**：F 4.0；O 3.5；Na 0.9。
+  - **中文**：横向增大，纵向减小。
 
-- **A5.** Mg — losing the outer electrons leaves fewer shells / less repulsion, so the ion shrinks.｜**中文**：Mg——失掉外层电子后层数减少、排斥减弱，离子收缩。
+- **A3.** IE: energy to remove an electron from a gaseous atom; EN: ability of a bonded atom to attract the shared electrons.
 
-- **A6.** Cl⁻ — gaining electrons adds repulsion in the same shell, inflating the cloud.｜**中文**：Cl⁻——同层加电子排斥增大，电子云膨胀。
+  - **中文**：电离能——从气态原子拿走一个电子所需的能量；电负性——成键原子吸引共用电子对的能力。
 
-- **A7.** Their valence configuration is already full (ns²np⁶), so they neither donate nor attract electrons easily.｜**中文**：价层排布已满（ns²np⁶），既不易给出也不易吸引电子。
+- **A4.** F 4.0; O 3.5; Na 0.9.
 
-- **A8.** K's outer electron is in a fourth shell, farther out and shielded by 18 inner electrons, so it is lost more easily than Na's.｜**中文**：钾的最外层电子在第四层，更远、且被 18 个内层电子屏蔽，比钠更容易失去。
+  - **中文**：F 4.0；O 3.5；Na 0.9。
 
-- **A9.** Fluorine's outer shell is smallest and least shielded, so its nucleus attracts an incoming electron most strongly.｜**中文**：氟的最外层最近、屏蔽最少，核对吸引外来电子的能力最强。
+- **A5.** Mg — losing the outer electrons leaves fewer shells / less repulsion, so the ion shrinks.
 
-- **A10.** False — the dips are themselves predicted by electron configuration, so they confirm rather than undermine the model.｜**中文**：错——回落本身就是排布预言的，它证实而非动摇模型。
+  - **中文**：Mg——失掉外层电子后层数减少、排斥减弱，离子收缩。
 
-- **B1.** (a) N — same period, N's lower charge holds its shell more loosely; (b) Br — one more shell; (c) O²⁻ — extra electrons inflate the same shell; (d) K⁺ — same 18 electrons, but potassium's 19 protons pull harder than chlorine's 17, so K⁺ is smaller.｜**中文**：(a) N——同周期，N 的核电荷小、拉得松；(b) Br——多一层；(c) O²⁻——同层多电子膨胀；(d) K⁺——同样 18 个电子，但钾的 19 个质子拉得比氯的 17 个紧，所以 K⁺ 更小。
+- **A6.** Cl⁻ — gaining electrons adds repulsion in the same shell, inflating the cloud.
 
-- **B2.** (a) Zeff climbs steadily left to right; (b) rising Zeff with constant shells pulls each atom tighter, so radius falls from Na to Cl; (c) P→S adds one proton and one electron that partly shields itself, so the Zeff step is small — yet the extra electron must pair in a 3p orbital, and the pairing repulsion still makes S's first electron easier to remove.｜**中文**：(a) Zeff 从左到右稳步上升；(b) 层数不变而 Zeff 上升，把每个原子拉得更紧，所以半径从 Na 降到 Cl；(c) P→S 增加一个质子，新电子有部分自屏蔽，Zeff 步进很小——但该电子必须在 3p 轨道配对，配对排斥仍使 S 的第一个电子更易失去。
+  - **中文**：Cl⁻——同层加电子排斥增大，电子云膨胀。
 
-- **B3.** (a) K reacts faster and more violently — flame/lilac light and sparks; Na fizzes steadily. (b) K's outer electron is farther and better shielded, so it is lost more easily — stronger reaction. (c) Store in oil to keep out water and oxygen (they react violently); use tiny pieces behind a shield (energy release grows down the group).｜**中文**：(a) 钾反应更快更猛——有火焰/淡紫色光与火花；钠平稳冒泡。(b) 钾最外层电子更远、屏蔽更多，更易失去——反应更剧烈。(c) 保存在煤油中隔绝水与氧（遇水剧烈反应）；少量小粒并在挡板后操作（能量释放随族向下增强）。
+- **A7.** Their valence configuration is already full (ns²np⁶), so they neither donate nor attract electrons easily.
 
-- **B4.** (a) IE is measured by ionizing isolated gaseous atoms; EN is inferred from bond-energy splitting in compounds. (b) Both rise because Zeff rises — the same pull that keeps own electrons tight also grabs shared electrons hard. (c) Rankings can disagree for transition metals or when an atom is small but already nearly full — e.g. noble gases have top IE yet old tables list no EN, because they rarely bond.｜**中文**：(a) 电离能通过电离孤立的气态原子测得；电负性从化合物中键能的分裂推算。(b) 两者都升因为 Zeff 上升——把自家电子抓得紧的引力同样会把共用电子抓得狠。(c) 过渡金属排序可能不一致；稀有气体 IE 全周期最高，旧表却不给 EN 值——因为它们几乎不成键。
+  - **中文**：价层排布已满（ns²np⁶），既不易给出也不易吸引电子。
 
-- **C1.** (a) Na 186 pm / 496 kJ/mol; Cl 99 pm / 1251 kJ/mol. (b) Same three shells, growing charge: each added proton pulls the same shell inward (radius falls) and holds the outer electron tighter (IE rises) — one mechanism, two readings. (c) The claim overgeneralizes: Al is smaller than Mg (charge argument) but has lower IE because its last electron opens the 3p subshell, slightly higher in energy — configuration, not size alone, decides IE.｜**中文**：(a) Na 186 pm / 496 kJ/mol；Cl 99 pm / 1251 kJ/mol。(b) 三层不变、电荷增加：每加一个质子都把同一层拉得更紧（半径变小）、把外层电子抓得更牢（电离能上升）——一条机制、两种读数。(c) 该说法过度概括：Al 比 Mg 小（电荷论证）但电离能更低，因为它最后一个电子开进能量略高的 3p 亚层——决定 IE 的是排布，不是单纯的尺寸。
+- **A8.** K's outer electron is in a fourth shell, farther out and shielded by 18 inner electrons, so it is lost more easily than Na's.
 
-- **C2.** (a) The idea: outer electrons feel nuclear charge minus shielding. (b) Radius — across: same shells, charge wins, tighter → smaller; down: more shield, looser → larger. IE — same logic, opposite reading. Metallic character — the ease of losing the loosely-held outer electron grows down. (c) The idea alone cannot time the dips: you must know that 3p sits above 3s in energy, or that pairing causes repulsion — configuration detail is needed. (d) Prediction: element 119 sits below Fr with eight shells — larger, lower IE, more reactive than Fr, an alkali metal.｜**中文**：(a) 思想：外层电子感受的是核电荷减屏蔽。(b) 半径——横向层数不变电荷占上风 → 更小；纵向屏蔽增多 → 更大。电离能——同一逻辑反着读。金属性——外层电子被抓得越松越易失，纵向增强。(c) 单靠该思想无法预测回落的位置：必须知道 3p 能量高于 3s、或配对产生排斥——需要排布细节。(d) 预测：119 号元素在 Fr 之下、有八层——比 Fr 更大、电离能更低、更活泼，属碱金属。
+  - **中文**：钾的最外层电子在第四层，更远、且被 18 个内层电子屏蔽，比钠更容易失去。
+
+- **A9.** Fluorine's outer shell is smallest and least shielded, so its nucleus attracts an incoming electron most strongly.
+
+  - **中文**：氟的最外层最近、屏蔽最少，核对吸引外来电子的能力最强。
+
+- **A10.** False — the dips are themselves predicted by electron configuration, so they confirm rather than undermine the model.
+
+  - **中文**：错——回落本身就是排布预言的，它证实而非动摇模型。
+
+- **B1.** (a) N — same period, N's lower charge holds its shell more loosely; (b) Br — one more shell; (c) O²⁻ — extra electrons inflate the same shell; (d) K⁺ — same 18 electrons, but potassium's 19 protons pull harder than chlorine's 17, so K⁺ is smaller.
+
+  - **中文**：(a) N——同周期，N 的核电荷小、拉得松；(b) Br——多一层；(c) O²⁻——同层多电子膨胀；(d) K⁺——同样 18 个电子，但钾的 19 个质子拉得比氯的 17 个紧，所以 K⁺ 更小。
+
+- **B2.** (a) Zeff climbs steadily left to right; (b) rising Zeff with constant shells pulls each atom tighter, so radius falls from Na to Cl; (c) P→S adds one proton and one electron that partly shields itself, so the Zeff step is small — yet the extra electron must pair in a 3p orbital, and the pairing repulsion still makes S's first electron easier to remove.
+
+  - **中文**：(a) Zeff 从左到右稳步上升；(b) 层数不变而 Zeff 上升，把每个原子拉得更紧，所以半径从 Na 降到 Cl；(c) P→S 增加一个质子，新电子有部分自屏蔽，Zeff 步进很小——但该电子必须在 3p 轨道配对，配对排斥仍使 S 的第一个电子更易失去。
+
+- **B3.** (a) K reacts faster and more violently — flame/lilac light and sparks; Na fizzes steadily. (b) K's outer electron is farther and better shielded, so it is lost more easily — stronger reaction. (c) Store in oil to keep out water and oxygen (they react violently); use tiny pieces behind a shield (energy release grows down the group).
+
+  - **中文**：(a) 钾反应更快更猛——有火焰/淡紫色光与火花；钠平稳冒泡。(b) 钾最外层电子更远、屏蔽更多，更易失去——反应更剧烈。(c) 保存在煤油中隔绝水与氧（遇水剧烈反应）；少量小粒并在挡板后操作（能量释放随族向下增强）。
+
+- **B4.** (a) IE is measured by ionizing isolated gaseous atoms; EN is inferred from bond-energy splitting in compounds. (b) Both rise because Zeff rises — the same pull that keeps own electrons tight also grabs shared electrons hard. (c) Rankings can disagree for transition metals or when an atom is small but already nearly full — e.g. noble gases have top IE yet old tables list no EN, because they rarely bond.
+
+  - **中文**：(a) 电离能通过电离孤立的气态原子测得；电负性从化合物中键能的分裂推算。(b) 两者都升因为 Zeff 上升——把自家电子抓得紧的引力同样会把共用电子抓得狠。(c) 过渡金属排序可能不一致；稀有气体 IE 全周期最高，旧表却不给 EN 值——因为它们几乎不成键。
+
+- **C1.** (a) Na 186 pm / 496 kJ/mol; Cl 99 pm / 1251 kJ/mol. (b) Same three shells, growing charge: each added proton pulls the same shell inward (radius falls) and holds the outer electron tighter (IE rises) — one mechanism, two readings. (c) The claim overgeneralizes: Al is smaller than Mg (charge argument) but has lower IE because its last electron opens the 3p subshell, slightly higher in energy — configuration, not size alone, decides IE.
+
+  - **中文**：(a) Na 186 pm / 496 kJ/mol；Cl 99 pm / 1251 kJ/mol。(b) 三层不变、电荷增加：每加一个质子都把同一层拉得更紧（半径变小）、把外层电子抓得更牢（电离能上升）——一条机制、两种读数。(c) 该说法过度概括：Al 比 Mg 小（电荷论证）但电离能更低，因为它最后一个电子开进能量略高的 3p 亚层——决定 IE 的是排布，不是单纯的尺寸。
+
+- **C2.** (a) The idea: outer electrons feel nuclear charge minus shielding. (b) Radius — across: same shells, charge wins, tighter → smaller; down: more shield, looser → larger. IE — same logic, opposite reading. Metallic character — the ease of losing the loosely-held outer electron grows down. (c) The idea alone cannot time the dips: you must know that 3p sits above 3s in energy, or that pairing causes repulsion — configuration detail is needed. (d) Prediction: element 119 sits below Fr with eight shells — larger, lower IE, more reactive than Fr, an alkali metal.
+
+  - **中文**：(a) 思想：外层电子感受的是核电荷减屏蔽。(b) 半径——横向层数不变电荷占上风 → 更小；纵向屏蔽增多 → 更大。电离能——同一逻辑反着读。金属性——外层电子被抓得越松越易失，纵向增强。(c) 单靠该思想无法预测回落的位置：必须知道 3p 能量高于 3s、或配对产生排斥——需要排布细节。(d) 预测：119 号元素在 Fr 之下、有八层——比 Fr 更大、电离能更低、更活泼，属碱金属。
 
 ## 10. Connection to the Big Idea｜回扣核心概念
 

@@ -1,0 +1,89 @@
+# -*- coding: utf-8 -*-
+"""
+G11 Appendix A builder — glossary extracted from all chapters' Section 6
+vocab tables. Outputs:
+  md/appendices-en/Appendix_A_Glossary.md
+  md/appendices-en/glossary.csv
+Idempotent: safe to re-run after any chapter edit.
+"""
+import os
+import re
+import csv
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+MD = os.path.abspath(os.path.join(HERE, "..", ".."))
+CHAPTERS = os.path.join(MD, "chapters-en")
+OUT_DIR = os.path.join(MD, "appendices-en")
+
+HEADER = """# Appendix A — Glossary｜附录 A　词汇总表（EN ↔ 中）
+
+> 🗂️ **Scope note｜范围说明**：Generated automatically from the Key Vocabulary tables of Chapters 1–14; run `build_appendix_a.py` again after any chapter edit.｜由第 1–14 章第 6 节词汇表自动汇总生成；章节修改后重跑 `build_appendix_a.py` 即可同步。
+> Companions: `glossary.csv`（Anki / Quizlet import source）.
+
+| Term 英文 | 中文 | Chapter 章 | Note 备注 |
+|---|---|---|---|
+"""
+
+
+def chapter_sort_key(name):
+    m = re.search(r"Ch(\d+)", name)
+    return int(m.group(1)) if m else 999
+
+
+def collect():
+    rows = []
+    seen = {}
+    for f in sorted(os.listdir(CHAPTERS)):
+        if not (f.startswith("Ch") and f.endswith(".md")):
+            continue
+        ch = int(re.search(r"Ch(\d+)", f).group(1))
+        t = open(os.path.join(CHAPTERS, f), encoding="utf-8").read()
+        m6 = re.search(r"^## 6\. Key Vocabulary.*?$", t, re.M)
+        if not m6:
+            continue
+        rest = t[m6.end():]
+        m7 = re.search(r"^## 7\.", rest, re.M)
+        sec6 = rest[:m7.start()] if m7 else rest
+        for line in sec6.split("\n"):
+            line = line.strip()
+            if not line.startswith("|") or line.startswith("|---") or line.startswith("| Term"):
+                continue
+            cells = [c.strip() for c in line.strip("|").split("|")]
+            if len(cells) < 2:
+                continue
+            en, zh = cells[0], cells[1]
+            note = cells[2] if len(cells) > 2 else ""
+            key = en.lower()
+            if key in seen:
+                seen[key]["chs"].append(ch)
+                continue
+            seen[key] = {"en": en, "zh": zh, "note": note, "chs": [ch]}
+            rows.append(seen[key])
+    rows.sort(key=lambda r: re.sub(r"[^a-z]", "", r["en"].lower()))
+    return rows
+
+
+def main():
+    rows = collect()
+    os.makedirs(OUT_DIR, exist_ok=True)
+
+    lines = [HEADER]
+    for r in rows:
+        ch = "Ch." + ", ".join(f"{c}" for c in sorted(set(r["chs"])))
+        note = r["note"].replace("|", "/")
+        lines.append(f"| {r['en']} | {r['zh']} | {ch} | {note} |\n")
+    lines.append(f"\n**{len(rows)} terms｜共 {len(rows)} 条。**\n")
+    with open(os.path.join(OUT_DIR, "Appendix_A_Glossary.md"), "w", encoding="utf-8") as f:
+        f.write("".join(lines))
+
+    with open(os.path.join(OUT_DIR, "glossary.csv"), "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["Term", "Chinese", "Chapters", "Note"])
+        for r in rows:
+            w.writerow([r["en"], r["zh"], ", ".join(str(c) for c in sorted(set(r["chs"]))), r["note"]])
+
+    print(f"Appendix A: {len(rows)} terms -> Appendix_A_Glossary.md + glossary.csv")
+
+
+if __name__ == "__main__":
+    main()

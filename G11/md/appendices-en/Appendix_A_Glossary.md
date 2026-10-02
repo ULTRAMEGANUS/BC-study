@@ -1,0 +1,174 @@
+# Appendix A — Glossary｜附录 A　词汇总表（EN ↔ 中）
+
+> 🗂️ **Scope note｜范围说明**：Generated automatically from the Key Vocabulary tables of Chapters 1–14; run `build_appendix_a.py` again after any chapter edit.｜由第 1–14 章第 6 节词汇表自动汇总生成；章节修改后重跑 `build_appendix_a.py` 即可同步。
+> Companions: `glossary.csv`（Anki / Quizlet import source）.
+
+| Term 英文 | 中文 | Chapter 章 | Note 备注 |
+|---|---|---|---|
+| accuracy | 准确度 | Ch.1 | closeness to true value｜离真值近 |
+| activation energy (E_a) | 活化能 | Ch.11 | barrier height 峰高｜点火所需 |
+| activity series | 金属活动性顺序 | Ch.9 | higher displaces lower｜高者置换低者 |
+| actual yield | 实际产量 | Ch.10 | lab measurement｜实验称量 |
+| alcohol | 醇 | Ch.3 | R–OH, suffix -anol |
+| aldehyde | 醛 | Ch.3 | R–CHO, suffix -anal |
+| alkali metal｜碱金属 | Group 1 metal, one ns¹ valence electron｜第 1 族金属，价层 ns¹ | Ch.6 |  |
+| alkane | 烷烃 | Ch.2 | CₙH₂ₙ₊₂, -ane, saturated｜饱和 |
+| alkene | 烯烃 | Ch.2 | CₙH₂ₙ, -ene, contains C=C |
+| alkyl group | 烷基 | Ch.2 | –CH₃ methyl, –CH₂CH₃ ethyl |
+| alkyne | 炔烃 | Ch.2 | CₙH₂ₙ₋₂, -yne, contains C≡C |
+| amide | 酰胺 | Ch.3 | R–CONH₂, suffix -anamide |
+| amine | 胺 | Ch.3 | R–NH₂, suffix -anamine |
+| amino group | 氨基 | Ch.3 | –NH₂｜胺的特征 |
+| aqueous | 水溶液 | Ch.9 | dissolved; ions mobile｜已溶解、离子可动 |
+| atom economy | 原子经济 | Ch.4 | desired product ÷ all products｜目标产物占全部产物比例 |
+| atomic orbital｜原子轨道 | Region where an electron is likely to be found｜电子大概率出现的区域 | Ch.5 |  |
+| atomic radius｜原子半径 | Size of the neutral atom｜中性原子的大小 | Ch.6 |  |
+| Aufbau principle｜构造原理 | Fill lowest-energy orbitals first｜先填能量最低的轨道 | Ch.5 |  |
+| Avogadro's number (N_A) | 阿伏伽德罗常数 | Ch.8 | 6.02×10²³ /mol｜三位有效数字 |
+| boiling point trend | 沸点趋势 | Ch.2 | more branching → lower bp｜支链多则沸点低 |
+| bond breaking / forming | 断键/成键 | Ch.11 | absorb / release｜吸 / 放 |
+| burette | 滴定管 | Ch.13 | delivers measured volume 定量 delivery |
+| carbon monoxide | 一氧化碳 | Ch.4, 9 | colourless, odourless, toxic｜无色无味有毒 |
+| carbonyl group | 羰基 | Ch.3 | C=O；出现在醛酮酸酯酰胺中 |
+| carboxyl group | 羧基 | Ch.3 | –COOH｜羧酸特征 |
+| carboxylic acid | 羧酸 | Ch.3 | R–COOH, suffix -anoic acid |
+| catalyst | 催化剂 | Ch.11 | lowers E_a only｜只降活化能 |
+| chemical change | 化学变化 | Ch.11 | new substance(s) formed 有新物质 |
+| chromatography | 色谱法 | Ch.14 | separation by travel 按迁移分离 |
+| cobalt glass | 钴玻璃 | Ch.14 | filters Na yellow for K test｜滤掉钠黄看钾 |
+| coefficient | 系数 | Ch.1 | the only thing you may change when balancing｜配平时唯一可改的 |
+| complete combustion | 完全燃烧 | Ch.4, 9 | O₂ plentiful → CO₂ + H₂O｜O₂ 充足 |
+| condensed formula | 凝聚结构式 | Ch.2 | shows connectivity order｜显示连接顺序 |
+| conservation of mass | 质量守恒 | Ch.1 | Big Idea B4 (matter half)｜B4 的物质一半 |
+| constant mass | 恒重 | Ch.14 | consecutive readings agree 连续读数一致 |
+| conversion factor | 转换因子 | Ch.1, 8 | a fraction equal to 1｜等于 1 的分数 |
+| core notation｜核心简写 | Configuration shortened with a noble-gas core｜用稀有气体芯缩短的排布 | Ch.5 |  |
+| criss-cross method | 交叉法 | Ch.1 | charges swapped｜电荷交叉 |
+| cycloalkane | 环烷烃 | Ch.2 | CₙH₂ₙ, ring structure｜成环 |
+| dilution | 稀释 | Ch.13 | add water, not molecules 加水不加分子 |
+| dimensional analysis | 量纲分析 | Ch.1, 8 | factor-label method｜因子-标签法 |
+| dimer | 二聚体 | Ch.3 | two molecules bound as one unit｜两个分子抱成一个单元 |
+| dipole-dipole force｜偶极-偶极力 | Attraction between permanent dipoles｜永久偶极之间的吸引 | Ch.7 |  |
+| dissociation | 电离（解离） | Ch.12 | ionic solid → ions 离子固体拆离子 |
+| dissolution | 溶解 | Ch.12 | the process 过程 |
+| effective nuclear charge｜有效核电荷 | Nuclear charge minus shielding, felt by the outer electron｜核电荷减屏蔽，外层电子实际感受 | Ch.6 |  |
+| electron cloud｜电子云 | Picture of orbital probability density｜轨道概率密度的图像 | Ch.5 |  |
+| electron configuration｜电子排布 | Full address of every electron｜每个电子的完整"住址清单" | Ch.5 |  |
+| electronegativity｜电负性 | Pull on shared bond electrons（Pauling scale）｜吸引成键共用电子对的能力（Pauling 标度） | Ch.6 |  |
+| electronegativity difference｜电负性差 | ΔEN — how unevenly a bond shares electrons｜ΔEN——键里电子共享的不均匀程度 | Ch.7 |  |
+| empirical formula | 实验式 | Ch.8 | simplest whole-number ratio｜最简整数比 |
+| emulsifier | 乳化剂 | Ch.4 | hydrophilic head + hydrophobic tail｜亲水头疏水尾 |
+| endothermic | 吸热的 | Ch.11 | heat IN; ΔH positive｜吸热、ΔH 正 |
+| end point | 终点 | Ch.13 | indicator switches 指示剂变色 |
+| energy-level diagram | 能量变化图 | Ch.11 | plateaus + peak + ΔH｜平台+峰+ΔH |
+| English | 中文 | Ch.1, 2, 3, 4, 8, 9, 10, 11, 12, 13, 14 | Note｜备注 |
+| enthalpy change (ΔH) | 焓变 | Ch.11 | concept level only here｜此处只需概念 |
+| equivalence point | 等当点 | Ch.13 | exact stoichiometry 恰好按比 |
+| ester | 酯 | Ch.3 | R–COO–R′, alkyl alkanoate |
+| ether | 醚 | Ch.3 | R–O–R′, prefix alkoxy- |
+| exact value | 精确值 | Ch.1 | infinite s.f.｜无穷多有效数字 |
+| excess reagent | 过量试剂 | Ch.10 | leftover can be computed｜可算剩余 |
+| exothermic | 放热的 | Ch.11 | heat OUT; ΔH negative｜放热、ΔH 负 |
+| first ionization energy｜第一电离能 | Energy to remove one electron from a gaseous atom｜从气态原子拿走一个电子所需能量 | Ch.6 |  |
+| First Peoples knowledge | 原住民知识 | Ch.4 | sustainable practice system｜可持续实践体系 |
+| flame test | 焰色试验 | Ch.14 | electron jumps emit colours 电子跃迁发光 |
+| formula mass | 式量 | Ch.8 | sum of atomic masses in a formula｜式内原子量之和 |
+| functional group | 官能团 | Ch.3 | names the family, sets the properties｜定族、定性 |
+| gravimetric analysis | 重量分析 | Ch.14 | precipitate, dry, weigh 沉淀烘干称量 |
+| green chemistry | 绿色化学 | Ch.4 | design out hazards｜从设计上消除危害 |
+| haemoglobin | 血红蛋白 | Ch.4 | binds CO ~200× stronger than O₂｜与 CO 结合力约为 O₂ 的 200 倍 |
+| halogen｜卤素 | Group 17 nonmetal, one electron short of full｜第 17 族非金属，差一个电子满壳 | Ch.6 |  |
+| Hund's rule｜洪特规则 | Spread out singly before pairing｜等能轨道先单占再配对 | Ch.5 |  |
+| hydrated ion | 水合离子 | Ch.12 | surrounded by water 被水包围 |
+| hydrocarbon | 烃 | Ch.2 | contains only C and H｜只含碳和氢 |
+| hydrogen bond｜氢键 | Strongest IMF; H bonded to N, O or F｜最强分子间作用力；H 连在 N、O、F 上 | Ch.7 |  |
+| hydrogen bonding | 氢键 | Ch.3 | strongest IMF in this course｜本课程最强的分子间作用力 |
+| hydrophilic | 亲水的 | Ch.3 | water-attracting｜吸水端 |
+| hydrophilic / hydrophobic | 亲水/疏水 | Ch.12 | soap's two ends 肥皂两端 |
+| hydrophobic | 疏水的 | Ch.3 | water-repelling｜斥水端 |
+| hydroxyl group | 羟基 | Ch.3 | –OH in alcohols｜醇中的 –OH |
+| incomplete combustion | 不完全燃烧 | Ch.4, 9 | O₂ limited → CO / C + H₂O｜O₂ 不足 |
+| indicator | 指示剂 | Ch.13 | colour signal 变色信号 |
+| ion charge | 离子电荷 | Ch.1 | read from group position｜由族位置读出 |
+| ionic radius｜离子半径 | Size of the ion, compared with its parent atom｜离子的大小（与其母原子比） | Ch.6 |  |
+| IUPAC | 国际纯粹与应用化学联合会 | Ch.2 | the naming authority｜命名权威机构 |
+| ketone | 酮 | Ch.3 | R–CO–R′, suffix -anone |
+| Lewis structure｜路易斯结构 | Drawing of all valence electrons as dots and pairs｜把全部价电子画成点与电子对的图 | Ch.7 |  |
+| like dissolves like｜相似相溶 | Polar dissolves polar; non-polar dissolves non-polar｜极性溶极性；非极性溶非极性 | Ch.7 |  |
+| like dissolves like | 相似相溶 | Ch.12 | polarity decides 极性决定 |
+| limiting reagent | 限量试剂 | Ch.10 | runs out first; controls yield｜先用完、控产 |
+| locant | 位次编号 | Ch.2 | the number telling where a branch sits｜标明支链位置 |
+| London dispersion force｜色散力 | Instantaneous dipoles; universal, grows with e⁻ count｜瞬时偶极；普遍存在，随电子数增大 | Ch.7 |  |
+| lone pair｜孤对电子 | A valence pair not used in bonding｜未参与成键的价电子对 | Ch.7 |  |
+| miscible | 互溶的 | Ch.3, 12 | mixes in any ratio｜任意比例互溶 |
+| molarity (M) | 摩尔浓度 | Ch.13 | mol solute per L solution｜每升溶液的摩尔数 |
+| molar mass | 摩尔质量 | Ch.8 | g/mol; numeric = atomic/molecular mass｜数值等于原子量/式量 |
+| mole | 摩尔 | Ch.8 | 6.02×10²³ particles; the counting package｜计数"打包规格" |
+| molecular formula | 分子式 | Ch.2, 8 | atom counts only｜只给原子个数 |
+| molecular polarity｜分子极性 | Net dipole of the whole molecule｜整个分子的净偶极 | Ch.7 |  |
+| mole ratio | 摩尔比 | Ch.9, 10 | coefficients read as mol｜系数读作摩尔 |
+| monomer | 单体 | Ch.4 | small unit with C=C｜带 C=C 的小单元 |
+| multivalent | 多变价的 | Ch.1 | transition metals｜过渡金属 |
+| net ionic equation | 净离子方程式 | Ch.13 | the actual reaction 真正发生的反应 |
+| noble gas｜稀有气体 | Group 18 element with a full valence shell｜第 18 族元素，价层已满 | Ch.6 |  |
+| no reaction | 不反应 | Ch.9 | a valid, mark-earning answer｜值得分的正确答案 |
+| octet rule｜八隅规则 | Atoms bond to reach 8 valence electrons（H: 2）｜原子成键以凑满 8 个价电子（氢为 2） | Ch.7 |  |
+| orbital diagram｜轨道图 | Boxes and arrows showing every electron｜用方框与箭头画出全部电子 | Ch.5 |  |
+| organic chemistry | 有机化学 | Ch.2 | chemistry of carbon compounds (with exceptions)｜含碳化合物的化学（有例外） |
+| parallel trials | 平行试验 | Ch.14 | reproducibility check 重现性 |
+| parent chain | 主链 | Ch.2 | the longest carbon chain｜最长的碳链 |
+| Pauli exclusion principle｜泡利不相容原理 | Max 2 electrons per orbital, opposite spins｜每轨道最多 2 电子且自旋相反 | Ch.5 |  |
+| percent composition | 百分组成 | Ch.8 | element mass ÷ total × 100%｜元素质量占比 |
+| percent purity | 百分纯度 | Ch.10 | pure ÷ sample × 100%｜上桥前先乘 |
+| percent yield | 百分产率 | Ch.10 | actual/theoretical × 100%｜永远 ≤ 100% 才合理 |
+| periodic trend｜周期性趋势 | Property that changes predictably across/down the table｜沿表横向/纵向可预测变化的性质 | Ch.6 |  |
+| pharmaceutical | 药物 | Ch.4 | functional groups = function｜官能团即功能 |
+| physical change | 物理变化 | Ch.11 | no new substance 无新物质 |
+| polar covalent bond｜极性共价键 | Covalent bond with uneven sharing｜共享不均匀的共价键 | Ch.7 |  |
+| polyatomic ion | 多原子离子 | Ch.1 | treated as one unit｜整体处理 |
+| polyatomic ion｜多原子离子 | Charged particle of several covalently bonded atoms｜多个原子共价结合成的带电粒子 | Ch.7 |  |
+| polymer | 聚合物 | Ch.4 | long chain of monomers｜单体长链 |
+| precipitate | 沉淀 | Ch.9, 12 | low-solubility solid formed｜生成的低溶解度固体 |
+| precision | 精密度 | Ch.1 | agreement among repeats｜重复一致 |
+| qualitative analysis | 定性分析 | Ch.14 | what is present 有什么 |
+| quantitative analysis | 定量分析 | Ch.14 | how much 有多少 |
+| quantum mechanical model｜量子力学模型 | Atomic model in which electron positions are probabilities｜电子位置以概率描述的原子模型 | Ch.5 |  |
+| reactant / product | 反应物 / 生成物 | Ch.1 | left / right of the arrow｜箭头左 / 右 |
+| recycling code | 回收标识 | Ch.4 | 1–7 polymer families｜1–7 号塑料家族 |
+| renewable feedstock | 可再生原料 | Ch.4 | plant or waste based｜植物或废弃物来源 |
+| saturated | 饱和的 | Ch.2 | maximum hydrogens｜氢已达最大值 |
+| saturated / unsaturated | 饱和/不饱和 | Ch.12 | on / below the curve 线上/线下 |
+| scientific notation | 科学记数法 | Ch.1 | a × 10ⁿ, 1 ≤ a < 10 |
+| shielding effect｜屏蔽效应 | Inner electrons weakening the nuclear pull on outer ones｜内层电子削弱核对外的引力 | Ch.6 |  |
+| significant figures | 有效数字 | Ch.8, 10 | carry 4–5, round once｜中间保 4–5 位，只舍一次 |
+| significant figure (s.f.) | 有效数字 | Ch.1 | set by instrument precision｜由仪器精度决定 |
+| skeletal formula | 骨架式 | Ch.2 | carbons at vertices, H omitted｜顶点为碳，氢省略 |
+| solubility curve | 溶解度曲线 | Ch.12 | g per fixed solvent vs T｜每份溶剂克数对温度 |
+| solubility rules | 溶解性规则 | Ch.9 | decide precipitates｜决定沉淀 |
+| solute / solvent | 溶质/溶剂 | Ch.12 | minority / majority 少/多 |
+| solution | 溶液 | Ch.12 | homogeneous mixture 均一混合物 |
+| spectator ion | 旁观离子 | Ch.13 | unchanged on both sides 两边原样 |
+| spectroscopy | 光谱法 | Ch.14 | light-based identification 光测 |
+| standard solution | 标准液 | Ch.13 | concentration known 已知浓度 |
+| state symbol | 状态符号 | Ch.9 | (s) (l) (g) (aq)｜四件套 |
+| stock solution | 储备液 | Ch.13 | concentrated source 浓的母液 |
+| stoichiometry | 化学计量 | Ch.10 | quantitative relations in reactions｜反应中的数量关系 |
+| structural isomer | 结构异构体 | Ch.2 | same formula, different connectivity｜同分异构 |
+| subscript | 下标 | Ch.1 | never change when balancing｜配平时绝不可改 |
+| subshell｜亚层 | s, p, d or f set of orbitals within a shell｜壳层内 s/p/d/f 一组轨道 | Ch.5 |  |
+| substituent | 取代基 | Ch.2 | a branch off the parent chain｜主链上的分支 |
+| supersaturated | 过饱和 | Ch.12 | above the curve; unstable 线上之外、不稳定 |
+| synthesis (of the course) | 综合 | Ch.14 | tools into one workflow 工具成流水线 |
+| system / surroundings | 系统/环境 | Ch.11 | energy flows between them｜能量在其间流动 |
+| theoretical yield | 理论产量 | Ch.10 | paper maximum from stoichiometry｜纸上最大值 |
+| thermochemical equation | 热化学方程式 | Ch.11 | heat as product or reactant｜热量当产物/反应物写 |
+| titration | 滴定 | Ch.13 | measure concentration by reaction 用反应测浓度 |
+| trade-off | 权衡 | Ch.4 | benefit vs risk, stated precisely｜准确表述的收益与风险 |
+| uncertainty | 不确定度 | Ch.1, 14 | range containing the true value｜真值所在区间 |
+| unit chain | 单位链 | Ch.10 | every line carries units｜每行带单位 |
+| unsaturated | 不饱和的 | Ch.2 | contains C=C or C≡C |
+| valence electrons｜价电子 | Outermost (highest-n) electrons that do chemistry｜最外层（n 最大）参与成键的电子 | Ch.5 |  |
+| volumetric flask | 容量瓶 | Ch.13 | exact volume vessel 精确容积 |
+| VSEPR｜价层电子对互斥 | Electron pairs push to maximum separation｜电子对彼此推开到最大间距 | Ch.7 |  |
+
+**165 terms｜共 165 条。**

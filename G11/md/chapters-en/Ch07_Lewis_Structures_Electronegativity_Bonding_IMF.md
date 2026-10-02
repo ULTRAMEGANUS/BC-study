@@ -333,37 +333,69 @@ Test NaCl, sucrose, iodine and paraffin wax in water and in hexane. Record the 4
 
 ### Answer Key｜答案
 
-- **A1.** A lone pair is a valence electron pair not used in bonding; the O in H₂O carries two.｜**中文**：孤对电子是未参与成键的价电子对；H₂O 的氧带有两对。
+- **A1.** A lone pair is a valence electron pair not used in bonding; the O in H₂O carries two.
 
-- **A2.** 8 valence electrons: two O–H bonds plus two lone pairs on O.｜**中文**：8 个价电子：两条 O–H 键，氧上两对孤对。
+  - **中文**：孤对电子是未参与成键的价电子对；H₂O 的氧带有两对。
 
-- **A3.** 4 + 3×6 + 2 = 24 electrons.｜**中文**：4 + 3×6 + 2 = 24 个电子。
+- **A2.** 8 valence electrons: two O–H bonds plus two lone pairs on O.
 
-- **A4.** ΔEN = 3.5 − 1.2 = 2.3 > 1.8 → ionic.｜**中文**：ΔEN = 3.5 − 1.2 = 2.3 > 1.8 → 离子键。
+  - **中文**：8 个价电子：两条 O–H 键，氧上两对孤对。
 
-- **A5.** ΔEN = 3.5 − 2.1 = 1.4 → covalent polar.｜**中文**：ΔEN = 3.5 − 2.1 = 1.4 → 极性共价键。
+- **A3.** 4 + 3×6 + 2 = 24 electrons.
 
-- **A6.** No — the linear shape makes the two equal bond dipoles point opposite and cancel.｜**中文**：不是——直线形让两条等大的键偶极反向抵消。
+  - **中文**：4 + 3×6 + 2 = 24 个电子。
 
-- **A7.** H must be bonded directly to N, O or F; the H reaches a lone pair on another N/O/F.｜**中文**：氢必须直接连在 N、O 或 F 上；该氢伸向另一分子 N/O/F 的孤对。
+- **A4.** ΔEN = 3.5 − 1.2 = 2.3 > 1.8 → ionic.
 
-- **A8.** Intramolecular: O–H covalent bonds inside each molecule; intermolecular: hydrogen bonds between neighbouring water molecules.｜**中文**：分子内：每个水分子内部的 O–H 共价键；分子间：相邻水分子之间的氢键。
+  - **中文**：ΔEN = 3.5 − 1.2 = 2.3 > 1.8 → 离子键。
 
-- **A9.** Water is polar and forms ion-dipole/hydrogen-bond interactions with Na⁺ and Cl⁻; hexane is non-polar and offers nothing to replace the strong ionic lattice attractions.｜**中文**：水是极性的，能与 Na⁺、Cl⁻ 形成离子-偶极/氢键作用；己烷是非极性的，提供不了能取代强离子晶格吸引的作用。
+- **A5.** ΔEN = 3.5 − 2.1 = 1.4 → covalent polar.
 
-- **A10.** False — boiling overcomes the hydrogen bonds between molecules; every O–H covalent bond survives into the steam.｜**中文**：错——沸腾克服的是分子间氢键；每条 O–H 共价键都完整进入水蒸气。
+  - **中文**：ΔEN = 3.5 − 2.1 = 1.4 → 极性共价键。
 
-- **B1.** CH₄ — bonds non-polar (0.4), tetrahedral symmetric → non-polar. NH₃ — bonds polar (0.9), pyramidal with one lone pair → polar. CO₂ — bonds polar (1.0), linear symmetric → non-polar. HF — bond very polar (1.9), asymmetric diatomic → polar.｜**中文**：CH₄——键非极性（0.4），四面体对称 → 非极性。NH₃——键极性（0.9），三角锥带一对孤对 → 极性。CO₂——键极性（1.0），直线对称 → 非极性。HF——键强极性（1.9），双原子不对称 → 极性。
+- **A6.** No — the linear shape makes the two equal bond dipoles point opposite and cancel.
 
-- **B2.** (a) Both: dispersion + dipole-dipole (both polar); HF additionally hydrogen bonding. (b) H is bonded directly to F, so HF molecules hydrogen-bond to each other — the strongest IMF — and need much more energy to separate. (c) The covalent H–F/H–Cl bonds inside the molecules.｜**中文**：(a) 两者都有色散力与偶极-偶极（都极性）；HF 额外有氢键。(b) 氢直接连在氟上，HF 分子间形成氢键——最强的分子间作用力——分开它们要多付大量能量。(c) 分子内部的 H–F / H–Cl 共价键。
+  - **中文**：不是——直线形让两条等大的键偶极反向抵消。
 
-- **B3.** (a) Add a small amount of each liquid to separate portions of cooking oil (or use a droplet-on-paper test). (b) Hexane mixes with oil; water forms a separate layer. (c) Hexane's dispersion-only IMF matches oil's non-polar chains; water's hydrogen-bond network prefers itself, so it excludes the non-polar oil.｜**中文**：(a) 各取少量分别加入食用油（或滴在纸面上观察）。(b) 己烷与油互溶；水与油分层。(c) 己烷只有色散力，与非极性油链匹配；水的氢键网络更愿意自守，把非极性油排开。
+- **A7.** H must be bonded directly to N, O or F; the H reaches a lone pair on another N/O/F.
 
-- **B4.** (a) Oxygen has 6 valence electrons and after double bonding still needs two lone pairs; omitting them breaks the octet and hides the sites hydrogen bonds use. (b) O=C=O with two lone pairs on each O — 16 electrons in total. (c) Step 3 (finish the outer atoms' octets).｜**中文**：(a) 氧有 6 个价电子，成双键后仍差两对孤对；漏画会破坏八隅，也藏起了氢键的结合位点。(b) O=C=O，每个 O 上两对孤对——共 16 个电子。(c) 第 3 步（补满外层原子的八隅）。
+  - **中文**：氢必须直接连在 N、O 或 F 上；该氢伸向另一分子 N/O/F 的孤对。
 
-- **C1.** (a) 4 + 3×6 + 2 = 24. (b) Skeleton C + 3 O; three bonds (6 e⁻); fill O octets (18 e⁻); carbon short → one lone pair becomes C=O; bracket with 2−. (c) ΔEN = 1.0 → each C–O bond is polar covalent; the charge is the two extra electrons the whole ion accepted — bond polarity and net charge are independent bookkeeping. (d) "Why are all three C–O bonds the same length?" — needs resonance, Chemistry 12.｜**中文**：(a) 4 + 3×6 + 2 = 24。(b) 骨架 C + 3 O；三条键（6 电子）；补满 O 八隅（18 电子）；碳不满 → 一对孤对推进成 C=O；加方括号与 2−。(c) ΔEN = 1.0 → 每条 C–O 键都是极性共价；电荷是整个离子额外收下的 2 个电子——键极性与净电荷是两本独立的账。(d) "三条 C–O 键为何等长？"——需要共振，属 Chemistry 12。
+- **A8.** Intramolecular: O–H covalent bonds inside each molecule; intermolecular: hydrogen bonds between neighbouring water molecules.
 
-- **C2.** (a) A solute dissolves when solute–solvent attractions can rival the solute–solute and solvent–solvent ones being broken. (b) NaCl/water dissolves (ion-dipole); NaCl/hexane does not (dispersion cannot pay for the lattice); iodine/hexane dissolves (dispersion matches dispersion); sucrose/water dissolves (many –OH sites hydrogen-bond). (c) "Water dissolves everything" fails for paraffin/water — water's H-bond network excludes the non-polar chain. (d) Prediction: aspirin should be partly water-soluble — its –COOH can hydrogen-bond, though the non-polar ring limits solubility.｜**中文**：(a) 当溶质-溶剂的吸引能与被拆的溶质-溶质、溶剂-溶剂吸引相当，溶解才发生。(b) NaCl/水 溶（离子-偶极）；NaCl/己烷 不溶（色散力付不起晶格账）；碘/己烷 溶（色散对色散）；蔗糖/水 溶（大量 –OH 氢键位点）。(c) "水什么都能溶"在石蜡/水处破产——水的氢键网络把非极性长链排开。(d) 预测：阿司匹林应部分溶于水——–COOH 能形成氢键，但非极性苯环限制溶解度。
+  - **中文**：分子内：每个水分子内部的 O–H 共价键；分子间：相邻水分子之间的氢键。
+
+- **A9.** Water is polar and forms ion-dipole/hydrogen-bond interactions with Na⁺ and Cl⁻; hexane is non-polar and offers nothing to replace the strong ionic lattice attractions.
+
+  - **中文**：水是极性的，能与 Na⁺、Cl⁻ 形成离子-偶极/氢键作用；己烷是非极性的，提供不了能取代强离子晶格吸引的作用。
+
+- **A10.** False — boiling overcomes the hydrogen bonds between molecules; every O–H covalent bond survives into the steam.
+
+  - **中文**：错——沸腾克服的是分子间氢键；每条 O–H 共价键都完整进入水蒸气。
+
+- **B1.** CH₄ — bonds non-polar (0.4), tetrahedral symmetric → non-polar. NH₃ — bonds polar (0.9), pyramidal with one lone pair → polar. CO₂ — bonds polar (1.0), linear symmetric → non-polar. HF — bond very polar (1.9), asymmetric diatomic → polar.
+
+  - **中文**：CH₄——键非极性（0.4），四面体对称 → 非极性。NH₃——键极性（0.9），三角锥带一对孤对 → 极性。CO₂——键极性（1.0），直线对称 → 非极性。HF——键强极性（1.9），双原子不对称 → 极性。
+
+- **B2.** (a) Both: dispersion + dipole-dipole (both polar); HF additionally hydrogen bonding. (b) H is bonded directly to F, so HF molecules hydrogen-bond to each other — the strongest IMF — and need much more energy to separate. (c) The covalent H–F/H–Cl bonds inside the molecules.
+
+  - **中文**：(a) 两者都有色散力与偶极-偶极（都极性）；HF 额外有氢键。(b) 氢直接连在氟上，HF 分子间形成氢键——最强的分子间作用力——分开它们要多付大量能量。(c) 分子内部的 H–F / H–Cl 共价键。
+
+- **B3.** (a) Add a small amount of each liquid to separate portions of cooking oil (or use a droplet-on-paper test). (b) Hexane mixes with oil; water forms a separate layer. (c) Hexane's dispersion-only IMF matches oil's non-polar chains; water's hydrogen-bond network prefers itself, so it excludes the non-polar oil.
+
+  - **中文**：(a) 各取少量分别加入食用油（或滴在纸面上观察）。(b) 己烷与油互溶；水与油分层。(c) 己烷只有色散力，与非极性油链匹配；水的氢键网络更愿意自守，把非极性油排开。
+
+- **B4.** (a) Oxygen has 6 valence electrons and after double bonding still needs two lone pairs; omitting them breaks the octet and hides the sites hydrogen bonds use. (b) O=C=O with two lone pairs on each O — 16 electrons in total. (c) Step 3 (finish the outer atoms' octets).
+
+  - **中文**：(a) 氧有 6 个价电子，成双键后仍差两对孤对；漏画会破坏八隅，也藏起了氢键的结合位点。(b) O=C=O，每个 O 上两对孤对——共 16 个电子。(c) 第 3 步（补满外层原子的八隅）。
+
+- **C1.** (a) 4 + 3×6 + 2 = 24. (b) Skeleton C + 3 O; three bonds (6 e⁻); fill O octets (18 e⁻); carbon short → one lone pair becomes C=O; bracket with 2−. (c) ΔEN = 1.0 → each C–O bond is polar covalent; the charge is the two extra electrons the whole ion accepted — bond polarity and net charge are independent bookkeeping. (d) "Why are all three C–O bonds the same length?" — needs resonance, Chemistry 12.
+
+  - **中文**：(a) 4 + 3×6 + 2 = 24。(b) 骨架 C + 3 O；三条键（6 电子）；补满 O 八隅（18 电子）；碳不满 → 一对孤对推进成 C=O；加方括号与 2−。(c) ΔEN = 1.0 → 每条 C–O 键都是极性共价；电荷是整个离子额外收下的 2 个电子——键极性与净电荷是两本独立的账。(d) "三条 C–O 键为何等长？"——需要共振，属 Chemistry 12。
+
+- **C2.** (a) A solute dissolves when solute–solvent attractions can rival the solute–solute and solvent–solvent ones being broken. (b) NaCl/water dissolves (ion-dipole); NaCl/hexane does not (dispersion cannot pay for the lattice); iodine/hexane dissolves (dispersion matches dispersion); sucrose/water dissolves (many –OH sites hydrogen-bond). (c) "Water dissolves everything" fails for paraffin/water — water's H-bond network excludes the non-polar chain. (d) Prediction: aspirin should be partly water-soluble — its –COOH can hydrogen-bond, though the non-polar ring limits solubility.
+
+  - **中文**：(a) 当溶质-溶剂的吸引能与被拆的溶质-溶质、溶剂-溶剂吸引相当，溶解才发生。(b) NaCl/水 溶（离子-偶极）；NaCl/己烷 不溶（色散力付不起晶格账）；碘/己烷 溶（色散对色散）；蔗糖/水 溶（大量 –OH 氢键位点）。(c) "水什么都能溶"在石蜡/水处破产——水的氢键网络把非极性长链排开。(d) 预测：阿司匹林应部分溶于水——–COOH 能形成氢键，但非极性苯环限制溶解度。
 
 ## 10. Connection to the Big Idea｜回扣核心概念
 

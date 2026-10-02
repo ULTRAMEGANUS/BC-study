@@ -69,6 +69,17 @@ del{color:var(--sub)}
 """
 
 
+BASEDIR = None            # 当前渲染的 md 所在目录（由 build() 设置）
+
+
+def fixsrc(ref):
+    """把 md 里的相对图片路径换算成相对 PREVIEW 目录的路径，否则预览里图片打不开。"""
+    if not ref or os.path.isabs(ref) or "://" in ref or BASEDIR is None:
+        return ref
+    ab = os.path.normpath(os.path.join(BASEDIR, ref))
+    return os.path.relpath(ab, PREVIEW).replace("\\", "/")
+
+
 def esc(s):
     return _html.escape(s, quote=False)
 
@@ -92,7 +103,7 @@ def inline(s):
         elif t.startswith("!["):
             mm = re.match(r"!\[([^\]]*)\]\(([^)]*)\)", t)
             out.append('<img src="%s" alt="%s">'
-                       % (esc(mm.group(2)), esc(mm.group(1))))
+                       % (esc(fixsrc(mm.group(2))), esc(mm.group(1))))
         elif t.startswith("["):
             mm = re.match(r"\[([^\]]*)\]\(([^)]*)\)", t)
             out.append('<a href="%s">%s</a>'
@@ -206,6 +217,8 @@ def render(text):
 
 
 def build(md_path, out_path):
+    global BASEDIR
+    BASEDIR = os.path.dirname(os.path.abspath(md_path))
     src = open(md_path, encoding="utf-8").read()
     body = render(src)
     name = os.path.basename(md_path)
@@ -225,12 +238,12 @@ def main():
     open_it = "--open" in sys.argv
     keys = args or [None]
     made = []
-    for d in ("chapters-cn", "appendices-cn", "chapters-en"):
+    for d in ("chapters-cn", "appendices-cn", "chapters-en", "appendices-en"):
         p = os.path.join(MD, d)
         if not os.path.isdir(p):
             continue
         for name in sorted(os.listdir(p)):
-            if not name.endswith(".md"):
+            if not name.endswith(".md") or name.startswith("_"):
                 continue
             if keys != [None] and not any(k in name for k in keys):
                 continue

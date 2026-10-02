@@ -348,37 +348,69 @@ Draw an element card and, in 60 seconds, produce the three-piece set — full co
 
 ### Answer Key｜答案
 
-- **A1.** An orbit is a fixed circular path; an orbital is a probability region with no path.｜**中文**：orbit 是固定圆形路线；orbital 是概率区域，没有路线。
+- **A1.** An orbit is a fixed circular path; an orbital is a probability region with no path.
 
-- **A2.** Mg: 1s² 2s² 2p⁶ 3s².｜**中文**：Mg：1s² 2s² 2p⁶ 3s²。
+  - **中文**：orbit 是固定圆形路线；orbital 是概率区域，没有路线。
 
-- **A3.** Mg: [Ne] 3s².｜**中文**：Mg：[Ne] 3s²。
+- **A2.** Mg: 1s² 2s² 2p⁶ 3s².
 
-- **A4.** N: 1s ↑↓, 2s ↑↓, 2p ↑ ↑ ↑ (three singly-occupied 2p orbitals).｜**中文**：N：1s ↑↓，2s ↑↓，2p ↑ ↑ ↑（三个 2p 轨道各单占一个电子）。
+  - **中文**：Mg：1s² 2s² 2p⁶ 3s²。
 
-- **A5.** Aufbau — lowest energy first; Pauli — max two opposite-spin electrons per orbital; Hund — single-occupy equal-energy orbitals before pairing.｜**中文**：构造原理——低能级先填；泡利——每轨道最多两个反向自旋电子；洪特——等能轨道先单占再配对。
+- **A3.** Mg: [Ne] 3s².
 
-- **A6.** Two; the Pauli exclusion principle.｜**中文**：两个；泡利不相容原理。
+  - **中文**：Mg：[Ne] 3s²。
 
-- **A7.** Ca: [Ar] 4s².｜**中文**：Ca：[Ar] 4s²。
+- **A4.** N: 1s ↑↓, 2s ↑↓, 2p ↑ ↑ ↑ (three singly-occupied 2p orbitals).
 
-- **A8.** The 4s orbital is slightly lower in energy than 3d, so it fills first.｜**中文**：4s 轨道能量比 3d 略低，所以先填。
+  - **中文**：N：1s ↑↓，2s ↑↓，2p ↑ ↑ ↑（三个 2p 轨道各单占一个电子）。
 
-- **A9.** Fe²⁺: [Ar] 3d⁶; the two 4s electrons left first.｜**中文**：Fe²⁺：[Ar] 3d⁶；先失去的是两个 4s 电子。
+- **A5.** Aufbau — lowest energy first; Pauli — max two opposite-spin electrons per orbital; Hund — single-occupy equal-energy orbitals before pairing.
 
-- **A10.** False — Bohr's model still gives correct energy levels for hydrogen and remains the bridge to the quantum model.｜**中文**：错——玻尔模型对氢原子的能级至今正确，且是通向量子模型的桥梁。
+  - **中文**：构造原理——低能级先填；泡利——每轨道最多两个反向自旋电子；洪特——等能轨道先单占再配对。
 
-- **B1.** (a) Cl 1s² 2s² 2p⁶ 3s² 3p⁵; Fe 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶; Kr 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶. (b) Cl [Ne] 3s² 3p⁵; Fe [Ar] 3d⁶ 4s²; Kr [Ar] 3d¹⁰ 4s² 4p⁶. (c) Cl 3p: ↑↓ ↑↓ ↑; Fe 3d: ↑↓ ↑ ↑ ↑ ↑ (after pairing two); Kr 4p: ↑↓ ↑↓ ↑↓.｜**中文**：(a) 氯 1s² 2s² 2p⁶ 3s² 3p⁵；铁 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶；氪 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶。(b) 氯 [Ne] 3s² 3p⁵；铁 [Ar] 3d⁶ 4s²；氪 [Ar] 3d¹⁰ 4s² 4p⁶。(c) 氯 3p：↑↓ ↑↓ ↑；铁 3d：↑↓ ↑ ↑ ↑ ↑（一对已配）；氪 4p：↑↓ ↑↓ ↑↓。
+- **A6.** Two; the Pauli exclusion principle.
 
-- **B2.** (a) Na — s block; Cl — p block; Fe — d block; U — f block. (b) Na 3s¹; Cl 3p⁵; Fe 3d; U 5f. (c) After 4s, electrons enter 3d, so the table must insert ten elements between the s and p blocks — that inserted run is the d block.｜**中文**：(a) Na——s 区；Cl——p 区；Fe——d 区；U——f 区。(b) Na 3s¹；Cl 3p⁵；Fe 3d；U 5f。(c) 4s 之后电子进入 3d，所以周期表必须在 s 区与 p 区之间插入十个元素——插入的这一段就是 d 区。
+  - **中文**：两个；泡利不相容原理。
 
-- **B3.** (a) e.g. NaCl yellow, CuSO₄ blue-green, SrCl₂ crimson. (b) Heat promotes electrons to higher levels; as they fall back, the released energy appears as visible light of element-specific colours. (c) Safety: tie back hair, no loose sleeves, use small samples; limitation: many metals give similar colours, so it identifies groups rather than single elements.｜**中文**：(a) 例如 NaCl 黄色、CuSO₄ 蓝绿、SrCl₂ 深红。(b) 受热把电子推上高能级；电子落回时释放的能量表现为该元素特征颜色的可见光。(c) 安全：扎起头发、不穿宽松袖口、样品少量；局限：多种金属颜色相近，只能分辨"族"而难以分辨单一元素。
+- **A7.** Ca: [Ar] 4s².
 
-- **B4.** (a) 2p cannot hold 7 (max 6) — Pauli violated; 3s⁰ written as if 2p overflow existed; (b) Na: 1s² 2s² 2p⁶ 3s¹ = [Ne] 3s¹; (c) Pauli exclusion principle — an orbital cannot exceed two electrons, therefore 2p⁷ is impossible.｜**中文**：(a) 2p 装不下 7 个（上限 6）——违反泡利；3s⁰ 的写法暗示电子从 2p 溢出；(b) Na：1s² 2s² 2p⁶ 3s¹ = [Ne] 3s¹；(c) 泡利不相容原理——轨道不能超过两个电子，所以 2p⁷ 不可能。
+  - **中文**：Ca：[Ar] 4s²。
 
-- **C1.** (a) Ar: [Ne] 3s² 3p⁶; K: [Ar] 4s¹ — the last electron enters 4s. (b) After 4s fills, the next ten electrons fill 3d (the d block) before 4p starts, adding exactly 10 elements to period 4: 8 (like period 3) + 10 = 18. (c) Period 6 = 8 + 10 + 14 = 32: after 6s, the 4f subshell (fourteen electrons, the lanthanides) fills before 5d completes.｜**中文**：(a) Ar：[Ne] 3s² 3p⁶；K：[Ar] 4s¹——最后一个电子进入 4s。(b) 4s 填满后，接下来的十个电子填 3d（d 区），填完才开始 4p，这正好给第 4 周期添了 10 个元素：8（与第 3 周期相同）+ 10 = 18。(c) 第 6 周期 = 8 + 10 + 14 = 32：6s 之后先填 4f（十四个电子，即镧系），再补完 5d。
+- **A8.** The 4s orbital is slightly lower in energy than 3d, so it fills first.
 
-- **C2.** Position — support: the map claim is essentially correct. (a) The configuration's ending subshell locates the block, the shell count locates the period. (b) Examples: Na [Ne]3s¹ → s block, Group 1; Cl [Ne]3s²3p⁵ → p block, Group 17; Fe [Ar]3d⁶4s² → d block; U [Rn]5f³6d¹7s² → f block. (c) Period lengths 8 and 18 follow from 3s+3p versus 4s+3d+4p capacities — pure configuration arithmetic. (d) Prediction: an element ending in 7s¹ (francium) should sit in Group 1, s block, and behave like the other alkali metals.｜**中文**：立场——支持："地图"说法基本正确。(a) 排布结尾的亚层定分区，层数定周期。(b) 例子：Na [Ne]3s¹ → s 区第 1 族；Cl [Ne]3s²3p⁵ → p 区第 17 族；Fe [Ar]3d⁶4s² → d 区；U [Rn]5f³6d¹7s² → f 区。(c) 周期长 8 与 18 完全来自 3s+3p 与 4s+3d+4p 的容量——纯排布算术。(d) 预测：排布终于 7s¹ 的元素（钫）应落在第 1 族、s 区，性质与其他碱金属相似。
+  - **中文**：4s 轨道能量比 3d 略低，所以先填。
+
+- **A9.** Fe²⁺: [Ar] 3d⁶; the two 4s electrons left first.
+
+  - **中文**：Fe²⁺：[Ar] 3d⁶；先失去的是两个 4s 电子。
+
+- **A10.** False — Bohr's model still gives correct energy levels for hydrogen and remains the bridge to the quantum model.
+
+  - **中文**：错——玻尔模型对氢原子的能级至今正确，且是通向量子模型的桥梁。
+
+- **B1.** (a) Cl 1s² 2s² 2p⁶ 3s² 3p⁵; Fe 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶; Kr 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶. (b) Cl [Ne] 3s² 3p⁵; Fe [Ar] 3d⁶ 4s²; Kr [Ar] 3d¹⁰ 4s² 4p⁶. (c) Cl 3p: ↑↓ ↑↓ ↑; Fe 3d: ↑↓ ↑ ↑ ↑ ↑ (after pairing two); Kr 4p: ↑↓ ↑↓ ↑↓.
+
+  - **中文**：(a) 氯 1s² 2s² 2p⁶ 3s² 3p⁵；铁 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶；氪 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶。(b) 氯 [Ne] 3s² 3p⁵；铁 [Ar] 3d⁶ 4s²；氪 [Ar] 3d¹⁰ 4s² 4p⁶。(c) 氯 3p：↑↓ ↑↓ ↑；铁 3d：↑↓ ↑ ↑ ↑ ↑（一对已配）；氪 4p：↑↓ ↑↓ ↑↓。
+
+- **B2.** (a) Na — s block; Cl — p block; Fe — d block; U — f block. (b) Na 3s¹; Cl 3p⁵; Fe 3d; U 5f. (c) After 4s, electrons enter 3d, so the table must insert ten elements between the s and p blocks — that inserted run is the d block.
+
+  - **中文**：(a) Na——s 区；Cl——p 区；Fe——d 区；U——f 区。(b) Na 3s¹；Cl 3p⁵；Fe 3d；U 5f。(c) 4s 之后电子进入 3d，所以周期表必须在 s 区与 p 区之间插入十个元素——插入的这一段就是 d 区。
+
+- **B3.** (a) e.g. NaCl yellow, CuSO₄ blue-green, SrCl₂ crimson. (b) Heat promotes electrons to higher levels; as they fall back, the released energy appears as visible light of element-specific colours. (c) Safety: tie back hair, no loose sleeves, use small samples; limitation: many metals give similar colours, so it identifies groups rather than single elements.
+
+  - **中文**：(a) 例如 NaCl 黄色、CuSO₄ 蓝绿、SrCl₂ 深红。(b) 受热把电子推上高能级；电子落回时释放的能量表现为该元素特征颜色的可见光。(c) 安全：扎起头发、不穿宽松袖口、样品少量；局限：多种金属颜色相近，只能分辨"族"而难以分辨单一元素。
+
+- **B4.** (a) 2p cannot hold 7 (max 6) — Pauli violated; 3s⁰ written as if 2p overflow existed; (b) Na: 1s² 2s² 2p⁶ 3s¹ = [Ne] 3s¹; (c) Pauli exclusion principle — an orbital cannot exceed two electrons, therefore 2p⁷ is impossible.
+
+  - **中文**：(a) 2p 装不下 7 个（上限 6）——违反泡利；3s⁰ 的写法暗示电子从 2p 溢出；(b) Na：1s² 2s² 2p⁶ 3s¹ = [Ne] 3s¹；(c) 泡利不相容原理——轨道不能超过两个电子，所以 2p⁷ 不可能。
+
+- **C1.** (a) Ar: [Ne] 3s² 3p⁶; K: [Ar] 4s¹ — the last electron enters 4s. (b) After 4s fills, the next ten electrons fill 3d (the d block) before 4p starts, adding exactly 10 elements to period 4: 8 (like period 3) + 10 = 18. (c) Period 6 = 8 + 10 + 14 = 32: after 6s, the 4f subshell (fourteen electrons, the lanthanides) fills before 5d completes.
+
+  - **中文**：(a) Ar：[Ne] 3s² 3p⁶；K：[Ar] 4s¹——最后一个电子进入 4s。(b) 4s 填满后，接下来的十个电子填 3d（d 区），填完才开始 4p，这正好给第 4 周期添了 10 个元素：8（与第 3 周期相同）+ 10 = 18。(c) 第 6 周期 = 8 + 10 + 14 = 32：6s 之后先填 4f（十四个电子，即镧系），再补完 5d。
+
+- **C2.** Position — support: the map claim is essentially correct. (a) The configuration's ending subshell locates the block, the shell count locates the period. (b) Examples: Na [Ne]3s¹ → s block, Group 1; Cl [Ne]3s²3p⁵ → p block, Group 17; Fe [Ar]3d⁶4s² → d block; U [Rn]5f³6d¹7s² → f block. (c) Period lengths 8 and 18 follow from 3s+3p versus 4s+3d+4p capacities — pure configuration arithmetic. (d) Prediction: an element ending in 7s¹ (francium) should sit in Group 1, s block, and behave like the other alkali metals.
+
+  - **中文**：立场——支持："地图"说法基本正确。(a) 排布结尾的亚层定分区，层数定周期。(b) 例子：Na [Ne]3s¹ → s 区第 1 族；Cl [Ne]3s²3p⁵ → p 区第 17 族；Fe [Ar]3d⁶4s² → d 区；U [Rn]5f³6d¹7s² → f 区。(c) 周期长 8 与 18 完全来自 3s+3p 与 4s+3d+4p 的容量——纯排布算术。(d) 预测：排布终于 7s¹ 的元素（钫）应落在第 1 族、s 区，性质与其他碱金属相似。
 
 ## 10. Connection to the Big Idea｜回扣核心概念
 
