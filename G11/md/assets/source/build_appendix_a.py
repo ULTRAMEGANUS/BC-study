@@ -51,8 +51,20 @@ def collect():
             cells = [c.strip() for c in line.strip("|").split("|")]
             if len(cells) < 2:
                 continue
-            en, zh = cells[0], cells[1]
-            note = cells[2] if len(cells) > 2 else ""
+            # 有两种表头（Ch.5–7 与其余章不同）：
+            #   3 列  | English | 中文 | Note｜备注 |
+            #   2 列  | Term｜术语 | Meaning in one line｜一句话释义 |
+            if "｜" in cells[0]:
+                parts = cells[0].split("｜")
+                en, zh = parts[0].strip(), parts[1].strip()
+                note = cells[1]
+            else:
+                en, zh = cells[0], cells[1]
+                note = cells[2] if len(cells) > 2 else ""
+            if not en or not zh:
+                continue
+            if en.lower() in ("english", "term", "english term", "term 英文"):
+                continue          # 表头行（两种表头：English / Term｜术语）
             key = en.lower()
             if key in seen:
                 seen[key]["chs"].append(ch)
@@ -66,6 +78,18 @@ def collect():
 def main():
     rows = collect()
     os.makedirs(OUT_DIR, exist_ok=True)
+
+    # 自检：术语/中文列不得残留全角竖线（说明表头变体没被正确拆分）
+    badrows = [r for r in rows if "｜" in r["en"] or "｜" in r["zh"]]
+    if badrows:
+        raise SystemExit("ERROR: %d 行术语/中文列残留全角｜，表头变体未处理：%s"
+                         % (len(badrows), badrows[0]["en"][:60]))
+    misszh = [r for r in rows if not r["zh"]]
+    if misszh:
+        print("WARN: %d 条缺中文：%s" % (len(misszh), [r["en"] for r in misszh[:5]]))
+    junk = [r for r in rows if r["en"].lower() in ("english", "term")]
+    if junk:
+        raise SystemExit("ERROR: 表头行被当成条目（%s）" % junk[0]["en"])
 
     lines = [HEADER]
     for r in rows:

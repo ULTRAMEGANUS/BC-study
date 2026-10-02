@@ -149,6 +149,24 @@ def main():
     if unused:
         problems.append(f"  未引用的图 {len(unused)} 张：{', '.join(unused[:6])}")
 
+    # 7. 附录 A 词汇表完整性（由 build_appendix_a.py 生成）
+    ga = os.path.join(AP, "Appendix_A_Glossary.md")
+    if os.path.isfile(ga):
+        with io.open(ga, encoding="utf-8") as fh:
+            grows = [l.rstrip("\n") for l in fh if l.startswith("| ")]
+        body = [l for l in grows[1:]]              # 去掉表头
+        bad = [l for l in body if "｜" in l.split("|")[1]]
+        if bad:
+            problems.append(f"  [App A] 术语列残留全角｜（表头变体未处理）：{bad[0][:60]}")
+        junk = [l for l in body if l.split("|")[1].strip().lower() in ("english", "term")]
+        if junk:
+            problems.append(f"  [App A] 表头行被当成条目：{junk[0][:60]}")
+        misszh = [l for l in body if not l.split("|")[2].strip()]
+        if misszh:
+            problems.append(f"  [App A] {len(misszh)} 条缺中文")
+        if len(body) < 100:
+            problems.append(f"  [App A] 条目仅 {len(body)} 条（期望 ≥100）")
+
     print("=== G11 结构校验 ===")
     print(f"  章节 {len(chapters)} 份 · 附录 {len(others)} 份 · 图库 {len(all_figs)} 张"
           f"（已引用 {len(used_figs)}）")
