@@ -63,6 +63,7 @@ G10/CHEM10 rev/_png/
 # 每个年级的 PDF 统一输出到 <年级>/pdf/（2026-09-24 约定），一律视为生成物，不入库。
 G11/pdf/
 G11/md/assets/source/_build*/
+G11/md/assets/figures/_png/
 # G11 预览页（preview_md.py 生成，过程产物）
 G11/preview/
 
