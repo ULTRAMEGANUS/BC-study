@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 316" width="900"
+     height="316" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 1-4　酸碱盐的化学式特征｜Acids, Bases and Salts</title>
+  <rect width="900" height="316" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 1-4　酸碱盐的化学式特征｜Acids, Bases and Salts</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 10 · 先看化学式的首尾，再判类别</text>
+  <rect x="24" y="58" width="272" height="32" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="160" y="74" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">ACID 酸</text>
+  <rect x="24" y="90" width="272" height="152" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="160" y="110" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">以 H 开头 starts with H</text>
+  <text x="160" y="132" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">HCl　hydrochloric acid</text>
+  <text x="160" y="150" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H₂SO₄　sulfuric acid</text>
+  <text x="160" y="168" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">HNO₃　nitric acid</text>
+  <text x="160" y="186" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H₃PO₄　phosphoric acid</text>
+  <text x="160" y="204" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CH₃COOH　acetic acid</text>
+  <text x="160" y="214" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">→ 水溶液能给出 H⁺（Ch.7 展开）</text>
+  <rect x="314" y="58" width="272" height="32" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="450" y="74" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">BASE 碱</text>
+  <rect x="314" y="90" width="272" height="152" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450" y="110" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">以 OH 结尾 ends with OH</text>
+  <text x="450" y="132" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NaOH　sodium hydroxide</text>
+  <text x="450" y="150" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">KOH　potassium hydroxide</text>
+  <text x="450" y="168" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ca(OH)₂　calcium hydroxide</text>
+  <text x="450" y="186" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mg(OH)₂　magnesium hydroxide</text>
+  <text x="450" y="204" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NH₃　ammonia（唯一常见例外，不含 OH）</text>
+  <text x="450" y="214" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">→ 水溶液能给出 OH⁻；滑腻、味苦</text>
+  <rect x="604" y="58" width="272" height="32" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="740" y="74" font-size="13" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">SALT 盐</text>
+  <rect x="604" y="90" width="272" height="152" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="740" y="110" font-size="11.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">金属 + 非金属 的离子化合物</text>
+  <text x="740" y="132" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NaCl　sodium chloride</text>
+  <text x="740" y="150" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">KNO₃　potassium nitrate</text>
+  <text x="740" y="168" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CaCO₃　calcium carbonate</text>
+  <text x="740" y="186" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">(NH₄)₂SO₄　ammonium sulfate</text>
+  <text x="740" y="204" font-size="10.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">KMnO₄　potassium permanganate</text>
+  <text x="740" y="214" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">→ 多由 酸 + 碱 中和得到（Ch.7）</text>
+  <rect x="24" y="258" width="852" height="44" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="274" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">判定顺序 How to tell</text>
+  <text x="450" y="290" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">无金属 + 以 H 开头 = 酸　｜　有金属 + 以 OH 结尾 = 碱　｜　金属 + 非金属（或多原子离子）= 盐</text>
+</svg>

@@ -58,6 +58,8 @@ G10/MD/assets/printables/html/
 G10/MD/assets/source/_build_rev/
 G10/CHEM10 rev/_txt/
 G10/CHEM10 rev/_png/
+# 学校复习卷原卷（只读素材，大二进制不入库）
+G10/CHEM10 rev/*.pdf
 
 # ---------------------------------------------------------------- G11（同 G9 规则）
 # 每个年级的 PDF 统一输出到 <年级>/pdf/（2026-09-24 约定），一律视为生成物，不入库。

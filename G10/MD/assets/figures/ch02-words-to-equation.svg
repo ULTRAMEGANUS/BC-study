@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900"
+     height="430" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>图 2-5　从文字描述到配平方程式：四步法｜Words → Balanced Equation</title>
+  <rect width="900" height="430" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 2-5　从文字描述到配平方程式：四步法｜Words → Balanced Equation</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">BC Science 10 · WS1 p2 / WS2 p1 常考题型</text>
+  <rect x="24" y="58" width="64" height="64" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="56" y="80" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="56" y="106" font-size="7.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">STEP</text>
+  <text x="104" y="78" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">划出反应物与生成物</text>
+  <text x="104" y="100" font-size="9" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">Potassium metal reacts with water to produce potassium hydroxide and hydrogen gas.</text>
+  <rect x="700" y="58" width="176" height="64" rx="8" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="788" y="90" font-size="10" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">K + H₂O → KOH + H₂</text>
+  <line x1="56" y1="122" x2="56" y2="128" stroke="#B4B2A9" stroke-width="1.2"/>
+  <rect x="24" y="128" width="64" height="64" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="56" y="150" font-size="22" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">2</text>
+  <text x="56" y="176" font-size="7.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">STEP</text>
+  <text x="104" y="148" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">把每个名称写成化学式（Ch.1）</text>
+  <text x="104" y="170" font-size="9" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">钾 K（金属单质写单原子）；水 H₂O；氢氧化钾 KOH；氢气 H₂（双原子分子！）</text>
+  <rect x="700" y="128" width="176" height="64" rx="8" fill="#FFFFFF" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="788" y="160" font-size="10" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">K + H₂O → KOH + H₂</text>
+  <line x1="56" y1="192" x2="56" y2="198" stroke="#B4B2A9" stroke-width="1.2"/>
+  <rect x="24" y="198" width="64" height="64" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="56" y="220" font-size="22" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">3</text>
+  <text x="56" y="246" font-size="7.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">STEP</text>
+  <text x="104" y="218" font-size="10.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">补状态符号与条件</text>
+  <text x="104" y="240" font-size="9" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">题目里的 solid / liquid / aqueous / gas 分别对应 (s)(l)(g)(aq)；「加热」写在箭头上</text>
+  <rect x="700" y="198" width="176" height="64" rx="8" fill="#FFFFFF" stroke="#3B6D11" stroke-width="1.0"/>
+  <text x="788" y="230" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">K(s)+H₂O(l)→KOH(aq)+H₂(g)</text>
+  <line x1="56" y1="262" x2="56" y2="268" stroke="#B4B2A9" stroke-width="1.2"/>
+  <rect x="24" y="268" width="64" height="64" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="56" y="290" font-size="22" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">4</text>
+  <text x="56" y="316" font-size="7.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">STEP</text>
+  <text x="104" y="288" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">配平并验算（只改系数）</text>
+  <text x="104" y="310" font-size="9" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">系数补齐后验算：K 2=2、H 4=4、O 2=2 ✓（验算表见 Ch.3）</text>
+  <rect x="700" y="268" width="176" height="64" rx="8" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <text x="788" y="300" font-size="10" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2 K + 2 H₂O → 2 KOH + H₂</text>
+  <rect x="24" y="346" width="852" height="72" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450" y="364" font-size="11" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">📌 文字描述里的关键词｜Key words in word problems</text>
+  <text x="450" y="384" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">solid 固 (s)　｜　liquid 液 (l)　｜　gas 气 (g)　｜　aqueous / solution / dissolved 水溶液 (aq)</text>
+  <text x="450" y="402" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">heat / Δ 加热　｜　catalyst 催化剂　｜　light 光照　｜　burns in air 燃烧　｜　decomposes 分解　｜　reacts with 与…反应</text>
+</svg>
