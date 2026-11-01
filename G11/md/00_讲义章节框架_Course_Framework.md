@@ -3,7 +3,7 @@
 
 > **根目录 Root**: `canada chemical/G11/`
 > **依据来源 Source**: [BC Ministry of Education — Chemistry 11 Curriculum](https://curriculum.gov.bc.ca/curriculum/science/11/chemistry)（官方现行大纲，2026-09-29 复核）
-> **素材对齐 Alignment**: `G11/Tsou - Chemistry 11 Outline 2026-2027.pdf`（学校课程大纲：单元结构与评估权重）· `G11/NEW Chem 11 Data Booklet.pdf`（数据册）· `G11/LAB SAFTY/`（实验安全）· `G11/LAB1/`（观察实验）
+> **素材对齐 Alignment**: 学校课程大纲（Tsou Outline，单元结构与评估权重）与 `NEW Chem 11 Data Booklet`（数据册）已完整消化进正文与附录；实验安全与观察素材（LAB SAFTY · LAB1）已消化进 Ch.1 与附录 E。源文件于 2026-11-01 从工作区移除，原件存于 git 历史，可随时恢复。
 > **版本 Version**: v1.0（框架骨架 / framework skeleton）
 > **语言体例 Convention**: 每个词条先英文后中文，格式 `English（中文）`；专业术语首次出现时双标注。
 
@@ -75,13 +75,12 @@
 
 ```
 G11/                                  根目录
-├─ 00_讲义章节框架_Course_Framework.md   ← 已在 G10 模式下建于 G11/md/（本文件）
-├─ md/                                md 输出（本框架在此；后续 chapters-cn/ 等子目录开工再建）
-├─ pdf/                               ⛔ 本年级全部 PDF 产物的唯一出口（未经点名不生成）
-├─ Tsou - Chemistry 11 Outline 2026-2027.pdf   学校课程大纲（只读）
-├─ NEW Chem 11 Data Booklet.pdf       数据册：p1 带电负性周期表；p2 扫描件（待 OCR 提取）
-├─ LAB SAFTY/                         实验安全讲义 ×4（只读）
-└─ LAB1/MAKE OBSERVATION_merge.pdf    观察实验（已产出中英对照版 `MAKE OBSERVATION_中英对照-ans.pdf`）
+├─ md/                                md 输出（本框架在此）
+│  ├─ chapters-en/                    14 章正文（英文在前版）
+│  ├─ appendices-en/                  附录 A–E
+│  └─ assets/                         SVG 源、校验与构建脚本
+├─ pdf/                               ⛔ 本年级全部 PDF 产物的唯一出口（生成物，不入库）
+└─ preview/                           章节 HTML 预览页（过程产物，不入库）
 ```
 
 > **单元顺序 = 学校顺序**（`Tsou Outline` 明确）：学校把 **Organic Chemistry 排在第一单元**，
@@ -142,7 +141,7 @@ G11/                                  根目录
 
 - **大纲对应 Content alignment**: C8 dimensional analysis（入门）；Curricular Competencies（safety / sig figs / uncertainty 引入）
 - **课时 Periods**: 4
-- **素材对齐**: `LAB SAFTY/` 全部 4 份 · `LAB1/MAKE OBSERVATION_merge.pdf`（+ 已产出的中英对照版）
+- **素材对齐**: 实验安全讲义 ×4 与观察实验（原 `LAB SAFTY/`·`LAB1/`，2026-11-01 起源文件已移除，内容已消化进本章与附录 E）
 - **回扣 Big Idea**: 工具章（无固定条目，末尾预告 B3——量化的意义）
 
 **学习目标 Learning objectives**
