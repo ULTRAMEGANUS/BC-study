@@ -8,7 +8,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Content｜内容 |
-|---|---|---|
+|---|---|
 | Content served｜服务的 Content | **C2 Lewis structures** (atoms, ions, molecules, polyatomic ions) · **C3 electronegativity & bond polarity** · **C4 intramolecular bonds vs intermolecular forces**｜**C2 路易斯结构**（原子、离子、分子、多原子离子）· **C3 电负性与键极性** · **C4 分子内键 vs 分子间力** |
 | Interface｜接口 | Molecular polarity from this chapter drives **solubility** in Ch.12 (like dissolves like, Big Idea B5)｜本章的分子极性直接决定 Ch.12 的**溶解性**（相似相溶，核心概念 B5） |
 | Competencies | [Processing and analyzing] Lewis drills and polarity clinics｜[Questioning and predicting] Surface-tension challenge｜[Communicating] IMF explanations with diagrams｜[处理与分析] 路易斯与极性分诊｜[提问与预测] 表面张力挑战｜[交流] 用图解释分子间作用力 |
@@ -122,7 +122,7 @@ Metals bond by pooling their valence electrons into a shared **electron sea** ar
 ### Table 7-1　ΔEN classification｜ΔEN 分类（经验阈值）
 
 | ΔEN | Bond type｜键型 | Electron behaviour｜电子行为 | Example｜例 |
-|---|---|---|---|---|
+|---|---|---|---|
 | < 0.5 | covalent non-polar｜非极性共价 | shared evenly｜均匀共享 | C–H (0.4), H–H (0.0) |
 | 0.5–1.8 | covalent polar｜极性共价 | pulled to one end｜偏向一端 | H–Cl (0.9), O–H (1.4) |
 | > 1.8 | ionic｜离子键 | effectively transferred｜实际转移 | Na–Cl (2.1), Mg–O (2.3) |
@@ -132,7 +132,7 @@ Metals bond by pooling their valence electrons into a shared **electron sea** ar
 ### Table 7-2　Concept-level shapes and polarity｜概念级形状与极性
 
 | Shape｜形状 | Atoms around centre｜中心周围 | Symmetry｜对称性 | Classic case｜经典例 |
-|---|---|---|---|---|
+|---|---|---|---|
 | linear｜直线形 | 2 | fully symmetric｜全对称 | CO₂（polar bonds, non-polar molecule） |
 | trigonal planar｜平面三角形 | 3 | symmetric｜对称 | BF₃（B 缺八隅的例外） |
 | tetrahedral｜四面体 | 4 | symmetric｜对称 | CH₄（非极性） |
@@ -204,7 +204,7 @@ Metals bond by pooling their valence electrons into a shared **electron sea** ar
 ## 6. Key Vocabulary｜核心词汇
 
 | Term｜术语 | Meaning in one line｜一句话释义 |
-|---|---|---|
+|---|---|
 | Lewis structure｜路易斯结构 | Drawing of all valence electrons as dots and pairs｜把全部价电子画成点与电子对的图 |
 | lone pair｜孤对电子 | A valence pair not used in bonding｜未参与成键的价电子对 |
 | octet rule｜八隅规则 | Atoms bond to reach 8 valence electrons（H: 2）｜原子成键以凑满 8 个价电子（氢为 2） |
@@ -243,7 +243,7 @@ Test NaCl, sucrose, iodine and paraffin wax in water and in hexane. Record the 4
 ## 8. Common Misconceptions｜常见易错点
 
 | # | Misconception｜误区 | Correction｜纠正 |
-|---|---|---|---|
+|---|---|---|
 | 1 | Hydrogen bonds are inside molecules｜氢键在分子内部 | H-bonds act between molecules (rare intramolecular cases: not at this level)｜氢键在分子之间（分子内情形本阶段不讨论） |
 | 2 | Polar bonds always make polar molecules｜极性键必得极性分子 | Symmetric shapes cancel dipoles (CO₂)｜对称形状可抵消（CO₂） |
 | 3 | Boiling water breaks O–H bonds｜水沸腾断 O–H 键 | Boiling breaks IMF; covalent bonds survive｜沸腾断的是分子间力，共价键完好 |

@@ -5,7 +5,7 @@
 ## B-1　Using the Data Booklet｜Data Booklet 使用指南
 
 | Page｜页 | What it holds｜内容 | When you reach for it｜何时用 |
-|---|---|---|---|---|
+|---|---|---|
 | p1 periodic table 周期表 | atomic masses, symbols, groups | molar masses; electronegativity values (Pauling) are printed in each element's box｜算摩尔质量；查电负性（鲍林标度印在元素格内） |
 | p2 ｜资料页 | solubility table, formulas, constants | precipitation predictions; formula checks｜沉淀预测；公式核对 |
 
@@ -16,7 +16,7 @@
 ## B-2　Organic Functional Groups Master Table｜有机官能团总表
 
 | Family｜族 | Structure｜结构 | Suffix｜后缀 | Example｜例 |
-|---|---|---|---|---|
+|---|---|---|---|
 | alkane 烷烃 | C–C only | -ane | propane 丙烷 |
 | alkene 烯烃 | C=C | -ene | propene 丙烯 |
 | alkyne 炔烃 | C≡C | -yne | propyne 丙炔 |
@@ -54,7 +54,7 @@
 ## B-4　Constants, Prefixes and Symbols｜常数、前缀与符号
 
 | Item｜项 | Value / Meaning｜值/含义 |
-|---|---|---|
+|---|---|
 | Avogadro's number N_A | 6.02×10²³ /mol |
 | STP（旧定义参考） | 0 °C, 101.3 kPa — molar volume 22.4 L/mol ⚠️ traditional extra, not 2018-curriculum｜传统补充，非 2018 大纲明文 |
 | milli- (m) | ×10⁻³ |

@@ -9,8 +9,8 @@
 ### Station answer key｜各站答案要点
 
 | Station｜站 | Tests｜考查 | Model answers｜参考答案 |
-|---|---|---|---|
-| 1 Lab area safety 实验区安全 | clutter hazards | ① walkways and benches clear of bags/coats; ② nothing near the balance edge; ③ rule: keep your bench clear and bags under the desk.|台面走道清空、书包放桌下，防绊倒与泼洒。 |
+|---|---|---|
+| 1 Lab area safety 实验区安全 | clutter hazards | ① walkways and benches clear of bags/coats; ② nothing near the balance edge; ③ rule: keep your bench clear and bags under the desk. 台面走道清空、书包放桌下，防绊倒与泼洒。 |
 | 2 Lab dress code 着装 | goggles, tied hair, closed shoes, no loose sleeves | goggles ON before chemicals; hair tied; no shorts/open shoes. 安全镜先行、长发束起、不穿露趾鞋。 |
 | 3 Handling glassware 玻璃器皿 | broken glass & chipped flask | broken glass → dustpan + **broken glass bin**, never hands; chipped/flask with star-crack → do not use, report. 破玻璃用扫帚入专用箱；有裂痕的烧瓶停用上报。 |
 | 4 Chemical safety 化学安全 I | wafting & reading volume | ① smell by **wafting**（扇闻）, never sniff directly; ② beaker read to nearest 10 mL (graduation marks), graduated cylinder to 1 decimal (estimate between marks). 烧杯按刻度估到 10 mL 位；量筒估读到小数一位。 |
@@ -28,7 +28,7 @@ no goggles · pointing a test tube at others · pipetting by mouth · eating/dri
 ### Scenario rewrites｜情景改错全解（6 题）
 
 | # | Rules broken｜违反的规则 | Corrected scenario｜改写后 |
-|---|---|---|---|
+|---|---|---|
 | 1 Cindy broke a test tube | handling shards with bare hands（徒手捡碎片） | She swept the pieces into the broken-glass bin with a dustpan and brush, and told the teacher.｜用扫帚扫入专用收集箱并报告老师。 |
 | 2 Jake weighing chemicals, no teacher | unsupervised lab work; skin contact; rubbing eyes/nose 无人监督、徒手触药、揉脸 | He waited at his bench until the teacher arrived, then weighed using a weigh boat with gloves and kept hands away from his face.｜等老师到场，用称量纸、戴手套、手不碰脸。 |
 | 3 Sam heating without goggles | goggles ≠ prescription glasses; tube pointed at people｜普通眼镜不是护目镜；试管口对人 | He put on safety goggles over his glasses and slanted the tube **away from all people**, using a test-tube holder.｜戴护目镜，管口朝无人方向，用试管夹。 |
@@ -43,7 +43,7 @@ no goggles · pointing a test tube at others · pipetting by mouth · eating/dri
 *Source｜素材：`LAB SAFTY 3.pdf`（已填答案版）与 `LAB SAFTY 2.pdf`（图片版）。*
 
 | Category｜类 | Equipment｜器材 | Use｜用途 |
-|---|---|---|---|
+|---|---|---|
 | Measuring glassware 计量玻璃 | graduated cylinder 量筒 | volume ±0.5 mL（source notes vary ±0.1–0.5 by size；按规格） |
 | | burette 滴定管 | accurate delivery ±0.01–0.05 mL per Ch.13 reading discipline｜精确定量放出 |
 | | pipette 移液管 | one fixed volume, accurately｜精确取定容 |
@@ -90,7 +90,7 @@ no goggles · pointing a test tube at others · pipetting by mouth · eating/dri
 ### p1 — Electronegativity hunt｜电负性寻读
 
 | Question｜题 | Answer｜答案 |
-|---|---|---|
+|---|---|
 | Which element has the highest EN? | F 4.0 |
 | EN of O, H, and ΔEN of the O–H bond | 3.5, 2.1, ΔEN = 1.4 |
 | ΔEN of Na–Cl | 3.0 − 0.9 = 2.1 |
@@ -130,7 +130,7 @@ Data tables (draw before the lab)｜数据表（进实验室前画好）:
 Each chapter's Section 9 is the worksheet source; print at A4 with the answer key on separate pages.｜各章第 9 节即练习单母本；A4 打印、答案另页。
 
 | Worksheet｜单 | Source｜来源 | Focus｜重点 |
-|---|---|---|---|---|
+|---|---|---|
 | W01 sig figs & conversion | Ch.1 Part A | counting & rounding |
 | W02 three bridges | Ch.8 A1–A10 | particles ⇄ mol ⇄ mass |
 | W03 empirical formulas | Ch.8 B2–B4, C1 | % → formula |

@@ -7,7 +7,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Detail｜细节 |
-|---|---|---|
+|---|---|
 | Big Idea｜核心概念 | **B5** — *Solubility within a solution is determined by the nature of the solute and the solvent.*（本章直接主语） |
 | Content C13｜内容标准 C13 | solubility of molecular and ionic compounds｜分子/离子化合物的溶解度 |
 | Curricular Competencies｜课程能力 | Planning and conducting（溶解度曲线实测）· Evaluating（沉淀预测-验证）· Processing and analyzing（相似相溶矩阵） |
@@ -34,7 +34,7 @@ A **solution（溶液）** is a homogeneous mixture: **solute（溶质）** disp
 **中文**：**溶液**是均一混合物：**溶质**分散在**溶剂**中。它远不止"固体溶进水"：
 
 | Type｜类型 | Example｜例 |
-|---|---|---|
+|---|---|
 | gas in gas | air 空气（O₂ in N₂） |
 | gas in liquid | fizzy water 汽水（CO₂ in water） |
 | liquid in liquid | vinegar 醋（acetic acid in water） |
@@ -86,7 +86,7 @@ Mobile ions carry electric current — salt water conducts, pure water barely do
 ### 3.5 The Solubility Rules (Full Table)｜溶解性规则·全表
 
 | Ion｜离子 | Soluble?｜溶解性 | Exceptions｜例外 |
-|---|---|---|---|
+|---|---|---|
 | NO₃⁻, CH₃COO⁻ | all soluble 全溶 | none |
 | Cl⁻, Br⁻, I⁻ | soluble | Ag⁺, Pb²⁺, Hg₂²⁺ |
 | SO₄²⁻ | soluble | Ba²⁺, Pb²⁺, Sr²⁺; Ca²⁺, Ag⁺ slightly 微溶 |
@@ -122,7 +122,7 @@ Mix two clear solutions → swap partners → check the rules (Fig. 12-4). If ei
 ### Table 12-1　Saturated vs Unsaturated vs Supersaturated｜饱和/不饱和/过饱和
 
 | State｜状态 | Meaning｜含义 | Behaviour｜行为 |
-|---|---|---|---|---|
+|---|---|---|
 | unsaturated 不饱和 | below the limit 未达上限 | accepts more solute 可继续溶 |
 | saturated 饱和 | exactly at the limit（with excess solid present）恰好达限（有剩余固体共存） | dissolving = crystallizing 溶解=析晶动态平衡 |
 | supersaturated 过饱和 | beyond the limit 超过上限 | unstable; seed crystal triggers crystallization 不稳定，投晶种即析 |
@@ -130,7 +130,7 @@ Mix two clear solutions → swap partners → check the rules (Fig. 12-4). If ei
 ### Table 12-2　Temperature Effects｜温度影响
 
 | Solute｜溶质 | Warming does…｜升温后 | Example consequence｜后果 |
-|---|---|---|---|
+|---|---|---|
 | most solids 多数固体 | solubility ↑ | recrystallization by cooling 冷却结晶提纯 |
 | a few solids（Ce₂(SO₄)₃） | solubility ↓ | rare cases 少数例外 |
 | gases 气体 | solubility ↓ | warm water → fish gasp 温水缺氧鱼浮头 |
@@ -138,7 +138,7 @@ Mix two clear solutions → swap partners → check the rules (Fig. 12-4). If ei
 ### Table 12-3　"Soluble" vs "Concentrated"｜“可溶”vs“浓”
 
 | Concept｜概念 | Belongs to｜属于 | Depends on｜取决于 |
-|---|---|---|---|
+|---|---|---|
 | solubility 溶解度 | the pair 溶质-溶剂对 | temperature, at saturation 饱和态+温度 |
 | concentration 浓度 | a particular solution 某份溶液 | how much was added 加了多少（Ch.13） |
 | saturated 饱和 | a particular solution | vs the curve 是否到线 |
@@ -146,7 +146,7 @@ Mix two clear solutions → swap partners → check the rules (Fig. 12-4). If ei
 ### Table 12-4　Precipitation Diagnosis｜沉淀诊断卡
 
 | Mixing｜混合 | New pairs｜新组合 | Verdict｜判定 |
-|---|---|---|---|
+|---|---|---|
 | AgNO₃ + NaCl | AgCl, NaNO₃ | AgCl insoluble → white ppt 白沉 |
 | BaCl₂ + Na₂SO₄ | BaSO₄, NaCl | BaSO₄ insoluble → white ppt |
 | KNO₃ + NaCl | KCl, NaNO₃ | both soluble → no reaction 不反应 |
@@ -253,7 +253,7 @@ Pb(NO₃)₂(aq) + 2 KI(aq) → PbI₂(s) + 2 KNO₃(aq)
 ## 8. Common Misconceptions｜常见易错点
 
 | # | Misconception｜错误认识 | Correction｜正确理解 |
-|---|---|---|---|
+|---|---|---|
 | 1 | "Solubility and concentration are the same."｜溶解度就是浓度。 | Solubility is a saturated-state property of the *pair*; concentration fits any solution (Ch.13).｜溶解度是"一对"溶质溶剂在饱和态的属性；浓度可以任意（Ch.13）。 |
 | 2 | "All nitrates are slightly soluble."｜硝酸盐微溶。 | Nitrates are **always soluble** — the rules' easiest family.｜硝酸盐**全溶**——规则里最好记的一族。 |
 | 3 | "Gases dissolve better in hot water."｜气体在热水里溶得多。 | Opposite: gas solubility falls as temperature rises — warm water holds less O₂.｜相反：升温气体溶解度下降——温水溶氧少。 |
@@ -414,7 +414,7 @@ Pb(NO₃)₂(aq) + 2 KI(aq) → PbI₂(s) + 2 KNO₃(aq)
 ### Rubric｜评分量规
 
 | Band｜档 | Evidence required｜所需证据 |
-|---|---|---|
+|---|---|
 | Full marks 满分 | Rule cited by ion name, state symbols complete, curve reading with units and temperature, observation predicted｜按离子名引规则、状态符号齐全、曲线读数带单位与温度、预测现象 |
 | Partial 部分分 | Correct verdict with wrong or missing exception｜判定对但例外记错/漏 |
 | Minimal 最低分 | "Insoluble" treated as zero; density used to explain miscibility｜把"不溶"当绝对为零；用密度解释互溶 |

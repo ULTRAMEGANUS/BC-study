@@ -10,7 +10,7 @@
 ### Priority suffixes｜后缀优先级（高 → 低）
 
 | Priority｜优先 | Group｜基团 | Suffix｜后缀 | Position style｜位次写法 |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 | carboxylic acid 羧酸 | -anoic acid | C1 fixed in –COOH |
 | 2 | ester 酯 | alkyl …anoate | two-word name 双词名 |
 | 3 | amide 酰胺 | -anamide | |
@@ -23,7 +23,7 @@
 ### Worked examples｜例
 
 | Structure｜结构 | English name｜英文名 | 中文名 |
-|---|---|---|---|
+|---|---|---|
 | CH₃CH₂CH₂CH₃ | butane | 丁烷 |
 | CH₃CH(CH₃)CH₂CH₃ | 2-methylbutane | 2-甲基丁烷 |
 | CH₂=CHCH₂CH₃ | but-1-ene | 1-丁烯 |
@@ -55,7 +55,7 @@
 ### The rule｜总规则
 
 | Domain｜领域 | English｜英文 | Chinese｜中文 |
-|---|---|---|---|---|
+|---|---|---|
 | **Inorganic 无机** | cation → anion（sodium chloride） | **anion + 化 + cation（氯化钠）— opposite 相反** |
 | **Organic 有机** | same order, translated piece by piece（2-methylbutane 2-甲基丁烷） | **基本同向 identical order** |
 | **Ester 酯** | alkyl → acid（methyl ethanoate） | **acid + 醇名（乙酸甲酯）— opposite 相反** |

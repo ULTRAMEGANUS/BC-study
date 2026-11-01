@@ -8,7 +8,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Content｜内容 |
-|---|---|---|
+|---|---|
 | Content served｜服务的 Content | **C5 organic compounds** — the functional-group half: alcohols, ethers, aldehydes, ketones, carboxylic acids, esters, amines, amides, halogenated compounds｜**C5 有机化合物**——官能团部分：醇、醚、醛、酮、羧酸、酯、胺、酰胺、卤代烃 |
 | Interface｜接口 | **C4 bonds/forces** — functional groups control physical properties through **hydrogen bonding** and polarity (full treatment in Ch.7)｜**C4 化学键/作用力**——官能团通过**氢键**与极性决定物理性质（Ch.7 完整展开） |
 | Competencies | [Communicating] Use IUPAC conventions for all nine families｜[Processing and analyzing] Relate structure to properties｜[Applying and innovating] Connect functional groups to flavours, drugs and materials｜[交流] 用 IUPAC 规范处理九大官能团｜[处理与分析] 把结构与性质关联｜[应用与创新] 把官能团与香料、药物、材料联系起来 |
@@ -80,7 +80,7 @@ The –OH group is the single most important functional group for physical prope
 Naming drill｜命名演练：
 
 | Structure｜结构 | IUPAC name｜IUPAC 名 | Chinese｜中文 |
-|---|---|---|---|
+|---|---|---|
 | CH₃OH | methanol | 甲醇 |
 | CH₃CH₂OH | ethanol | 乙醇 |
 | CH₃CH(OH)CH₃ | propan-2-ol | 2-丙醇（异丙醇） |
@@ -101,7 +101,7 @@ Naming: aldehydes take **-al** (the carbonyl carbon is C1 by definition, so no l
 **中文**：命名：醛用 **-al**（羰基碳按定义就是 C1，所以不用标位次）；酮用 **-one**，从四个碳起要标位次（**propan-2-one** 不用标，因为 2 是唯一可能的位置）。
 
 | Structure｜结构 | IUPAC name｜IUPAC 名 | Chinese｜中文 |
-|---|---|---|---|
+|---|---|---|
 | CH₃CHO | ethanal | 乙醛 |
 | CH₃CH₂CHO | propanal | 丙醛 |
 | CH₃COCH₃ | propan-2-one | 丙酮 |
@@ -125,7 +125,7 @@ Esters use the **double name** `alkyl alkanoate` — and this is where English a
 **中文**：酯用**双词名** `alkyl alkanoate`——英中语序正是在这里分道扬镳（**§3.9**、**图 3-3**）。
 
 | Structure｜结构 | IUPAC name｜IUPAC 名 | Chinese｜中文 |
-|---|---|---|---|
+|---|---|---|
 | HCOOH | methanoic acid | 甲酸 |
 | CH₃COOH | ethanoic acid | 乙酸 |
 | HCOOCH₃ | methyl methanoate | 甲酸甲酯 |
@@ -199,7 +199,7 @@ Esters are the **one family** where English and Chinese naming run in **opposite
 Decode it yourself｜自己拆一遍：
 
 | English name｜英文名 | Alcohol part｜醇部分 | Acid part｜酸部分 | Chinese｜中文名 |
-|---|---|---|---|---|
+|---|---|---|---|
 | methyl ethanoate | methyl 甲醇 | ethanoate 乙酸 | 乙酸甲酯 |
 | ethyl methanoate | ethyl 乙醇 | methanoate 甲酸 | 甲酸乙酯 |
 | ethyl butanoate | ethyl 乙醇 | butanoate 丁酸 | 丁酸乙酯 |
@@ -248,7 +248,7 @@ The same logic runs solubility. Water accepts and donates hydrogen bonds, so any
 ### Table 3-1　The Nine Families｜九大官能团总表
 
 | Family｜家族 | General structure｜通式 | Suffix / prefix｜后缀/前缀 | H-bond donor?｜给氢键? | H-bond acceptor?｜受氢键? |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | halogenated｜卤代烃 | R–X | chloro- etc. (prefix) | no｜无 | no｜无 |
 | alcohol｜醇 | R–OH | -anol (suffix) | **yes｜有** | **yes｜有** |
 | ether｜醚 | R–O–R′ | alkoxy- (prefix) | no｜无 | **yes｜有** |
@@ -281,7 +281,7 @@ The same logic runs solubility. Water accepts and donates hydrogen bonds, so any
 ### Table 3-4　Boiling-Point Ladder (all C₂)｜沸点阶梯（全部 2 个碳）
 
 | Compound｜化合物 | Group｜官能团 | bp｜沸点 | Dominant IMF｜主导作用力 |
-|---|---|---|---|---|
+|---|---|---|---|
 | ethane 乙烷 | — | −89 °C | dispersion 色散力 |
 | methoxymethane 甲氧基甲烷 | ether 醚 | −25 °C | weak dipole 弱偶极 |
 | ethanal 乙醛 | aldehyde 醛 | 20 °C | strong dipole 强偶极 |
@@ -325,7 +325,7 @@ CH₃ — O — CH₂ — CH₃
 **中文**：为上面的结构命名。
 
 | Step｜步骤 | Work｜演算 |
-|---|---|---|
+|---|---|
 | 1. Identify the group｜认官能团 | O between two carbons → **ether**｜两碳之间夹 O → **醚** |
 | 2. Split the chains｜分两条链 | CH₃– (1 C) and –CH₂CH₃ (2 C)｜CH₃–（1 碳）与 –CH₂CH₃（2 碳） |
 | 3. Alkoxy prefix｜前缀 | shorter chain + O = **methoxy-**｜短链 + O = **methoxy-** |
@@ -342,7 +342,7 @@ CH₃ — O — CH₂ — CH₃
 **中文**：写出 **propyl ethanoate（乙酸丙酯）** 的凝聚结构式。
 
 | Step｜步骤 | Work｜演算 |
-|---|---|---|
+|---|---|
 | 1. Split the name｜拆名 | propyl (alcohol side) + ethanoate (acid side)｜propyl（醇侧）+ ethanoate（酸侧） |
 | 2. Acid part｜酸部分 | ethanoate = CH₃COO–｜ethanoate = CH₃COO– |
 | 3. Alcohol part｜醇部分 | propyl = –CH₂CH₂CH₃｜propyl = –CH₂CH₂CH₃ |
@@ -360,7 +360,7 @@ CH₃ — O — CH₂ — CH₃
 **中文**：把 propan-1-ol（1-丙醇）、propanal（丙醛）、propane（丙烷）按沸点从低到高排序，并逐步说理。
 
 | Rank｜排序 | Compound｜化合物 | Reason｜理由 |
-|---|---|---|---|---|
+|---|---|---|
 | 1 (lowest)｜最低 | propane | dispersion only｜只有色散力 |
 | 2 | propanal | strong C=O dipole｜强 C=O 偶极 |
 | 3 (highest)｜最高 | propan-1-ol | O–H hydrogen bonding｜O–H 氢键 |
@@ -618,7 +618,7 @@ CH₃ — O — CH₂ — CH₃
 ### Rubric｜评分量规
 
 | Dimension｜维度 | Excellent (A)｜优秀 | Proficient (B)｜达标 | Developing (C)｜待改进 |
-|---|---|---|---|---|
+|---|---|---|---|
 | Functional-group ID｜官能团识别 | Correct on all nine families, including carbonyl neighbours｜九族全对，能数羰基邻位 | Correct on common families｜常见族正确 | Confuses aldehyde/ketone or amide/amine｜醛酮或胺酰胺混淆 |
 | IUPAC assembly｜IUPAC 拼装 | Correct parent, numbering and locant placement｜主链、编号、位次写法全对 | Minor locant slips｜位次小错 | Parent misses the functional group｜主链漏掉官能团 |
 | Ester bilingual naming｜酯的双语命名 | Both languages correct with correct order｜两种语言语序都对 | One language correct｜一种语言正确 | Reverses the order in one or both｜一种或两种语序写反 |

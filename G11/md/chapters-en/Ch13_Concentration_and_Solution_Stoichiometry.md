@@ -7,7 +7,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Detail｜细节 |
-|---|---|---|
+|---|---|
 | Big Idea｜核心概念 | **B5**（溶液本性）→ 回并 **B3/B4**（溶液里的定量）｜solution nature → quantifying it |
 | Content C14｜内容标准 C14 | stoichiometric calculations in aqueous solutions｜水溶液中的化学计量计算 |
 | Curricular Competencies｜课程能力 | Planning and conducting（定量滴定、配液）· Processing and analyzing（数据表与偏差）· Evaluating（误差分级） |
@@ -124,7 +124,7 @@ V(base) × M(base) = 0.02500 L × 0.100 M = 0.002500 mol NaOH
 ### Table 13-2　Split or Not Split?｜拆与不拆
 
 | Species｜物种 | In net ionic equation｜在净式中 | Why｜原因 |
-|---|---|---|---|
+|---|---|---|
 | strong acid (HCl, HNO₃…) | split 拆 | fully ionized in water 水中完全电离 |
 | soluble salt (Na⁺, NO₃⁻…) | split 拆 | mobile ions 可动离子 |
 | solid precipitate (AgCl(s)) | intact 不拆 | not dissolved 未溶解 |
@@ -134,7 +134,7 @@ V(base) × M(base) = 0.02500 L × 0.100 M = 0.002500 mol NaOH
 ### Table 13-3　End Point vs Equivalence Point｜终点 vs 等当点
 
 | Feature｜特征 | Equivalence 等当点 | End point 终点 |
-|---|---|---|---|
+|---|---|---|
 | defined by｜由谁定义 | stoichiometry 计量学 | indicator chemistry 指示剂 |
 | when｜何时 | exact ratio reached 恰好达比 | colour switches 变色 |
 | ideal relation｜理想关系 | equal（indicator chosen well） | approximates it 逼近它 |
@@ -142,7 +142,7 @@ V(base) × M(base) = 0.02500 L × 0.100 M = 0.002500 mol NaOH
 ### Table 13-4　Titration Data Discipline｜滴定数据纪律
 
 | Item｜项 | Rule｜规则 |
-|---|---|---|
+|---|---|
 | burette reading 滴定管读数 | estimate between marks 估读一位 |
 | volume used 用量 | final − initial 终读减初读 |
 | trials 平行 | 2–3 consistent trials; average consistent ones｜做 2–3 次取一致的平均 |
@@ -260,7 +260,7 @@ charge: +2 + (−2) = 0 ✔
 ## 8. Common Misconceptions｜常见易错点
 
 | # | Misconception｜错误认识 | Correction｜正确理解 |
-|---|---|---|---|
+|---|---|---|
 | 1 | "C₁V₁ = C₂V₂ needs litres on both sides."｜两边必须用升。 | Units must **match**, not be litres — mL with mL works because the factor cancels.｜单位只需**一致**，不必是升——毫升对毫升照样成立。 |
 | 2 | "Split every formula into ions."｜所有化学式都拆成离子。 | Split only strong aqueous electrolytes; solids, gases, pure liquids and weak electrolytes stay intact.｜只拆强电解质水溶液；固、气、纯液、弱电解质不拆。 |
 | 3 | "The net equation needs no charge check."｜净式不用查电荷。 | Charge conservation is the fastest error detector: +1 + (−1) = 0 must match the solid's 0.｜电荷守恒是最快的查错器：左端 +1 + (−1) = 0 对上固体的 0。 |
@@ -421,7 +421,7 @@ charge: +2 + (−2) = 0 ✔
 ### Rubric｜评分量规
 
 | Band｜档 | Evidence required｜所需证据 |
-|---|---|---|
+|---|---|
 | Full marks 满分 | L conversion handled, ratio from balanced equation, outliers managed with reasons, charge checked on net equations｜升换算处理、比例来自配平、离群值有理由地处理、净式查电荷 |
 | Partial 部分分 | Correct path with mL/L slip or unexplained outlier kept｜路径对但毫升/升滑点，或离群值未说明却保留 |
 | Minimal 最低分 | Split solids into ions; charge not conserved; force-averaged outlier｜把固体拆成离子；电荷不守恒；硬凑平均 |

@@ -8,7 +8,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Content｜内容 |
-|---|---|---|
+|---|---|
 | Content served｜服务的 Content | **C6 applications of organic chemistry** — fuels, plastics, pharmaceuticals, food, personal care｜**C6 有机化学的应用**——燃料、塑料、制药、食品、个人护理 |
 | Also serves｜同时服务 | **C11 local and other chemical processes** (BC industries) · **C12 green chemistry**｜**C11 本地与其他化学过程**（BC 产业）· **C12 绿色化学** |
 | Competencies | [Evaluating] Weigh benefits against risks using evidence｜[Applying and innovating] Propose improvements using green chemistry｜[Communicating] Argue a position in three dimensions｜[评价] 用证据权衡收益与风险｜[应用与创新] 用绿色化学原则提出改进｜[交流] 从三个维度论证立场 |
@@ -117,7 +117,7 @@ The official Content C11 asks you to connect chemistry to **local** processes. B
 **中文**：官方 Content C11 要求你把化学与**本地**过程联系起来。BC 的经济由几个有机化学密集型产业支撑：
 
 | Industry｜产业 | Organic chemistry involved｜涉及的有机化学 | Typical tension｜典型矛盾 |
-|---|---|---|---|
+|---|---|---|
 | Pulp & paper｜制浆造纸 | cellulose 纤维素 (a natural polymer), lignin chemistry | employment 就业 vs effluent 废水 |
 | Forestry products｜林产品 | wood composites, bio-fuels | carbon storage 碳汇 vs harvest 采伐 |
 | Mining & smelting｜矿业冶炼 | organic flotation agents, tailings management | metals 金属 vs water risk 水风险 |
@@ -200,8 +200,8 @@ A claim like "plastics are bad for the environment" is **not** an evaluation —
 ### Table 4-2　Recycling Codes｜常见塑料回收标识
 
 | Code｜编号 | Polymer｜聚合物 | Monomer｜单体 | Typical use｜常见用途 |
-|---|---|---|---|---|
-| 1 PET | polyethene terephthalate｜PET | 饮料瓶、涤纶 |
+|---|---|---|---|
+| 1 PET | polyethene terephthalate｜PET | terephthalic acid + ethane-1,2-diol｜对苯二甲酸 + 乙二醇 | 饮料瓶、涤纶 |
 | 2 HDPE | high-density polyethene｜高密度聚乙烯 | ethene 乙烯 | 牛奶桶、洗涤剂瓶 |
 | 3 PVC | polyvinyl chloride｜聚氯乙烯 | chloroethene 氯乙烯 | 管道、电缆 |
 | 4 LDPE | low-density polyethene｜低密度聚乙烯 | ethene 乙烯 | 保鲜膜、塑料袋 |
@@ -211,7 +211,7 @@ A claim like "plastics are bad for the environment" is **not** an evaluation —
 ### Table 4-3　Three Dimensions of Evaluation｜评价的三个维度
 
 | Dimension｜维度 | What to look for｜看什么 | Example question｜示例问题 |
-|---|---|---|---|
+|---|---|---|
 | Health｜健康 | toxicity, exposure route, dose｜毒性、暴露途径、剂量 | Who breathes the CO, and how much?｜谁吸入了 CO、吸入多少？ |
 | Society｜社会 | jobs, cost, equity, dependence｜就业、成本、公平、依赖 | Who gains the jobs, who bears the risk?｜谁得到就业、谁承担风险？ |
 | Environment｜环境 | emissions, persistence, land use｜排放、持久性、土地利用 | Where does the plastic end up in 20 years?｜20 年后塑料在哪？ |
@@ -219,7 +219,7 @@ A claim like "plastics are bad for the environment" is **not** an evaluation —
 ### Table 4-4　Green Chemistry: Prevention First｜绿色化学：预防优先
 
 | Rank｜优先级 | Strategy｜策略 | Chemistry meaning｜化学含义 |
-|---|---|---|---|
+|---|---|---|
 | 1 | prevent 预防 | design out the waste｜从设计上消除废物 |
 | 2 | reuse / recycle 回用 | loop the material｜让材料回流 |
 | 3 | treat 处理 | neutralise before release｜排放前无害化 |
@@ -258,7 +258,7 @@ A claim like "plastics are bad for the environment" is **not** an evaluation —
 **中文**：写出丁烷（C₄H₁₀）的完全燃烧与不完全燃烧（生成 CO）方程式。
 
 | Step｜步骤 | Complete｜完全 | Incomplete｜不完全 |
-|---|---|---|---|
+|---|---|---|
 | 1. C balance｜配碳 | C₄H₁₀ + …O₂ → **4** CO₂ + … | C₄H₁₀ + …O₂ → **4** CO + … |
 | 2. H balance｜配氢 | 10 H → **5** H₂O | 10 H → **5** H₂O |
 | 3. O balance｜配氧 | 4×2 + 5 = 13 O → **6.5** O₂ | 4 + 5 = 9 O → **4.5** O₂ |
@@ -276,7 +276,7 @@ A claim like "plastics are bad for the environment" is **not** an evaluation —
 **中文**：从三个维度评价 BC 的 LNG（液化天然气，主要成分甲烷）出口产业，并给出结论。
 
 | Dimension｜维度 | Benefit｜收益 | Risk｜风险 |
-|---|---|---|---|
+|---|---|---|
 | Health｜健康 | cleaner burning than coal｜比煤清洁 | CO risk if vented；fracking water concerns｜泄漏有 CO 风险；压裂水问题 |
 | Society｜社会 | jobs, energy revenue｜就业与能源收入 | dependence on one sector；Indigenous land questions｜产业单一依赖；原住民土地议题 |
 | Environment｜环境 | less CO₂ per joule than coal｜每焦耳排碳低于煤 | methane leaks are a potent greenhouse risk｜甲烷泄漏是强温室风险 |
@@ -517,7 +517,7 @@ A claim like "plastics are bad for the environment" is **not** an evaluation —
 ### Rubric｜评分量规
 
 | Dimension｜维度 | Excellent (A)｜优秀 | Proficient (B)｜达标 | Developing (C)｜待改进 |
-|---|---|---|---|---|
+|---|---|---|---|
 | Combustion equations｜燃烧方程式 | Balanced, with correct products and clear fraction-clearing｜配平正确、产物正确、去半清晰 | Balanced with minor slips｜配平有小错 | Products wrong or unbalanced｜产物错或不配平 |
 | Mechanism explanation｜机制解释 | Names the specific chemistry (e.g. haemoglobin binding)｜点名具体化学（如血红蛋白结合） | Generic statement｜泛泛而谈 | No chemistry link｜与化学无关 |
 | Three-dimension coverage｜三维覆盖 | All three dimensions, each with a mechanism｜三维齐全且各有机制 | Two dimensions｜只有两维 | One dimension or none｜一维或没有 |

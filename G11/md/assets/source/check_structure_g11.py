@@ -143,6 +143,31 @@ def main():
                 if m and CJK.match(m.group(1)[0]):
                     problems.append(f"  [{fn}:{ln}] 提示块标签非英文在前：{m.group(1)[:30]}")
 
+    # 5.5 表格一致性：表头 / 分隔行 / 数据行 列数必须全等
+    #     （不一致时 GFM / python-markdown 会整表拒渲染，原样吐竖线文本）
+    DELIM = re.compile(r"^\|[\s:|-]+\|$")
+    for p in chapters + others:
+        fn = os.path.basename(p)
+        with io.open(p, encoding="utf-8") as fh:
+            lines = fh.read().split("\n")
+        i = 0
+        while i < len(lines):
+            s = lines[i].strip()
+            if s.startswith("|") and i + 1 < len(lines) and DELIM.match(lines[i + 1].strip()):
+                nh = len(s.strip("|").split("|"))
+                nd = len(lines[i + 1].strip().strip("|").split("|"))
+                if nh != nd:
+                    problems.append(f"  [{fn}:{i+1}] 分隔行 {nd} 列 ≠ 表头 {nh} 列")
+                j = i + 2
+                while j < len(lines) and lines[j].strip().startswith("|"):
+                    nr = len(lines[j].strip().strip("|").split("|"))
+                    if nr != nh:
+                        problems.append(f"  [{fn}:{j+1}] 数据行 {nr} 列 ≠ 表头 {nh} 列：{lines[j][:50]}")
+                    j += 1
+                i = j
+            else:
+                i += 1
+
     # 6. 图库未引用
     all_figs = {f for f in os.listdir(FIG) if f.endswith(".svg")}
     unused = sorted(all_figs - used_figs)

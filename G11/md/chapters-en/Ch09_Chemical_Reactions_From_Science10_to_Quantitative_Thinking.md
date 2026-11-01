@@ -7,7 +7,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Detail｜细节 |
-|---|---|---|
+|---|---|
 | Big Idea｜核心概念 | **B4** — *Matter and energy are conserved in chemical reactions.*（本章：物质侧面）｜（本章聚焦物质守恒） |
 | Content C9｜内容标准 C9 | types of chemical reactions; writing and balancing equations; predicting products｜反应类型；书写与配平方程式；预测产物 |
 | Curricular Competencies｜课程能力 | Planning and conducting（反应证据站）· Evaluating（能否反应的预测-验证）· Applying and innovating（CO 事故研讨） |
@@ -144,7 +144,7 @@ This one sentence is the seed of the whole of Ch.10. Balanced also means: every 
 ### Table 9-4　"Will it react?" Decision Card｜"能否反应"判定卡
 
 | Given｜组合 | Check｜检查 | Verdict｜判定 |
-|---|---|---|---|
+|---|---|---|
 | metal + acid | activity series vs H | above H → salt + H₂; below → no rxn |
 | metal + salt solution | order in series | above → displacement; below → no rxn |
 | two salt solutions | solubility of both new pairs | one insoluble → precipitate; both soluble → no rxn |
@@ -419,7 +419,7 @@ Check the incomplete one: C 6=6 ✔, H 16=16 ✔, O 14 = 6+8 ✔.
 ### Rubric｜评分量规
 
 | Band｜档 | Evidence required｜所需证据 |
-|---|---|---|
+|---|---|
 | Full marks 满分 | Decision justified by rule (series position / solubility), full state symbols, balanced with simplest ratio｜判断有规则背书（顺序位置/溶解性）、状态符号齐全、配平至最简比 |
 | Partial 部分分 | Correct products but missing state symbols or an unjustified "no reaction"｜产物对但缺状态符号，或"不反应"未说理 |
 | Minimal 最低分 | Equation written for a non-reaction, or coefficients not in simplest ratio｜给不发生的反应写方程式；系数未约最简 |

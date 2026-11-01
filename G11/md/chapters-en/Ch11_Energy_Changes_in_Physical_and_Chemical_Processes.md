@@ -7,7 +7,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Detail｜细节 |
-|---|---|---|
+|---|---|
 | Big Idea｜核心概念 | **B4** — *Matter and energy are conserved in chemical reactions.*（能量侧面）｜（能量守恒侧面） |
 | Content｜内容标准 | school Unit 4: "Describe energy changes that occur during a physical or chemical change"; C4 qualitative support｜学校 Unit 4：描述物理或化学变化中的能量变化；C4 定性支撑 |
 | Curricular Competencies｜课程能力 | Processing and analyzing（温度-时间数据）· Evaluating（数据缺陷识别）· Communicating（能量图绘制） |
@@ -98,7 +98,7 @@ A catalyst provides a lower-energy pathway: smaller activation energy, faster re
 ### Table 11-2　Physical vs Chemical Energy Changes｜物理 vs 化学能量变化
 
 | Change｜变化 | Example｜例 | Energy role｜能量角色 |
-|---|---|---|---|
+|---|---|---|
 | physical 物理 | melting ice 冰熔化 | particles separate; forces weaken｜粒子分离、作用减弱 |
 | physical 物理 | dissolving NaOH 氢氧化钠溶解 | hydration releases strongly｜水合强放热 |
 | chemical 化学 | combustion 燃烧 | new bonds much stronger｜新键强得多 |
@@ -191,7 +191,7 @@ A catalyst provides a lower-energy pathway: smaller activation energy, faster re
 ## 8. Common Misconceptions｜常见易错点
 
 | # | Misconception｜错误认识 | Correction｜正确理解 |
-|---|---|---|---|
+|---|---|---|
 | 1 | "If it needs a flame to start, it must be endothermic."｜要点燃就是吸热反应。 | Ignition supplies the **activation energy**; the reaction itself releases far more than it takes.｜点火提供的是**活化能**；反应本身净放热远大于吸。 |
 | 2 | "ΔH is negative, so energy disappeared — conservation broken?"｜ΔH 负能量就少了，不守恒？ | Negative means energy left for the **surroundings**; the universe's total is unchanged.｜负号表示能量交给了**环境**；总账不变。 |
 | 3 | "Physical changes have no energy change."｜物理变化没有能量变化。 | Melting, evaporating and dissolving all absorb or release heat — the thermometer proves it.｜熔化、蒸发、溶解都吸放热——温度计就是证据。 |
@@ -352,7 +352,7 @@ A catalyst provides a lower-energy pathway: smaller activation energy, faster re
 ### Rubric｜评分量规
 
 | Band｜档 | Evidence required｜所需证据 |
-|---|---|---|
+|---|---|
 | Full marks 满分 | Classification tied to instrument evidence; diagram labels self-consistent (plateaus, peak, ΔH); catalyst claims separated (E_a vs ΔH)｜判定绑定仪器证据；图标注自洽；催化剂两类效应分开说 |
 | Partial 部分分 | Correct class but evidence vague, or diagram right but sign missing｜类型对但证据含糊，或图对但缺符号 |
 | Minimal 最低分 | Classification by memory without evidence; diagram/sign contradiction｜凭记忆无证据分类；图与符号矛盾 |

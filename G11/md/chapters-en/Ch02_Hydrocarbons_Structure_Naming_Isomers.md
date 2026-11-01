@@ -78,7 +78,7 @@ Everything in this chapter is a hydrocarbon. There are three main families, dist
 **中文**：本章所有物质都是烃。三大族的主要区别在于碳碳键的类型（**图 2-2**）：
 
 | Family｜家族 | General formula｜通式 | Suffix｜后缀 | Bond type｜键型 | Saturation｜饱和性 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | **alkane｜烷烃** | CₙH₂ₙ₊₂ | **-ane** | all single bonds C–C｜全为单键 | **saturated 饱和** |
 | **alkene｜烯烃** | CₙH₂ₙ | **-ene** | contains C=C｜含一个 C=C | **unsaturated 不饱和** |
 | **alkyne｜炔烃** | CₙH₂ₙ₋₂ | **-yne** | contains C≡C｜含一个 C≡C | **unsaturated 不饱和** |
@@ -153,7 +153,7 @@ All the naming in this course — and in Chemistry 12 — runs on the same four 
 **中文**（**图 2-4**）：
 
 | Form｜形式 | Example (butane)｜例（丁烷） | Shows｜显示什么 | Hides｜隐藏什么 |
-|---|---|---|---|---|
+|---|---|---|---|
 | **molecular formula｜分子式** | C₄H₁₀ | atom counts only｜只给原子个数 | all structure｜全部结构信息 |
 | **condensed formula｜凝聚结构式** | CH₃CH₂CH₂CH₃ | connectivity order｜连接顺序 | three-dimensional shape｜立体形状 |
 | **skeletal formula｜骨架式** | zig-zag line, 4 vertices | carbon skeleton only｜只显示碳骨架 | all C–H bonds｜所有 C–H 键 |
@@ -201,7 +201,7 @@ Isomer counts grow fast with carbon number (**Fig. 2-5**):
 **中文**：异构体数目随碳数增长得很快（**图 2-5**）：
 
 | Formula｜分子式 | Isomers｜异构体数 | Names｜名称 |
-|---|---|---|---|
+|---|---|---|
 | CH₄ | 1 | methane｜甲烷 |
 | C₂H₆ | 1 | ethane｜乙烷 |
 | C₃H₈ | 1 | propane｜丙烷 |
@@ -258,7 +258,7 @@ This is the one place where organic naming **differs** from the inorganic rule y
 ### Table 2-2　Four Families, Four Formulas｜四种家族的"环外一分子"
 
 | Family｜家族 | Formula｜分子式 | Parent name｜母体名 | Substituent form｜取代基形式 |
-|---|---|---|---|---|
+|---|---|---|---|
 | straight-chain alkane｜直链烷烃 | CₙH₂ₙ₊₂ | ...ane | alkyl (–CH₃ methyl) |
 | cycloalkane｜环烷烃 | CₙH₂ₙ | cyclo...ane | alkyl |
 | alkene｜烯烃 | CₙH₂ₙ | ...ene | alkenyl |
@@ -270,7 +270,7 @@ This is the one place where organic naming **differs** from the inorganic rule y
 ### Table 2-3　Structure Notation Comparison｜结构表示法对照
 
 | Notation｜表示法 | Butane｜丁烷 | Information level｜信息量 | Use when｜何时用 |
-|---|---|---|---|---|
+|---|---|---|---|
 | molecular｜分子式 | C₄H₁₀ | lowest｜最低 | counting atoms, balancing｜数原子、配平 |
 | condensed｜凝聚结构式 | CH₃CH₂CH₂CH₃ | medium｜中等 | showing connectivity quickly｜快速表示连接 |
 | skeletal｜骨架式 | zig-zag, 4 vertices | highest (with implicit H)｜最高（隐含氢） | complex molecules, exam answers｜复杂分子、考试作答 |
@@ -358,7 +358,7 @@ CH₃ — CH — CH₂ — CH₃
 **中文**：C₅H₁₂ 有多少种结构异构体？全部画出来。
 
 | # | Structure｜结构 | Name｜名称 | bp｜沸点 |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 | CH₃CH₂CH₂CH₂CH₃ | pentane｜正戊烷 | 36 °C |
 | 2 | CH₃CH(CH₃)CH₂CH₃ | 2-methylbutane｜异戊烷 | 28 °C |
 | 3 | C(CH₃)₄ | 2,2-dimethylpropane｜新戊烷 | 10 °C |
@@ -622,7 +622,7 @@ CH₃ — CH — CH₂ — CH₃
 ### Rubric｜评分量规
 
 | Dimension｜维度 | Excellent (A)｜优秀 | Proficient (B)｜达标 | Developing (C)｜待改进 |
-|---|---|---|---|---|
+|---|---|---|---|
 | Parent chain selection｜主链选择 | Always the longest chain, even when drawn awkwardly; redraws first｜总能找出最长链，画法复杂时也会先重画 | Usually correct on simple structures｜简单结构基本正确 | Picks the most horizontal chain｜挑画得最平的那条 |
 | Numbering｜编号 | Lowest locant set every time, justified｜每次位次组合最小且能说明理由 | Correct on unbranched cases｜无支链时正确 | Numbers from left by habit｜习惯性从左编号 |
 | IUPAC assembly｜IUPAC 拼装 | Commas, hyphens and multipliers (di-/tri-) all correct｜逗号、连字符、倍数前缀全部正确 | Minor punctuation slips｜标点小错 | Substituent and parent order confused｜取代基与主链顺序混乱 |

@@ -72,7 +72,7 @@ See Fig. 8-1 and Fig. 13-1 in the chapters for the drawn maps.｜图见正文 Fi
 ## D-5　Concentration, Dilution, Titration Card｜浓度·稀释·滴定卡
 
 | Situation｜场景 | Formula｜公式 | Watch｜注意 |
-|---|---|---|---|
+|---|---|---|
 | molarity 摩尔浓度 | M = mol ÷ V(L) | V must be litres｜体积必须升 |
 | moles from solution 溶液取摩尔 | mol = M × V(L) | mL → ÷1000 first｜先换算 |
 | dilution 稀释 | C₁V₁ = C₂V₂ | units match, not necessarily L｜单位一致即可 |

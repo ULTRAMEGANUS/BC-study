@@ -8,7 +8,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Content｜内容 |
-|---|---|---|
+|---|---|
 | Content served｜服务的 Content | **C1 quantum mechanical model and electron configuration** — orbitals, filling rules, full and core configurations, orbital diagrams, periodic-table blocks｜**C1 量子力学模型与电子排布**——轨道、填充规则、完整排布与核心简写、轨道图、周期表分区 |
 | Interface｜接口 | Trends in Ch.6 and bonding in Ch.7 are all explained by **where the electrons are**｜Ch.6 的周期趋势与 Ch.7 的化学键，全都由「电子在哪里」解释 |
 | Competencies | [Questioning and predicting] Flame tests｜[Processing and analyzing] Build configurations｜[Communicating] Explain the shape of the table｜[提问与预测] 焰色试验｜[处理与分析] 书写排布｜[交流] 解释周期表为什么长这样 |
@@ -133,7 +133,7 @@ This also explains the period lengths: period 3 stops at 8 elements because only
 ### Table 5-1　Bohr model vs quantum mechanical model｜玻尔模型 vs 量子力学模型
 
 | Feature｜特征 | Bohr (1913)｜玻尔 | Quantum mechanical (1926)｜量子力学 |
-|---|---|---|---|
+|---|---|---|
 | Electron path｜电子路径 | Fixed circular orbits｜固定圆形轨道 | No fixed path — probability cloud｜无固定路线——概率云 |
 | "Orbit" meaning｜「轨道」含义 | A track an electron travels｜电子行驶的赛道 | A region of likely location｜大概率出现的区域 |
 | Energy levels｜能级 | Fixed shells｜固定的层 | Subshells made of orbitals｜由轨道组成的亚层 |
@@ -145,7 +145,7 @@ This also explains the period lengths: period 3 stops at 8 elements because only
 ### Table 5-2　Subshell capacities｜亚层容量
 
 | Subshell｜亚层 | Orbitals｜轨道数 | Max electrons｜最多电子 | Shape｜形状 |
-|---|---|---|---|---|
+|---|---|---|---|
 | s | 1 | 2 | sphere｜球形 |
 | p | 3 | 6 | dumbbell｜哑铃形 |
 | d | 5 | 10 | cloverleaf｜四叶形 |
@@ -156,7 +156,7 @@ This also explains the period lengths: period 3 stops at 8 elements because only
 ### Table 5-3　The four blocks｜四个分区
 
 | Block｜区 | Last electron enters｜最后电子填入 | Groups｜族 | Example｜例 |
-|---|---|---|---|---|
+|---|---|---|---|
 | s | ns¹⁻² | 1–2 (+He)｜第 1–2 族（含 He） | Na: [Ne]3s¹ |
 | p | ns²np¹⁻⁶ | 13–18｜第 13–18 族 | Cl: [Ne]3s²3p⁵ |
 | d | (n−1)d¹⁻¹⁰ns¹⁻² | 3–12 (transition metals)｜第 3–12 族（过渡金属） | Fe: [Ar]3d⁶4s² |
@@ -220,7 +220,7 @@ Forming cations, the outermost shell empties first: Fe²⁺ loses the two 4s ele
 ## 6. Key Vocabulary｜核心词汇
 
 | Term｜术语 | Meaning in one line｜一句话释义 |
-|---|---|---|
+|---|---|
 | quantum mechanical model｜量子力学模型 | Atomic model in which electron positions are probabilities｜电子位置以概率描述的原子模型 |
 | atomic orbital｜原子轨道 | Region where an electron is likely to be found｜电子大概率出现的区域 |
 | electron cloud｜电子云 | Picture of orbital probability density｜轨道概率密度的图像 |

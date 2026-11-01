@@ -7,7 +7,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Detail｜细节 |
-|---|---|---|
+|---|---|
 | Big Idea｜核心概念 | **B4** — *Matter and energy are conserved in chemical reactions.*（物质守恒的定量应用） |
 | Content C10｜内容标准 C10 | stoichiometric calculations using significant figures｜使用有效数字的化学计量计算 |
 | Curricular Competencies｜课程能力 | Planning and conducting（产率实验）· Processing and analyzing（限量试剂双配比）· Evaluating（误差与改进报告） |
@@ -96,7 +96,7 @@ For every quantitative problem in this course: ① balanced equation first; ② 
 ### Table 10-1　The Four-Step Road vs The Wrong Shortcut｜四步正路 vs 错误捷径
 
 | Step｜步骤 | Correct 正确 | Shortcut error 常见错误 |
-|---|---|---|---|
+|---|---|---|
 | 1 | balance equation 配平 | skip 配平就取系数 |
 | 2 | mass A → mol A | mass A → mass B directly 质量直接换质量 |
 | 3 | mol A → mol B (ratio) | use mass ratio 用质量比 |
@@ -104,7 +104,7 @@ For every quantitative problem in this course: ① balanced equation first; ② 
 
 ### Table 10-2　Limiting Reagent: Two Methods｜限量试剂两法对照
 
-| Method｜方法 | Procedure｜操作 | Best when｜适用 |
+| Method｜方法 | Procedure (EN)｜操作（英） | Procedure (CN)｜操作（中） | Best when｜适用 |
 |---|---|---|---|
 | Double assumption 双假设 | product from each reactant; smaller wins | 任一反应物算产物，取小 | product needed anyway 反正要求产率 |
 | Coefficient quotient 系数比法 | mol ÷ coefficient; smaller wins | 摩尔÷系数，取小 | quick yes/no 判断题 |
@@ -112,7 +112,7 @@ For every quantitative problem in this course: ① balanced equation first; ② 
 ### Table 10-3　The Yield Trio and Purity｜产量三兄弟与纯度
 
 | Quantity｜量 | Formula｜公式 | Data source｜数据来源 |
-|---|---|---|---|
+|---|---|---|
 | theoretical yield | from limiting reagent stoichiometry | balanced equation 配平方程式 |
 | actual yield | measured | lab balance 实验称量 |
 | percent yield | actual/theoretical × 100% | both of the above |
@@ -121,7 +121,7 @@ For every quantitative problem in this course: ① balanced equation first; ② 
 ### Table 10-4　Diagnostic Sheet for Bad Yields｜坏产率诊断表
 
 | Symptom｜症状 | Likely cause｜可能原因 |
-|---|---|---|
+|---|---|
 | yield > 100% | wet product / impurity / weighing error｜产品未干、混杂质、称量错 |
 | yield far below 50% | side reaction / transfer loss / incomplete reaction｜副反应、转移损失、反应不完全 |
 | yield varies widely between trials | inconsistent endpoint or timing｜终点或反应时间不一致 |
@@ -238,7 +238,7 @@ ratio 1:1 → mol H₂ = 0.0658 → theoretical = 0.0658 × 2.016 = 0.133 g
 ## 8. Common Misconceptions｜常见易错点
 
 | # | Misconception｜错误认识 | Correction｜正确理解 |
-|---|---|---|---|
+|---|---|---|
 | 1 | "Mass A over mass B works if I use the coefficients."｜系数当质量比搭桥。 | Coefficients are **mole** ratios; mass must enter and leave the bridge through molar masses.｜系数是摩尔比；质量必须经摩尔质量上桥下桥。 |
 | 2 | "I can skip balancing — the equation looks right."｜方程式看着对就行。 | Every ratio in the problem comes from the balanced equation; skip it and all downstream numbers are wrong.｜一切比都来自配平；不配平后面全错。 |
 | 3 | "The limiting reagent is the one with the smaller mass."｜质量小的就是限量。 | Compare in moles **per coefficient**, not grams — 4.0 g H₂ vs 32.0 g O₂: H₂ limits despite being lighter.｜比的是"摩尔÷系数"，不是克数——H₂ 更轻却是限量。 |
@@ -399,7 +399,7 @@ ratio 1:1 → mol H₂ = 0.0658 → theoretical = 0.0658 × 2.016 = 0.133 g
 ### Rubric｜评分量规
 
 | Band｜档 | Evidence required｜所需证据 |
-|---|---|---|
+|---|---|
 | Full marks 满分 | Balanced equation, mole path visible, limiting identified by rule, single rounding, units at every line｜配平、摩尔路径可见、限量判断有据、只舍一次、逐行带单位 |
 | Partial 部分分 | Right path with premature rounding or missing leftover step｜路径对但提前舍入或缺剩余量步骤 |
 | Minimal 最低分 | Mass-to-mass shortcut, or yield computed from excess reagent｜质量直接换质量；用过量试剂算产量 |

@@ -201,7 +201,7 @@ Main-group elements form ions with **predictable** charges, because charge is de
 **中文**：**无机**命名的中英语序**相反**——英文从金属读起，中文从非金属读起。但这条规则**不适用于有机命名**（Ch.2 起），有机命名中英语序基本对应。
 
 | Formula｜化学式 | English｜英文 | Chinese｜中文 | Common error｜常见错误 |
-|---|---|---|---|---|
+|---|---|---|---|
 | NaCl | sodium chloride | 氯化钠 | ✗ sodium monochloride / 钠化氯 |
 | Al₂S₃ | aluminium sulfide | 硫化铝 | ✗ aluminium trisulfide（离子化合物不用前缀） |
 | CuCl₂ | copper(II) chloride | 氯化铜 | ✗ copper chloride（多变价漏罗马数字） |
@@ -241,7 +241,7 @@ Main-group elements form ions with **predictable** charges, because charge is de
 ### Table 1-1　Ionic vs Covalent Compounds｜离子化合物与共价化合物
 
 | Item｜比较项 | Ionic compound｜离子化合物 | Covalent (molecular) compound｜共价（分子）化合物 |
-|---|---|---|---|
+|---|---|---|
 | Made of｜组成 | metal + non-metal (or polyatomic ion)｜金属 + 非金属（或多原子离子） | non-metal + non-metal｜非金属 + 非金属 |
 | Bonding｜结合方式 | electrostatic attraction between ions｜阴阳离子静电吸引 | shared electron pairs｜共用电子对 |
 | Naming tool｜命名工具 | metal name + non-metal-**ide**; Roman numerals｜金属名 + 非金属 **-ide**；罗马数字 | **Greek prefixes** + -ide｜**希腊前缀** + -ide |
@@ -252,7 +252,7 @@ Main-group elements form ions with **predictable** charges, because charge is de
 ### Table 1-2　Significant Figures: Multiplication vs Addition｜有效数字：乘除与加减
 
 | Operation｜运算 | Rule｜规则 | Example｜例子 | Answer｜结果 |
-|---|---|---|---|---|
+|---|---|---|---|
 | × or ÷｜乘除 | keep the **fewest s.f.**｜取有效位数最少者 | 2.5 × 3.42 = 8.55 | **8.6** (2 s.f.) |
 | + or −｜加减 | keep the **fewest decimal places**｜取小数位最少者 | 12.11 + 1.2 = 13.31 | **13.3** (1 d.p.) |
 | multi-step｜多步 | round **once, at the end**｜只在最后取整 | (2.5 × 3.42) ÷ 0.10 | **86** (2 s.f.) |
@@ -311,7 +311,7 @@ Main-group elements form ions with **predictable** charges, because charge is de
 **中文**：某金属块质量 15.62 g，尺寸 2.5 cm × 1.20 cm × 1.20 cm，求密度。
 
 | Step｜步骤 | Work｜演算 | s.f. control｜位数控制 |
-|---|---|---|---|
+|---|---|---|
 | 1. Volume｜体积 | 2.5 × 1.20 × 1.20 = 3.6 cm³ | 3.6 (limited by 2.5 → 2 s.f.)｜受 2.5 限制 |
 | 2. Density｜密度 | 15.62 ÷ 3.6 = 4.3388… g/cm³ | unrounded in working｜中途不取整 |
 | 3. Final answer｜最终答案 | **4.3 g/cm³** | limited by the 2 s.f. volume｜受体积 2 位限制 |

@@ -8,7 +8,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Content｜内容 |
-|---|---|---|
+|---|---|
 | Content served｜服务的 Content | **C1 interface** — electron arrangement organizes the table and drives every trend｜**C1 接口**——电子排布组织起周期表，并驱动所有趋势 |
 | Interface｜接口 | Electronegativity values from this chapter feed the ΔEN bond classification of Ch.7｜本章的电负性数值直接喂给 Ch.7 的 ΔEN 键型判断 |
 | Competencies | [Seek and analyze patterns] Trend puzzles｜[Questioning and predicting] Group reactivity demos｜[Applying and innovating] Data-Booklet EN predictions｜[寻找与分析规律] 趋势拼图｜[提问与预测] 族反应性演示｜[应用与创新] 用 Data Booklet 电负性做预测 |
@@ -106,7 +106,7 @@ IE rises across a period but not smoothly — two predictable dips appear in **e
 ### Table 6-1　The five trends｜五条趋势
 
 | Trend｜趋势 | Across (L→R)｜横向（左→右） | Down (T→B)｜纵向（上→下） | One-line reason｜一句话原因 |
-|---|---|---|---|---|
+|---|---|---|---|
 | Atomic radius｜原子半径 | Decreases｜减小 | Increases｜增大 | 横向电荷拉紧电子；纵向层数推远电子 |
 | First ionization energy｜第一电离能 | Increases｜增大 | Decreases｜减小 | 横向抓得紧；纵向抓得松 |
 | Electronegativity｜电负性 | Increases｜增大 | Decreases｜减小 | 与 IE 同源：Zeff 升则吸共用电子更狠 |
@@ -118,7 +118,7 @@ IE rises across a period but not smoothly — two predictable dips appear in **e
 ### Table 6-2　Group reactivity snapshots｜族反应性速览
 
 | Group｜族 | Trend direction｜趋势方向 | Example｜例 | Configuration reason｜排布原因 |
-|---|---|---|---|---|
+|---|---|---|---|
 | Alkali metals｜碱金属（1 族） | More reactive down｜向下更活泼 | K + water more violent than Na｜钾与水比钠剧烈 | ns¹ electron farther and better shielded｜ns¹ 电子更远、屏蔽更多 |
 | Halogens｜卤素（17 族） | Less reactive down｜向下更不活泼 | F₂ most reactive of all｜F₂ 最活泼 | Attracting an extra e⁻ weakens as shells grow｜层数增多，吸引外来电子变弱 |
 | Noble gases｜稀有气体（18 族） | Nearly inert｜几乎惰性 | Ar in light bulbs｜灯泡里的氩 | Full valence shell ns²np⁶｜价层已满 |
@@ -128,7 +128,7 @@ IE rises across a period but not smoothly — two predictable dips appear in **e
 ### Table 6-3　The two IE dips｜两处电离能回落
 
 | Dip｜回落 | Configuration change｜排布变化 | Why easier to remove｜为何更易失去 |
-|---|---|---|---|
+|---|---|---|
 | Be → B（Mg → Al） | ns² → ns²np¹（新开 p 亚层） | p sits higher in energy than s｜p 亚层能量比 s 略高 |
 | N → O（P → S） | p³ → p⁴（开始配对） | pairing repulsion in the same orbital｜同轨配对产生排斥 |
 
@@ -183,7 +183,7 @@ IE rises across a period but not smoothly — two predictable dips appear in **e
 ## 6. Key Vocabulary｜核心词汇
 
 | Term｜术语 | Meaning in one line｜一句话释义 |
-|---|---|---|
+|---|---|
 | periodic trend｜周期性趋势 | Property that changes predictably across/down the table｜沿表横向/纵向可预测变化的性质 |
 | atomic radius｜原子半径 | Size of the neutral atom｜中性原子的大小 |
 | ionic radius｜离子半径 | Size of the ion, compared with its parent atom｜离子的大小（与其母原子比） |
@@ -220,7 +220,7 @@ Use the electronegativity table on page 1 of the Data Booklet to predict the bon
 ## 8. Common Misconceptions｜常见易错点
 
 | # | Misconception｜误区 | Correction｜纠正 |
-|---|---|---|---|
+|---|---|---|
 | 1 | "Right is bigger"｜越往右越大 | Right is smaller: charge pulls the same shell tighter｜右边更小：电荷把同层拉得更紧 |
 | 2 | IE and EN are the same thing｜IE 和 EN 一回事 | IE removes own e⁻; EN attracts shared e⁻｜IE 失自己的电子；EN 吸共用电子 |
 | 3 | Noble gases have no IE｜稀有气体没有电离能 | They have the highest IE in each period｜它们有，而且是全周期最高 |

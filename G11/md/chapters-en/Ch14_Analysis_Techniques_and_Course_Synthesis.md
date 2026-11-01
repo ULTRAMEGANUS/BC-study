@@ -7,7 +7,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Detail｜细节 |
-|---|---|---|
+|---|---|
 | Big Ideas｜核心概念 | **B1–B5 all five converge** — this chapter is the course's convergence point｜五条合流——全课程收束点 |
 | Content C15｜内容标准 C15 | analysis techniques (qualitative and quantitative)｜分析技术（定性与定量） |
 | Curricular Competencies｜课程能力 | Planning and conducting（综合分析挑战）· Evaluating（技术匹配与理由）· Communicating（概念图与口头答辩） |
@@ -87,7 +87,7 @@ chemical technician 化学技师 · pharmacist 药剂师 · environmental analys
 ### Table 14-1　Qualitative vs Quantitative｜定性 vs 定量
 
 | Aspect｜方面 | Qualitative 定性 | Quantitative 定量 |
-|---|---|---|---|
+|---|---|---|
 | question 问题 | what is present? 有什么 | how much? 有多少 |
 | techniques 技术 | flame test, ppt tests, indicators | titration, gravimetry, instrumental |
 | output 输出 | identity 鉴定 | number + unit + uncertainty 数值+单位+不确定度 |
@@ -96,7 +96,7 @@ chemical technician 化学技师 · pharmacist 药剂师 · environmental analys
 ### Table 14-2　Technique Toolbox｜技术工具箱
 
 | Technique｜技术 | Answers｜回答 | Chapter origin｜出处 | Watch-out｜注意 |
-|---|---|---|---|---|
+|---|---|---|---|
 | flame test 焰色 | metal ion identity 金属离子 | Ch.5/Ch.14 | clean loop; cobalt glass for K⁺｜洗铂丝；钾隔钴玻璃 |
 | precipitation test 沉淀检验 | anion/cation presence 离子有无 | Ch.12 | run both directions｜双向验证 |
 | titration 滴定 | concentration 浓度 | Ch.13 | end vs equivalence point｜终点≠等当点 |
@@ -107,7 +107,7 @@ chemical technician 化学技师 · pharmacist 药剂师 · environmental analys
 ### Table 14-3　High-Frequency Exam Items｜高频题型清单（对齐学校 quiz/test）
 
 | Item｜题型 | Core skill｜核心技能 |
-|---|---|---|
+|---|---|
 | naming both directions 命名互译 | Ch.2–3, Appendix C |
 | balancing (incl. combustion) 配平 | Ch.9 |
 | mole three-bridges 摩尔三桥 | Ch.8 |
@@ -122,7 +122,7 @@ chemical technician 化学技师 · pharmacist 药剂师 · environmental analys
 ### Table 14-4　Error Source Ranking｜误差来源分级
 
 | Rank｜级 | Error｜误差 | Effect｜影响 |
-|---|---|---|---|
+|---|---|---|
 | 1 | not drying to constant mass 未恒重 | gravimetry biased high 偏高 |
 | 2 | overshooting the titration end point 滴过终点 | concentration biased low 偏低 |
 | 3 | dirty flame-test wire 铂丝不净 | false positives 假阳性 |
@@ -219,7 +219,7 @@ mass BaCl₂ = 7.63×10⁻³ × 208.2 = 1.59 g
 ## 8. Common Misconceptions｜常见易错点
 
 | # | Misconception｜错误认识 | Correction｜正确理解 |
-|---|---|---|---|
+|---|---|---|
 | 1 | "Titration only measures acids and bases."｜滴定只能测酸碱。 | Precipitation titrations (Ag⁺ vs Cl⁻) and redox titrations exist — the tool is general.｜沉淀滴定（Ag⁺ vs Cl⁻）、氧化还原滴定都存在——工具是通用的。 |
 | 2 | "Qualitative and quantitative are just two words for the same lab work."｜定性与定量是一回事。 | One asks identity, the other amount; a full analysis usually needs both in order.｜一个问"是什么"，一个问"有多少"；完整分析通常按序两者都要。 |
 | 3 | "A flame test colour proves the ion alone."｜焰色一测就定论。 | Mixtures interfere (Na's yellow drowns others); cobalt glass and clean wires exist for this reason.｜混合物互相干扰（钠黄盖一切）；钴玻璃与净铂丝因此而生。 |
@@ -380,7 +380,7 @@ mass BaCl₂ = 7.63×10⁻³ × 208.2 = 1.59 g
 ### Rubric｜评分量规
 
 | Band｜档 | Evidence required｜所需证据 |
-|---|---|---|
+|---|---|
 | Full marks 满分 | Technique justified by property + evidence; numbers with units and uncertainty; Big Ideas cited with chapter references｜技术按"性质+证据"说理；数字带单位与不确定度；Big Idea 引用章节 |
 | Partial 部分分 | Correct technique, thin justification; computation clean but uncertainty absent｜技术对但说理薄；计算对但缺不确定度 |
 | Minimal 最低分 | Technique mismatched to question; report without units｜技术与问题错配；报告无单位 |

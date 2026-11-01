@@ -7,7 +7,7 @@
 ## 1. Content Alignment｜大纲对应
 
 | Item｜项目 | Detail｜细节 |
-|---|---|---|
+|---|---|
 | Big Idea｜核心概念 | **B3** — *The mole is a quantity used to make atoms and molecules measurable.*｜摩尔是使原子与分子可被量度的量。 |
 | Content C7｜内容标准 C7 | the mole — definition, conversions, percent composition, empirical formula｜摩尔的定义、换算、百分组成、实验式 |
 | Content C8｜内容标准 C8 | dimensional analysis applied to all quantitative work｜量纲分析贯穿全部定量运算 |
@@ -421,7 +421,7 @@ Fe: 3.50 / 55.85 = 0.0627 mol        O: 1.50 / 16.00 = 0.0938 mol
 ### Rubric｜评分量规
 
 | Band｜档 | Evidence required｜所需证据 |
-|---|---|---|
+|---|---|
 | Full marks 满分 | Balanced method, units at every line, single final rounding, self-check (percent sum / constant mass) stated｜方法完整、逐行带单位、只在最后舍入、写出自检（百分和/恒重） |
 | Partial 部分分 | Correct path with one slip (e.g. premature rounding) — deduct 1, not restart｜路径对但有一次失误（如提前舍入）扣 1 分，不推倒重来 |
 | Minimal 最低分 | Numbers with no units or units that never cancel｜裸数字或单位从不约掉 |
