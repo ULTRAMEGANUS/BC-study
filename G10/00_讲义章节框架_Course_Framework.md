@@ -122,16 +122,16 @@ G10/                                  根目录
 **正文统一采用 10 节结构**（体例硬约束，与 G9 保持一致）：
 
 ```
-1 大纲对应｜Content Alignment        （表格：官方条目原文 + 是否超纲）
-2 学习目标｜Learning Objectives      （EN 5 条 + 中 5 条）
-3 概念解析｜Concept Explanations     （3.x 分节：双语定义 → 要点 → 例子）
-4 表格比对｜Comparison Tables        （≥3 张，中英双语表头）
-5 图例说明｜Diagrams & Worked Examples（≥3 个 SVG 图 + 逐步解析例题）
-6 核心词汇｜Key Vocabulary           （表格：English / 中文 / 备注）
-7 实验与活动｜Lab / Activity         （含 Curricular Competency 标注 + 安全）
-8 常见易错点｜Common Misconceptions  （≥8 条：错误认识 / 正确理解）
-9 答题评估｜Assessment               （A 基础 10×2 + B 应用 4×5 + C 挑战 2×10 + 完整答案 + 评分量规）
-10 回扣核心概念｜Connection to the Big Idea
+1 Content Alignment｜大纲对应        （表格：官方条目原文 + 是否超纲）
+2 Learning Objectives｜学习目标      （EN 5 条 + 中 5 条）
+3 Concept Explanations｜概念解析     （3.x 分节：英文定义 → 要点 → 例子；中文只点难点）
+4 Comparison Tables｜表格比对        （≥3 张，中英双语表头）
+5 Diagrams & Worked Examples｜图例说明（≥3 个 SVG 图 + 逐步解析例题）
+6 Key Vocabulary｜核心词汇           （表格：English / 中文 / 备注）
+7 Lab / Activity｜实验与活动         （含 Curricular Competency 标注 + 安全）
+8 Common Misconceptions｜常见易错点  （≥8 条：错误认识 / 正确理解）
+9 Assessment｜答题评估               （A 基础 10×2 + B 应用 4×5 + C 挑战 2×10 + 完整答案 + 评分量规）
+10 Connection to the Big Idea｜回扣核心概念
 ```
 
 ---
@@ -664,7 +664,7 @@ nuclear reaction 核反应 · radiation 辐射 · alpha particle α 粒子 · be
 
 ## 4. 编写体例约定｜Writing Conventions
 
-1. **双语顺序**：标题与术语一律 `English（中文）`；正文以中文讲解为主、英文术语与英文命名并列，化学式与英文命名必须用英文书写。
+1. **双语顺序（2026-11-03 统一到 G11 口径）**：标题与术语一律 `English（中文）`；**正文以英文为主**——叙述、专有名词、推导用英文完整书写；**关键部分中英对照**（定义、核心概念/规则/公式首述、结论句、易错判据）；**解释性内容可用中文**（难点、类比、口诀、坑、技巧），1–3 行。不再逐段翻译全文。例外：第 9 节 Assessment 题干与答案保留逐题对照。**化学式与英文命名必须用英文书写**。
 2. **术语一致性**：同一概念全册只用一个中文译名（见附录 A）。BC 官方用 semi-metal、教材常用 metalloid，统一译"类金属"。
 3. **Big Idea 回扣**：每章结尾固定 `## 10. 回扣核心概念｜Connection to the Big Idea`，回扣 B1（Ch.10 并行回扣 B2）。
 4. **能力标注**：每个实验/活动后标注所训练的 Curricular Competency，如 `[Planning and conducting]`。
@@ -694,8 +694,9 @@ nuclear reaction 核反应 · radiation 辐射 · alpha particle α 粒子 · be
 > ⚠️ 原卷答案里有**手写笔误**（如把 `Ag₂C₂O₄` 写成 "silver dichromate"、`AlPO₄` 系数写错）。
 > 附录 E 的"全解"以**正确化学**为准，并单列"原卷易错点对照"，不照抄原答案。
 
-### 5.3 第二版（英文在前）
-`MD/chapters-en/` 为**英文在前版**（标题 `English｜中文`，正文"英文段 + `**中文**：` 段"），体例规范见该目录 `_STYLE.md`。
+### 5.3 英文版（现行口径）
+`MD/chapters-en/` 为英文版正文目录，体例见该目录 `_STYLE.md`（2026-11-03 新建，与 G11 同一套：英文为主 + 关键处中英对照 + 解释可中文）。
+> 📌 **现状**：`chapters-en/` 目前为空，已有 Ch.1–Ch.2 在 `chapters-cn/`（中文在前版）。英文版自 2026-11-03 起按新口径新写，中文版不回溯改造。
 > ⛔ 英文版 md 与中文版**同名**，导出 PDF 必须分目录（`pdf/EN/` vs `pdf/CN/`），否则互相覆盖。
 
 ---
