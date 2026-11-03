@@ -122,7 +122,7 @@ G11/                                  根目录
 ```
 1 大纲对应｜Content Alignment        （表格：官方条目原文 + 是否超纲）
 2 学习目标｜Learning Objectives      （EN 5 条 + 中 5 条）
-3 概念解析｜Concept Explanations     （3.x 分节：双语定义 → 要点 → 例子）
+3 概念解析｜Concept Explanations     （3.x 分节：英文定义 → 要点 → 例子；中文只点难点）
 4 表格比对｜Comparison Tables        （≥3 张，中英双语表头）
 5 图例说明｜Diagrams & Worked Examples（≥3 个 SVG 图 + 逐步解析例题）
 6 核心词汇｜Key Vocabulary           （表格：English / 中文 / 备注）
@@ -800,13 +800,13 @@ qualitative analysis 定性分析 · quantitative analysis 定量分析 · flame
 > ① `LAB SAFTY 1–3 + LAB SAFTY` 安全讲义精读题单；
 > ② `LAB1 MAKE OBSERVATION` 全解（对照已产出的中英对照版）；
 > ③ Data Booklet p1 电负性周期表读表练习 + p2 内容（OCR 核对后）专项练习。
-> 学校原件只读不改动；全解以正确化学为准，单列"原件易错点对照"。
+> 学校原件已于 2026-11-01 移除（存 git 历史）；全解以正确化学为准，单列"原件易错点对照"。
 
 ---
 
 ## 4. 编写体例约定｜Writing Conventions
 
-1. **双语顺序**：标题与术语一律 `English（中文）`；正文以中文讲解为主、英文术语与英文命名并列；**化学式与 IUPAC 命名必须用英文书写**。
+1. **双语顺序（2026-11-03 更新）**：标题与术语一律 `English（中文）`；**正文以英文为主**——叙述、专有名词、推导用英文完整书写；**关键部分中英对照**（定义、核心概念/规则/公式首述、结论句、易错判据）；**解释性内容可用中文**（难点拆解、类比、口诀、坑、技巧），1–3 行。不再逐段翻译全文。例外：第 9 节 Assessment 的题干与答案保留英中对照。**化学式与 IUPAC 命名必须用英文书写**。<br>适用范围：**G11 新写/大改章节**；已完成 14 章保持原样。
 2. **术语一致性**：同一概念全册只用一个中文译名（见附录 A）。沿用项目既定译法：semi-metal/metalloid → "类金属"。
 3. **Big Idea 回扣**：每章结尾固定 `## 10. 回扣核心概念｜Connection to the Big Idea`，**标明本章回扣 B1–B5 中哪一条**（B2/B5 分别由 Part I / Part V 全程回扣）。
 4. **能力标注**：每个实验/活动后标注所训练的 Curricular Competency，如 `[Planning and conducting]`。
@@ -826,7 +826,7 @@ qualitative analysis 定性分析 · quantitative analysis 定量分析 · flame
 - BC 省 Chemistry 12 课程页（用于确定**超纲红线**）。
 - 官方配套教材参照：*BC Science Chemistry 11*（McGraw-Hill Ryerson，章节顺序与本框架不必一致，以本框架为准）。
 
-### 5.2 学校素材（只读）
+### 5.2 学校素材（内容已消化进正文；源文件于 2026-11-01 从工作区移除，原件存 git 历史）
 | 文件 | 内容 | 对应章节 |
 |---|---|---|
 | `Tsou - Chemistry 11 Outline 2026-2027.pdf` | 5 单元结构（有机第一）· 评估权重 30/70 + Final 15% · pre-lab 与实验室规矩 · 补做实验制度 | 全册结构 · Ch.1 · 各章 Assessment 权重 |
@@ -837,9 +837,10 @@ qualitative analysis 定性分析 · quantitative analysis 定量分析 · flame
 > ⚠️ 学校大纲把 **Organic Chemistry 放第一单元**，与"传统顺序"（先原子理论）不同——讲义章节顺序已照学校排。
 > ⚠️ Data Booklet p2 为扫描件：用 `pdf2txt.py --ocr on` 提取核对后，再决定收录哪些公式表进附录 B。
 
-### 5.3 英文在前版（后续）
-`md/chapters-en/` 为**英文在前版**规划位（标题 `English｜中文`），体例规范届时按 G9/G10 的 `_STYLE.md` 模式建立。
-> ⛔ 英文版 md 与中文版**同名**，导出 PDF 必须分目录（`pdf/EN/` vs `pdf/CN/`），否则互相覆盖。
+### 5.3 英文在前版（现状）
+`md/chapters-en/` 已建成为**唯一的正文版本**：14 章 + 附录 A–E 全部落在此处，体例见 `chapters-en/_STYLE.md`。
+> ✅ **2026-11-03 语言政策**：英文承载正文（含定义、专有名词），中文只作难点/易错/技巧的点睛解释。中文在前版（`chapters-cn/`）暂不做。
+> ⛔ 若将来出中文版：md 与英文版**同名**，导出 PDF 必须分目录（`pdf/EN/` vs `pdf/CN/`），否则互相覆盖。
 
 ---
 
