@@ -34,7 +34,7 @@ G9/
 │  ├─ chapters-en/                     ← 11 章正文·英文在前 + _STYLE.md 体例规范
 │  ├─ appendices-cn/                   ← 附录 A–E（时间戳 20260918_124038）
 │  └─ assets/
-│     ├─ figures/                      ← SVG 矢量图（86 张）+ index.html 图库索引
+│     ├─ figures/                      ← SVG 矢量图（73 张）
 │     ├─ printables/pdf/               ← A4 空白练习单 10 份（共 27 页）
 │     ├─ cards/                        ← Anki 导入包（待做）
 │     └─ source/                       ← 生成脚本与数据（改完重跑即同步）
@@ -46,7 +46,7 @@ G9/
 ## 图库｜Figures
 
 `MD/assets/figures/` 下为独立 SVG 矢量图，白底、A4 友好，可直接打印或嵌入网页。
-打开 `MD/assets/figures/index.html` 可一次预览全部。
+图由 `MD/assets/source/` 下的脚本生成，改脚本重跑即可同步，详见该目录 `README.md`。
 
 ## PDF 成品｜Built PDFs
 
@@ -57,24 +57,10 @@ G9/
 | `pdf/EN/G9-combo-en.pdf` | 英文在前版全册合订本（335 页 / 书签 423 条） |
 
 各章单篇 PDF 与合订本同源，位于 `pdf/CN/`、`pdf/EN/` 下，文件名与对应 md 一致。
+注意：两份章节合订本（`G9-combo.pdf`、`G9-combo-en.pdf`）构建于 Ch01 末次重建**之前**，
+合订本内的 Ch01 为旧版——以单章 PDF 为准，或重跑 `build_combo_pdf.py` 刷新。
 
-| 文件 | 内容 |
-|---|---|
-| `periodic-table-1-20-bilingual.svg` | 前 20 号元素中英双语周期表（金属/类金属/非金属/稀有气体四色分区） |
-| `periodic-table-blank.svg` | 空白周期表，默测用（只留原子序数） |
-| `bohr-diagrams-1-20.svg` | 前 20 号元素玻尔模型图总表（含质子数、中子数、电子排布、价电子） |
-| `bohr-diagram-template.svg` | 玻尔图练习模板（空白同心圆 + 填表横线 + Na 范例） |
-| `lewis-dot-elements.svg` | 主族元素路易斯点式总表 + 常见离子点式 |
-| `ion-formation-Na-Cl.svg` | 电子转移三步图：Na + Cl → Na⁺/Cl⁻ → NaCl（含英中命名顺序警示） |
-| `naming-decision-tree.svg` | 命名决策树：离子 vs 分子，含三条前缀规则与俗名 |
-| `criss-cross-method.svg` | 交叉法五步：含约简反例与多原子离子括号规则 |
-| `greek-prefixes-chart.svg` | 希腊数字前缀 1–10 全表 + 元音省略提醒 |
-| `main-thread-flowchart.svg` | 全册主线：电子排布 → 周期表 → 价电子 → 电荷 → 化学式 → 命名 → 性质 |
-| `scientific-method-cycle.svg` | 科学方法流程 + 变量三栏 + Curricular Competency 对应 |
-| `whmis-symbols.svg` | WHMIS 安全标识（1988 圆形 + 2015 菱形，中英双语） |
-| `conductivity-circuit.svg` | 导电性检测电路四联图（固体/水溶液/熔融/分子化合物） |
-
-> 图内配色与分类术语与正文、附录完全一致；元素数据由 `MD/assets/source/build_figures.py`
+> 图内配色与分类术语与正文、附录完全一致；所有图由 `MD/assets/source/build_figure_svg*.py`
 > 生成，改脚本重跑即可全局同步，不会与附录 D 漂移。
 
 ## 生成脚本｜MD/assets/source

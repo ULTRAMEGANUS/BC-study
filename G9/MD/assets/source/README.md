@@ -12,19 +12,16 @@
 | 文件 | 作用 | 输出 |
 |---|---|---|
 | `build_glossary.py` | 从 11 章正文第 6 节「核心词汇」抽取、去重、字母序汇总 | `MD/appendices-cn/AppendixA_*.md` + `glossary.csv` |
-| `build_figures.py` | 用内置元素数据生成周期表、玻尔图、路易斯点式、玻尔模板 | `figures/*.svg` × 5 + `elements_1_20.csv` |
+| `build_figures.py` | ⚠️ **已停用**（2026-11-15）：其 5 张产物图属无引用的一代旧图，已清理；勿再运行 | — |
 | `build_figure_svg.py` | **讲义配图底座**：调色板、`head/box/txt/path/dot` 等绘图原语、箭头 marker | 被 svg2/3/4 复用，自身也出图 |
 | `build_figure_svg2.py` | Ch02–Ch04 配图（周期表、同位素、族位置、反应性、双原子分子…） | `figures/ch02-*.svg` `ch03-*.svg` `ch04-*.svg`（12 张） |
 | `build_figure_svg3.py` | Ch05–Ch06 配图。含两个参数化函数的**老巢**：`bohr_panel()` 画玻尔图、`lewis()` 画路易斯点式 | `figures/ch05-*.svg` `ch06-*.svg`（19 张） |
 | `build_figure_svg4.py` | Ch07–Ch11 配图（交叉法、共价键、WHMIS、探究循环、总决策树…） | `figures/ch07-*.svg` … `ch11-*.svg`（30 张） |
 | `build_figure_svg5.py` | 附录配图：C-1 决策树、C-7 中英顺序、C 速查卡；E 的变量/分类树/电路/玻尔参考答案 | `figures/appc-*.svg` `appe-*.svg`（9 张） |
 | `beautify_md.py` | **给 md 做排版美化**（md 浏览器友好）：补图题、去冗余分隔线、提示块加 emoji、行内【】加 emoji。**幂等**，可重复跑 | 就地改写 `MD/chapters-cn/*.md` + `MD/appendices-cn/*.md` |
-| `scan_md_figures.py` | 扫出 md 里残留的 ASCII 字符画（换图前**必跑**，块序号会漂移） | 控制台报告 |
-| `swap_ascii_blocks.py` | 按「第 N 个代码块」把正文 md 的 ASCII 图换成图片引用（**带 expect 校验**） | 就地改写 `MD/chapters-cn/Ch*.md` |
-| `swap_appendix_blocks.py` | 同上，针对附录 md | 就地改写 `MD/appendices-cn/*.md` |
 | `check_svg_bounds.py` | **越界自检**：扫所有 SVG，报出被画布裁掉的图元（见"已知坑"） | 控制台报告 |
 | `check_figures.py` | 校验 SVG：XML 合法性、禁用标签、文字是否越出 viewBox | 控制台报告 |
-| `build_figure_index.py` | 扫章节 md 的 `![]()` 引用，重建 `figures/index.html` 图库页 | `figures/index.html` |
+| `build_figure_index.py` | 扫章节 md 的 `![]()` 引用，重建 `figures/index.html` 图库页（index.html 已随 2026-11-15 清理移除；需要时再跑） | `figures/index.html` |
 | `build_chapter_pdf.py` | md → HTML → Chrome headless A4 PDF；SVG **内联**（不用 `<img>`）以保住中文文本层。默认 `--src chapters-cn` → `G9/pdf/CN/`；`--src chapters-en` → `G9/pdf/EN/` | `G9/pdf/CN/Ch*_*.pdf`、`G9/pdf/EN/Ch*_*.pdf` |
 | `build_combo_pdf.py` | 合订本：合并多篇 PDF 并从 md 标题重建三级书签（Chrome 不打书签）；页标签按篇重置以对齐页脚。`--src appendices-cn --pattern 'Appendix*.pdf'` 出附录册 | `G9/pdf/CN/G9-combo.pdf`、`G9/pdf/CN/appendix-combo-cn.pdf`、`G9/pdf/EN/G9-combo-en.pdf` |
 | `check_chapter_pdf.py` | 校验章节 PDF：页数、中文字数、溢出、页码、SVG 是否真渲染进文本层 | 控制台报告 |
@@ -33,8 +30,15 @@
 | `glossary.csv` | 234 条术语（English / 中文 / 说明 / 出现章节），Anki·Quizlet 导入源 | — |
 | `elements_1_20.csv` | 前 20 号元素（序数/符号/中英/拼音/周期/族/类别/电子排布/价电子/质量数/中子数） | — |
 
-`figures/` 现有 **86 张 SVG，全部由脚本生成**（`build_figures.py` 5 张 + `build_figure_svg*.py` 81 张），
+`figures/` 现有 **73 张 SVG，全部由脚本生成**（`build_figure_svg*.py`），
 不再有任何手写 SVG——要改图就改脚本再重跑，别直接编辑 `figures/*.svg`（下次重跑会被覆盖）。
+> 2026-11-15 清理：删除 13 张无引用的一代旧图（`periodic-table-1-20-bilingual`、`periodic-table-blank`、
+> `bohr-diagrams-1-20`、`bohr-diagram-template`、`lewis-dot-elements`、`ion-formation-Na-Cl`、
+> `naming-decision-tree`、`criss-cross-method`、`greek-prefixes-chart`、`main-thread-flowchart`、
+> `scientific-method-cycle`、`whmis-symbols`、`conductivity-circuit`）与 `index.html` 图库页；
+> 其产出者 `build_figures.py` 保留作历史参考，但重跑会复活这 13 张图，勿再运行。
+> 一次性文本工具 `scan_md_figures.py`、`swap_ascii_blocks.py`、`swap_appendix_blocks.py`、
+> `normalize_encn.py` 已随清理移除（git 历史可恢复）。
 
 ## md 的两种消费方式，以及为什么要跑 beautify_md.py
 
@@ -78,7 +82,7 @@ PY="C:/Users/outma/.workbuddy/binaries/python/versions/3.13.12/python.exe"
 
 # ⚠️ Git Bash 下必须 unset 这两个变量，否则绝对路径会被拼成 C:\c\Users\...
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_glossary.py
-env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_figures.py ../figures
+# build_figures.py 已停用（其 5 张产物图 2026-11-15 清理移除，见上方说明）
 
 # 讲义配图（改图后跑这三步）
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_figure_svg.py
@@ -87,10 +91,8 @@ env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_figure_svg3.py
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_figure_svg4.py
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_figure_svg5.py
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" check_svg_bounds.py   # 越界自检，必须为 0
-env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_figure_index.py # 重建图库页
 
 # md 排版美化（md 浏览器友好；附录 A 要在 build_glossary.py 之后跑）
-env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" scan_md_figures.py    # 换图前先看块清单
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" beautify_md.py
 
 # 章节 PDF
@@ -104,8 +106,7 @@ env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_chapter_pdf.py --src 
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_combo_pdf.py
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_combo_pdf.py --src appendices-cn --pattern 'Appendix*.pdf'
 
-# 英文在前版：G9/MD/chapters-en/ → pdf/EN/ → pdf/EN/G9-combo-en.pdf
-env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" normalize_encn.py   # 统一编号前缀与标题语序（幂等）
+env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY"
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_chapter_pdf.py --src chapters-en
 env -u MSYS_NO_PATHCONV -u MSYS2_ARG_CONV_EXCL "$PY" build_combo_pdf.py --src chapters-en
 
