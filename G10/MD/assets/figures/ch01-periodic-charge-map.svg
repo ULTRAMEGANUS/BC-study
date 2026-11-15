@@ -1,63 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 314" width="900"
      height="314" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
-  <title>图 1-1　周期表电荷图｜Periodic Table Charge Map</title>
+  <title>Fig. 1-1　Periodic Table Charge Map｜周期表电荷图</title>
   <rect width="900" height="314" fill="#FFFFFF"/>
-  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 1-1　周期表电荷图｜Periodic Table Charge Map</text>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 1-1　Periodic Table Charge Map｜周期表电荷图</text>
   <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
-        text-anchor="end">BC Science 10 · 主族看族号定电荷，过渡金属多变价</text>
+        text-anchor="end">main groups: charge from group no.｜主族看族号定电荷</text>
   <rect x="18" y="62" width="101" height="110" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="68.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 1</text>
   <text x="68.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Na</text>
   <text x="68.5" y="130" font-size="18" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">+1</text>
-  <text x="68.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">碱金属</text>
-  <text x="68.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Alkali</text>
+  <text x="68.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Alkali 碱金属</text>
   <rect x="127" y="62" width="101" height="110" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="177.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 2</text>
   <text x="177.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mg</text>
   <text x="177.5" y="130" font-size="18" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">+2</text>
-  <text x="177.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">碱土金属</text>
-  <text x="177.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Alkaline earth</text>
+  <text x="177.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Alkaline earth 碱土金属</text>
   <rect x="236" y="62" width="101" height="110" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="286.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 13</text>
   <text x="286.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Al</text>
   <text x="286.5" y="130" font-size="18" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">+3</text>
-  <text x="286.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">硼族</text>
-  <text x="286.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Boron</text>
+  <text x="286.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Boron 硼族</text>
   <rect x="345" y="62" width="101" height="110" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.1"/>
   <text x="395.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 14</text>
   <text x="395.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">C</text>
   <text x="395.5" y="130" font-size="18" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">±4</text>
-  <text x="395.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">碳族</text>
-  <text x="395.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Carbon</text>
+  <text x="395.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Carbon 碳族</text>
   <rect x="454" y="62" width="101" height="110" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
   <text x="504.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 15</text>
   <text x="504.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">N</text>
   <text x="504.5" y="130" font-size="18" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">−3</text>
-  <text x="504.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氮族</text>
-  <text x="504.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Nitrogen</text>
+  <text x="504.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Nitrogen 氮族</text>
   <rect x="563" y="62" width="101" height="110" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
   <text x="613.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 16</text>
   <text x="613.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O</text>
   <text x="613.5" y="130" font-size="18" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">−2</text>
-  <text x="613.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氧族</text>
-  <text x="613.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Oxygen</text>
+  <text x="613.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Oxygen 氧族</text>
   <rect x="672" y="62" width="101" height="110" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
   <text x="722.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 17</text>
   <text x="722.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Cl</text>
   <text x="722.5" y="130" font-size="18" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">−1</text>
-  <text x="722.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">卤素</text>
-  <text x="722.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Halogen</text>
+  <text x="722.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Halogen 卤素</text>
   <rect x="781" y="62" width="101" height="110" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.1"/>
   <text x="831.5" y="78" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Group 18</text>
   <text x="831.5" y="103" font-size="21" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Ne</text>
   <text x="831.5" y="130" font-size="18" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">0</text>
-  <text x="831.5" y="152" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">稀有气体</text>
-  <text x="831.5" y="165" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Noble gas</text>
+  <text x="831.5" y="159" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Noble gas 稀有气体</text>
   <rect x="18" y="186" width="864" height="62" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
-  <text x="450" y="207" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Groups 3–12　TRANSITION METALS 过渡金属</text>
-  <text x="450" y="229" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">multivalent 多变价 —— 电荷看罗马数字，或由化合物的名称／化学式反推（Fe²⁺ / Fe³⁺、Cu⁺ / Cu²⁺）</text>
+  <text x="450" y="207" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Groups 3–12 · Transition Metals｜过渡金属</text>
+  <text x="450" y="229" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Multivalent 多变价 — charge from Roman numerals or the name / formula of the compound（Fe²⁺ / Fe³⁺、Cu⁺ / Cu²⁺）</text>
   <rect x="18" y="262" width="864" height="42" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="0.9"/>
-  <text x="450" y="277" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">同族电荷相同 ⇐ 因为它们最外层电子数相同</text>
-  <text x="450" y="294" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">这一步就是全册起点：电子排布 → 离子电荷 → 化学式 → 化学方程式</text>
+  <text x="450" y="277" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Same group → same charge ⇐ same number of valence electrons｜同族电荷相同 ⇐ 最外层电子数相同</text>
+  <text x="450" y="294" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Where the whole unit starts: electron arrangement → ion charge → formula → equation｜全册起点</text>
 </svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 436" width="900"
+     height="436" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 7-1　The pH Scale 0–14｜pH 标度 0–14</title>
+  <rect width="900" height="436" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 7-1　The pH Scale 0–14｜pH 标度 0–14</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">each step = 10×｜每差 1 等于 10 倍</text>
+  <rect x="40.0" y="50" width="382.6669" height="26" rx="8" fill="#F7E3E3" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="231.33345" y="63" font-size="10.5" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">ACID — pH 0 to 6｜酸</text>
+  <rect x="422.6669" y="50" width="54.6667" height="26" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="450.00025" y="59" font-size="7.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">NEUTRAL</text>
+  <text x="450.00025" y="71" font-size="7.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">中性 7</text>
+  <rect x="477.3336" y="50" width="382.6669" height="26" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="668.66705" y="63" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">BASE — pH 8 to 14｜碱</text>
+  <rect x="40.0" y="100" width="54.6667" height="58" rx="0" fill="#8C2020" stroke="#8C2020" stroke-width="0.8"/>
+  <text x="67.33335" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">0</text>
+  <rect x="94.66669999999999" y="100" width="54.6667" height="58" rx="0" fill="#A32D2D" stroke="#A32D2D" stroke-width="0.8"/>
+  <text x="122.00004999999999" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+  <rect x="149.33339999999998" y="100" width="54.6667" height="58" rx="0" fill="#B84A3A" stroke="#B84A3A" stroke-width="0.8"/>
+  <text x="176.66674999999998" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="204.0001" y="100" width="54.6667" height="58" rx="0" fill="#C96B4A" stroke="#C96B4A" stroke-width="0.8"/>
+  <text x="231.33345" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+  <rect x="258.66679999999997" y="100" width="54.6667" height="58" rx="0" fill="#D98E55" stroke="#D98E55" stroke-width="0.8"/>
+  <text x="286.00014999999996" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">4</text>
+  <rect x="313.3335" y="100" width="54.6667" height="58" rx="0" fill="#E0A868" stroke="#E0A868" stroke-width="0.8"/>
+  <text x="340.66685" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">5</text>
+  <rect x="368.0002" y="100" width="54.6667" height="58" rx="0" fill="#E7C083" stroke="#E7C083" stroke-width="0.8"/>
+  <text x="395.33355" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">6</text>
+  <rect x="422.6669" y="100" width="54.6667" height="58" rx="0" fill="#8FB86A" stroke="#8FB86A" stroke-width="0.8"/>
+  <text x="450.00025" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">7</text>
+  <rect x="477.3336" y="100" width="54.6667" height="58" rx="0" fill="#8FC0D8" stroke="#8FC0D8" stroke-width="0.8"/>
+  <text x="504.66695" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+  <rect x="532.0002999999999" y="100" width="54.6667" height="58" rx="0" fill="#6FA8C8" stroke="#6FA8C8" stroke-width="0.8"/>
+  <text x="559.3336499999999" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">9</text>
+  <rect x="586.667" y="100" width="54.6667" height="58" rx="0" fill="#4F8FBA" stroke="#4F8FBA" stroke-width="0.8"/>
+  <text x="614.00035" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+  <rect x="641.3337" y="100" width="54.6667" height="58" rx="0" fill="#2F76A8" stroke="#2F76A8" stroke-width="0.8"/>
+  <text x="668.66705" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">11</text>
+  <rect x="696.0004" y="100" width="54.6667" height="58" rx="0" fill="#185FA5" stroke="#185FA5" stroke-width="0.8"/>
+  <text x="723.33375" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">12</text>
+  <rect x="750.6671" y="100" width="54.6667" height="58" rx="0" fill="#0C447C" stroke="#0C447C" stroke-width="0.8"/>
+  <text x="778.00045" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">13</text>
+  <rect x="805.3338" y="100" width="54.6667" height="58" rx="0" fill="#08325C" stroke="#08325C" stroke-width="0.8"/>
+  <text x="832.66715" y="86" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">14</text>
+  <rect x="40.0" y="100" width="820.0005" height="58" rx="0" fill="none" stroke="#888780" stroke-width="1.0"/>
+  <line x1="122.00005" y1="158" x2="122.00005" y2="176" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="122.00005" cy="158" r="2.4" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <rect x="72.00005" y="176" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="122.00005" y="190" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">battery acid</text>
+  <text x="122.00005" y="205" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 1｜电池酸液</text>
+  <line x1="176.66675" y1="158" x2="176.66675" y2="224" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="176.66675" cy="158" r="2.4" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <rect x="126.66675000000001" y="224" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="176.66675" y="238" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">lemon juice</text>
+  <text x="176.66675" y="253" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 2｜柠檬汁</text>
+  <line x1="231.33345" y1="158" x2="231.33345" y2="176" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="231.33345" cy="158" r="2.4" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <rect x="181.33345" y="176" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="231.33345" y="190" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">vinegar</text>
+  <text x="231.33345" y="205" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 3｜食醋</text>
+  <line x1="450.00025" y1="158" x2="450.00025" y2="176" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="450.00025" cy="158" r="2.4" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <rect x="400.00025" y="176" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450.00025" y="190" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">pure water</text>
+  <text x="450.00025" y="205" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 7｜纯水</text>
+  <line x1="559.33365" y1="158" x2="559.33365" y2="176" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="559.33365" cy="158" r="2.4" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <rect x="509.33365000000003" y="176" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="559.33365" y="190" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">baking soda</text>
+  <text x="559.33365" y="205" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 9｜小苏打溶液</text>
+  <line x1="614.00035" y1="158" x2="614.00035" y2="224" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="614.00035" cy="158" r="2.4" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <rect x="564.00035" y="224" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="614.00035" y="238" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">soap</text>
+  <text x="614.00035" y="253" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 10｜肥皂水</text>
+  <line x1="778.00045" y1="158" x2="778.00045" y2="176" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="778.00045" cy="158" r="2.4" fill="#2C2C2A" stroke="#2C2C2A" stroke-width="0"/>
+  <rect x="728.00045" y="176" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="778.00045" y="190" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">drain cleaner</text>
+  <text x="778.00045" y="205" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 13｜管道清洁剂</text>
+  <rect x="24" y="280" width="852" height="64" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="450" y="298" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Every step of 1 on the scale = a 10-fold change in acidity｜标度上每差 1 格，酸性相差 10 倍</text>
+  <text x="450" y="318" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">pH 3 is 10× more acidic than pH 4, and 100× more acidic than pH 5｜pH 3 比 pH 4 酸 10 倍，比 pH 5 酸 100 倍</text>
+  <text x="450" y="334" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">So pH 2 is not a little more acidic than pH 5 — it is 1000 times｜pH 2 不是「稍酸」，它是 pH 5 的 1000 倍</text>
+  <rect x="24" y="356" width="852" height="68" rx="8" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="450" y="376" font-size="11" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">pH describes aqueous solutions only — a dry acid powder has no pH｜pH 只描述水溶液，干燥的酸粉没有 pH</text>
+  <text x="450" y="396" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Never taste a chemical: 'sour' and 'bitter' are descriptions, not tests｜味道是描述，不是检验方法</text>
+  <text x="450" y="414" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">In the lab the tests are litmus, universal indicator or a pH meter｜实验室只用石蕊、通用指示剂或 pH 计</text>
+</svg>

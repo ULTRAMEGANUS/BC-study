@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900"
+     height="340" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 3-1　Four Steps to Balance｜配平四步法</title>
+  <rect width="900" height="340" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 3-1　Four Steps to Balance｜配平四步法</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">coefficients only｜只改系数</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="#888780"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="22" y="56" width="196" height="120" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <rect x="22" y="56" width="196" height="28" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="120.0" y="70" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">① Formulas｜化学式</text>
+  <text x="120.0" y="104" font-size="9.6" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Write each formula correctly</text>
+  <text x="120.0" y="128" font-size="9.4" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">先写对全部化学式</text>
+  <text x="120.0" y="156" font-size="8.8" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">a wrong formula cannot be saved</text>
+  <path d="M220 130 L236 130" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <rect x="242" y="56" width="196" height="120" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <rect x="242" y="56" width="196" height="28" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="340.0" y="70" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">② Order｜顺序</text>
+  <text x="340.0" y="104" font-size="9.6" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">metal → non-metal → H → O</text>
+  <text x="340.0" y="128" font-size="9.4" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">顺序：金属→非金属→H→O</text>
+  <text x="340.0" y="156" font-size="8.8" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">leave O and H for the end</text>
+  <path d="M440 130 L456 130" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <rect x="462" y="56" width="196" height="120" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <rect x="462" y="56" width="196" height="28" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="560.0" y="70" font-size="10.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">③ Groups｜原子团</text>
+  <text x="560.0" y="104" font-size="9.6" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Keep SO₄ NO₃ PO₄ whole</text>
+  <text x="560.0" y="128" font-size="9.4" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">原子团当一个整体配</text>
+  <text x="560.0" y="156" font-size="8.8" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">never split them into atoms</text>
+  <path d="M660 130 L676 130" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <rect x="682" y="56" width="196" height="120" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <rect x="682" y="56" width="196" height="28" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="780.0" y="70" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">④ Finish｜收尾</text>
+  <text x="780.0" y="104" font-size="9.6" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Fractions are allowed midway</text>
+  <text x="780.0" y="128" font-size="9.4" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">分数过渡，最后乘整数</text>
+  <text x="780.0" y="156" font-size="8.8" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">then multiply by the LCM</text>
+  <rect x="22" y="192" width="856" height="70" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="40" y="212" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">start｜起点</text>
+  <text x="150" y="212" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">CH₄ + O₂ → CO₂ + H₂O</text>
+  <text x="430" y="212" font-size="9.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">not balanced yet｜尚未配平</text>
+  <text x="40" y="242" font-size="9.5" font-weight="600" fill="#3B6D11" text-anchor="start" dominant-baseline="central">end｜终点</text>
+  <text x="150" y="242" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">CH₄ + 2 O₂ → CO₂ + 2 H₂O</text>
+  <text x="470" y="242" font-size="10" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">C 1=1 · H 4=4 · O 4=4 ✓</text>
+  <rect x="22" y="278" width="856" height="46" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="294" font-size="11" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">Only coefficients change — never subscripts｜只改系数，不改下标</text>
+  <text x="450" y="312" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">every Science 10 balancing item can be pushed through these four steps｜所有题都能用这四步推出来</text>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 452" width="900"
+     height="452" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 7-2　Acid vs Base: Six Tests｜酸与碱的六项对照</title>
+  <rect width="900" height="452" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 7-2　Acid vs Base: Six Tests｜酸与碱的六项对照</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">same tests, opposite results｜结果相反</text>
+  <rect x="40" y="52" width="200" height="34" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="140.0" y="69" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Test｜检验项目</text>
+  <rect x="252" y="52" width="296" height="34" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="400.0" y="69" font-size="13" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">ACID｜酸</text>
+  <rect x="560" y="52" width="300" height="34" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="710.0" y="69" font-size="13" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">BASE｜碱</text>
+  <rect x="40" y="92" width="200" height="46" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="140.0" y="109" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Taste</text>
+  <text x="140.0" y="124" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">味道</text>
+  <rect x="252" y="92" width="296" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="400.0" y="115.0" font-size="10.5" fill="#0C447C" text-anchor="middle" dominant-baseline="central">sour — lemon, vinegar｜酸</text>
+  <rect x="560" y="92" width="300" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="710.0" y="115.0" font-size="10.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">bitter — soap, tonic water｜苦</text>
+  <rect x="40" y="138" width="200" height="46" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="140.0" y="155" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Litmus paper</text>
+  <text x="140.0" y="170" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">石蕊试纸</text>
+  <rect x="252" y="138" width="296" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="400.0" y="161.0" font-size="10.5" fill="#0C447C" text-anchor="middle" dominant-baseline="central">turns BLUE litmus RED｜蓝石蕊变红</text>
+  <rect x="560" y="138" width="300" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="710.0" y="161.0" font-size="10.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">turns RED litmus BLUE｜红石蕊变蓝</text>
+  <rect x="40" y="184" width="200" height="46" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="140.0" y="201" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">pH value</text>
+  <text x="140.0" y="216" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">pH 值</text>
+  <rect x="252" y="184" width="296" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="400.0" y="207.0" font-size="10.5" fill="#0C447C" text-anchor="middle" dominant-baseline="central">less than 7（0–6）｜小于 7</text>
+  <rect x="560" y="184" width="300" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="710.0" y="207.0" font-size="10.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">more than 7（8–14）｜大于 7</text>
+  <rect x="40" y="230" width="200" height="46" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="140.0" y="247" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">With active metal</text>
+  <text x="140.0" y="262" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">与活泼金属</text>
+  <rect x="252" y="230" width="296" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="400.0" y="253.0" font-size="10.5" fill="#0C447C" text-anchor="middle" dominant-baseline="central">gives H₂ — bubbles form｜放出 H₂ 冒泡</text>
+  <rect x="560" y="230" width="300" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="710.0" y="253.0" font-size="10.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">no reaction for most metals｜多数不反应</text>
+  <rect x="40" y="276" width="200" height="46" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="140.0" y="293" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">With carbonate</text>
+  <text x="140.0" y="308" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">与碳酸盐</text>
+  <rect x="252" y="276" width="296" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="400.0" y="299.0" font-size="10.5" fill="#0C447C" text-anchor="middle" dominant-baseline="central">gives CO₂ — fizzes｜放出 CO₂ 冒泡</text>
+  <rect x="560" y="276" width="300" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="710.0" y="299.0" font-size="10.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">no reaction for most carbonates｜多数不反应</text>
+  <rect x="40" y="322" width="200" height="46" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="140.0" y="339" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Corrosive?</text>
+  <text x="140.0" y="354" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">腐蚀性</text>
+  <rect x="252" y="322" width="296" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="400.0" y="345.0" font-size="10.5" fill="#0C447C" text-anchor="middle" dominant-baseline="central">yes — strong acids burn skin｜会</text>
+  <rect x="560" y="322" width="300" height="46" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="710.0" y="345.0" font-size="10.5" fill="#854F0B" text-anchor="middle" dominant-baseline="central">yes — NaOH burns skin too｜也会</text>
+  <rect x="24" y="382" width="852" height="58" rx="8" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="450" y="400" font-size="11" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">Both columns are corrosive — 'base' does not mean 'safe'｜两栏都有腐蚀性：碱 ≠ 安全</text>
+  <text x="450" y="420" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Two different fizzes: acid + metal gives H₂, acid + carbonate gives CO₂｜两种气泡别混：金属放 H₂、碳酸盐放 CO₂</text>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900"
+     height="450" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 5-3　Solubility Rules｜溶解性规则</title>
+  <rect width="900" height="450" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 5-3　Solubility Rules｜溶解性规则</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">precipitate, water or gas｜有沉淀才反应</text>
+  <rect x="24" y="56" width="400" height="30" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="224" y="71" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">SOLUBLE｜可溶（留在溶液里）</text>
+  <rect x="24" y="92" width="400" height="44" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="224" y="108" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NO₃⁻ nitrate｜硝酸根</text>
+  <text x="224" y="124" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">all soluble — no exception｜全溶，无例外</text>
+  <rect x="24" y="144" width="400" height="44" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="224" y="160" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Group 1⁺  and  NH₄⁺｜钾钠铵</text>
+  <text x="224" y="176" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">all soluble — no exception｜全溶，无例外</text>
+  <rect x="24" y="196" width="400" height="44" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="224" y="212" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Cl⁻  Br⁻  I⁻｜卤离子</text>
+  <text x="224" y="228" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">soluble except Ag⁺, Pb²⁺｜除银、铅</text>
+  <rect x="24" y="248" width="400" height="44" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="224" y="264" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">SO₄²⁻ sulfate｜硫酸根</text>
+  <text x="224" y="280" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">soluble except Ba²⁺, Pb²⁺｜除钡、铅</text>
+  <rect x="448" y="56" width="428" height="30" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="662" y="71" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">INSOLUBLE → PRECIPITATE｜不溶 → 沉淀</text>
+  <rect x="448" y="92" width="428" height="36" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="500" y="110" font-size="11" font-weight="700" fill="#BA7517" text-anchor="middle" dominant-baseline="central">AgCl</text>
+  <text x="676" y="110" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">white precipitate｜白色沉淀</text>
+  <rect x="448" y="134" width="428" height="36" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="500" y="152" font-size="11" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">PbI₂</text>
+  <text x="676" y="152" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">yellow precipitate｜黄色沉淀（唯一有颜色）</text>
+  <rect x="448" y="176" width="428" height="36" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="500" y="194" font-size="11" font-weight="700" fill="#BA7517" text-anchor="middle" dominant-baseline="central">PbCl₂</text>
+  <text x="676" y="194" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">white precipitate｜白色沉淀</text>
+  <rect x="448" y="218" width="428" height="36" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="500" y="236" font-size="11" font-weight="700" fill="#BA7517" text-anchor="middle" dominant-baseline="central">BaSO₄</text>
+  <text x="676" y="236" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">white precipitate｜白色沉淀</text>
+  <rect x="448" y="260" width="428" height="36" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="500" y="278" font-size="11" font-weight="700" fill="#BA7517" text-anchor="middle" dominant-baseline="central">CaCO₃</text>
+  <text x="676" y="278" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">white precipitate｜白色沉淀</text>
+  <rect x="24" y="318" width="852" height="54" rx="8" fill="#FFFFFF" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="450" y="336" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Pb(NO₃)₂ + 2 KI → PbI₂↓ + 2 KNO₃</text>
+  <text x="450" y="357" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">PbI₂ is insoluble → a yellow precipitate appears → the reaction happens｜生成不溶物，反应真正发生</text>
+  <rect x="24" y="384" width="852" height="54" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="402" font-size="12" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NaNO₃ + KCl → no reaction</text>
+  <text x="450" y="423" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">every ion stays dissolved → nothing to see → write no reaction｜四种离子全可溶，写 no reaction</text>
+</svg>

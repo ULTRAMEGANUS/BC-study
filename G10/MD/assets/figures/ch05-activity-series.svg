@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900"
+     height="440" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 5-2　Activity Series of Metals｜金属活动性顺序</title>
+  <rect width="900" height="440" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 5-2　Activity Series of Metals｜金属活动性顺序</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">higher displaces lower｜前换后</text>
+  <text x="40" y="54" font-size="10.5" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">Activity series（金属活动性顺序）— the stairs go down as reactivity falls｜阶梯向下 = 活泼性下降</text>
+  <rect x="40" y="76" width="40" height="22" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="60" y="87" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">K</text>
+  <rect x="84" y="100" width="40" height="22" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="104" y="111" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Na</text>
+  <rect x="128" y="124" width="40" height="22" rx="4" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="148" y="135" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Ca</text>
+  <rect x="172" y="148" width="40" height="22" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="192" y="159" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Mg</text>
+  <rect x="216" y="172" width="40" height="22" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="236" y="183" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Al</text>
+  <rect x="260" y="196" width="40" height="22" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="280" y="207" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Zn</text>
+  <rect x="304" y="220" width="40" height="22" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="324" y="231" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Fe</text>
+  <rect x="348" y="244" width="40" height="22" rx="4" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="368" y="255" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Pb</text>
+  <rect x="392" y="268" width="40" height="22" rx="4" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="412" y="279" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">H</text>
+  <rect x="436" y="292" width="40" height="22" rx="4" fill="#F7E3E3" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="456" y="303" font-size="12" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">Cu</text>
+  <rect x="480" y="316" width="40" height="22" rx="4" fill="#F7E3E3" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="500" y="327" font-size="12" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">Ag</text>
+  <rect x="524" y="340" width="40" height="22" rx="4" fill="#F7E3E3" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="544" y="351" font-size="12" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">Au</text>
+  <rect x="600" y="60" width="276" height="88" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="738" y="78" font-size="9.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">RULE｜规则</text>
+  <text x="738" y="104" font-size="11" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">higher displaces lower</text>
+  <text x="738" y="126" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">排在前面的才能换掉后面的</text>
+  <rect x="600" y="158" width="276" height="88" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="738" y="176" font-size="9.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">ABOVE H｜氢之前</text>
+  <text x="738" y="202" font-size="11" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">metal + acid → H₂</text>
+  <text x="738" y="224" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Cu is below H → no reaction｜铜在氢后不反应</text>
+  <rect x="600" y="256" width="276" height="88" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="738" y="274" font-size="9.5" font-weight="700" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">EXAMPLE｜例</text>
+  <text x="738" y="300" font-size="11" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Fe + CuSO₄ → FeSO₄ + Cu  ✓</text>
+  <text x="738" y="322" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Cu + FeSO₄ → no reaction  ✗</text>
+  <rect x="24" y="374" width="852" height="24" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="450" y="386" font-size="11" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">K > Na > Ca > Mg > Al > Zn > Fe > Pb > (H) > Cu > Ag > Au</text>
+  <rect x="24" y="404" width="852" height="24" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="416" font-size="9.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H is not a metal — it is the acid line: only metals above it give H₂ with acid｜H 不是金属，是「酸线」</text>
+</svg>

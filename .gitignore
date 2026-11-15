@@ -56,6 +56,8 @@ G9/pdf/
 G10/pdf/
 G10/MD/assets/printables/html/
 G10/MD/assets/source/_build_rev/
+G10/MD/assets/source/_png/
+G10/MD/assets/source/__pycache__/
 G10/CHEM10 rev/_txt/
 G10/CHEM10 rev/_png/
 # 学校复习卷原卷（只读素材，大二进制不入库）

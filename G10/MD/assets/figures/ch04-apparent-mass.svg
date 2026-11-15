@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900"
+     height="400" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 4-3　Why the Balance Seems to Lie｜表观质量变化三卡</title>
+  <rect width="900" height="400" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 4-3　Why the Balance Seems to Lie｜表观质量变化三卡</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">law intact, boundary differs｜定律没破，边界不同</text>
+  <rect x="24" y="58" width="272" height="32" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="160" y="74" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">① Rusting — heavier｜生锈变重</text>
+  <rect x="24" y="90" width="272" height="130" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="160" y="114" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">steel wool 5.00 g → 6.35 g</text>
+  <text x="160" y="136" font-size="10" fill="#854F0B" text-anchor="middle" dominant-baseline="central">gain = 6.35 − 5.00 = 1.35 g</text>
+  <text x="160" y="158" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O₂ from the air joins the iron</text>
+  <text x="160" y="180" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氧气从空气进入固体</text>
+  <rect x="314" y="58" width="272" height="32" rx="8" fill="#F7E3E3" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="450" y="74" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">② Burning — lighter｜燃烧变轻</text>
+  <rect x="314" y="90" width="272" height="130" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450" y="114" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">wood 250.0 g → ash 12.0 g</text>
+  <text x="450" y="136" font-size="10" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">lost = 250.0 − 12.0 = 238.0 g</text>
+  <text x="450" y="158" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CO₂ and smoke escape upward</text>
+  <text x="450" y="180" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">气体与烟逸出，天平看不见</text>
+  <rect x="604" y="58" width="272" height="32" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="740" y="74" font-size="11.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">③ Sealed — unchanged｜密闭不变</text>
+  <rect x="604" y="90" width="272" height="130" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="740" y="114" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">flask before = after = 189.55 g</text>
+  <text x="740" y="136" font-size="10" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">difference = 189.55 − 189.55 = 0 g</text>
+  <text x="740" y="158" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">gas made but stays inside</text>
+  <text x="740" y="180" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">气体留在边界内，谁也出不去</text>
+  <rect x="24" y="240" width="852" height="62" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="450" y="262" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">First question: is the system open or closed?｜先问一句：体系是敞开还是封闭？</text>
+  <text x="450" y="288" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Open → track escaped and entered matter, then the account balances　|　Closed → the reading must not change｜敞开→追算逸散与进入的质量；封闭→读数必然不变</text>
+  <rect x="24" y="318" width="852" height="70" rx="8" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="450" y="344" font-size="11" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">The law of conservation of mass is never the thing that fails｜从不失效的是质量守恒定律</text>
+  <text x="450" y="366" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">What fails is assuming the balance saw everything — count the gases｜失效的是「天平看见了全部」这个假设——把气体算回来</text>
+</svg>

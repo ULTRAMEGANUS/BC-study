@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900"
+     height="400" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 4-2　Open vs Closed Systems｜敞开与封闭体系</title>
+  <rect width="900" height="400" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 4-2　Open vs Closed Systems｜敞开与封闭体系</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">the balance sees the boundary｜天平只认边界</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="#888780"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="24" y="56" width="414" height="32" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="231" y="72" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">OPEN SYSTEM｜敞开体系</text>
+  <line x1="64" y1="200" x2="64" y2="108" stroke="#BA7517" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <line x1="64" y1="108" x2="160" y2="108" stroke="#BA7517" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <line x1="302" y1="108" x2="398" y2="108" stroke="#BA7517" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <line x1="398" y1="108" x2="398" y2="200" stroke="#BA7517" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <line x1="64" y1="200" x2="398" y2="200" stroke="#BA7517" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <circle cx="180" cy="100" r="6" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="231" cy="96" r="8" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <circle cx="282" cy="100" r="6" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <text x="231" y="125" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">gap — smoke escapes｜顶部开口，烟逸出</text>
+  <rect x="200" y="200" width="62" height="10" rx="4" fill="#F1EFE8" stroke="#2C2C2A" stroke-width="1.0"/>
+  <text x="322" y="207" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Mg ribbon｜镁条</text>
+  <path d="M231 192 L223 178 L231 184 L239 170 L243 182 L247 174 L243 192 Z" fill="none" stroke="#854F0B" stroke-width="1.2"/>
+  <line x1="140" y1="214" x2="322" y2="214" stroke="#888780" stroke-width="2.0"/>
+  <rect x="216" y="214" width="30" height="26" rx="8" fill="#FFFFFF" stroke="#888780" stroke-width="1.2"/>
+  <rect x="186" y="240" width="90" height="12" rx="4" fill="#888780" stroke="#888780" stroke-width="1.2"/>
+  <text x="231" y="258" font-size="10.5" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">reading changes｜读数会变</text>
+  <rect x="24" y="276" width="414" height="76" rx="8" fill="#FFFFFF" stroke="#BA7517" stroke-width="1.0"/>
+  <text x="231" y="296" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mg ribbon burns: white smoke (MgO) escapes｜镁条燃烧白烟逸出</text>
+  <text x="231" y="316" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">escaped mass = lost mass on the balance｜逸散质量 = 读数减少量</text>
+  <text x="231" y="336" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">law still holds — matter just left｜守恒仍成立，物质只是离开了</text>
+  <rect x="462" y="56" width="414" height="32" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="669" y="72" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">CLOSED SYSTEM｜封闭体系</text>
+  <rect x="502" y="92" width="334" height="148" rx="10" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+  <path d="M657 150 L657 172 L625 216 L713 216 L681 172 L681 150 Z" fill="none" stroke="#0C447C" stroke-width="1.6"/>
+  <line x1="657" y1="150" x2="681" y2="150" stroke="#0C447C" stroke-width="1.6"/>
+  <text x="669" y="205" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">solution｜反应液</text>
+  <circle cx="669" cy="118" r="20" fill="#E6F1FB" stroke="#0C447C" stroke-width="1.4"/>
+  <line x1="663" y1="138" x2="663" y2="150" stroke="#0C447C" stroke-width="1.2"/>
+  <line x1="675" y1="138" x2="675" y2="150" stroke="#0C447C" stroke-width="1.2"/>
+  <text x="560" y="130" font-size="9.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">balloon inflates</text>
+  <text x="560" y="146" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">inside the seal｜气球在密封内鼓起</text>
+  <line x1="580" y1="252" x2="758" y2="252" stroke="#888780" stroke-width="2.0"/>
+  <rect x="654" y="240" width="30" height="12" rx="8" fill="#FFFFFF" stroke="#888780" stroke-width="1.2"/>
+  <rect x="624" y="264" width="90" height="12" rx="4" fill="#888780" stroke="#888780" stroke-width="1.2"/>
+  <text x="669" y="288" font-size="10.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">reading unchanged｜读数不变</text>
+  <rect x="462" y="276" width="414" height="76" rx="8" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.0"/>
+  <text x="669" y="296" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NaHCO₃ + CH₃COOH in a sealed flask｜密闭锥形瓶内反应产气</text>
+  <text x="669" y="316" font-size="10" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">gas stays inside — boundary crossed by nothing｜气体留在边界内</text>
+  <text x="669" y="336" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">before reading = after reading｜反应前后读数相等</text>
+  <rect x="24" y="366" width="852" height="24" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="383" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Conservation never fails — only what the balance can see changes｜守恒从不失效，变的只是天平能看见的部分</text>
+</svg>

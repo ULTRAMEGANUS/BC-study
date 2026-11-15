@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 396" width="900"
+     height="396" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 6-3　Evidence to Verdict｜由温度证据判定放热吸热</title>
+  <rect width="900" height="396" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 6-3　Evidence to Verdict｜由温度证据判定放热吸热</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">4 real examples｜4 个真实例子</text>
+  <rect x="24" y="52" width="414" height="30" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="231" y="67" font-size="12.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Thermometer UP → EXOTHERMIC｜温度上升 → 放热</text>
+  <rect x="462" y="52" width="414" height="30" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="669" y="67" font-size="12.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Thermometer DOWN → ENDOTHERMIC｜温度下降 → 吸热</text>
+  <rect x="24" y="90" width="414" height="100" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="40" y="110" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">① COMBUSTION｜燃烧</text>
+  <rect x="360" y="99" width="62" height="20" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="391" y="109" font-size="8.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">EXO 放热</text>
+  <text x="231" y="142" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CH₄ + 2 O₂ → CO₂ + 2 H₂O</text>
+  <text x="231" y="168" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">burns with heat and light｜燃烧放热发光</text>
+  <rect x="24" y="198" width="414" height="100" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="40" y="218" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">② NEUTRALIZATION｜中和</text>
+  <rect x="360" y="207" width="62" height="20" rx="6" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.9"/>
+  <text x="391" y="217" font-size="8.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">EXO 放热</text>
+  <text x="231" y="250" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">HCl + NaOH → NaCl + H₂O</text>
+  <text x="231" y="276" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">acid + base; the flask feels warm｜酸碱混合，瓶壁发热</text>
+  <rect x="462" y="90" width="414" height="100" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="478" y="110" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">③ PHOTOSYNTHESIS｜光合作用</text>
+  <rect x="798" y="99" width="62" height="20" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="829" y="109" font-size="8.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">ENDO 吸热</text>
+  <text x="669" y="142" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂</text>
+  <text x="669" y="168" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">light energy stored in glucose｜光能存进葡萄糖</text>
+  <rect x="462" y="198" width="414" height="100" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="478" y="218" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">④ COLD PACK｜冰袋</text>
+  <rect x="798" y="207" width="62" height="20" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.9"/>
+  <text x="829" y="217" font-size="8.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">ENDO 吸热</text>
+  <text x="669" y="250" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NH₄NO₃(s) → NH₄NO₃(aq)</text>
+  <text x="669" y="276" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">absorbs heat; a physical change｜溶解吸热，物理变化</text>
+  <rect x="24" y="308" width="852" height="66" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="328" font-size="11" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">The verdict comes from the thermometer, not from how the equation looks｜判据是温度计，不是方程式看起来的样子</text>
+  <text x="450" y="348" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">exothermic: surroundings warmer · endothermic: surroundings cooler｜放热=环境变暖 · 吸热=环境变冷</text>
+  <text x="450" y="366" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Needing a match is NOT the same as endothermic — a spark only supplies activation energy｜「需要点燃」≠ 吸热</text>
+</svg>

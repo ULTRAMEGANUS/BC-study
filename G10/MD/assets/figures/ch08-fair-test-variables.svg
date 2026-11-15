@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 494" width="900"
+     height="494" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 8-2　A Fair Test: Three Variables｜公平实验的三类变量</title>
+  <rect width="900" height="494" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 8-2　A Fair Test: Three Variables｜公平实验的三类变量</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">change one, measure one｜改一测一</text>
+  <rect x="24" y="54" width="852" height="44" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="450" y="68" font-size="10" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Question｜研究问题</text>
+  <text x="450" y="86" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">How does temperature affect the rate of NaHCO₃ + CH₃COOH?｜温度如何影响该反应的速率？</text>
+  <rect x="30" y="112" width="340" height="300" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="200" y="130" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Set-up: change one thing only｜装置：只改一件事</text>
+  <path d="M95 190 V350 H305 V190" fill="none" stroke="#888780" stroke-width="1.6"/>
+  <path d="M97 216 H303 V348 H97 Z" fill="none" stroke="#E6F1FB" stroke-width="0"/>
+  <line x1="95" y1="216" x2="305" y2="216" stroke="#185FA5" stroke-width="1.0"/>
+  <line x1="88" y1="190" x2="95" y2="190" stroke="#888780" stroke-width="1.4"/>
+  <line x1="305" y1="190" x2="312" y2="190" stroke="#888780" stroke-width="1.4"/>
+  <line x1="188" y1="170" x2="188" y2="208" stroke="#0C447C" stroke-width="1.6"/>
+  <line x1="212" y1="170" x2="212" y2="208" stroke="#0C447C" stroke-width="1.6"/>
+  <path d="M188 208 L165 320 L235 320 L212 208" fill="none" stroke="#0C447C" stroke-width="1.6"/>
+  <path d="M172 302 L228 302 L235 320 L165 320 Z" fill="none" stroke="#E6F1FB" stroke-width="#0C447C" marker-end="url(#1.0)"/>
+  <circle cx="184" cy="288" r="3.5" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.2"/>
+  <circle cx="200" cy="276" r="4" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.2"/>
+  <circle cx="216" cy="292" r="3" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.2"/>
+  <text x="200" y="338" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">NaHCO₃ + CH₃COOH｜反应液</text>
+  <circle cx="200" cy="148" r="16" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.4"/>
+  <line x1="196" y1="163" x2="200" y2="170" stroke="#854F0B" stroke-width="1.2"/>
+  <line x1="204" y1="163" x2="200" y2="170" stroke="#854F0B" stroke-width="1.2"/>
+  <text x="248" y="142" font-size="8.5" font-weight="600" fill="#854F0B" text-anchor="start" dominant-baseline="central">balloon｜气球</text>
+  <rect x="268" y="222" width="12" height="100" rx="5" fill="#FFFFFF" stroke="#888780" stroke-width="1.0"/>
+  <line x1="274" y1="236" x2="274" y2="312" stroke="#A32D2D" stroke-width="3.0"/>
+  <circle cx="274" cy="322" r="8" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.2"/>
+  <text x="338" y="250" font-size="8.5" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">20·30·40</text>
+  <text x="338" y="264" font-size="8.5" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">°C</text>
+  <line x1="280" y1="244" x2="340" y2="244" stroke="#A32D2D" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <text x="200" y="366" font-size="9.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">water bath｜水浴（只改水温）</text>
+  <text x="200" y="390" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">same flask · same solutions · same timer</text>
+  <text x="200" y="404" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">同一锥形瓶、同样药量、同一计时</text>
+  <rect x="396" y="112" width="476" height="92" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <rect x="396" y="112" width="6" height="92" rx="8" fill="#185FA5" stroke="#185FA5" stroke-width="0"/>
+  <text x="414" y="130" font-size="11.5" font-weight="700" fill="#0C447C" text-anchor="start" dominant-baseline="central">① Independent variable｜自变量</text>
+  <text x="414" y="148" font-size="9" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">what I change on purpose｜我故意改的</text>
+  <text x="414" y="170" font-size="9.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">Water-bath temperature: 20 °C → 30 °C → 40 °C</text>
+  <text x="414" y="188" font-size="9.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">chosen before the experiment, one value per trial｜实验前自己定的那一个</text>
+  <rect x="396" y="216" width="476" height="92" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <rect x="396" y="216" width="6" height="92" rx="8" fill="#BA7517" stroke="#BA7517" stroke-width="0"/>
+  <text x="414" y="234" font-size="11.5" font-weight="700" fill="#854F0B" text-anchor="start" dominant-baseline="central">② Dependent variable｜因变量</text>
+  <text x="414" y="252" font-size="9" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">what I measure｜我测量、记录的结果</text>
+  <text x="414" y="274" font-size="9.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">Time for the balloon to reach 10 cm (in seconds)</text>
+  <text x="414" y="292" font-size="9.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">depends on the temperature — it is the answer｜随自变量而变，就是结论要报的数值</text>
+  <rect x="396" y="320" width="476" height="92" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <rect x="396" y="320" width="6" height="92" rx="8" fill="#3B6D11" stroke="#3B6D11" stroke-width="0"/>
+  <text x="414" y="338" font-size="11.5" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">③ Controlled variables｜控制变量</text>
+  <text x="414" y="356" font-size="9" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">what I keep identical｜我保持不变的那些</text>
+  <text x="414" y="378" font-size="9.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">1.0 g NaHCO₃ · 10 mL acid, same concentration</text>
+  <text x="414" y="396" font-size="9.5" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">same flask, same water volume, same timer｜其余条件全部相同</text>
+  <rect x="24" y="424" width="852" height="56" rx="8" fill="#FFFFFF" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="450" y="440" font-size="9.5" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">Confounding variable｜干扰变量 — the acid warms up as the bath heats, or two people time the runs</text>
+  <text x="450" y="458" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Anything besides the independent variable that could change the result must be held constant or removed｜除自变量外还能影响结果的，要么控住要么排除</text>
+  <text x="450" y="474" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Fair test = one variable changed, one variable measured, everything else identical｜公平实验三件事</text>
+</svg>

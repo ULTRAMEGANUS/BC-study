@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 372" width="900"
      height="372" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
-  <title>图 2-3　方程式的三级台阶｜Word → Skeleton → Balanced</title>
+  <title>Fig. 2-3　Word → Skeleton → Balanced｜方程式的三级台阶</title>
   <rect width="900" height="372" fill="#FFFFFF"/>
-  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 2-3　方程式的三级台阶｜Word → Skeleton → Balanced</text>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 2-3　Word → Skeleton → Balanced｜方程式的三级台阶</text>
   <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
-        text-anchor="end">BC Science 10 · 逐级走，不能跳级</text>
+        text-anchor="end">climb one step at a time｜逐级走，不跳级</text>
   <rect x="24" y="118" width="272" height="180" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
   <rect x="24" y="118" width="272" height="30" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
-  <text x="160" y="133" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">① 文字方程式 Word equation</text>
+  <text x="160" y="133" font-size="10.5" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">① Word equation 文字方程式</text>
   <text x="160" y="170" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">methane + oxygen</text>
   <text x="160" y="190" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">→ carbon dioxide + water</text>
   <text x="160" y="208" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">甲烷 + 氧气 → 二氧化碳 + 水</text>
   <line x1="44" y1="220" x2="276" y2="220" stroke="#B4B2A9" stroke-width="0.9"/>
-  <text x="160" y="240" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">只写物质名称、不写化学式</text>
-  <text x="160" y="260" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">题目多以这种日常语言给出</text>
+  <text x="160" y="240" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">names only, no formulas｜只写名称不写化学式</text>
+  <text x="160" y="260" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">word problems start here｜题目的原始形态</text>
   <rect x="314" y="88" width="272" height="180" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
   <rect x="314" y="88" width="272" height="30" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
-  <text x="450" y="103" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">② 骨架方程式 Skeleton equation</text>
+  <text x="450" y="103" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">② Skeleton equation 骨架方程式</text>
   <text x="450" y="140" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CH₄ + O₂</text>
   <text x="450" y="160" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">→ CO₂ + H₂O</text>
-  <text x="450" y="178" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">化学式对，系数空着</text>
+  <text x="450" y="178" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">formulas right, coefficients blank｜化学式对系数空着</text>
   <line x1="334" y1="190" x2="566" y2="190" stroke="#B4B2A9" stroke-width="0.9"/>
-  <text x="450" y="210" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">化学式全部写对（Ch.1）</text>
-  <text x="450" y="230" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">此时尚未配平</text>
+  <text x="450" y="210" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">all formulas correct (Ch.1)｜化学式全写对</text>
+  <text x="450" y="230" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">NOT balanced yet｜此时尚未配平</text>
   <rect x="604" y="58" width="272" height="180" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
   <rect x="604" y="58" width="272" height="30" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
-  <text x="740" y="73" font-size="10.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">③ 配平方程式 Balanced equation</text>
+  <text x="740" y="73" font-size="10.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">③ Balanced equation 配平方程式</text>
   <text x="740" y="110" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CH₄ + 2 O₂</text>
   <text x="740" y="130" font-size="12.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">→ CO₂ + 2 H₂O</text>
-  <text x="740" y="148" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">系数齐全</text>
+  <text x="740" y="148" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">coefficients in place｜系数齐全</text>
   <line x1="624" y1="160" x2="856" y2="160" stroke="#B4B2A9" stroke-width="0.9"/>
   <text x="740" y="180" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">验算：C 1=1、H 4=4、</text>
   <text x="740" y="200" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O 4=4 ✓（Ch.3）</text>
   <rect x="20" y="310" width="860" height="52" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
-  <text x="450" y="328" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">台阶不能跳：先认物质，再写化学式，最后才配平 —— 配平永远只改系数，不改下标</text>
-  <text x="450" y="346" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">学校复习卷两种给法：给物质名称（要你写化学式）／给化学式（只要配平）</text>
+  <text x="450" y="328" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Never skip a step: identify → write formulas → balance; only coefficients change, never subscripts｜不能跳级；配平只改系数，不改下标</text>
+  <text x="450" y="346" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Worksheets give either names (you write formulas) or formulas (you just balance)｜学校卷两种给法</text>
 </svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900"
+     height="400" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 6-2　Activation Energy and Catalyst｜活化能与催化剂</title>
+  <rect width="900" height="400" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 6-2　Activation Energy and Catalyst｜活化能与催化剂</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">lower hill, same Δ｜降门槛，不改总差</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="#888780"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M90 300 V100" fill="none" stroke="#888780" stroke-width="1.3" marker-end="url(#ar)"/>
+  <path d="M90 300 H832" fill="none" stroke="#888780" stroke-width="1.3" marker-end="url(#ar)"/>
+  <text x="100" y="114" font-size="9.5" font-weight="600" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">Energy｜能量</text>
+  <text x="460" y="316" font-size="10" font-weight="600" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Reaction progress｜反应进程</text>
+  <line x1="120" y1="240" x2="250" y2="240" stroke="#185FA5" stroke-width="2.4"/>
+  <text x="185" y="224" font-size="9.5" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">reactants｜反应物</text>
+  <line x1="640" y1="200" x2="800" y2="200" stroke="#BA7517" stroke-width="2.4"/>
+  <text x="720" y="184" font-size="9.5" font-weight="600" fill="#854F0B" text-anchor="middle" dominant-baseline="central">products｜生成物</text>
+  <path d="M250 240 C 320 240 350 145 460 145 C 570 145 600 200 640 200" fill="none" stroke="#2C2C2A" stroke-width="2.0"/>
+  <path d="M250 240 C 320 240 350 192 460 192 C 570 192 600 200 640 200" fill="none" stroke="#185FA5" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <line x1="250" y1="240" x2="475" y2="240" stroke="#B4B2A9" stroke-width="1.0" stroke-dasharray="4 3"/>
+  <path d="M460 236 V152" fill="none" stroke="#2C2C2A" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#ar)"/>
+  <text x="460" y="128" font-size="9.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">activation energy｜活化能</text>
+  <text x="540" y="214" font-size="9" font-weight="600" fill="#0C447C" text-anchor="middle" dominant-baseline="central">lower hill｜山丘更低</text>
+  <rect x="250" y="246" width="470" height="48" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <line x1="264" y1="262" x2="296" y2="262" stroke="#2C2C2A" stroke-width="2.0"/>
+  <text x="306" y="262" font-size="9" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">uncatalysed｜不加催化剂</text>
+  <line x1="264" y1="280" x2="296" y2="280" stroke="#185FA5" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <text x="306" y="280" font-size="9" fill="#0C447C" text-anchor="start" dominant-baseline="central">catalysed: lower Ea, same Δ｜加催化剂：活化能更低，总能量差不变</text>
+  <rect x="24" y="332" width="852" height="44" rx="8" fill="#FFFFFF" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="450" y="350" font-size="10.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">A catalyst lowers the activation energy — it never adds or removes energy｜催化剂只降低活化能，不增加也不减少能量</text>
+  <text x="450" y="368" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">So the reaction runs faster at the same temperature, and the same total energy is released｜同温下更快，放出的总能量不变</text>
+</svg>

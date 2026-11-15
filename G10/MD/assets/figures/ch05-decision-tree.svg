@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 512" width="900"
+     height="512" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 5-4　Which Type Is It? Decision Tree｜反应类型判定树</title>
+  <rect width="900" height="512" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 5-4　Which Type Is It? Decision Tree｜反应类型判定树</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">ask in order, never at random｜按顺序问</text>
+  <rect x="24" y="54" width="330" height="58" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="189" y="83" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Q1  One reactant formula?｜反应物只有一种？</text>
+  <line x1="354" y1="83" x2="440" y2="83" stroke="#888780" stroke-width="1.6"/>
+  <path d="M440 77 L452 83 L440 89 Z" fill="none" stroke="#888780" stroke-width="1.0"/>
+  <rect x="452" y="54" width="424" height="58" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="664" y="74" font-size="11" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Decomposition｜分解</text>
+  <text x="664" y="94" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">AB → A + B</text>
+  <rect x="24" y="120" width="330" height="58" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="189" y="149" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Q2  Acid + base?｜是酸 + 碱？</text>
+  <line x1="354" y1="149" x2="440" y2="149" stroke="#888780" stroke-width="1.6"/>
+  <path d="M440 143 L452 149 L440 155 Z" fill="none" stroke="#888780" stroke-width="1.0"/>
+  <rect x="452" y="120" width="424" height="58" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="664" y="140" font-size="11" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Neutralization｜中和</text>
+  <text x="664" y="160" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">acid + base → salt + water</text>
+  <rect x="24" y="186" width="330" height="58" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="189" y="215" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Q3  Fuel (C, H) + O₂?｜燃料 + O₂？</text>
+  <line x1="354" y1="215" x2="440" y2="215" stroke="#888780" stroke-width="1.6"/>
+  <path d="M440 209 L452 215 L440 221 Z" fill="none" stroke="#888780" stroke-width="1.0"/>
+  <rect x="452" y="186" width="424" height="58" rx="8" fill="#F7E3E3" stroke="#A32D2D" stroke-width="1.1"/>
+  <text x="664" y="206" font-size="11" font-weight="700" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">Combustion｜燃烧</text>
+  <text x="664" y="226" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">fuel + O₂ → CO₂ + H₂O</text>
+  <rect x="24" y="252" width="330" height="58" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="189" y="281" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Q4  Element + element?｜单质 + 单质？</text>
+  <line x1="354" y1="281" x2="440" y2="281" stroke="#888780" stroke-width="1.6"/>
+  <path d="M440 275 L452 281 L440 287 Z" fill="none" stroke="#888780" stroke-width="1.0"/>
+  <rect x="452" y="252" width="424" height="58" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="664" y="272" font-size="11" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Synthesis｜合成</text>
+  <text x="664" y="292" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">A + B → AB</text>
+  <rect x="24" y="318" width="330" height="58" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="189" y="347" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Q5  Element + compound?｜单质 + 化合物？</text>
+  <line x1="354" y1="347" x2="440" y2="347" stroke="#888780" stroke-width="1.6"/>
+  <path d="M440 341 L452 347 L440 353 Z" fill="none" stroke="#888780" stroke-width="1.0"/>
+  <rect x="452" y="318" width="424" height="58" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="664" y="338" font-size="11" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Single replacement｜单置换</text>
+  <text x="664" y="358" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">A + BC → AC + B   (check activity)</text>
+  <rect x="24" y="384" width="330" height="58" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="189" y="413" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Q6  Two compounds?｜两种化合物？</text>
+  <line x1="354" y1="413" x2="440" y2="413" stroke="#888780" stroke-width="1.6"/>
+  <path d="M440 407 L452 413 L440 419 Z" fill="none" stroke="#888780" stroke-width="1.0"/>
+  <rect x="452" y="384" width="424" height="58" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="664" y="404" font-size="11" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Double replacement｜双置换</text>
+  <text x="664" y="424" font-size="9.5" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">AB + CD → AD + CB   (check solubility)</text>
+  <rect x="24" y="454" width="852" height="46" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="469" font-size="10" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">No match? Recount the reactants and run the six general formulas again｜套不进去就重新数反应物</text>
+  <text x="450" y="487" font-size="9" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">One reaction may fit two labels — write the most specific one and add the other in brackets｜两个标签都对时，写更具体的那个</text>
+</svg>

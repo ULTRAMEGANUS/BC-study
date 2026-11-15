@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 312" width="900"
      height="312" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
-  <title>图 1-2　双原子分子：H-7 法则｜Diatomic Molecules (Rule of 7)</title>
+  <title>Fig. 1-2　Diatomic Molecules: Rule of 7｜双原子分子 H-7 法则</title>
   <rect width="900" height="312" fill="#FFFFFF"/>
-  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">图 1-2　双原子分子：H-7 法则｜Diatomic Molecules (Rule of 7)</text>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 1-2　Diatomic Molecules: Rule of 7｜双原子分子 H-7 法则</text>
   <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
-        text-anchor="end">BC Science 10 · 这 7 种元素的单质必须写成双原子形式</text>
+        text-anchor="end">these 7 are always diatomic｜这 7 种必须双原子</text>
   <rect x="62" y="62" width="104" height="84" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="114.0" y="90" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">H₂</text>
-  <text x="114.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氢 Hydrogen</text>
+  <text x="114.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Hydrogen 氢</text>
   <text x="114.0" y="133" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Z = 1</text>
   <rect x="174" y="62" width="104" height="84" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="226.0" y="90" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">N₂</text>
-  <text x="226.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氮 Nitrogen</text>
+  <text x="226.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Nitrogen 氮</text>
   <text x="226.0" y="133" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Z = 7</text>
   <rect x="286" y="62" width="104" height="84" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="338.0" y="90" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">O₂</text>
-  <text x="338.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氧 Oxygen</text>
+  <text x="338.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Oxygen 氧</text>
   <text x="338.0" y="133" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Z = 8</text>
   <rect x="398" y="62" width="104" height="84" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="450.0" y="90" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">F₂</text>
-  <text x="450.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氟 Fluorine</text>
+  <text x="450.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Fluorine 氟</text>
   <text x="450.0" y="133" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Z = 9</text>
   <rect x="510" y="62" width="104" height="84" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="562.0" y="90" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Cl₂</text>
-  <text x="562.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氯 Chlorine</text>
+  <text x="562.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Chlorine 氯</text>
   <text x="562.0" y="133" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Z = 17</text>
   <rect x="622" y="62" width="104" height="84" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="674.0" y="90" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">Br₂</text>
-  <text x="674.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">溴 Bromine</text>
+  <text x="674.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Bromine 溴</text>
   <text x="674.0" y="133" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Z = 35</text>
   <rect x="734" y="62" width="104" height="84" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
   <text x="786.0" y="90" font-size="22" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">I₂</text>
-  <text x="786.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">碘 Iodine</text>
+  <text x="786.0" y="118" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Iodine 碘</text>
   <text x="786.0" y="133" font-size="8.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Z = 53</text>
   <rect x="24" y="166" width="852" height="56" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
-  <text x="450" y="186" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">英文记忆：Have No Fear Of Ice Cold Beer　（H-N-O-F-Cl-Br-I）</text>
-  <text x="450" y="206" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">中文记忆：氢 氮 氧 氟 氯 溴 碘 —— 除这 7 种之外，其余元素的单质写单原子</text>
+  <text x="450" y="186" font-size="11.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Mnemonic: Have No Fear Of Ice Cold Beer　(H-N-O-F-Cl-Br-I)</text>
+  <text x="450" y="206" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">氢 氮 氧 氟 氯 溴 碘 — every other element appears as single atoms｜除这 7 种外，其余单质写单原子</text>
   <rect x="24" y="238" width="852" height="56" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
-  <text x="450" y="258" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">还有两个「多原子单质」Also: P₄ · S₈</text>
-  <text x="450" y="278" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">磷 phosphorus 写作 P₄，硫 sulfur 写作 S₈ —— 配平时写成单原子 P / S 是最常见的丢分点</text>
+  <text x="450" y="258" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">Two polyatomic elements: P₄ · S₈｜还有两个多原子单质</text>
+  <text x="450" y="278" font-size="10.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Phosphorus is P₄ and sulfur is S₈ — writing single P / S in equations is a classic lost mark｜磷写 P₄、硫写 S₈，配平写成单原子是最常见丢分点</text>
 </svg>

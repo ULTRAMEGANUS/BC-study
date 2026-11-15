@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 366" width="900"
+     height="366" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 3-4　Four Classic Balancing Errors｜四类典型配平错误</title>
+  <rect width="900" height="366" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 3-4　Four Classic Balancing Errors｜四类典型配平错误</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">all cost marks｜都是丢分点</text>
+  <rect x="24" y="54" width="420" height="112" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="40" y="74" font-size="10.8" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">① Changing a subscript｜改下标</text>
+  <text x="40" y="100" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">✗  H₂ + O₂ → H₂O₂</text>
+  <text x="40" y="120" font-size="9" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">that is hydrogen peroxide, a different substance</text>
+  <text x="40" y="148" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">✓  2 H₂ + O₂ → 2 H₂O</text>
+  <rect x="456" y="54" width="420" height="112" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="472" y="74" font-size="10.8" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">② Forgetting a diatomic element｜漏写双原子</text>
+  <text x="472" y="100" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">✗  H₂ + O → H₂O</text>
+  <text x="472" y="120" font-size="9" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">elemental oxygen is O₂, never O</text>
+  <text x="472" y="148" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">✓  2 H₂ + O₂ → 2 H₂O</text>
+  <rect x="24" y="176" width="420" height="112" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="40" y="196" font-size="10.8" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">③ Not reducing to lowest terms｜未约简</text>
+  <text x="40" y="222" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">✗  4 H₂ + 2 O₂ → 4 H₂O</text>
+  <text x="40" y="242" font-size="9" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">divide every coefficient by 2</text>
+  <text x="40" y="270" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">✓  2 H₂ + O₂ → 2 H₂O</text>
+  <rect x="456" y="176" width="420" height="112" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="472" y="196" font-size="10.8" font-weight="700" fill="#2C2C2A" text-anchor="start" dominant-baseline="central">④ Splitting a polyatomic group｜拆原子团</text>
+  <text x="472" y="222" font-size="11.5" font-weight="700" fill="#A32D2D" text-anchor="start" dominant-baseline="central">✗  3 CaOH₂ + 2 H₃PO₄</text>
+  <text x="472" y="242" font-size="9" fill="#5F5E5A" text-anchor="start" dominant-baseline="central">the brackets belong to the group: Ca(OH)₂</text>
+  <text x="472" y="270" font-size="11.2" font-weight="700" fill="#3B6D11" text-anchor="start" dominant-baseline="central">✓  3 Ca(OH)₂ + 2 H₃PO₄ → Ca₃(PO₄)₂ + 6 H₂O</text>
+  <rect x="24" y="300" width="852" height="46" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="450" y="317" font-size="10.5" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Every error above is checkable in 30 seconds with the count table (Fig. 3-2)</text>
+  <text x="450" y="336" font-size="9.5" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">上面四类错误，用 Fig. 3-2 的计数表 30 秒就能查出来</text>
+</svg>

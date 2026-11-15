@@ -95,47 +95,46 @@ def wrap(inner):
 def fig_ch01_periodic_charge_map():
     """周期表电荷图：8 个主族 + 过渡金属条带。"""
     w, H = 900, 314
-    s = head(w, H, "图 1-1　周期表电荷图｜Periodic Table Charge Map",
-             "BC Science 10 · 主族看族号定电荷，过渡金属多变价")
+    s = head(w, H, "Fig. 1-1　Periodic Table Charge Map｜周期表电荷图",
+             "main groups: charge from group no.｜主族看族号定电荷")
 
     groups = [
-        ("Group 1", "Na", "+1", "碱金属", "Alkali", BLUE_D, BLUE, BLUE_BG),
-        ("Group 2", "Mg", "+2", "碱土金属", "Alkaline earth",
+        ("Group 1", "Na", "+1", "Alkali 碱金属", BLUE_D, BLUE, BLUE_BG),
+        ("Group 2", "Mg", "+2", "Alkaline earth 碱土金属",
          BLUE_D, BLUE, BLUE_BG),
-        ("Group 13", "Al", "+3", "硼族", "Boron", BLUE_D, BLUE, BLUE_BG),
-        ("Group 14", "C", "±4", "碳族", "Carbon", SUB, EDGE, NEUTRAL_BG),
-        ("Group 15", "N", "−3", "氮族", "Nitrogen",
+        ("Group 13", "Al", "+3", "Boron 硼族", BLUE_D, BLUE, BLUE_BG),
+        ("Group 14", "C", "±4", "Carbon 碳族", SUB, EDGE, NEUTRAL_BG),
+        ("Group 15", "N", "−3", "Nitrogen 氮族",
          ORANGE_D, ORANGE, ORANGE_BG),
-        ("Group 16", "O", "−2", "氧族", "Oxygen",
+        ("Group 16", "O", "−2", "Oxygen 氧族",
          ORANGE_D, ORANGE, ORANGE_BG),
-        ("Group 17", "Cl", "−1", "卤素", "Halogen",
+        ("Group 17", "Cl", "−1", "Halogen 卤素",
          ORANGE_D, ORANGE, ORANGE_BG),
-        ("Group 18", "Ne", "0", "稀有气体", "Noble gas", SUB, EDGE, NEUTRAL_BG),
+        ("Group 18", "Ne", "0", "Noble gas 稀有气体", SUB, EDGE, NEUTRAL_BG),
     ]
 
     y0, bh, pitch, bw, x0 = 62, 110, 109, 101, 18
-    for i, (g, sym, chg, cn, en, col, edge, bg) in enumerate(groups):
+    for i, (g, sym, chg, label, col, edge, bg) in enumerate(groups):
         x = x0 + i * pitch
         s += box(x, y0, bw, bh, bg, edge, 1.1)
         s += txt(x + bw / 2, y0 + 16, g, 9.5, SUB, "600")
         s += txt(x + bw / 2, y0 + 41, sym, 21, INK, "700")
         s += txt(x + bw / 2, y0 + 68, chg, 18, col, "700")
-        s += txt(x + bw / 2, y0 + 90, cn, 9.5, SUB)
-        s += txt(x + bw / 2, y0 + 103, en, 8.5, SUB)
+        s += txt(x + bw / 2, y0 + 97, label, 9.5, SUB)
 
     sy, sh = 186, 62
     s += box(18, sy, 864, sh, NEUTRAL_BG, LINE, 1.0)
-    s += txt(450, sy + 21, "Groups 3–12　TRANSITION METALS 过渡金属",
+    s += txt(450, sy + 21, "Groups 3–12 · Transition Metals｜过渡金属",
              13, ORANGE_D, "700")
     s += txt(450, sy + 43,
-             "multivalent 多变价 —— 电荷看罗马数字，或由化合物的名称／化学式反推"
+             "Multivalent 多变价 — charge from Roman numerals or the name / formula of the compound"
              "（Fe²⁺ / Fe³⁺、Cu⁺ / Cu²⁺）", 10.5, SUB)
 
     ny, nh = 262, 42
     s += box(18, ny, 864, nh, "#FFFFFF", EDGE, 0.9)
-    s += txt(450, ny + 15, "同族电荷相同 ⇐ 因为它们最外层电子数相同", 11.5, INK, "700")
+    s += txt(450, ny + 15, "Same group → same charge ⇐ same number of valence electrons｜同族电荷相同 ⇐ 最外层电子数相同", 11.5, INK, "700")
     s += txt(450, ny + 32,
-             "这一步就是全册起点：电子排布 → 离子电荷 → 化学式 → 化学方程式", 10, SUB)
+             "Where the whole unit starts: electron arrangement → ion charge → formula → equation｜全册起点", 10, SUB)
     return wrap(s)
 
 
@@ -143,13 +142,13 @@ def fig_ch01_periodic_charge_map():
 def fig_ch01_diatomic_h7():
     """双原子分子 H-7 法则：7 个双原子 + P₄ / S₈ 特殊情形。"""
     w, H = 900, 312
-    s = head(w, H, "图 1-2　双原子分子：H-7 法则｜Diatomic Molecules (Rule of 7)",
-             "BC Science 10 · 这 7 种元素的单质必须写成双原子形式")
+    s = head(w, H, "Fig. 1-2　Diatomic Molecules: Rule of 7｜双原子分子 H-7 法则",
+             "these 7 are always diatomic｜这 7 种必须双原子")
 
-    items = [("H₂", "氢 Hydrogen", 1), ("N₂", "氮 Nitrogen", 7),
-             ("O₂", "氧 Oxygen", 8), ("F₂", "氟 Fluorine", 9),
-             ("Cl₂", "氯 Chlorine", 17), ("Br₂", "溴 Bromine", 35),
-             ("I₂", "碘 Iodine", 53)]
+    items = [("H₂", "Hydrogen 氢", 1), ("N₂", "Nitrogen 氮", 7),
+             ("O₂", "Oxygen 氧", 8), ("F₂", "Fluorine 氟", 9),
+             ("Cl₂", "Chlorine 氯", 17), ("Br₂", "Bromine 溴", 35),
+             ("I₂", "Iodine 碘", 53)]
 
     y0, bh, pitch, bw, x0 = 62, 84, 112, 104, 62
     for i, (sym, name, z) in enumerate(items):
@@ -162,19 +161,19 @@ def fig_ch01_diatomic_h7():
     y1 = y0 + bh + 20
     s += box(24, y1, 852, 56, NEUTRAL_BG, LINE, 1.0)
     s += txt(450, y1 + 20,
-             "英文记忆：Have No Fear Of Ice Cold Beer　（H-N-O-F-Cl-Br-I）",
+             "Mnemonic: Have No Fear Of Ice Cold Beer　(H-N-O-F-Cl-Br-I)",
              11.5, INK, "600")
     s += txt(450, y1 + 40,
-             "中文记忆：氢 氮 氧 氟 氯 溴 碘 —— 除这 7 种之外，其余元素的单质写单原子",
+             "氢 氮 氧 氟 氯 溴 碘 — every other element appears as single atoms｜除这 7 种外，其余单质写单原子",
              10.5, SUB)
 
     y2 = y1 + 56 + 16
     s += box(24, y2, 852, 56, ORANGE_BG, ORANGE, 1.1)
-    s += txt(450, y2 + 20, "还有两个「多原子单质」Also: P₄ · S₈",
+    s += txt(450, y2 + 20, "Two polyatomic elements: P₄ · S₈｜还有两个多原子单质",
              12, ORANGE_D, "700")
     s += txt(450, y2 + 40,
-             "磷 phosphorus 写作 P₄，硫 sulfur 写作 S₈ —— 配平时写成单原子 P / S 是最常见的丢分点",
-             10.5, SUB)
+             "Phosphorus is P₄ and sulfur is S₈ — writing single P / S in equations is a classic lost mark"
+             "｜磷写 P₄、硫写 S₈，配平写成单原子是最常见丢分点", 10.5, SUB)
     return wrap(s)
 
 
@@ -182,20 +181,20 @@ def fig_ch01_diatomic_h7():
 def fig_ch01_naming_order():
     """英中命名顺序相反：先金属 vs 先非金属。"""
     w, H = 900, 380
-    s = head(w, H, "图 1-3　英中命名顺序相反｜English vs Chinese Naming Order",
-             "BC Science 10 · 英文 metal 在前，中文 非金属 在前")
+    s = head(w, H, "Fig. 1-3　English vs Chinese Naming Order｜英中命名顺序相反",
+             "metal first vs non-metal first｜顺序相反")
 
     # 两栏面板头
     s += box(24, 58, 414, 32, BLUE_BG, BLUE, 1.1)
-    s += txt(231, 74, "ENGLISH — metal 在前", 12, BLUE_D, "700")
+    s += txt(231, 74, "ENGLISH — metal first｜金属在前", 12, BLUE_D, "700")
     s += box(462, 58, 414, 32, ORANGE_BG, ORANGE, 1.1)
-    s += txt(669, 74, "中文 — 非金属 在前（顺序相反）", 12, ORANGE_D, "700")
+    s += txt(669, 74, "中文 CHINESE — non-metal first｜非金属在前（顺序相反）", 12, ORANGE_D, "700")
 
     # 例 1：NaCl 拆词
     y, ch = 104, 52
     s += box(54, y, 152, ch, "#FFFFFF", BLUE, 1.1)
     s += txt(130, y + 20, "sodium", 14, BLUE_D, "700")
-    s += txt(130, y + 38, "metal 金属", 9, SUB)
+    s += txt(130, y + 38, "metal｜金属", 9, SUB)
     s += txt(219, y + 26, "→", 16, LINE)
     s += box(232, y, 176, ch, "#FFFFFF", ORANGE, 1.1)
     s += txt(320, y + 20, "chloride", 14, ORANGE_D, "700")
@@ -203,12 +202,12 @@ def fig_ch01_naming_order():
 
     s += box(507, y, 120, ch, "#FFFFFF", ORANGE, 1.1)
     s += txt(567, y + 20, "氯", 14, ORANGE_D, "700")
-    s += txt(567, y + 38, "非金属", 9, SUB)
+    s += txt(567, y + 38, "non-metal｜非金属", 9, SUB)
     s += box(637, y, 64, ch, NEUTRAL_BG, EDGE, 1.1)
     s += txt(669, y + 26, "化", 14, INK, "700")
     s += box(711, y, 120, ch, "#FFFFFF", BLUE, 1.1)
     s += txt(771, y + 20, "钠", 14, BLUE_D, "700")
-    s += txt(771, y + 38, "金属", 9, SUB)
+    s += txt(771, y + 38, "metal｜金属", 9, SUB)
 
     # 例 2 / 例 3
     def row(yy, formula, en, en_note, cn, cn_note, cn_col=BLUE_D):
@@ -220,18 +219,18 @@ def fig_ch01_naming_order():
         t += txt(665, yy + 42, cn_note, 10, SUB)
         return t
 
-    s += row(y + ch + 18, "MgF₂", "magnesium fluoride", "金属名 + 非金属-ide",
+    s += row(y + ch + 18, "MgF₂", "magnesium fluoride", "metal name + non-metal-ide",
              "氟化镁", "非金属 + 化 + 金属")
     s += row(y + ch + 18 + 62, "Fe₂S₃", "iron(III) sulfide",
-             "多变价金属必须写罗马数字",
+             "multivalent metal needs a Roman numeral",
              "硫化铁（Ⅲ）", "中文可写「(Ⅲ)」或沿用旧称「高铁/亚铁」")
 
     y4 = y + ch + 18 + 62 + 58 + 18
     s += box(24, y4, 852, 52, "#FFFFFF", RED, 1.1)
     s += txt(450, y4 + 17, "常见错误 Common errors", 11.5, RED, "700")
     s += txt(450, y4 + 37,
-             "sodium monochloride（离子化合物不加希腊前缀）　钠化氯（中文顺序写反）"
-             "　copper chloride（多变价漏罗马数字）", 10.5, INK)
+             "sodium monochloride (no Greek prefixes) · 钠化氯 (wrong order) ·"
+             " copper chloride (missing Roman numeral)｜离子化合物不加前缀 · 中文顺序勿反 · 变价须标数字", 10.5, INK)
     return wrap(s)
 
 
@@ -239,27 +238,27 @@ def fig_ch01_naming_order():
 def fig_ch01_acid_base_salt():
     """酸 / 碱 / 盐 的化学式特征：三栏对照。"""
     w, H = 900, 316
-    s = head(w, H, "图 1-4　酸碱盐的化学式特征｜Acids, Bases and Salts",
-             "BC Science 10 · 先看化学式的首尾，再判类别")
+    s = head(w, H, "Fig. 1-4　Acids, Bases and Salts｜酸碱盐的化学式特征",
+             "look at the start and end of the formula｜看化学式首尾")
 
     panels = [
-        (24, "ACID 酸", BLUE_BG, BLUE, BLUE_D, "以 H 开头 starts with H",
+        (24, "ACID 酸", BLUE_BG, BLUE, BLUE_D, "starts with H｜以 H 开头",
          [("HCl", "hydrochloric acid"), ("H₂SO₄", "sulfuric acid"),
           ("HNO₃", "nitric acid"), ("H₃PO₄", "phosphoric acid"),
           ("CH₃COOH", "acetic acid")],
-         "→ 水溶液能给出 H⁺（Ch.7 展开）"),
-        (314, "BASE 碱", ORANGE_BG, ORANGE, ORANGE_D, "以 OH 结尾 ends with OH",
+         "donates H⁺ in water｜水溶液给出 H⁺（Ch.7 展开）"),
+        (314, "BASE 碱", ORANGE_BG, ORANGE, ORANGE_D, "ends with OH｜以 OH 结尾",
          [("NaOH", "sodium hydroxide"), ("KOH", "potassium hydroxide"),
           ("Ca(OH)₂", "calcium hydroxide"), ("Mg(OH)₂", "magnesium hydroxide"),
-          ("NH₃", "ammonia（唯一常见例外，不含 OH）")],
-         "→ 水溶液能给出 OH⁻；滑腻、味苦"),
+          ("NH₃", "ammonia — the common exception, no OH｜唯一常见例外")],
+         "gives OH⁻ in water; slippery, bitter｜水溶液给出 OH⁻；滑腻、味苦"),
         (604, "SALT 盐", GREEN_BG, GREEN, GREEN,
-         "金属 + 非金属 的离子化合物",
+         "ionic: metal + non-metal｜金属 + 非金属",
          [("NaCl", "sodium chloride"), ("KNO₃", "potassium nitrate"),
           ("CaCO₃", "calcium carbonate"),
           ("(NH₄)₂SO₄", "ammonium sulfate"),
           ("KMnO₄", "potassium permanganate")],
-         "→ 多由 酸 + 碱 中和得到（Ch.7）"),
+         "from acid + base neutralization (Ch.7)｜多由酸碱中和"),
     ]
 
     for x, title, bg, edge, col, lead, rows, note in panels:
@@ -275,10 +274,10 @@ def fig_ch01_acid_base_salt():
 
     by = 258
     s += box(24, by, 852, 44, NEUTRAL_BG, LINE, 1.0)
-    s += txt(450, by + 16, "判定顺序 How to tell", 11.5, INK, "700")
+    s += txt(450, by + 16, "How to tell｜判定顺序", 11.5, INK, "700")
     s += txt(450, by + 32,
-             "无金属 + 以 H 开头 = 酸　｜　有金属 + 以 OH 结尾 = 碱　｜　"
-             "金属 + 非金属（或多原子离子）= 盐", 10.5, SUB)
+             "no metal + starts with H → acid　|　metal + ends with OH → base　|　"
+             "metal + non-metal → salt｜无金属+H头=酸 · 金属+OH尾=碱 · 金属+非金属=盐", 10.5, SUB)
     return wrap(s)
 
 
@@ -286,33 +285,33 @@ def fig_ch01_acid_base_salt():
 def fig_ch02_atom_rearrange():
     """化学反应 = 原子重排：反应前后原子种类与数目不变。"""
     w, H = 900, 344
-    s = head(w, H, "图 2-1　化学反应 = 原子重排｜Atoms Rearrange",
-             "BC Science 10 · 旧键断裂、新键形成，原子一个不多一个不少")
+    s = head(w, H, "Fig. 2-1　A Chemical Reaction Rearranges Atoms｜化学反应 = 原子重排",
+             "atoms are conserved｜原子不增减")
     s += ARROW_DEF
 
     # ---- 左：反应物
     s += box(24, 58, 340, 176, "#FFFFFF", EDGE, 1.0)
-    s += txt(194, 78, "反应前 BEFORE（反应物 reactants）", 11.5, BLUE_D, "700")
+    s += txt(194, 78, "BEFORE — reactants｜反应前（反应物）", 11.5, BLUE_D, "700")
     for cx in (82, 122):
         s += circ(cx, 132, 21, BLUE_BG, BLUE)
         s += txt(cx, 132, "H", 15, BLUE_D, "700")
-    s += txt(102, 166, "H₂ 氢", 10.5, SUB)
+    s += txt(102, 166, "H₂ hydrogen", 10.5, SUB)
     s += txt(176, 132, "+", 18, LINE, "700")
     for cx in (228, 268):
         s += circ(cx, 132, 21, ORANGE_BG, ORANGE)
         s += txt(cx, 132, "O", 15, ORANGE_D, "700")
-    s += txt(248, 166, "O₂ 氧", 10.5, SUB)
-    s += txt(194, 206, "共 4 个 H 原子　2 个 O 原子", 10.5, INK, "600")
+    s += txt(248, 166, "O₂ oxygen", 10.5, SUB)
+    s += txt(194, 206, "4 H atoms · 2 O atoms｜共 4 个 H、2 个 O", 10.5, INK, "600")
 
     # ---- 中间箭头
     s += ln(386, 132, 508, 132, LINE, 2.0)
     s += '  <path d="M508 125 L522 132 L508 139 Z" fill="#888780"/>\n'
-    s += txt(450, 108, "原子重排", 11.5, INK, "700")
-    s += txt(450, 156, "rearrange", 10, SUB)
+    s += txt(450, 108, "atoms rearrange", 11.5, INK, "700")
+    s += txt(450, 156, "原子重排", 10, SUB)
 
     # ---- 右：生成物
     s += box(536, 58, 340, 176, "#FFFFFF", EDGE, 1.0)
-    s += txt(706, 78, "反应后 AFTER（生成物 products）", 11.5, ORANGE_D, "700")
+    s += txt(706, 78, "AFTER — products｜反应后（生成物）", 11.5, ORANGE_D, "700")
     for base in (600, 746):
         s += circ(base, 132, 20, BLUE_BG, BLUE)
         s += txt(base, 132, "H", 14, BLUE_D, "700")
@@ -320,17 +319,17 @@ def fig_ch02_atom_rearrange():
         s += txt(base + 38, 132, "O", 16, ORANGE_D, "700")
         s += circ(base + 76, 132, 20, BLUE_BG, BLUE)
         s += txt(base + 76, 132, "H", 14, BLUE_D, "700")
-        s += txt(base + 38, 168, "H₂O 水", 10.5, SUB)
+        s += txt(base + 38, 168, "H₂O water", 10.5, SUB)
 
     # ---- 底部：原子计数
     s += box(24, 252, 852, 74, NEUTRAL_BG, LINE, 1.0)
-    s += txt(450, 272, "原子计数 Atom count", 11.5, INK, "700")
+    s += txt(450, 272, "Atom count｜原子计数", 11.5, INK, "700")
     s += txt(450, 294,
-             "H：4 → 4　　O：2 → 2　　—— 种类不变、数目不变，只有「搭档」换了",
-             11, INK)
+             "H: 4 → 4　O: 2 → 2 — same kinds, same numbers; only partners change"
+             "｜种类数目不变，只有「搭档」换了", 11, INK)
     s += txt(450, 314,
-             "这就是 Big Idea 中 atoms rearrange（原子重排）的字面含义，"
-             "也是 Ch.4 质量守恒定律的微观依据", 10, SUB)
+             "The literal meaning of the Big Idea — and the microscopic basis of Ch.4 conservation of mass"
+             "｜Big Idea 的字面含义，也是 Ch.4 质量守恒的微观依据", 10, SUB)
     return wrap(s)
 
 
@@ -338,21 +337,21 @@ def fig_ch02_atom_rearrange():
 def fig_ch02_evidence():
     """化学变化的六大证据。"""
     w, H = 900, 322
-    s = head(w, H, "图 2-2　化学变化的六大证据｜Evidence of Change",
-             "BC Science 10 · 多类证据同时出现，才更可能是化学变化")
+    s = head(w, H, "Fig. 2-2　Evidence of Chemical Change｜化学变化的六大证据",
+             "several cues together｜多证据同现")
     cards = [
-        ("① 变色 Colour change",
-         ["铁生锈、切开的苹果变褐、", "石蕊遇酸变红"], BLUE_BG, BLUE, BLUE_D),
-        ("② 产气 Gas produced",
-         ["气泡冒出：Zn + HCl、", "NaHCO₃ + CH₃COOH"], BLUE_BG, BLUE, BLUE_D),
-        ("③ 沉淀 Precipitate",
-         ["两瓶澄清溶液一混就变浑浊：", "Pb(NO₃)₂ + KI → PbI₂↓"], ORANGE_BG, ORANGE, ORANGE_D),
-        ("④ 温度变化 Temperature",
-         ["放热升温（燃烧、生石灰加水）", "或吸热降温（冰袋）"], ORANGE_BG, ORANGE, ORANGE_D),
-        ("⑤ 发光 Light given off",
-         ["镁条燃烧发出耀眼白光、", "火焰、火星四溅"], GREEN_BG, GREEN, GREEN),
-        ("⑥ 新气味 New odour",
-         ["腐败的臭鸡蛋味（H₂S）、", "酯类的水果香味"], GREEN_BG, GREEN, GREEN),
+        ("① Colour change 变色",
+         ["iron rusts; a cut apple browns", "石蕊遇酸变红"], BLUE_BG, BLUE, BLUE_D),
+        ("② Gas produced 产气",
+         ["bubbles: Zn + HCl,", "NaHCO₃ + CH₃COOH"], BLUE_BG, BLUE, BLUE_D),
+        ("③ Precipitate 沉淀",
+         ["two clear solutions turn cloudy:", "Pb(NO₃)₂ + KI → PbI₂↓"], ORANGE_BG, ORANGE, ORANGE_D),
+        ("④ Temperature change 温度变化",
+         ["rises: burning, CaO + H₂O", "or drops: cold pack 吸热降温"], ORANGE_BG, ORANGE, ORANGE_D),
+        ("⑤ Light given off 发光",
+         ["burning Mg gives a dazzling", "white light 耀眼白光"], GREEN_BG, GREEN, GREEN),
+        ("⑥ New odour 新气味",
+         ["rotten-egg smell (H₂S);", "fruity ester smell 水果香"], GREEN_BG, GREEN, GREEN),
     ]
     for i, (title, lines, bg, edge, col) in enumerate(cards):
         x = 20 + (i % 3) * 288
@@ -363,12 +362,12 @@ def fig_ch02_evidence():
         s += txt(x + 136, y + 64, lines[1], 9.5, INK)
 
     s += box(20, 250, 860, 58, "#FFFFFF", RED, 1.1)
-    s += txt(450, 268, "⚠️ 单一证据 ≠ 化学变化", 11, RED, "700")
+    s += txt(450, 268, "⚠️ One piece of evidence ≠ chemical change｜单一证据 ≠ 化学变化", 11, RED, "700")
     s += txt(450, 286,
-             "冰熔化是状态变化、糖溶于水也会让温度变 —— 都属物理变化。"
-             "判据要看有没有新物质生成，", 10, INK)
+             "Melting ice and dissolving sugar are physical changes — the test is whether a NEW substance forms"
+             "｜判据是有没有新物质生成，", 10, INK)
     s += txt(450, 301,
-             "本质是原子有没有重新组合（Ch.4 会给出原子层面的解释）", 10, SUB)
+             "i.e. whether atoms have rearranged (Ch.4 explains why)｜本质是原子有没有重排（Ch.4）", 10, SUB)
     return wrap(s)
 
 
@@ -376,21 +375,21 @@ def fig_ch02_evidence():
 def fig_ch02_equation_ladder():
     """三级台阶：文字方程式 → 骨架方程式 → 配平方程式。"""
     w, H = 900, 372
-    s = head(w, H, "图 2-3　方程式的三级台阶｜Word → Skeleton → Balanced",
-             "BC Science 10 · 逐级走，不能跳级")
+    s = head(w, H, "Fig. 2-3　Word → Skeleton → Balanced｜方程式的三级台阶",
+             "climb one step at a time｜逐级走，不跳级")
 
     panels = [
-        (24, 118, "① 文字方程式 Word equation", BLUE_BG, BLUE, BLUE_D,
+        (24, 118, "① Word equation 文字方程式", BLUE_BG, BLUE, BLUE_D,
          ["methane + oxygen", "→ carbon dioxide + water",
           "甲烷 + 氧气 → 二氧化碳 + 水"],
-         ["只写物质名称、不写化学式", "题目多以这种日常语言给出"]),
-        (314, 88, "② 骨架方程式 Skeleton equation", ORANGE_BG, ORANGE, ORANGE_D,
+         ["names only, no formulas｜只写名称不写化学式", "word problems start here｜题目的原始形态"]),
+        (314, 88, "② Skeleton equation 骨架方程式", ORANGE_BG, ORANGE, ORANGE_D,
          ["CH₄ + O₂", "→ CO₂ + H₂O",
-          "化学式对，系数空着"],
-         ["化学式全部写对（Ch.1）", "此时**尚未配平**"]),
-        (604, 58, "③ 配平方程式 Balanced equation", GREEN_BG, GREEN, GREEN,
+          "formulas right, coefficients blank｜化学式对系数空着"],
+         ["all formulas correct (Ch.1)｜化学式全写对", "NOT balanced yet｜此时尚未配平"]),
+        (604, 58, "③ Balanced equation 配平方程式", GREEN_BG, GREEN, GREEN,
          ["CH₄ + 2 O₂", "→ CO₂ + 2 H₂O",
-          "系数齐全"],
+          "coefficients in place｜系数齐全"],
          ["验算：C 1=1、H 4=4、", "O 4=4 ✓（Ch.3）"]),
     ]
     for x, y0, chip, bg, edge, col, body, notes in panels:
@@ -406,11 +405,10 @@ def fig_ch02_equation_ladder():
 
     s += box(20, 310, 860, 52, NEUTRAL_BG, LINE, 1.0)
     s += txt(450, 328,
-             "台阶不能跳：先认物质，再写化学式，最后才配平 —— 配平永远只改系数，不改下标",
-             10.5, INK, "600")
+             "Never skip a step: identify → write formulas → balance; only coefficients change, never subscripts"
+             "｜不能跳级；配平只改系数，不改下标", 10.5, INK, "600")
     s += txt(450, 346,
-             "学校复习卷两种给法：给物质名称（要你写化学式）／给化学式（只要配平）",
-             9.5, SUB)
+             "Worksheets give either names (you write formulas) or formulas (you just balance)｜学校卷两种给法", 9.5, SUB)
     return wrap(s)
 
 
@@ -418,8 +416,8 @@ def fig_ch02_equation_ladder():
 def fig_ch02_equation_anatomy():
     """方程式的六个零件：系数 / 化学式 / 状态符号 / 箭头 / 条件 / 下标。"""
     w, H = 900, 460
-    s = head(w, H, "图 2-4　化学方程式的六个零件｜Anatomy of a Chemical Equation",
-             "BC Science 10 · 每一处都有规矩")
+    s = head(w, H, "Fig. 2-4　Anatomy of a Chemical Equation｜化学方程式六个零件",
+             "every position has a rule｜每一处都有规矩")
 
     # ---- 大方程式
     s += box(24, 54, 852, 88, "#FFFFFF", EDGE, 1.0)
@@ -437,25 +435,25 @@ def fig_ch02_equation_anatomy():
     # ---- 中文读法
     s += box(24, 152, 852, 52, NEUTRAL_BG, LINE, 1.0)
     s += txt(450, 170,
-             "读作：2 个氢分子 + 1 个氧分子　生成　2 个水分子", 11, INK, "700")
+             "Read: 2 hydrogen molecules + 1 oxygen molecule → 2 water molecules｜2 个氢分子 + 1 个氧分子 → 2 个水分子", 11, INK, "700")
     s += txt(450, 190,
-             "系数读「几个分子」，下标读「一个分子里有几个原子」—— 两者位置与含义完全不同",
-             10, SUB)
+             "Coefficients count molecules; subscripts count atoms within one molecule"
+             "｜系数数分子、下标数原子，位置与含义完全不同", 10, SUB)
 
     # ---- 六个零件
     cards = [
-        ("① 系数 Coefficient", ORANGE_D,
-         "写在化学式**前面**的数字，", "配平时只能改它：2 H₂O = 2 个水分子"),
-        ("② 下标 Subscript", BLUE_D,
-         "写在元素符号**右下角**，", "H₂O 里有 2 个 H —— 配平时绝不能改"),
-        ("③ 化学式 Formula", INK,
-         "每种物质必须写对（Ch.1）；", "双原子分子写 H₂ / O₂ / N₂ / Cl₂"),
-        ("④ 状态符号 State symbol", BLUE,
-         "(s) 固　(l) 液　(g) 气　(aq) 水溶液", "食盐水是 NaCl(aq)，不是 NaCl(l)"),
-        ("⑤ 箭头 Arrow", INK,
-         "读作「生成 / 变成」，不能写成等号 =", "方向不能反；可逆反应用 ⇌【Ext.】"),
-        ("⑥ 反应条件 Condition", GREEN,
-         "写在箭头**上 / 下**，表示反应条件", "Δ 加热 · catalyst 催化剂 · light 光照"),
+        ("① Coefficient 系数", ORANGE_D,
+         "the number IN FRONT of a formula｜写在化学式前面", "the only thing you may change: 2 H₂O = 2 molecules"),
+        ("② Subscript 下标", BLUE_D,
+         "bottom-right of a symbol｜元素符号右下角", "H₂O has 2 H — never change it｜配平绝不能改"),
+        ("③ Formula 化学式", INK,
+         "every formula must be correct (Ch.1)｜每种物质写对", "diatomic: H₂ / O₂ / N₂ / Cl₂"),
+        ("④ State symbol 状态符号", BLUE,
+         "(s) solid (l) liquid (g) gas (aq) aqueous｜固液气水溶液", "salt water is NaCl(aq), not NaCl(l)｜不是 NaCl(l)"),
+        ("⑤ Arrow 箭头", INK,
+         "means yields — never an equals sign｜读作生成，不写等号", "reversible reactions use ⇌ (extension)｜可逆用 ⇌"),
+        ("⑥ Condition 反应条件", GREEN,
+         "written above / below the arrow｜写在箭头上或下", "Δ heat · catalyst 催化剂 · light 光照"),
     ]
     for i, (title, col, l1, l2) in enumerate(cards):
         x = 20 + (i % 3) * 288
@@ -467,10 +465,10 @@ def fig_ch02_equation_anatomy():
 
     s += box(20, 398, 860, 50, "#FFFFFF", RED, 1.1)
     s += txt(450, 415,
-             "⛔ 配平只动系数，绝不动下标 —— 改下标就是改物质本身"
-             "（CO₂ 改成 CO 就不再是二氧化碳）", 10.5, RED, "600")
+             "⛔ Balance by coefficients only, never subscripts — changing a subscript changes the substance"
+             "（CO₂ → CO 不再是二氧化碳）", 10.5, RED, "600")
     s += txt(450, 433,
-             "验算方法见 Ch.3：列一张左右原子计数表，两边全等才算配平完成", 9.5, SUB)
+             "Verification (Ch.3): count atoms on both sides — all equal = balanced｜验算见 Ch.3", 9.5, SUB)
     return wrap(s)
 
 
@@ -478,21 +476,21 @@ def fig_ch02_equation_anatomy():
 def fig_ch02_words_to_equation():
     """从文字描述到配平方程式：四步法。"""
     w, H = 900, 430
-    s = head(w, H, "图 2-5　从文字描述到配平方程式：四步法｜Words → Balanced Equation",
-             "BC Science 10 · WS1 p2 / WS2 p1 常考题型")
+    s = head(w, H, "Fig. 2-5　Words → Balanced Equation: 4 Steps｜文字描述到配平四步法",
+             "school review sheets｜学校复习卷题型")
 
     steps = [
-        ("1", "划出反应物与生成物",
+        ("1", "Underline reactants and products｜划出反应物与生成物",
          "Potassium metal reacts with water to produce potassium hydroxide and hydrogen gas.",
          "K + H₂O → KOH + H₂", BLUE_BG, BLUE, BLUE_D),
-        ("2", "把每个名称写成化学式（Ch.1）",
-         "钾 K（金属单质写单原子）；水 H₂O；氢氧化钾 KOH；氢气 H₂（双原子分子！）",
+        ("2", "Turn every name into a formula (Ch.1)｜名称 → 化学式",
+         "K (metal, single atom); water H₂O; KOH; hydrogen H₂ (diatomic!)｜氢气是双原子！",
          "K + H₂O → KOH + H₂", ORANGE_BG, ORANGE, ORANGE_D),
-        ("3", "补状态符号与条件",
-         "题目里的 solid / liquid / aqueous / gas 分别对应 (s)(l)(g)(aq)；「加热」写在箭头上",
+        ("3", "Add state symbols and conditions｜补状态符号与条件",
+         "solid / liquid / aqueous / gas → (s)(l)(aq)(g); heat goes above the arrow｜加热写箭头上",
          "K(s)+H₂O(l)→KOH(aq)+H₂(g)", GREEN_BG, GREEN, GREEN),
-        ("4", "配平并验算（只改系数）",
-         "系数补齐后验算：K 2=2、H 4=4、O 2=2 ✓（验算表见 Ch.3）",
+        ("4", "Balance and verify (coefficients only)｜配平验算，只改系数",
+         "after balancing: K 2=2, H 4=4, O 2=2 ✓ (counting table in Ch.3)｜验算全等",
          "2 K + 2 H₂O → 2 KOH + H₂", NEUTRAL_BG, LINE, INK),
     ]
     y = 58
@@ -510,13 +508,12 @@ def fig_ch02_words_to_equation():
 
     s += box(24, 346, 852, 72, "#FFFFFF", EDGE, 1.0)
     s += txt(450, 364,
-             "📌 文字描述里的关键词｜Key words in word problems", 11, INK, "700")
+             "📌 Key words in word problems｜文字描述里的关键词", 11, INK, "700")
     s += txt(450, 384,
-             "solid 固 (s)　｜　liquid 液 (l)　｜　gas 气 (g)　｜　aqueous / solution / dissolved "
-             "水溶液 (aq)", 9.5, INK)
+             "solid (s)　liquid (l)　gas (g)　aqueous / solution / dissolved 水溶液 (aq)", 9.5, INK)
     s += txt(450, 402,
-             "heat / Δ 加热　｜　catalyst 催化剂　｜　light 光照　｜　burns in air 燃烧　｜　"
-             "decomposes 分解　｜　reacts with 与…反应", 9.5, SUB)
+             "heat / Δ 加热　catalyst 催化剂　light 光照　burns in air 燃烧　"
+             "decomposes 分解　reacts with 与…反应", 9.5, SUB)
     return wrap(s)
 
 

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" width="900"
+     height="390" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 3-3　Combustion Order: C → H → O｜燃烧配平口诀</title>
+  <rect width="900" height="390" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 3-3　Combustion Order: C → H → O｜燃烧配平口诀</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">C → H → O, always｜口诀顺序</text>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7"
+            markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L9 5L2 9" fill="none" stroke="#888780"
+            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="24" y="56" width="272" height="156" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <rect x="24" y="56" width="272" height="30" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="160" y="71" font-size="11" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">① Carbon 先配碳</text>
+  <text x="160" y="112" font-size="10.2" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Balance C with CO₂</text>
+  <text x="160" y="134" font-size="9.4" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">先给 CO₂ 定数，把 C 配平</text>
+  <line x1="48" y1="152" x2="272" y2="152" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="160" y="178" font-size="12" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">C₃H₈ → 3 CO₂</text>
+  <rect x="314" y="56" width="272" height="156" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <rect x="314" y="56" width="272" height="30" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="450" y="71" font-size="11" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">② Hydrogen 再配氢</text>
+  <text x="450" y="112" font-size="10.2" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Balance H with H₂O</text>
+  <text x="450" y="134" font-size="9.4" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">再用 H₂O 把 H 配平</text>
+  <line x1="338" y1="152" x2="562" y2="152" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="450" y="178" font-size="12" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">C₃H₈ → 4 H₂O</text>
+  <rect x="604" y="56" width="272" height="156" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <rect x="604" y="56" width="272" height="30" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="740" y="71" font-size="11" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">③ Oxygen 最后氧</text>
+  <text x="740" y="112" font-size="10.2" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Count O on the right</text>
+  <text x="740" y="134" font-size="9.4" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">右边的 O 总数 ÷ 2 就是 O₂</text>
+  <line x1="628" y1="152" x2="852" y2="152" stroke="#B4B2A9" stroke-width="0.9"/>
+  <text x="740" y="178" font-size="12" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">3×2 + 4 = 10 → 5 O₂</text>
+  <path d="M296 134 L310 134" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <path d="M586 134 L600 134" fill="none" stroke="#888780" stroke-width="1.4" marker-end="url(#ar)"/>
+  <rect x="24" y="228" width="852" height="76" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450" y="250" font-size="19" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O</text>
+  <text x="450" y="274" font-size="10.2" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">check｜验算   C 3 = 3　·　H 8 = 8　·　O 10 = 10 ✓</text>
+  <text x="450" y="293" font-size="9.3" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">propane 丙烷 — a fuel with only C and H｜只含 C、H 的燃料</text>
+  <rect x="24" y="318" width="852" height="56" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.1"/>
+  <text x="450" y="336" font-size="10.5" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">If O is odd, double every coefficient at the end｜O 配成单数就整体 ×2</text>
+  <text x="450" y="356" font-size="9.2" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">C₂H₂ + O₂ → 2 CO₂ + H₂O leaves 5 O on the right → multiply all by 2｜C₂H₂ 配平会剩下 5 个 O，整体乘 2 得 2 C₂H₂ + 5 O₂ → 4 CO₂ + 2 H₂O</text>
+</svg>

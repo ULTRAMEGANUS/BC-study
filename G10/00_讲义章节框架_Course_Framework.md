@@ -704,11 +704,17 @@ nuclear reaction 核反应 · radiation 辐射 · alpha particle α 粒子 · be
 ## 6. 下一步｜Next Steps
 
 - [ ] 目录骨架 + 本框架（已完成 2026-09-22）
-- [x] **Ch.1 样板章**：定死 10 节结构、SVG 风格、题量与答案详略（2026-09-24 完成，
-      `MD/chapters-cn/Ch01_Atoms_Ions_Formulas.md` + 图库 `build_figure_svg_g10.py` 4 张）
-- [x] **Ch.2 化学反应与化学方程式**（2026-09-24 完成，`MD/chapters-cn/Ch02_Chemical_Reactions_Equations.md`
-      + 图库新增 5 张 ch02-*；同时修复 preview_md.py 预览图片相对路径）
-- [ ] 并行派子代理生成 Ch.2–Ch.11（每个代理 2–3 章，prompt 给样板章路径 + 本框架 + 该章知识点清单 + 质量红线）
+- [x] **Ch.1 样板章**：定死 10 节结构、SVG 风格、题量与答案详略（2026-09-24 完成；
+      2026-11-15 按 G11 新体例重写为英文版 `MD/chapters-en/Ch01_Atoms_Ions_Formulas.md`，
+      旧 `chapters-cn/` 已删除；图库 `build_figure_svg_g10.py` 全部 9 张重打 `English｜中文` 标签）
+- [x] **Round 1（Ch.1–4）**（2026-11-15，英文版新体例）：Ch01 原子/离子/化学式 443 行 4 图 ·
+      Ch02 化学反应与方程式 473 行 5 图 · Ch03 配平 415 行 4 图（`ch03_figures.py`）·
+      Ch04 质量守恒 387 行 3 图（`ch04_figures.py`）
+- [x] **Round 2（Ch.5–8）**（2026-11-15，英文版新体例）：Ch05 反应类型 575 行 4 图（`ch05_figures.py`）·
+      Ch06 能量变化 468 行 3 图（`ch06_figures.py`）· Ch07 酸碱盐与 pH 487 行 4 图（`ch07_figures.py`）·
+      Ch08 实验技能/安全/探究 434 行 3 图（`ch08_figures.py`）
+- [ ] **Round 3（Ch.9–11）**：Ch09 化工应用与原住民知识 · Ch10 核能与辐射 · Ch11 总复习
+- [ ] 附录 A–E（A 由脚本抽取；B–D 手写；E 含学校复习卷全解）
 - [ ] SVG 图库（`MD/assets/figures/`，脚本生成 + `check_svg_bounds.py` 越界自检）
 - [ ] 附录 A–E（A 由脚本抽取；B–D 手写；E 含学校复习卷全解）
 - [ ] 练习单（A4 可打印，`MD/assets/printables/`）

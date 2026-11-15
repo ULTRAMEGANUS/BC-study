@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 372" width="900"
+     height="372" font-family="'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif">
+  <title>Fig. 4-1　Atom Ledger Before vs After｜反应前后原子台账</title>
+  <rect width="900" height="372" fill="#FFFFFF"/>
+  <text x="30" y="32" font-size="19" font-weight="600" fill="#2C2C2A">Fig. 4-1　Atom Ledger Before vs After｜反应前后原子台账</text>
+  <text x="870" y="32" font-size="10.5" fill="#5F5E5A"
+        text-anchor="end">count atoms, not grams｜数原子不数克</text>
+  <rect x="24" y="56" width="852" height="60" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.1"/>
+  <text x="450" y="94" font-size="20" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">2 H₂ + O₂  →  2 H₂O</text>
+  <rect x="80" y="132" width="240" height="28" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="200.0" y="146" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Element｜元素</text>
+  <rect x="320" y="132" width="150" height="28" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="395.0" y="146" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Before｜反应前</text>
+  <rect x="470" y="132" width="150" height="28" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="545.0" y="146" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">After｜反应后</text>
+  <rect x="620" y="132" width="200" height="28" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="1.0"/>
+  <text x="720.0" y="146" font-size="11.5" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Same?｜是否相同</text>
+  <rect x="80" y="160" width="240" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="200" y="180.0" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">H｜氢</text>
+  <rect x="320" y="160" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="395" y="180.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">4</text>
+  <rect x="470" y="160" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="545" y="180.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">4</text>
+  <rect x="620" y="160" width="200" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="720" y="180.0" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">✓ unchanged 不变</text>
+  <rect x="80" y="200" width="240" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="200" y="220.0" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">O｜氧</text>
+  <rect x="320" y="200" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="395" y="220.0" font-size="15" font-weight="700" fill="#0C447C" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="470" y="200" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="545" y="220.0" font-size="15" font-weight="700" fill="#854F0B" text-anchor="middle" dominant-baseline="central">2</text>
+  <rect x="620" y="200" width="200" height="40" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="720" y="220.0" font-size="11.5" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">✓ unchanged 不变</text>
+  <rect x="80" y="252" width="740" height="36" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.1"/>
+  <text x="450" y="270" font-size="12.5" font-weight="700" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Total mass before = Total mass after｜反应前总质量 = 反应后总质量</text>
+  <rect x="24" y="300" width="852" height="62" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.0"/>
+  <text x="450" y="320" font-size="11" font-weight="600" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">Atoms are only rearranged — kind, number and mass of atoms never change｜原子只是重排：种类、数目、单个原子质量三不变</text>
+  <text x="450" y="340" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">Balancing an equation (Ch.3) is exactly this ledger check in symbols｜Ch.3 的配平验算就是用符号核对这本台账</text>
+  <text x="450" y="356" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">So mass cannot change in a chemical reaction｜所以化学反应中质量必然不变</text>
+</svg>
