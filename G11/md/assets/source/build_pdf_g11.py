@@ -24,12 +24,42 @@ import os
 import re
 import sys
 import glob
+import ctypes
 import shutil
 import subprocess
 import tempfile
 
 import markdown
-import pymupdf
+
+
+def _import_pymupdf():
+    """导入 pymupdf。
+
+    2026-11-15 起本机 System32 缺 msvcp140.dll（只剩 CLR 变体），pymupdf 的
+    mupdfcpp64.dll 一加载就报 "DLL load failed"。系统里其它程序（Edge/Chrome）
+    自带一份，先把它 ctypes 预加载进来即可，不用装 VC 运行库、不用改系统。
+    """
+    try:
+        import pymupdf
+        return pymupdf
+    except ImportError:
+        pass
+    pats = [r"C:/Program Files (x86)/Microsoft/Edge/Application/*/msvcp140.dll",
+            r"C:/Program Files/Microsoft/Edge/Application/*/msvcp140.dll",
+            r"C:/Program Files/Google/Chrome/Application/*/msvcp140.dll",
+            r"C:/Program Files/Java/*/bin/msvcp140.dll"]
+    for pat in pats:
+        for dll in glob.glob(pat):
+            try:
+                ctypes.CDLL(dll)
+                import pymupdf
+                return pymupdf
+            except OSError:
+                continue
+    raise SystemExit("pymupdf 无法加载，且未找到可用的 msvcp140.dll")
+
+
+pymupdf = _import_pymupdf()
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 MD = os.path.dirname(os.path.dirname(HERE))          # assets/source -> G11/md
